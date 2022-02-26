@@ -1,0 +1,326 @@
+column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
+Projects,1108328496,433,https://github.com/ror-community/ror-updates/issues/433,open,level 2; lion; hold for later; project,2022-01-19 16:47:24,2022-01-19 23:52:04,Project: Standardize representation of records for the Czech Academy of Sciences ,"The records for the Czech Academy of Sciences have inconsistent representations, impeding discovery in ROR. See [Issue #431](https://github.com/ror-community/ror-updates/issues/431) for an example.
+
+A ROR user has created a full mapping of our data with these institutions (https://github.com/jdvorak001/isvavai-orgs-ror-mapping/blob/main/organizations.csv), whose work and expertise we should consider consulting. What appears to be official English names are also linked here: https://www.avcr.cz/en/about-us/cas-structure/research-institutes/","jdvorak001
+01/19/2022, 23:52:04 | 01/19/2022, 23:52:04
+comment_text: I agree this would be useful.
+Adding the ""... of the CAS"" suffixes would help, otherwise the names are sometimes rather generic.
+
+I will be happy to assist.
+
+---
+"
+Projects,1116553985,447,https://github.com/ror-community/ror-updates/issues/447,open,hold for later; project,2022-01-27 17:30:30,2022-01-27 17:30:38,Project: Standardize types for geological surveys,"Geological surveys in ROR are not categorized consistently: some records use ""Government,"" some ""Nonprofit,"" some ""Other,"" etc. We should analyze the variations and use cases and then recommend and apply standard categorization. ",
+Projects,959505390,232,https://github.com/ror-community/ror-updates/issues/232,open,hold for later; project,2021-08-03 21:02:27,2021-09-07 16:08:47,Project: Clusters of Excellence,"Group of organizations/records: Clusters of Excellence (see #200)
+
+Review: 
+- Coverage in ROR and what else needs to be added
+- Naming conventions
+- Relationships",
+Projects,1042894615,345,https://github.com/ror-community/ror-updates/issues/345,open,hold for later; project,2021-11-02 22:08:31,2022-01-12 01:08:20,Project: Netherlands hospital records,"Summary of request: Split an existing ROR record into two or more records
+
+Hospitals in The Netherlands
+
+**ROR ID(s) affected by this proposed change** 
+(see WikiData Query)
+
+**Describe what change needs to be made to the ROR record(s). Provide a reason for the change (e.g., the organization no longer exists, or the organization has merged with another one)**
+I modified all Hospitals in the Netherlands on WikiData: Split it in buildings (Q16917 - Hospital) and Organisations (Q89371670 - Hospital Network). This has implications voor ROR-id and other ID's involved. 
+
+WikiData SPARQL Query: 
+<#Hospitals networks in The NetherlandsSELECT?item ?itemLabel ?iseen?ziekenhuis ?ziekenhuisLabel?rol ?rolLabel ?hap ?hapLabel?adres ?huisnummer?postcode ?plaats ?plaatsLabel ?geo?web?gridid ?rorid ?isni ?viafidWHERE{?item wdt:P31 wd:Q89371670 .?item wdt:P17 wd:Q55 .?item wdt:P527 ?ziekenhuis .OPTIONAL{?item wdt:P6375 ?adres .}OPTIONAL{?huisnummer wdt:P670 ?huisnummer .}OPTIONAL{?item wdt:P281 ?postcode .}OPTIONAL{?item wdt:P131 ?plaats .}OPTIONAL{?item wdt:P856 ?web .}OPTIONAL{?item wdt:P625 ?geo .}OPTIONAL{?item wdt:P2427 ?gridid .}OPTIONAL{?item wdt:P6782 ?rorid .}OPTIONAL{?item wdt:P213 ?isni .}OPTIONAL{?item wdt:P214 ?viafid .}SERVICE wikibase:label { bd:serviceParam wikibase:language ""[AUTO_LANGUAGE],nl"". }}ORDER BY ?item>
+
+Please will you correct ROR-id's of Hospitals in The Netherlands? Best Regards, Gerald Wildenbeest (Wikipedian - gewild)","mariagould
+11/02/2021, 22:21:24 | 11/02/2021, 22:21:24
+comment_text: @arthurpsmith are you able to take a look at this one? I'm not quite sure what the desired outcome is. 
+
+---
+arthurpsmith
+11/03/2021, 12:55:41 | 11/03/2021, 12:55:41
+comment_text: I'm also not sure but I think the point is there are lots of hospitals in the Netherlands that don't have ROR id's yet? But I don't think we want to create ID's for every hospital - we certainly haven't done that for every hospital in the US or other countries!
+
+The Wikidata query at least as transcribed here is a bit garbled; I edited and trimmed it down to the following:
+https://w.wiki/4Kyd
+which lists the hospital networks in the Netherlands, how many individual hospital (buildings?) they have, and the ROR id if they have one. It's 69 hospital groups, of which 16 (mostly the larger ones) currently have ROR id's. I don't think it's justified to add ROR id's for the remaining 53; we could look through them one by one to see if they are used as affiliations or otherwise  appear in research publications, but that seems a bit too much for our resources right now. Also the request was nominally to ""split an existing ROR record"" but I don't see that in this query or request at all, so  I have to say I'm a little confused as to what is actually being asked for.
+
+---
+arthurpsmith
+11/03/2021, 13:03:47 | 11/03/2021, 13:03:47
+comment_text: Ah, but it turns out a lot of the individual hospitals have ROR id's themselves (at least as recorded in  WIkidata):
+https://w.wiki/4Kyg
+-- that is, of the 69 hospital groups, 47 have at least one hospital with a ROR id. That includes 5 groups that have their own ROR id's. It seems a bit of a mess, I'll see if I can make better sense of it all and try to propose a way forward here.
+
+---
+arthurpsmith
+11/18/2021, 21:45:36 | 11/18/2021, 21:45:36
+comment_text: I created a google doc with the full list from Wikidata  here: https://docs.google.com/spreadsheets/d/1GPjrMuojAUwzKKh4-03MHWFYXdjGDLXbHbUcogo9Hbs/edit?usp=sharing
+
+The following hospital group/networks don't have any ROR id's themselves, nor any subsidiary hospitals with ROR's (at least as counted here):
+* Ommelander Ziekenhuis Groningen (Q1943201)
+* Pantein (Q1978017)
+* ZorgSaam Ziekenhuis (Q3034260)
+* St Jansdal Ziekenhuis (Q59384173)
+* Saxenburgh Groep (Q97380654)
+* Antonius Zorggroep (Q97382945)
+* Rivas Zorggroep (Q97383459)
+* BovenIJ Ziekenhuis (Q97456244)
+* St. Jans Gasthuis (Q97482069)
+* Spijkenisse Medisch Centrum (Q97500811)
+* Wilhelmina Ziekenhuis Assen (Q97537594)
+
+I would suggest these do not need ROR id's at this time, though we could run them through our usual check for use as affiliations if we thought it justified?
+
+The  following hospital groups have no ROR id, but do have either multiple subsidiaries with a ROR id, or one with a ROR id and a considerably different name, so I think we should create a new ROR id for these ""top-level"" research-involved hospital organizations: 
+* OLVG (Q21152541)
+* Dijklander Ziekenhuis (Q62022997)
+* Zorgpartners Friesland (Q97377399)
+* Stichting Reinier Haga Groep (Q97383180)
+* Santiz (Q97387477)
+* Erasmus Medisch Centrum (Q97482050)
+* Leids Universitair Medisch Centrum (Q97485881)
+* Universitair Medisch Centrum Groningen (Q97534083)
+* Universitair Medisch Centrum St. Radboud (Q97534111)
+* Universitair Medisch Centrum Utrecht (Q97534164)
+
+For the following (also with no ROR id) there's just one lower level organization that has a ROR id, and the name is substantially the same as the network, so I think the best solution is to move the ROR id to the top level (within Wikidata) and make any adjustments to name/location or other metadata within  ROR that may be needed to be clear about what the ROR identifies:
+* Admiraal de Ruyterziekenhuis (Q36423003) - ROR 04r0k8112
+* Albert Schweitzer Ziekenhuis (Q97383147) -  ROR 00e8ykd54
+* Bravis Ziekenhuis (Q97383164) - ROR 05564wx43
+* Franciscus Gasthuis & Vlietland Groep (Q97384445) - ROR 007xmz366
+* VieCuri (Q97384519) -  ROR 02kjpb485
+* Ziekenhuis De Gelderse Vallei (Q97384608) - ROR 03862t386
+* Maastricht UMC+ (Q97385641)  -  ROR 02d9ce178
+* Diakonessenhuis (Q97386477)  - ROR 01nrpzj54
+* Groene Hart Ziekenhuis (Q97386495) -  ROR 0582y1e41
+* Meander Medisch Centrum (Q97387503) - ROR 04n1xa154
+* St. Anna Zorggroep (Q97388457) - ROR 04y89nz36
+* Ziekenhuis Rivierenland (Q97389949) - ROR 03xwgfg33
+* Ziekenhuis Bernhoven (Q97390378) - ROR 05b5x0e19
+* Spaarne Gasthuis (Q97440042) - ROR 05d7whc82
+* Canisius-Wilhelmina Ziekenhuis (Q97456254) -  ROR 027vts844
+* Catharina Ziekenhuis (Q97457680) - ROR 01qavk531
+* Elkerliek Ziekenhuis (Q97458984) - ROR  01q750e89
+* Flevoziekenhuis (Q97481861) - ROR 02tqqrq23
+* Laurentius Ziekenhuis (Q97481994) - ROR 053njym08
+* Martini Ziekenhuis (Q97482009) - ROR 017b69w10
+* Ikazia Ziekenhuis (Q97484615) - ROR 01abkkw91
+* IJsselland Ziekenhuis (Q97485840) -  ROR 03qh1f279
+* Havenpolikliniek (Q97486348) - ROR 0240vc720
+* Máxima Medisch Centrum (Q97486366) -  ROR 02x6rcb77
+* Deventer Ziekenhuis (Q97486644) -  ROR 05w8df681
+* Maasstad ziekenhuis (Q97486722) -  ROR 01n0rnc91
+* Prinses Máxima Centrum voor Kinderoncologie B.V. (Q97496397) - ROR 02aj7yc53
+* Medisch Spectrum Twente (Q97496873) - ROR 033xvax87
+* Rode Kruis Ziekenhuis (Q97500767) - ROR 00vyr7c31
+* Nij Smellinghe (Q97500878) -  ROR 030gj2p37
+* Antoni van Leeuwenhoek (Q97503000) - ROR  03xqtf034
+* Ziekenhuis Amstelland (Q97538463) - ROR 05e73v668
+
+---
+arthurpsmith
+12/20/2021, 21:21:43 | 12/20/2021, 21:21:43
+comment_text: I have taken care of ""move the ROR id to the top level"" in Wikidata for the third group above. The following are additional changes  that should be made on the ROR side for these records:
+
+04r0k8112 - add Wikidata ID Q36423003
+00e8ykd54 - Add Wikidata ID Q97383147
+05564wx43 - Change Wikidata ID to Q97383164
+007xmz366 - Add WIkidata ID Q97384445
+02kjpb485 - Add Wikidata ID Q97384519
+03862t386 - Add Wikidata ID Q97384608
+02d9ce178 - Change Wikidata ID to Q97385641
+01nrpzj54 - Add  Wikidata  ID Q97386477
+0582y1e41 - Add Wikidata  ID  Q97386495
+04n1xa154 - Add Wikidata ID Q97387503
+04y89nz36 - Add Wikidata ID Q97388457
+03xwgfg33 - Add Wikidata ID Q97389949
+05b5x0e19 - Add WIkidata ID Q97390378
+05d7whc82 - Add  Wikidata ID Q97440042, Change primary label to Spaarne Gasthuis,  website is now https://spaarnegasthuis.nl/
+027vts844 - Add Wikidata ID Q97456254
+01qavk531 - Change Wikidata ID to Q97457680
+02tqqrq23 - Change Wikidata ID to Q97481861
+053njym08 - Add Wikidata ID Q97481994
+017b69w10 - Change Wikdiata ID to Q97482009
+01abkkw91 - Add Wikidata ID  Q97484615;  remove Rotterdam from primary label
+03qh1f279 - Change Wikidata ID to Q97485840
+0240vc720 - Add Wikidata ID Q97486348; also primary label should be just ""Havenpolikliniek"", and website should be https://havenpolikliniek.nl/ - HOWEVER this now redirects and indicates this entire hospital group has now been closed.
+02x6rcb77 - Change Wikidata ID to Q97486366
+05w8df681 - Add Wikidata ID Q97486644
+01n0rnc91 - Add Wikidata ID Q97486722
+02aj7yc53 - Change Wikidata ID  to Q97496397
+033xvax87 - Change  Wikidata  ID to Q97496873
+00vyr7c31 - Change Wikidata ID to Q97500767
+030gj2p37 - Add wikidata ID Q97500878
+03xqtf034 - Change Wikidata ID to Q97503000
+05e73v668 - Add Wikidata ID Q97538463
+
+
+---
+arthurpsmith
+12/20/2021, 22:19:00 | 12/20/2021, 22:19:00
+comment_text: For the new ID's, I inserted the bulk request form into the Google sheet I created (linked above); the ""New ID's"" tab has the list of records we should probably add to ROR. One of them I decided should not be added however - ""Santiz"" was dissolved at the beginning of  2021 so should not be needed any longer.
+
+---
+mariagould
+01/12/2022, 01:08:19 | 01/12/2022, 01:08:19
+comment_text: Thanks for your work on this @arthurpsmith ! I'm moving it into our ""hold for later"" column as this is a good case to work on as part of next phases of work to process bulk requests. 
+
+---
+"
+Projects,1114560343,442,https://github.com/ror-community/ror-updates/issues/442,open,level 1; lion; project; relationship,2022-01-26 02:26:16,2022-02-25 18:56:10,Project: Long Term Ecological Research Network Members,"The request for US-based Long Term Ecological Research Network Members (#197) indicates several other members that are not currently represented in ROR. A request to add Beaufort Lagoon Ecosystem (#32) has already been approved, but we would need to investigate whether the remainder are in scope, along with gathering their corresponding metadata. All would likewise need to be represented as children of #197. Organzations as listed in the original request are provided below.
+
+Andrews Forest
+Arctic LTER
+Baltimore Ecosystem Study
+Beaufort Lagoon Ecosystem
+Bonanza Creek LTER
+Central Arizona - Phoenix
+Central Plains Experimental Range
+California Current Ecosystem
+Cedar Creek Ecosystem Science Reserve
+Coweeta LTER
+Florida Coastal Everglades
+Georgia Coastal Ecosystems
+Harvard Forest
+Hubbard Brook Experimental Forest LTER
+Jornada Basin LTER
+Kellogg Biological Station
+Konza Prairie
+Luquillo Experimental Forest
+McMurdo Dry Valleys
+Minneapolis St. Paul LTER
+Mo'orea Coral Reef
+Niwot Ridge LTER
+North Temperate Lakes
+Northeast U.S. Shelf LTER
+Northern Gulf of Alaska LTER
+Palmer Station Antarctica
+Plum Island Ecosystem
+Santa Barbara Coastal
+Sevilleta National Wildlife Refuge
+Shortgrass Steppe LTER
+Virginia Coast Reserve Long-Term Ecological Research
+","adambuttrick
+02/25/2022, 18:41:55 | 02/25/2022, 18:41:55
+comment_text: LTER staff have provided metadata for each organization
+[LTER ROR identifiers.xlsx](https://github.com/ror-community/ror-updates/files/8143477/LTER.ROR.identifiers.xlsx)
+.
+
+---
+"
+Projects,969650993,247,https://github.com/ror-community/ror-updates/issues/247,open,hold for later; project; merge records,2021-08-12 22:07:12,2021-08-13 18:58:56,Project: Merge set of Russian research organizations,"action | ror_to_be_merged | relation | ror_final | comments |  
+-- | -- | -- | -- | -- | --
+merge | 03bjv2y17 | to | 00ghjek97 | (the latter has more details and   correct name)
+merge | 02v51az37 | to | 00njmse54 | (the latter has more details and   correct name)
+merge | 05c4crv67 | to | 045aa8e82 | (the latter has more details and   correct name)
+merge | 015fskz95 | to | 041471c24 | (suggested English name - Hematology   National Medical Research Center)
+merge | 01q5jse34 | to | 05qxwht78 | (the latter has more details and   correct name)
+merge | 03gnxmx77 | to | 05t5rc419 | (the latter has more details and   correct name)
+merge | 05gf3n961 | to | 01z0w8p93 | (the former was renamed to the   latter and also acuired few other research institutions)
+merge | 046msd355 | to | 03fvze758 | (the latter has more details and   correct name)
+merge | 01j9c2p04 | to | 024s37521 | (the suggested English name is N.V.   Sklifosovsky Research Institute for Emergency Medicine, as in   https://www.wikidata.org/wiki/Q4304061)
+merge | y9m9t8 | to | 04z8mkz77 | (the new account is Research   Institute of Neurosciences and Medicine, new web site https://neuronm.ru/)
+merge | 0009wsb17 | to | 045sc8e83 | (the former was renamed to the   latter and also acquired few research institutions as branches).
+merge | 029c86w95 | to | 04txgxn49 | (the latter has more details and   correct name)
+
+
+",
+Projects,990139258,276,https://github.com/ror-community/ror-updates/issues/276,open,hold for later; project,2021-09-07 16:08:07,2021-09-07 16:08:28,Project: Re-review relationship structures,"When ROR incorporates the Crossref Funder Registry, we will need to restructure our relationship metadata to support the same hierarchies that the Funder Registry has. This ticket will keep track of the clusters of organizations we know will need to be re-reviewed at that point. 
+
+- US government agencies
+- Smithsonian Institute records
+- What else?",
+Projects,1085316904,412,https://github.com/ror-community/ror-updates/issues/412,open,new record; project,2021-12-21 00:25:56,2021-12-21 00:26:52,Project: Add European Reference Networks ,"This is a bulk request to review the proposed addition of all European Reference Network entities. The proposed additions are in this spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1edwGR1NO2AivGgfkoZ4DCyfltuifEEjs/edit?usp=sharing&ouid=109671855708944259476&rtpof=true&sd=true
+ 
+Background information received: 
+
+> ""The European Reference Networks fall within the scope of ROR. I found a record for one of the ERNs (ERN Guard Heart; https://ror.org/055s7a943), but there are 23 ERNs that are not yet available [...] [T]hese are fairly new research networks (within the last 5 years) so publication data may not be available. Additional information about the networks can be found on the European Commission's website: https://ec.europa.eu/health/ern/networks_en.""
+
+The linked spreadsheet includes the proposed additions, with the following notes:
+
+> ""ERN parent organization: The first row contains the information for the parent organization (The Board of the Member States for the ERNs). If this entry is accepted, then the ROR ID of the parent organization should be applied to all of the ERNS.""
+> ""Update Request: For the ERN that already exists in ROR (ERN GUARD-HEART, https://ror.org/055s7a943), I have an update. I have added the related ROR organization and location information.""",
+Projects,969653624,248,https://github.com/ror-community/ror-updates/issues/248,open,update record; hold for later; project,2021-08-12 22:09:13,2021-08-12 22:11:08,Project: Update Wikidata IDs for Russian research organizations,"Project description:
+1. Review proposed updates to existing Wikidata IDs and proposed new Wikidata IDs in the records listed below
+2. Review organization names in Wikidata against names in existing ROR records and determine if any names in ROR should be updated accordingly
+
+ror_id | ror_name | WD_item_in_ROR | new_WD_item | orgname_as_in_WD
+-- | -- | -- | -- | --
+001pj0680 | Kuban State University of   Physical Education, Sport and Tourism | Q30257418 | Q4243511 | Kuban State University of   Physical Education, Sport and Tourism
+00q976b76 | Institute of Geography | Q7905906 | Q4201465 | V. B. Sochava Institute of   Geography
+00sscbg84 | Khabarovsk State Academy of   Economics and Law | Q30257348 | Q4494336 | Khabarovsk State University of   Economics and Law
+00vqyrr20 | Platov South-Russian State   Polytechnic University | Q30257541 | Q1751487 | Platov South-Russian State   Polytechnic University
+012mvrz03 | Perm State   Humanitarian-Pedagogical University | Q30257451 | Q4351539 | Perm State Humanitarian   Pedagogical University
+01apbn515 | Vaganova Ballet Academy | Q30257568 | Q1357677 | Vaganova Academy of Russian   Ballet
+01d1z8s73 | Rostov State University of   Economics | Q30257533 | Q4398497 | Rostov State Economics   University
+01eav8h49 | Russian Customs Academy | Q30257479 | Q29049038 | Russian Customs Academy
+01hxc5h53 | Far Eastern State Agrarian   University | Q30257660 | Q4154233 | Far East State Agrarian   University
+01jsr8a33 | Altai State Agricultural   University | Q30257831 | Q4062927 | Altai State Agrarian University
+01m1y7668 | The Ilya Glazunov Russian   Academy of Painting, Sculpture and Architecture | Q30257787 | Q4397933 | Fine Arts Academy in Moscow
+01s48e916 | Kamchatka State Technical   University | Q30257472 | Q102398470 | Kamchatka State Technical   University
+021a3gb32 | Nizhny Novgorod Academy of the   Ministry of Internal Affairs of Russia | Q30257288 | Q4318615 | Nizhny Novgorod MIA Academy
+021vwwp80 | Russian Foreign Trade Academy | Q30257169 | Q4127435 | All-Russian Academy of Foreign   Trade
+023azqp90 | Academy of Management of the   Interior Ministry of Russia | Q30257582 | Q4059261 | Academy of Management of the   Ministry of Internal Affairs of Russia
+0257qw677 | Moscow Automobile and Road   Construction University | Q30257779 | Q4304031 | Moscow State Automobile and Road   University of Technology
+027fer296 | Petrozavodsk State Glazunov   Conservatory | Q30257488 | Q4361450 | Petrozavodsk Conservatory
+02f4g9771 | Blagoveschensk State Pedagogical   University | Q4923878 | Q4087768 | Blagoveshchensk State   Pedagogical University
+02hbcgp53 | Arctic State Institute of   Culture and Arts | Q30263251 | Q105886068 | Arctic State Institute of   Culture and Arts
+02t359070 | Kazan State Academy of   Veterinary Medicine named after N.E. Bauman | Q33289059 | Q30257277 | Bauman Kazan State Academy of   Veterinary Medicine
+02wnz3c50 | International Academy of   Business and New Technologies | Q30257221 | Q4288141 | International Academy of   Business and New Technologies
+034mgds22 | Siberian State University of   Water Transport | Q30257326 | Q4325439 | Novosibirsk State Academy of   Water Transport
+03aevhx31 | Kamchatka State University named   after Vitus Bering | Q30257475 | Q4211795 | Kamchatka State University
+03ng8vp43 | Arctic State Agrotechnological   University | Q30257212 | Q4537262 | Arctic State Agrotechnological   University
+03zk15524 | Penza State Pedagogical   University | Q30257439 | Q2324493 | Penza Pedagogical Institute   named after V. G. Belinsky
+04bpx6z13 | The All-Russian State University   of Justice | Q30257805 | Q4397991 | Russian Law Academy of Ministry   of Justice
+04jm2zr28 | Meshalkin National Medical   Research Center | Q30263211 | Q24930773 | Meshalkin National Medical   Research Center
+050q60w23 | Volga State University of   Telecommunications and Informatics | Q30257545 | Q4366452 | Povolzhskiy State University of   Telecommunications and Informatics
+05aqbyb84 | State Agricultural Academy of   Velikie Luki | Q30257334 | Q17317911 | State Agricultural Academy of   Velikie Luki
+05b225m47 | Kazan State University of   Architecture and Engineering | Q30257287 | Q2339907 | Kazan State University of   Architecture and Engineering
+05hcp8p49 | Vologda State Technical   University | Q4123709 | Q16423702 | Vologda State University
+05hkks026 | Nizhny Tagil State   Socio-Pedagogical Institute | Q30257310 | Q4318940 | Nizhny Tagil State   Socio-pedagogical Academy
+
+
+
+</body>
+
+</html>
+",
+Projects,1128913944,476,https://github.com/ror-community/ror-updates/issues/476,open,level 2; update record; jaguar; project,2022-02-09 18:59:41,2022-02-09 19:01:08, Project: Standardize representation of records for the Ukraine's National Academy of Sciences,"Records for organizations that are part of Ukraine's National Academy of Sciences should follow a standard pattern of representation. Currently, they use various forms. We should update these records to follow a single, consistent pattern. 
+
+Current NAS records in ROR: https://ror.org/00je4t102 ; https://ror.org/05x75zf33 ; https://ror.org/059fvd392 ; https://ror.org/03dez2856 ; https://ror.org/05s41xv68 ; https://ror.org/01669gb09 ; https://ror.org/019qyzj84 ; https://ror.org/00ajw8c12
+","adambuttrick
+02/09/2022, 19:01:07 | 02/09/2022, 19:01:07
+comment_text: ROR ID that will be assigned to #475 should be included in the above.
+
+---
+"
+Projects,1128927095,477,https://github.com/ror-community/ror-updates/issues/477,open,level 1; new record; lion; project,2022-02-09 19:14:31,2022-02-09 19:35:20,Project: Complete representation of Ukraine's National Academy of Sciences Institutions,"Representation in ROR for Ukraine's National Academy of Science is incomplete. We should pursue a more full accounting of these organizations and represent them in ROR accordingly. A consistent name format is also required, as described in #476.
+
+Starting points for analysis:
+
+- Institutions of the National Academy of Sciences of Ukraine: https://uk.wikipedia.org/wiki/Установи_НАН_України",
+Projects,1131277945,482,https://github.com/ror-community/ror-updates/issues/482,open,project,2022-02-10 23:57:07,2022-02-10 23:58:50,Project: Consistent representation of all CNRS records,"Creating this stub issue here as a placeholder for future analysis/clean-up work for CNRS and CNRS-related records. 
+
+To analyze and make consistent:
+Naming conventions
+Relationships
+
+To review:
+Scope - make sure we are capturing units at the right level",
+Projects,1135188431,484,https://github.com/ror-community/ror-updates/issues/484,closed,level 2; update record; lion; project,2022-02-13 04:47:48,2022-02-16 16:31:26,Project: Remove unprintable characters from ROR records,"Approximately 200 records have unprintable characters in various fields that interfere with search and other use of the data. These records should all be update to delete these characters.
+[unprintable_characters_20220212.xlsx](https://github.com/ror-community/ror-updates/files/8054981/unprintable_characters_20220212.xlsx)
+ ","adambuttrick
+02/13/2022, 04:49:06 | 02/13/2022, 04:49:06
+comment_text: https://ror.org/02jh2mm49 (Issue #310) will be corrected in the first release.
+
+---
+adambuttrick
+02/16/2022, 16:31:05 | 02/16/2022, 16:31:05
+comment_text: After discussion with @lizkrznarich, these use a valid escape syntax and so should not be deleted. We should update the search API to accommodate.
+
+---
+"
+Projects,1150759681,510,https://github.com/ror-community/ror-updates/issues/510,open,lion; project,2022-02-25 19:03:39,2022-02-25 19:03:39,Project: International Long Term Ecological Research Network,"We should pursue better representation of all members of the International Long Term Ecological Research Network. The ILTER is comprised of three groups and then various global sites (ILTER East Asia Pacific, LTER Europe, US LTER, global sites). Each may require a separate project, as there are numerous research stations within each at the national level. US LTER member have already been submitted in #442. Keeping at this high-level now for further review and analysis.
+
+https://www.ilter.network/",

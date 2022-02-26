@@ -1,0 +1,938 @@
+column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
+Second review,1113973471,439,https://github.com/ror-community/ror-updates/issues/439,open,level 1; new record; jaguar,2022-01-25 14:41:28,2022-01-25 19:21:50,"Add a new organization to ROR: 
+ 
+Centro Nacional de Investigaciones de Café (Cenicafé)","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Centro Nacional de Investigaciones de Café (Cenicafé)
+Website: https://www.cenicafe.org/es/index.php
+Link to publications: https://publicaciones.cenicafe.org/
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: Q21511954
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: National Coffee Research Center (Cenicafé)
+Acronym/abbreviation: Cenicafé
+Related organizations: Colombian Coffee Growers Federation (FNC)
+City: Manizales Colombia
+Country: Colombia
+Year established: 1938
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: This institution is part of the great family of the Colombian Coffee Growers Federation (FNC). Since its creation it has led technological advances in coffee, research and appropriate, competitive and sustainable knowledge to improve coffee production and thus contribute to Colombian coffee growers’ well-being.
+
+The Cenicafé team is made up of professionals with doctorates (PhD’s) and master’s degrees (MSc’s) in different scientific disciplines. Under the guidance of Cenicafé researchers, students from different Colombian universities work on their professional thesis, and special projects are executed with the participation of researchers from other institutions.","adambuttrick
+01/25/2022, 15:42:31 | 01/25/2022, 15:46:18
+comment_text: This appears to be an organization that is involved in conducting and publishing research related to the agriculture and production of coffee. It is not already in ROR. It is in scope for ROR because it:
+
+- is an established organization
+- is a top-level organization and not a subsidiary unit
+- is associated with research publications and/or other activities:
+
+research publications: https://publicaciones.cenicafe.org/index.php/avances_tecnicos/article/download/100/67 ; https://publicaciones.cenicafe.org/index.php/cenicafe/article/download/73/54
+
+google_scholar_affiliation_usage: https://scholar.google.com/citations?user=-PEXZNIAAAAJ ; https://scholar.google.com/citations?user=2wYLttcAAAAJ ; https://scholar.google.com/citations?user=iR-1qA0AAAAJ
+
+orcid_affiliation_usage: https://orcid.org/0000-0003-4861-9649 ; https://orcid.org/0000-0003-1576-2297 ; https://orcid.org/0000-0001-9433-6979 ; https://orcid.org/0000-0003-1967-0859 ; https://orcid.org/0000-0001-9690-1660 ; https://orcid.org/0000-0002-1639-1988 ; https://orcid.org/0000-0002-3536-0386 ; https://orcid.org/0000-0001-9875-9426 ; https://orcid.org/0000-0002-4446-9797 ; https://orcid.org/0000-0002-2029-8946 ; https://orcid.org/0000-0001-9465-3237 ; https://orcid.org/0000-0002-6031-3709 ; https://orcid.org/0000-0002-0946-9951
+
+
+ Similar records in ROR: https://ror.org/02xq98350; https://ror.org/03d022g94
+
+---
+"
+Second review,1085282686,404,https://github.com/ror-community/ror-updates/issues/404,open,level 1; new record; jaguar; org-requested,2021-12-20 23:13:32,2022-01-25 21:41:11,"Add a new organization to ROR: 
+ 
+Lviv Medical Institute LLC","Summary of request: Add a new organization to ROR
+
+Name of organization: Lviv Medical Institute LLC
+Website: https://medinstytut.lviv.ua/
+Link to publications: https://doi.org/10.53933/sspmpm.v1i2.32
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: ТзОВ ""Львівський Медичний Інститут""
+Acronym/abbreviation: LMI LLC
+Related organizations: 
+City: Lviv
+Country: Ukraine
+Year established: 2004
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility
+Other information about this request: ","adambuttrick
+01/25/2022, 21:40:55 | 01/25/2022, 21:40:55
+comment_text: Used as an affiliation on the linked publications:
+
+https://eesa-journal.com/wp-content/uploads/EESA_31_2.pdf#page=30
+
+https://pdfs.semanticscholar.org/efa5/179d84a45e51cebb8792231217106403a973.pdf
+
+https://doi.org/10.15587/2519-4852.2021.238320
+
+Organization also appears to publish two journals, ""Actual Problems of Medicine and Pharmacy"" (Актуальні проблеми медицини та фармації) and ""Journal of Higher Medical Education"" (Вісник Вищої медичної освіти)
+ 
+https://medinstytut.lviv.ua/vydavnycha_diyalnist/
+
+---
+"
+Second review,1116832256,449,https://github.com/ror-community/ror-updates/issues/449,open,level 1; new record; jaguar; org-requested; relationship,2022-01-27 23:12:51,2022-01-27 23:39:32,"Add a new organization to ROR: 
+ 
+Health and Wellbeing Queensland","Summary of request: Add a new organization to ROR
+
+Name of organization: Health and Wellbeing Queensland
+Website: https://hw.qld.gov.au/
+Link to publications: DOI:10.1111/obr.13373     DOI:10.1016/j.appet.2021.105811  
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://en.wikipedia.org/wiki/Health_and_Wellbeing_Queensland
+Wikidata ID: Q97474541
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Health + Wellbeing Queensland
+Aliases: Health + Wellbeing Queensland
+Acronym/abbreviation: HWQld
+Related organizations: https://ror.org/00c1dt378 (parent)
+City: Brisbane, Queensland
+Country: Australia
+Geonames ID: 2174003
+Year established: 2019
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system, Used in Altmetrics 
+Other information about this request: ","adambuttrick
+01/27/2022, 23:30:08 | 01/27/2022, 23:32:45
+comment_text: New agency founded in 2019. Funding is provided by Queensland Health (https://ror.org/00c1dt378), which I've listed as parent. Publication affiliations looks solid. Funds and employs researchers.
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=7HdW3RAAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0001-5371-4777 ; https://orcid.org/0000-0003-2010-3640
+
+Similar records in ROR: https://ror.org/01cdys993
+
+---
+"
+Second review,1094834302,421,https://github.com/ror-community/ror-updates/issues/421,open,level 1; new record; jaguar; org-requested,2022-01-05 23:45:13,2022-02-09 19:57:13,"Add a new organization to ROR: 
+ 
+Oregon Water Resources Department","Summary of request: Add a new organization to ROR
+
+Name of organization: Oregon Water Resources Department
+Website: https://www.oregon.gov/owrd/pages/index.aspx
+Link to publications: https://www.oregon.gov/owrd/wrdreports/Groundwater_Simulation_and_Management_%20Models.pdf
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://en.wikipedia.org/wiki/Oregon_Water_Resources_Department
+Wikidata ID: https://www.wikidata.org/wiki/Q7101419
+ISNI ID: https://isni.org/isni/0000000106841300
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Oregon State Water Resources Department
+Aliases: Oregon State Water Resources Department
+Acronym/abbreviation: OWRD
+Related organizations: 
+City: Salem, Oregon
+Geonames ID: 5750162
+Country: United States of America
+Year established: 1975
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility
+Other information about this request: ","adambuttrick
+01/27/2022, 23:53:09 | 01/27/2022, 23:53:09
+comment_text: Produces research and datasets, especially in coordination with USGS.
+
+Publication involvement: https://pubs.er.usgs.gov/publication/sir20175097
+Data source for USGS report: https://pubs.usgs.gov/of/2020/1138/ofr20201138.pdf
+
+ORCID affiliation_usage: https://orcid.org/0000-0002-6684-6426 ; https://orcid.org/0000-0002-9562-9340 ; https://orcid.org/0000-0001-5289-1210 ; https://orcid.org/0000-0002-8930-6967
+
+Similar records in ROR: https://ror.org/03v275937 ; https://ror.org/056y4tg97
+
+---
+"
+Second review,1094628368,419,https://github.com/ror-community/ror-updates/issues/419,open,level 1; new record; jaguar; org-requested,2022-01-05 18:22:51,2022-01-28 00:26:28,"Add a new organization to ROR: 
+ 
+Netherlands Haemophilia Society","Summary of request: Add a new organization to ROR
+
+Name of organization: Netherlands Haemophilia Society
+Website: http://www.nvhp.nl
+Link to publications: 10.1111/hae.14475, 10.1159/000215786, 10.1111/j.1365-2516.1995.tb00061.x, 10.1111/hae.14396, 10.1182/bloodadvances.2020002740
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Nederlandse Vereniging van Hemofilie-Patiënten
+Acronym/abbreviation: NVHP
+Aliases: Dutch Haemophilia Society
+Labels: Nederlandse Vereniging van Hemofilie-Patiënten (Dutch)
+Related organizations: 
+City: Nijkerk
+Country: The Netherlands
+Geonames ID: 2750065
+Year established: 1971
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+01/28/2022, 00:24:24 | 01/28/2022, 00:24:43
+comment_text: Publication/researcher affiliations are solid and list Netherlands Haemophilia Society exclusively. Public Benefit Organization entry for the org includes, ""to promote scientific research with respect to hemophilia and related hereditary coagulation factor deficiencies and hereditary platelet disorders, and with respect to all that is related thereto.""
+
+https://www.nvhp.nl/over-de-nvhp.html
+
+ORCID affiliation usage: https://orcid.org/0000-0003-4118-4670
+
+Similar records in ROR: https://ror.org/013h8cr97
+
+---
+"
+Second review,1094628353,418,https://github.com/ror-community/ror-updates/issues/418,open,level 1; new record; jaguar; org-requested,2022-01-05 18:22:50,2022-01-28 00:52:16,"Add a new organization to ROR: 
+ 
+SPL L'Eau des Collines","Summary of request: Add a new organization to ROR
+
+Name of organization: SPL L'Eau des Collines
+Website: http://www.eaudescollines.fr/
+Link to publications: http://www.eaudescollines.fr/publications-spl-eau-des-collines/partage-de-nos-connaissances/
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: L'Eau des Collines
+Aliases: L'Eau des Collines
+Acronym/abbreviation: SPL EDC
+Related organizations: 
+City: Aubagne
+Country: France
+Geonames ID: 3036433
+Year established: 2012
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: SPL L'Eau des Collines was driving field work and was providing data for supporting academic research work in the fied of the subsurface hydrology. Recent publication in international peer-reviewed journal aknowledged our contribution as data provider  https://link.springer.com/article/10.1007%2Fs10040-021-02426-9#Ack1 . The present request to be indexed in ROR.org is for supporting open-access of all our scientific data and  reports  with a systematic registration of our numeric ressources in Datacite (each of our data will be indexed with a DOI through OPIDOR service provided by CNRS). We need to be recorded in ROR.org in order to be able to affiliate our DOIs ressources. ","adambuttrick
+01/28/2022, 00:47:56 | 01/28/2022, 00:52:16
+comment_text: Public water company in charge of water management and related services in the Pays d'Aubagne et de l'Étoile territory of France. Provides datasets and produces reports on the related to the resources under their charge (e.g., https://doi.org/10.48799). I can't find them yet on Datacite, so I believe the request for a ROR ID may be part of their move to the platform.
+
+Not certain whether to use the form provided for the primary name. Mailing address on their site simply list ""L’eau des collines."" I believe SPL is an abbreviation for ""Société publique locale du pays d'Aubagne et de l'Etoile.""
+
+Similar records in ROR: https://ror.org/03v275937 ; https://ror.org/01r7sqp31
+
+---
+"
+Second review,1094628327,416,https://github.com/ror-community/ror-updates/issues/416,open,level 1; new record; jaguar; org-requested,2022-01-05 18:22:48,2022-01-28 01:04:41,"Add a new organization to ROR: 
+ 
+Institute for Social and Political Psychology","Summary of request: Add a new organization to ROR
+
+Name of organization: Institute for Social and Political Psychology
+Website: ispp.org.ua
+Link to publications: https://doi.org/10.33120
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://uk.wikipedia.org/wiki/Інститут_соціальної_та_політичної_психології_НАПН_України
+Wikidata ID: Q15088248
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Institute for Social and Political Psychology of the National Academy of Educational Sciences of Ukraine 
+Acronym/abbreviation: ISPP NAES
+Aliases: ISPP NAES of Ukraine
+Labels: Інститут соціальної та політичної психології НАПН України (Ukrainian)
+Related organizations: https://ror.org/05h1pdj54 (parent)
+City: Kyiv
+Country: Ukraine
+Geonames ID: 703448
+Year established: 1994
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+01/28/2022, 01:04:16 | 01/28/2022, 01:04:41
+comment_text: Research institute under the National Academy of Educational Sciences of Ukraine. Primary name form corresponds to that on the English version of their site.
+
+Publication affiliation usage: https://lib.iitta.gov.ua/725841/1/%D0%B7%D0%B1%202020%20-%D1%81%D1%82%20%D0%93%D1%80%D0%B8%D1%86%D0%B5%D0%BD%D0%BE%D0%BA-%D0%AE%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_removed.pdf
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?hl=en&user=kbPyXRcAAAAJ&view_op=list_works&sortby=pubdate
+
+ORCID Affiliation Usage: https://orcid.org/0000-0003-4378-9841 ; https://orcid.org/0000-0001-6141-9786 ; https://orcid.org/0000-0002-0055-2185
+
+---
+"
+Second review,1117255546,451,https://github.com/ror-community/ror-updates/issues/451,open,level 1; new record; jaguar; relationship,2022-01-28 10:45:14,2022-02-07 11:26:04,"Add a new organization to ROR: 
+ 
+University Museum Utrecht","Summary of request: Add a new organization to ROR
+
+Name of organization: University Museum Utrecht
+Website: https://umu.nl/
+Link to publications: https://www.gbif.org/dataset/39b4ca7a-27f7-4489-8b49-c539144ccdc8
+Organization type: Archive (An organization involved in stewarding research and cultural heritage materials. Includes libraries, museums, and zoos)
+Wikipedia page: https://nl.wikipedia.org/wiki/Universiteitsmuseum_(Utrecht)
+Wikidata ID: https://www.wikidata.org/wiki/Q14510918
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Universiteitsmuseum Utrecht
+Acronym/abbreviation: UMU
+Labels: Universiteitsmuseum Utrecht (Dutch)
+Related organizations: Utrecht University https://ror.org/04pp8hn57 (parent)
+City: Utrecht
+Country: The Netherlands
+Geonames ID: 2745911
+Year established: 1928
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+01/28/2022, 15:31:55 | 01/28/2022, 15:36:33
+comment_text: Not a top-level entity, but its curatorial and conservation staff do produce research with this museum as their affiliation.
+
+Publication affiliation usage:
+
+https://peerj.com/articles/7675/#aff-6
+
+http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.agro-e968e821-7eb8-4081-888a-df10ff94dd33/c/Re-evaluation_of_pachycormid.pdf
+
+https://triggered.edina.clockss.org/ServeContent?url=http://www.gewina-studium.nl%2Farticles%2F10.18352%2Fstudium.10121%2Fprint%2F
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?hl=en&user=KQlvSeQAAAAJ
+
+Similar records in ROR: https://ror.org/03rs7bk48 ; https://ror.org/02n094r49
+
+---
+nielsraes
+02/07/2022, 11:26:04 | 02/07/2022, 11:26:04
+comment_text: _How will a ROR ID for this organization be used?_ UMU is one of the [DiSSCo-NL partners](https://www.dissco.eu/nl/) that wants to mobilize their geological data to both GBIF and [GeoCASe](https://www.dissco.eu/nl/). At the level of DiSSCo ROR IDs are identified as institutional IDs, hence the request.
+
+---
+"
+Second review,1085282701,405,https://github.com/ror-community/ror-updates/issues/405,open,level 1; new record; jaguar; org-requested,2021-12-20 23:13:33,2022-01-29 18:36:46,"Add a new organization to ROR: 
+ 
+Rogante Engineering Office","Summary of request: Add a new organization to ROR
+
+Name of organization: Rogante Engineering Office
+Website: www.roganteengineering.it
+Link to publications: http://dx.doi.org/10.29228/JCHAR.52780
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Studio d'Ingegneria Rogante
+Acronym/abbreviation: REO; SIR
+Related organizations: 
+City: Civitanova Marche
+Country: Italy
+Year established: 1997
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To be integrated in a scholarly publishing system
+Other information about this request: The full list of research publications that use the organization as an affiliation is in the web page http://www.roganteengineering.it/pubblicazioni.asp","nlundvick
+01/29/2022, 18:36:35 | 01/29/2022, 18:36:35
+comment_text: Added acronym/abbreviation ""SIR."" This organization is involved in materials science research using neutron techniques. The organization is well-established, founded in 1997. I found multiple affiliation use cases - see http://www.roganteengineering.it/pubblicazioni.asp. I can see a case being made for adding this organization to ROR. My one concern is that there appears to only be a single individual (Dr. Massimo Rogante) associated with the organization.
+
+---
+"
+Second review,1119261920,458,https://github.com/ror-community/ror-updates/issues/458,open,level 1; new record; jaguar,2022-01-31 10:45:09,2022-01-31 15:27:03,"Add a new organization to ROR: 
+ 
+MAIN CENTER OF SPECIAL MONITORING","Summary of request: Add a new organization to ROR
+
+Name of organization: Main Center of Special Monitoring
+Website: https://gcsk.gov.ua/
+Link to publications: https://doi.org/10.7914/SN/UD
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: https://uk.wikipedia.org/wiki/Головний_центр_спеціального_контролю_ДКАУ
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Головний центр спеціального контролю, ГЦСК
+Aliases:
+Labels: Головний центр спеціального контролю (Ukrainian)
+Acronym/abbreviation: MCSM, ГЦСК
+Related organizations: https://ror.org/04ev01y75 (parent)
+City: Gorodok
+Country: Ukraine
+Geonames ID: 708314
+Year established: 1958
+How will a ROR ID for this organization be used? To identify affiliations for datasets, To acknowledge a research facility
+Other information about this request: ","adambuttrick
+01/31/2022, 15:26:13 | 01/31/2022, 15:26:13
+comment_text: Seismic and radiation monitoring facility that exists as part of Ukraine's state space agency. Primary affiliation for its staff. Seems in scope relative to similar ROR records (e.g. https://ror.org/03vhnve41 ; https://ror.org/0146tv827)
+
+Publication affiliation usage: https://www.researchgate.net/publication/320929835_Mozlivist_vikoristanna_danih_infrazvukovogo_monitoringu_pid_cas_identifikacii_prirodi_sejsmicnih_podij; http://dspace.nbuv.gov.ua/bitstream/handle/123456789/125183/11-Andrushchenko.pdf?sequence=1 ; 
+
+ORCID affiliation usage: https://orcid.org/0000-0002-1009-5256
+
+---
+"
+Second review,1124218702,468,https://github.com/ror-community/ror-updates/issues/468,open,level 1; new record; jaguar,2022-02-04 13:42:50,2022-02-04 17:12:55,"Add a new organization to ROR: 
+ 
+Deutsches Zentrum für Integration- und Migrationsforschung","Summary of request: Add a new organization to ROR
+
+Name of organization: German Center for Integration and Migration Research 
+Website: https://www.dezim-institut.de/
+Link to publications: https://onlinelibrary.wiley.com/doi/full/10.1002/per.2228  https://www.dezim-institut.de/fileadmin/Publikationen/Research_Notes/DeZIM_Research_Notes_05_210323_3_RZ_web.pdf
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://de.wikipedia.org/wiki/Deutsches_Zentrum_f%C3%BCr_Integrations-_und_Migrationsforschung
+Wikidata ID: Q110812948
+ISNI ID: 0000 0004 8156 6283
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Deutsches Zentrum für Integrations- und Migrationsforschung (German)
+Acronym/abbreviation: DeZIM
+Related organizations: Bundesministerium für Familie, Senioren, Frauen und Jugend https://ror.org/056ja1h98 (parent)
+City: Berlin
+Country: Germany
+Geonames ID: 2950159
+Year established: 2017
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+02/04/2022, 17:10:55 | 02/04/2022, 17:12:12
+comment_text: German government organization focused on research related to migration issues. Independently publishes research reports on these topics and is used an affiliation on similar publications in other forums. Looks solid and appropriate for ROR.
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=BhjnhlAAAAAJ
+ORCID affiliation usage: https://orcid.org/0000-0003-2102-2527 ; https://orcid.org/0000-0002-7182-1792 ; https://orcid.org/0000-0001-7147-1609
+
+Similar records in ROR: https://ror.org/01dxs6p42 ; https://ror.org/00hj7mt57
+
+---
+"
+Second review,1124840446,471,https://github.com/ror-community/ror-updates/issues/471,open,level 1; new record; jaguar; org-requested,2022-02-05 05:28:29,2022-02-08 18:14:21,"Add a new organization to ROR: 
+ 
+Instituto Peruano de Orientación Psicológica","Summary of request: Add a new organization to ROR
+
+Name of organization: Instituto Peruano de Orientación Psicológica - IPOPS
+Website: http://ipops.pe/
+Link to publications: https://doi.org/10.1186/s12888-021-03456-z; https://doi.org/10.3389/fpsyg.2021.673945; https://doi.org/10.12688/f1000research.27150.2; http://dx.doi.org/10.1136/bmjopen-2020-036777
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page:
+Wikidata ID: https://www.wikidata.org/wiki/Q52662516
+ISNI ID: https://isni.org/isni/0000000495136890
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: IPOPS
+Related organizations: 
+City: Lima
+Country: Peru
+Year established: 1986
+Geonames ID: 3936456
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+02/07/2022, 17:54:40 | 02/07/2022, 17:59:13
+comment_text: Private institution focused on research in psychology and psychological treatment. Publishes the scientific journal, ""Interacciones: Revista de Avances en Psicologia"" (https://revistainteracciones.com/). Conducts training, seminars, and organizes conferences. Publication affiliation usage looks solid.
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=UhIQliwAAAAJ; https://scholar.google.com/citations?user=Vjdy9pQAAAAJ; https://scholar.google.com/citations?user=QHRUnMQAAAAJ
+ORCID affiliation usage: https://orcid.org/0000-0003-0972-4534 ; https://orcid.org/0000-0002-7345-878X ; https://orcid.org/0000-0003-4989-4538 ; https://orcid.org/0000-0001-9267-1618 ; https://orcid.org/0000-0001-7333-6574 ;
+
+
+Similar records in ROR: https://ror.org/056ezyb19 ; https://ror.org/0165gz615
+
+---
+"
+Second review,1125175738,472,https://github.com/ror-community/ror-updates/issues/472,open,level 1; new record; jaguar,2022-02-06 11:20:39,2022-02-07 18:48:55,"Add a new organization to ROR: 
+ 
+Megjunaroden Slavjanski Univerzitet Gavrilo Romanovich Derzhavin","Summary of request: Add a new organization to ROR
+
+Name of organization: International Slavic University Gavrilo Romanovich Derzhavin
+Website: https://msu.edu.mk/
+Link to publications: https://konferencii.msu.edu.mk/mdiz/spisanija/spisanija/
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://mk.wikipedia.org/wiki/Меѓународен_славјански_универзитет_„Гаврило_Романович_Державин“
+Wikidata ID: Q12909391
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Меѓународен Славјански Универзитет Гаврило Романович Державин (Macedonian); Международный славянский университет (МСУ) “Гаврило Романович Державин”  (Russian)
+Acronym/abbreviation: MSU, ISU, МСУ
+Related organizations: 
+City: Sveti Nikole
+Country: North Macedonia
+Geonames ID: 863905
+Year established: 2004
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+02/07/2022, 18:48:45 | 02/07/2022, 18:48:45
+comment_text: North Macedonian university. I can only find limited affiliation usage by searching the Macedonian name, seemingly from scholarly outputs of the university itself (e.g. https://eprints.ugd.edu.mk/14078/1/ZBORNIK_6_PSIHOLOGIJA_i_web.pdf), but does otherwise seem legitimate. 
+
+ORCID affiliation usage: https://orcid.org/0000-0001-9357-019X
+
+---
+"
+Second review,1128629073,475,https://github.com/ror-community/ror-updates/issues/475,open,level 1; new record; jaguar,2022-02-09 14:41:25,2022-02-09 16:05:58,"Add a new organization to ROR: 
+ 
+State Institution  “Institute for Economics and Forecasting, National Academy of Sciences of Ukraine”","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: Institute for Economics and Forecasting of the National Academy of Sciences of Ukraine
+Website: http://ief.org.ua/
+Link to publications: Yes
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://en.wikipedia.org/wiki/NASU_Institute_for_Economics_and_Forecasting
+Wikidata ID: https://www.wikidata.org/wiki/Q12074603
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: NASU Institute for Economics and Forecasting, SI “Institute for Economics and Forecasting, NAS of Ukraine”
+Labels: Державна установа “Інститут економіки та прогнозування НАН України”*Ukrainian, Государс твенное учреждение “Институт экономики и прогнозирования НАН Украины”*Russsian
+Acronym/abbreviation: 
+Related organizations: National Academy of Sciences of Ukraine https://ror.org/00je4t102 (parent)
+City: Kyiv
+Country: Ukraine
+Year established: 1997
+Geonames ID: 703448
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: State Institution “Institute for  Economics and Forecasting,  National Academy of Sciences of Ukraine”, in accordance with Decree by Presidium of NAS of Ukraine of 06.07.2005 No 139 “On the renaming Institute for Economic Forecasting, of NAS of Ukraine” is successor Institute for Economic Forecasting, of NAS of Ukraine which was created in accordance with Decree by Ukraine’s Cabinet of Ministers of 19.07.1997. No772 “On the creation of the Institute for Economic Forecasting, Ukrainian National Academy of Sciences” and the corresponding Decree by the Presidium of Ukrainian National Academy of Sciences of 05.09.1997 No 298 in order to provide the elaboration of strategic forecasts and programs of Ukraine’s socio-economic development.
+The Head of the Institute Is Academician of NAS of Ukraine Valeriy Mykhailovych HEYETS.
+The Institute’s main objective is conducting fundamental and applied researches on the following guidelines: economic theory; modeling and forecasting economic development; monetary relations; public finances; finances of the real sector; economic growth and economic restructuring; economics and organization of high technologies; development of production infrastructure; industrial policy; technological forecasting and innovation policy; sectoral forecasting and market conjuncture; economics and policy of agrarian transformations; forma and methods of economic management in the agro-industrial complex; monitoring-based research on socio-economic transformations of the Ukrainian society; economic history; socio-economic problems of labor; economics management; spatial economic development and local government. On that basis, the Institute is developing the guidelines and methods of the development of the economic system, strategic forecasts and programs of the development of Ukraine’s economy.","adambuttrick
+02/09/2022, 15:42:00 | 02/09/2022, 15:42:00
+comment_text: This is another instance of a Ukrainian National Academy of Sciences institute, of which we have many (e.g. https://ror.org/05x75zf33 , https://ror.org/059fvd392). Should be added.
+
+ORCID affiliation usage: https://orcid.org/0000-0002-3986-5613 ; https://orcid.org/0000-0003-2265-4614 ; https://orcid.org/0000-0002-8542-3904 ; https://orcid.org/0000-0003-0540-5413
+
+---
+"
+Second review,1129833763,479,https://github.com/ror-community/ror-updates/issues/479,open,level 1; new record; jaguar,2022-02-10 10:54:46,2022-02-16 00:43:40,"Add a new organization to ROR: 
+ 
+French Statistical Society (SFdS)","Name of organization: French Statistical Society
+Website: https://www.sfds.asso.fr/
+Link to publications: ""https://computo.sfds.asso.fr/"", ""http://statistique-et-societe.fr/"" 
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: https://en.wikipedia.org/wiki/French_Statistical_Society
+Wikidata ID: https://www.wikidata.org/wiki/Q3488327
+ISNI ID: 0000 0001 2152 0652
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels: Société Française de Statistique*French
+Acronym/abbreviation: SFdS
+Related organizations: 
+City: Paris
+Country: France
+Geonames ID: 2988507
+Year established: 1997
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+Other information about this request: ","adambuttrick
+02/10/2022, 15:47:03 | 02/10/2022, 15:50:00
+comment_text: Independent academic society in Paris with roots dating back to the 1800s. Publishes four journals on statistical topics (http://journal-sfds.fr ; http://statistique-et-enseignement.fr ; http://statistique-et-societe.fr/ ; http://csbigs.fr/). Clearly involved with research and should be added to ROR
+
+ORCID affiliation usage: https://orcid.org/0000-0003-4297-1334 ; https://orcid.org/0000-0001-6275-5888 ; https://orcid.org/0000-0002-3406-5887
+
+---
+"
+Second review,1130955380,480,https://github.com/ror-community/ror-updates/issues/480,open,level 1; new record; jaguar,2022-02-10 20:59:09,2022-02-10 21:58:45,"Add a new organization to ROR: 
+ 
+Pacific Northwest National Laboratory DataHub: Scientific Data Repository (PNNL2)","Name of organization: Pacific Northwest National Laboratory DataHub: Scientific Data Repository (PNNL2)
+Website: https://data.pnnl.gov/
+Link to publications: https://doi.org/10.25584/PNNL.DataHub/1812943
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: https://www.osti.gov/servlets/purl/1812943
+Aliases: PNNL DataHub
+Labels:
+Acronym/abbreviation: PNNL2
+Related organizations: https://ror.org/05h992307
+City: Richland
+Country: United States of America
+Year established: 2017
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: This is a PNNL data project repository in development at FAIRSharing.org under the record URL: https://fairsharing.org/3692. Data provided at this project repository is intended for long-term preservation, project data source linking, and shares data with the EMSL user facility (https://ror.org/04rc0xn13) as part of the DOE/BER program (https://ror.org/0114b2m14), in addition to many NIH (https://ror.org/01cwqze88) related sponsored grants/contracts.","adambuttrick
+02/10/2022, 21:13:21 | 02/10/2022, 21:14:47
+comment_text: Not certain this repository is sufficiently independent organization, as it is clearly under the Pacific Northwest National Laboratory (https://ror.org/05h992307). I see very few similar records in ROR. The two that we do include (https://ror.org/00x6h5n95 ; https://ror.org/014trz974) are more distinctly independent entities. They would most likely use the Pacific Northwest National Laboratory ID for their data deposits and other contributors could likewise use their own ROR IDs.
+
+---
+"
+Second review,1136305939,485,https://github.com/ror-community/ror-updates/issues/485,open,level 2; update record; jaguar,2022-02-13 19:08:01,2022-02-16 00:43:02,"Modify the information in an existing ROR record: 
+JDSU (United States) https://ror.org/01a5v8x09
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: JDSU (United States)
+ROR ID: https://ror.org/01a5v8x09
+Which part of the record needs to be changed? Primary name, Organization website
+Description of change: This corporate has change names. It and its children need to be updated to VIAVI, www.viavisolutions.com
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: 
+Website: 
+Link to publications: 
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Year established: 
+How will a ROR ID for this organization be used? 
+
+Other information about this request: ","adambuttrick
+02/13/2022, 19:19:20 | 02/13/2022, 19:26:48
+comment_text: Not certain we should process this as a simple name change. According to Wikipedia, the company was split into two different entities in 2015:
+
+""In August 2015, JDSU split into two different companies: [Viavi Solutions](https://en.wikipedia.org/wiki/Viavi_Solutions) and [Lumentum Holdings](https://en.wikipedia.org/w/index.php?title=Lumentum_Holdings&action=edit&redlink=1)[](https://en.wikipedia.org/wiki/JDSU#cite_note-3).""
+
+So, we should probably process this as a new record and deprecation request, as well as possible deprecating the non-US records. While they list foreign offices on their site, it's not clear to me that these still constitute independent, top-level entities. The ""Office Locations"" section of their site list a single corporate headquarters and the sales, manufacturing, and research and development facilities.
+
+---
+"
+Second review,1138601072,488,https://github.com/ror-community/ror-updates/issues/488,open,level 2; update record; jaguar; org-requested,2022-02-15 12:06:31,2022-02-16 20:56:00,"Modify the information in an existing ROR record: 
+Kunsthistorisches Museum https://ror.org/03h82yz49
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Kunsthistorisches Museum
+ROR ID: https://ror.org/03h82yz49
+Which part of the record needs to be changed? Primary name
+Description of change: The Primary name has to be changed from ""Kunsthistorisches Museum"" into ""KHM-Museumsverband"" (as presented in https://www.khm.at/fileadmin/user_upload/KHM-Geschaeftsbericht_2020.pdf)
+
+Update: change.name==KHM-Museumsverband;","adambuttrick
+02/15/2022, 14:47:25 | 02/15/2022, 14:51:14
+comment_text: Request is from the organization and name change corresponds to organization chart on page 18 of the linked PDF. Recent ORCID affiliation usage uses this form (https://orcid.org/0000-0001-8058-8403), as do things like credit statements for images owned by the museum (e.g. https://www.academia.edu/download/77092660/Haug_Hielscher_2021.pdf). We should, however, probably keep the old form as an alias because it still appears on the website (https://www.khm.at/).  
+
+---
+"
+Second review,1139362643,489,https://github.com/ror-community/ror-updates/issues/489,open,level 1; new record; jaguar,2022-02-16 00:45:38,2022-02-18 16:37:14,"Add a new organization to ROR: 
+ 
+Oku Okut Derneği","Summary of request: Add a new organization to ROR
+
+Update record:
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: Oku Okut Derneği
+Website: https://www.okuokut.org/
+Link to publications: https://yayin.okuokut.org/okuokut
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: Q110946274
+ISNI ID: https://isni.org/isni/0000000506276072
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Oku Okut Association, Oku Okut Dernegi
+Labels:
+Acronym/abbreviation: OKU OKUT
+Related organizations: Oku Okut Yayınları, Oku Okut Akademi
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 2020
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: Oku Okut Association Annual Report-2021, https://yayin.okuokut.org/okuokut/catalog/view/ekitap/978-605-71294-1-3/67","adambuttrick
+02/16/2022, 01:14:01 | 02/16/2022, 01:16:20
+comment_text: Appears to be a relatively new, open access publishing imprint focused on the humanities and social sciences. Does publish work by researchers at universities in Turkey (e.g. https://yayin.okuokut.org/okuokut/catalog/book/978-605-74416-1-4), so appears in scope for ROR.
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=Cxnd6TcAAAAJ
+
+---
+drademir
+02/18/2022, 16:31:37 | 02/18/2022, 16:37:14
+comment_text: Oku Okut Derneği Wikidata ID: Q110946274, https://www.wikidata.org/wiki/Q110946274
+Organisation ID (OID): E10291891, https://webgate.ec.europa.eu/erasmus-esc/index/organisations/search-for-an-organisation
+About Oku Okut Association: https://www.okuokut.org/hakkimizda/
+Oku Okut Publishing ISBN Prefix: 978-605-74416
+About Oku Okut Publishing: https://www.okuokut.org/oku-okut-yayinlari/
+Catalog: https://yayin.okuokut.org/okuokut/catalog
+
+---
+"
+Second review,1141065980,493,https://github.com/ror-community/ror-updates/issues/493,open,level 1; new record; jaguar,2022-02-17 09:16:07,2022-02-22 15:31:49,"Add a new organization to ROR: 
+ 
+Southern Urals biophysics institute","Summary of request: Add a new organization to ROR
+
+
+Name of organization: Southern Urals Biophysics Institute
+Website: http://ib.subi.su/
+Link to publications: 10.1007/s00411-017-0688-3
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000406201495
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Ûžno-Ural'skij institut biofiziki*Slovenian;  Южно-Уральский институт биофизики*Russian;
+Acronym/abbreviation: SUBI
+Related organizations: 
+City: Ozersk
+Country: Russia
+Geonames ID: 1538634
+Year established: 1953
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: Please don`t support the name ""FGUP Uzno-Ural'skij institut biofiziki Federal'nogo mediko-biologiceskogo agentstva Rossii"" like ISNI. We need use only ""Southern Urals Biophysics Institute"" name.","adambuttrick
+02/17/2022, 15:50:12 | 02/17/2022, 15:50:12
+comment_text: Federal-level biophysics research institute in the Russian Federation with solid publication affiliation usage. Top-level entity. Should be added to ROR.
+
+ORCID affiliation usage: https://orcid.org/0000-0001-8807-9494; https://orcid.org/0000-0002-2113-429X ; https://orcid.org/0000-0001-9177-4666 ; https://orcid.org/0000-0003-4757-7969
+
+Publication affiliation usage: https://www.researchgate.net/institution/Southern-Ural-Biophysics-Institute
+
+---
+cvetkov321
+02/21/2022, 08:28:09 | 02/21/2022, 08:28:09
+comment_text: Hello! Please tell me I should do something to add my institution (Southern Urals Biophysics Institute) to ROR or should I just wait? Best regards, Nikolay Tsvetkov.
+
+---
+adambuttrick
+02/22/2022, 15:31:49 | 02/22/2022, 15:31:49
+comment_text: @cvetkov321 There is nothing more we need at this time. Every request requires two curators to approve it before being included in a release. Please allow us time to work through this process and continue to watch this issue for updates on its status.
+
+---
+"
+Second review,1143801929,495,https://github.com/ror-community/ror-updates/issues/495,open,level 1; new record; jaguar,2022-02-18 21:34:51,2022-02-19 17:35:02,"Add a new organization to ROR: 
+ 
+Institut für Axiologische Forschungen","Summary of request: Add a new organization to ROR
+
+Name of organization: Institute of Axiological Research
+Website: https://www.iaf.ac.at
+Link to publications: http://dx.doi.org/10.25180/lj
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: Q74547450
+ISNI ID: 0000 0001 2168 3806
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Institut für Axiologische Forschungen*German
+Labels:
+Acronym/abbreviation: IAF
+Related organizations: 
+City: Vienna
+Country: Austria
+Year established: 1999
+Geonames ID: 2761369
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
+
+Other information about this request: The field of scientific activity of the Institite is ""philosophical and interdisciplinary value research"" and the institute is registret in Austria with number ZVR: 818 739 280","adambuttrick
+02/18/2022, 21:54:13 | 02/18/2022, 21:54:13
+comment_text: Austrian philosophical institute that publishes the journal, _Labyrinth: An International Journal for Philosophy, Value Theory and Sociocultural Hermeneutics_. Long standing, top-level entity. Referenced in philosophy articles and used as a secondary affiliation (e.g., https://www.academia.edu/download/3252333/RaynovaArticle.pdf). Looks to be in scope for ROR.
+
+---
+"
+Second review,1145799877,498,https://github.com/ror-community/ror-updates/issues/498,open,level 1; new record; jaguar,2022-02-21 13:26:17,2022-02-22 16:58:04,"Add a new organization to ROR: 
+ 
+IGEO (Institute of Geosciences, Albania)","Name of organization: Institute of Geosciences
+Website: https://www.geo.edu.al/site
+Link to publications: https://www.geo.edu.al/site
+Organization type: Education
+Wikipedia page: https://sq.wikipedia.org/wiki/Instituti_i_Gjeoshkencave,_Energjise,_Ujit_dhe_Mjedisit
+Wikidata ID: Q25567328
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Institute of Geosciences, Water and Environment
+Labels:
+Acronym/abbreviation: IGEO; IGJEO; IGJEUM; IGEWE
+Labels: Instituti i Gjeoshkecave, Ujrave dhe Mjedisit*Albanian
+Related organizations: 
+City: Tirana
+Country: Albania
+Geonames ID: 3183875
+Year established: 1968
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+02/22/2022, 15:57:26 | 02/22/2022, 15:58:07
+comment_text: Geoscience research institute in Albania. Publishes monthly seismological and climate-related datasets (https://www.geo.edu.al/newweb/?fq=sizmobuletinet&gj=gj2&kid=36 ; . While technically operating under the Polytechnic University of Tirana, is used as an independent affiliation in peer-reviewed journals (e.g. https://www.geo.edu.al/skedaret/Handy_etal_19_Tectonics.pdf) and as a leading affiliation (https://www.researchgate.net/profile/Kujtim-Onuzi). Believe this should be added to ROR.
+
+Similar organizations in ROR: https://ror.org/0121whw78 ; https://ror.org/04ge02x20
+
+---
+"
+Second review,1145857477,499,https://github.com/ror-community/ror-updates/issues/499,open,level 1; new record; jaguar; relationship,2022-02-21 14:15:43,2022-02-22 17:00:59,"Add a new organization to ROR: 
+ 
+Data Observatory Foundation","Name of organization: Data Observatory Foundation
+Website: www.dataobservatory.net
+Link to publications: www.dataobservatory.net
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Data Observatory, Observatorio de Datos
+Labels:
+Acronym/abbreviation: DO
+Related organizations: https://ror.org/0326knt82 (parent); https://ror.org/00as45r68 (parent); 
+City: Santiago
+Country: Chile
+Geonames ID: 3871336
+Year established: 2020
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility
+
+Other information about this request: We've recently been added as a DataCite Consortium and we want to register as a suggestion from them (we wasn't fully aware about the existence of this kind of register)","adambuttrick
+02/22/2022, 16:07:35 | 02/22/2022, 16:25:08
+comment_text: Data hosting service, similar to ROR parent Datacite and referred by them, created as a joint effort between Chile's Ministry of Science, Technology, Knowledge and Innovation (need to create record for ROR), Ministry of Economy, and Universidad Adolfo Ibáñez. Hosts state-level COVID-19 datasets, earth and marine satellite data monitoring data, and astronomical research classifiers. Should be added to ROR.
+
+---
+adambuttrick
+02/22/2022, 16:31:28 | 02/22/2022, 16:31:28
+comment_text: #502 would be the parent.
+
+---
+"
+Second review,1147520448,503,https://github.com/ror-community/ror-updates/issues/503,open,level 1; new record; jaguar,2022-02-23 00:58:48,2022-02-23 16:41:32,"Add a new organization to ROR: 
+ 
+MIRCORE","Name of organization: MIRCORE
+Website: https://www.mircore.org/
+Link to publications: https://doi.org/10.1083/jcb.201103097, DOI: 10.1126/scisignal.2001744, DOI: 10.3233/JAD-200917, etc
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: miRcore
+Labels:
+Acronym/abbreviation: MIRCORE
+Related organizations: 
+City: Ann Arbor
+Country: United States
+Geonames ID: 4984247
+Year established: 2009
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+02/23/2022, 15:24:50 | 02/23/2022, 15:24:50
+comment_text: Nonprofit that provides microgrants for genetics research, primarily in the areas of disease treatment and resolution. Independent entity with solid publication affiliation usage. Should be added to ROR.
+
+Publication affiliation usage: https://www.mircore.org/publications/
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=nUYpAKUAAAAJ
+ORCID affiliation usage: https://orcid.org/0000-0001-5840-3900
+
+---
+"
+Second review,1148288987,504,https://github.com/ror-community/ror-updates/issues/504,open,level 1; new record; jaguar; org-requested,2022-02-23 16:09:45,2022-02-23 16:41:03,"Add a new organization to ROR: 
+ 
+Phanes Biotech ","Name of organization: Phanes Biotech
+Website: www.phanesbiotech.com
+Link to publications: 10.1002/ana.26252
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: PBio
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: Philadelphia 
+Country: United States of America
+Geonames ID: 4560349
+Year established: 2020
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders
+
+Other information about this request: ","adambuttrick
+02/23/2022, 16:35:24 | 02/23/2022, 16:36:23
+comment_text: Biotechnology company whose primary focus is a novel Alzheimer's therapeutic. Principals are all well-credentialed with solid publication history (https://phanesbiotech.com/publications/), but do not appear to use Phanes Biotech as their primary affiliation. That being said, is clearly involved with drug development and research and we have many similar companies in ROR (e.g. https://ror.org/02eb03q95 ; https://ror.org/043f79m81).
+
+---
+"
+Second review,1149443329,506,https://github.com/ror-community/ror-updates/issues/506,open,level 2; new record; lion,2022-02-24 15:43:36,2022-02-24 16:31:58,"Split an existing ROR record into two or more records: 
+ 
+ENEA-TALIAN NATIONAL AGENCY FOR NEW TECHNOLOGIES, ENERGY AND SUSTAINABLE ECONOMIC DEVELOPMENThttps://ror.org/02an8es95","Merge/split/deprecate records:
+Organizations affected by this change:ENEA-TALIAN NATIONAL AGENCY FOR NEW TECHNOLOGIES, ENERGY AND SUSTAINABLE ECONOMIC DEVELOPMENT
+ROR ID(s) of organization(s) affected by this change: https://ror.org/02an8es95
+How should the record(s) be changed? Please add the folowing insitutions:
+1- ENEA Frascati Research Centre, Via E. Fermi 45 I-00044 Frascati (Roma) Italy
+2- ENEA- Casaccia Research Centre via Anguillarese 301 I-00123 Roma, Italy
+3- ENEA- Brasimone Research Centre Località Brasimone, I-40032 Camugnano (Bologna, Italy 
+4- ENEA- Italian Natiional Institute of Ionizing Radiation Metrology, via Anguillarese 301 I-00123 Roma, Italy","adambuttrick
+02/24/2022, 16:06:55 | 02/24/2022, 16:11:58
+comment_text: This should not be processed as a split, but a request to add four new children for Italy's National Agency for New Technologies, Energy and Sustainable Economic Development. Assuming approval, I'll create separate record requests for each of these.
+
+As to their scope, these do appear to be independent, national-level research facilities with their own specific focuses. Each has its own publication affiliation usage as well:
+
+ENEA Casaccia Research Centre
+https://ieeexplore.ieee.org/author/37085367280
+
+ENEA Frascati Research Centre
+https://ieeexplore.ieee.org/author/37314209000
+
+ENEA Brasimone
+https://ieeexplore.ieee.org/author/37086187013
+
+ENEA Italian Natiional Institute of Ionizing Radiation Metrology
+https://ieeexplore.ieee.org/author/37529688700
+
+Use case is similar to #49 and #386, tracking research outputs. I think these should be added to ROR.
+
+---
+"
+Second review,1149279611,505,https://github.com/ror-community/ror-updates/issues/505,open,level 1; new record; jaguar,2022-02-24 13:18:12,2022-02-24 16:31:51,"Add a new organization to ROR: 
+ 
+Spanish Polar Data Centre","Name of organization: Spanish Polar Data Centre
+Website: cndp.utm.csic.es
+Link to publications: .
+Organization type: Other (Use this category for any organization that does not fit the categories above)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Centro Nacional de Datos Polares*Spanish
+Labels:
+Acronym/abbreviation: CNDP
+Related organizations: https://ror.org/02gfc7t72 (parent) ; https://ror.org/042j94f44 (parent)
+City: Barcelona
+Country: Spain
+Geonames ID: 3128760
+Year established: 1999
+How will a ROR ID for this organization be used? To identify affiliations for datasets, To be used in DataCite
+
+Other information about this request: ","adambuttrick
+02/24/2022, 16:29:27 | 02/24/2022, 16:31:12
+comment_text: Organization that exists to fulfill Spain's obligations under the Antarctic Treaty, specifically as it relates to the free exchange of scientific datasets produced by Spanish researchers working in the polar regions. See Spanish government's description [here](https://www.ciencia.gob.es/Organismos-y-Centros/Comite-Polar-Espanol/Centro-Nacional-de-Datos-Polares.html;jsessionid=ACBDF8CE4ED75BEB164AD297765FDE97.2) . Stores and publishes these datasets (http://cndp.utm.csic.es/catalogue/srv/eng/catalog.search#/search?resultType=details&sortBy=relevance&from=1&to=20). Should be added to ROR.
+
+---
+"
+Second review,1150616557,508,https://github.com/ror-community/ror-updates/issues/508,open,level 1; new record; jaguar; org-requested,2022-02-25 16:06:00,2022-02-25 16:39:28,"Add a new organization to ROR: 
+ 
+Universidad Internacional de Ciencia y Tecnología - UNICyT","Name of organization: Universidad Internacional de Ciencia y Tecnología - UNICyT
+Website: https://www.unicyt.net/
+Link to publications: https://revistas.qlu.ac.pa/index.php/latitude/article/view/174, https://revistas.qlu.ac.pa/index.php/latitude/article/view/173, https://doi.org/10.46932/sfjdv2n4-020, https://revistas.usma.ac.pa/ojs/index.php/ipc/article/view/210/373, http://www.idi-unicyt.org/wp-content/uploads/2018/03/1701.03318.pdf, https://revistas.umecit.edu.pa/index.php/oratores/article/view/200
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: none
+Labels:
+Acronym/abbreviation: UNICyT
+Related organizations: 
+City: Panama City
+Country: Panama
+Geonames ID: 3703443
+Year established: 2014
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+
+Other information about this request: UNICyT is member of: Consejo de Rectores de Panamá - CRP (http://www.consejo.ac.pa/miembros.html), Asociación de Universidades Particulares de Panamá - AUPPA (https://auppa.org.pa/universidades-integrantes/), Instituto de Investigaciones de AUPPA - IdIA (https://idia.org.pa/contacto/).","adambuttrick
+02/25/2022, 16:23:38 | 02/25/2022, 16:24:03
+comment_text: Small, career training focused university in Panama. Independent, top-level entity. Research outputs appear to be primarily pedagogical articles by faculty and staff, but are otherwise legitimate.
+
+Google Scholar affiliation_usage: https://scholar.google.com/citations?user=Euqf5h8AAAAJ; https://scholar.google.com/citations?user=nd-sPw8AAAAJ; https://scholar.google.com/citations?user=2v9WZGcAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-9252-8835 ; https://orcid.org/0000-0001-7128-3595 ; https://orcid.org/0000-0001-5347-3221
+
+---
+"

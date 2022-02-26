@@ -1,0 +1,1763 @@
+column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
+Declined requests,902642835,181,https://github.com/ror-community/ror-updates/issues/181,closed,level 1; out of scope; new record; jaguar; org-requested,2021-05-26 16:27:35,2021-05-27 19:17:39,"Add a new organization to ROR: 
+ 
+MatchOffice","Summary of request: Add a new organization to ROR
+
+Name of organization: MatchOffice
+Website: https://www.matchoffice.no
+Link to publications: https://www.matchoffice.com/news
+Organization type: Company
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Lokalebasen Aps
+Acronym/abbreviation: Ltd
+Related organizations: 
+City: Oslo
+Country: Norway
+Other information about this request: ","mariagould
+05/26/2021, 16:37:39 | 05/26/2021, 16:37:52
+comment_text: This appears to be a commercial real estate company that is not engaged in research. The request does not include examples of published research and I was not able to locate examples online. Therefore I consider this organization to be out of scope for inclusion in ROR. 
+
+---
+arthurpsmith
+05/27/2021, 13:27:54 | 05/27/2021, 13:27:54
+comment_text: Agreed, out of scope. I will mark it as such.
+
+---
+"
+Declined requests,868802376,76,https://github.com/ror-community/ror-updates/issues/76,closed,level 1; already in ror; jaguar; org-requested,2021-04-27 12:34:41,2021-05-11 00:00:11,Add a new organization to ROR: NSF NOIRLab,"Summary of request: Add a new organization to ROR
+
+Name of organization: NSF NOIRLab
+Website: https://noirlab.edu/public/ 
+Link to publications: https://www.noao.edu/noao/library/NOIRLab-MSO-CSDC-FY20-Publications.html, https://www.gemini.edu/science/publications/, https://www.noao.edu/noao/library/NOAO_Publications.html
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Ringgold ID: 
+Other names for the organization: NOAO, CTIO, KPNO, Gemini, MSO, CSDC are all names now considered part of NOIRLab
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Other information about this request: NSF NOIRLab, or NOIRLab for short, is a new organization consisting of previously existing programs (Gemini, KPNO, CTIO, and LSST, now renamed Vera C. Observatory) in addition to the newly formed CSDC program.","nlundvick
+05/10/2021, 19:42:34 | 05/10/2021, 19:42:34
+comment_text: Already in ROR: https://ror.org/03zmsge54
+
+---
+mariagould
+05/10/2021, 23:59:59 | 05/10/2021, 23:59:59
+comment_text: Thanks for catching this! 
+
+---
+"
+Declined requests,871180693,119,https://github.com/ror-community/ror-updates/issues/119,closed,level 1; out of scope; new record; lion; org-requested,2021-04-29 15:55:32,2021-05-21 16:51:52,"Add a new organization to ROR: 
+ ()
+CelerSMS","Summary of request: Add a new organization to ROR
+
+Name of organization: CelerSMS
+Website: https://www.celersms.com/
+Link to publications: https://www.scribd.com/document/502374925/Introduction-to-SMPP https://news.google.com/publications/CAAqBwgKMJr6lAsw386qAw
+Wikipedia page: 
+Wikidata ID: https://www.wikidata.org/wiki/Q106367983
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Ringgold ID: 
+Other names for the organization: CelerSMS S.A.S.
+Acronym/abbreviation: 
+Related organizations: 
+City: CLL 121 72A 47, Bogota, Colombia
+Country: 
+Other information about this request: ","nlundvick
+05/15/2021, 18:03:19 | 05/15/2021, 18:03:19
+comment_text: From About page: ""We focus on IoT, M2M and communication technologies, especially SMS and MMS, Mobile Marketing, Geolocation and Mobile Apps. Our customers and partners are technological companies in multiple areas, including logistics and transportation, IT, ISP."" This seems to be an IT company. Publications are mostly how-tos/technical articles. Organization does not appear to be a research organization. I did not find any instances of ""CelerSMS"" affiliation use. 
+
+Determination: Does not meet criteria for inclusion in ROR per the **ROR Curation Policies & Workflows**
+
+---
+arthurpsmith
+05/17/2021, 19:55:26 | 05/17/2021, 19:55:26
+comment_text: I agree with @nlundvick. The linked ""publications"" are not academic works but self-published technical articles or a powerpoint presentation; also there appear to be only two people writing these. Not suitable for ROR in my opinion also.
+
+---
+"
+Declined requests,908442154,187,https://github.com/ror-community/ror-updates/issues/187,closed,level 1; out of scope; new record; jaguar; org-requested,2021-06-01 15:50:19,2021-06-07 15:24:18,"Add a new organization to ROR: 
+ 
+Mental Asylum of Education","Summary of request: Add a new organization to ROR
+
+Name of organization: Mental Asylum of Education
+Website: https://twitter.com/arjundahalard
+Link to publications: https://vixra.org/author/arjun_dahal
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Mental Asylum of Education
+Acronym/abbreviation: MenAsyEdu
+Related organizations: 
+City: Gauradaha-3, Jhapa
+Country: Nepal
+Other information about this request: I have wrote address of my twitter profile,in section of website. And I hope to get other IDs too, that was asked in form to get ROR ID. ","mariagould
+06/04/2021, 17:48:45 | 06/04/2021, 17:48:45
+comment_text: It is not clear that this is an actual organization. The organization does not have its own website and does appear to be used as an affiliation in formal publications. Therefore, this organization does not appear to be in scope for ROR. 
+
+---
+carlyrobinson
+06/07/2021, 13:55:09 | 06/07/2021, 13:55:09
+comment_text: Agree that this does not seem to be an organization and is not within scope. It seems to be a single researcher, therefore they should obtain an ORCID iD. 
+
+---
+"
+Declined requests,868233278,44,https://github.com/ror-community/ror-updates/issues/44,closed,level 1; out of scope; new record; lion,2021-04-26 21:55:39,2021-07-23 20:20:36,Add a new organization to ROR: Brandon Capital Partners ,"Summary of request: Add a new organization to ROR
+
+Name of organization: Brandon Capital Partners 
+Website: https://www.brandoncapital.com.au/
+Link to publications: https://www.brandoncapital.com.au/investment-portfolio/
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Ringgold ID: 
+Other names for the organization: 
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Other information about this request: ","arthurpsmith
+05/19/2021, 14:46:42 | 05/19/2021, 14:46:42
+comment_text: Not in scope. They do not appear to be engaged in scholarly research; rather they do venture funding for bringing biomedical products to market. I could find no use of them as an affiliation in Google Scholar or other such sources.
+
+---
+carlyrobinson
+06/22/2021, 11:41:39 | 06/22/2021, 11:41:39
+comment_text: Agree that this is not within scope. I could find no evidence of the organization's involvement in scholarly research. 
+
+---
+"
+Declined requests,868235653,58,https://github.com/ror-community/ror-updates/issues/58,closed,level 1; out of scope; new record; lion,2021-04-26 22:00:01,2021-07-23 20:20:42,Add a new organization to ROR: IPR MEDIA,"Summary of request: Add a new organization to ROR
+
+Name of organization: IPR MEDIA LLC
+Website: http://www.iprbookshop.ru/
+
+Link to publications: 
+https://doi.org/10.23682/98494 
+https://doi.org/10.23682/98498 
+https://doi.org/10.23682/98502  
+https://doi.org/10.23682/94212  
+https://doi.org/10.23682/93562 
+
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Ringgold ID: 
+Other names for the organization: 
+Acronym/abbreviation: 
+Related organizations: 
+City: Saratov
+Country: Russia
+Other information about this request: ","arthurpsmith
+05/03/2021, 20:46:27 | 05/03/2021, 20:46:27
+comment_text: Clearly they publish books (and periodicals? I couldn't see their list of periodicals though) in Russian, and provide access electronically. However, I don't see them involved in research directly, and found no sign of the use of ""IPR Books"" or ""IPR Media"" as an affiliation. I think this is not suitable for ROR at this time, at least unless we get further evidence they are used as an affiliation or are involved in research more significantly somehow. Willing to hear somebody else's opinion on this too of course!
+
+---
+carlyrobinson
+06/21/2021, 16:00:20 | 06/21/2021, 16:00:20
+comment_text: I agree with @arthurpsmith assessment. It was difficult to find information about the organization and what I could translate didn't provide much insight. Would be helpful if they provided more information about why a ROR ID would be helpful. 
+
+---
+"
+Declined requests,926438663,206,https://github.com/ror-community/ror-updates/issues/206,closed,level 1; out of scope; new record; jaguar; org-requested,2021-06-21 17:25:26,2021-07-23 20:20:47,"Add a new organization to ROR: 
+ 
+Invixium","Summary of request: Add a new organization to ROR
+
+Name of organization: Invixium
+Website: https://www.invixium.com
+Link to publications: https://www.invixium.com/blog/
+Organization type: 
+Wikipedia page: 
+Wikidata ID: https://www.wikidata.org/wiki/Q107222290
+ISNI ID: https://isni.org/isni/0000000502692757
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Invixium Inc.
+Acronym/abbreviation: IXM
+Related organizations: 
+City: Toronto
+Country: Canada
+Other information about this request: At Invixium, We do research on biometric technology and touchless access control to prevent un authentic access.","nlundvick
+07/12/2021, 20:32:43 | 07/12/2021, 20:32:43
+comment_text: This is a biometric hardware and software company. Link to publications is a corporate blog. No affiliation use found in scholarly literature (Google Scholar, Web of Science). Determination: Not in scope
+
+---
+arthurpsmith
+07/13/2021, 13:27:47 | 07/13/2021, 13:27:47
+comment_text: I've looked a bit also, I agree with nlundvick, not in scope. I did find an ISNI id for them.
+
+---
+"
+Declined requests,945629611,216,https://github.com/ror-community/ror-updates/issues/216,closed,duplicate,2021-07-15 18:02:58,2021-07-23 20:21:40,"Add a new organization to ROR: 
+ 
+Microscopy Australia","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Microscopy Australia
+Website: https://www.micro.org.au
+Link to publications: https://micro.org.au/news-events/news/
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Australian Microscopy and Microanalysis Research Facility, AMMRF (formerly)
+Acronym/abbreviation: n/a
+Related organizations: 
+City: Sydney
+Country: Australia
+Other information about this request: Microscopy Australia is a consortium of 9 university-based microscopy facilities.",
+Declined requests,948735873,219,https://github.com/ror-community/ror-updates/issues/219,closed,duplicate,2021-07-20 14:52:54,2021-07-23 20:21:45,"Add a new organization to ROR: 
+ 
+Institute of Mental Health and Neurosciences, Kozhikode, Kerala, India","Summary of request: Add a new organization to ROR
+
+Name of organization: Institute of Mental Health and Neurosciences, Kozhikode, Kerala, India
+Website: http://imhans.ac.in/
+Link to publications: https://doi.org/10.1038/s41380-021-01199-7, https://doi.org/10.1038/s41398-021-01392-w https://doi.org/10.1093/schbul/sbab007, 
+Organization type: 
+Wikipedia page: https://en.wikipedia.org/wiki/Institute_of_Mental_Health_and_Neurosciences
+Wikidata ID: https://www.wikidata.org/wiki/Q98113942
+ISNI ID: https://isni.org/isni/0000000460038617
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: none
+Acronym/abbreviation: IMHANS
+Related organizations: 
+City: Kozhikode
+Country: India
+Other information about this request: ",
+Declined requests,956268272,229,https://github.com/ror-community/ror-updates/issues/229,closed,duplicate,2021-07-29 23:07:31,2021-08-04 23:34:16,"Add a new organization to ROR: 
+ 
+Australian Plant Phenomics Facility","Summary of request: Add a new organization to ROR
+
+Name of organization: Australian Plant Phenomics Facility
+Website: https://www.plantphenomics.org.au/
+Link to publications: https://doi.org/10.1111/ele.13353 , https://doi.org/10.3389/fpls.2020.618342 , https://doi.org/10.1186/s12870-019-1723-0
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: None
+Acronym/abbreviation: APPF
+Related organizations: University of Adelaide, Australian National University, CSIRO - these host the three nodes of APPF
+City: Adelaide, South Australia
+Country: Australia
+Other information about this request: ",
+Declined requests,965416778,240,https://github.com/ror-community/ror-updates/issues/240,closed,duplicate; level 3; update record; kitten; org-requested,2021-08-10 21:31:55,2021-08-10 21:49:50,"Modify the information in an existing ROR record: 
+Pusan National University https://ror.org/01an57a31
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Pusan National University
+ROR ID: https://ror.org/01an57a31
+Which part of the record needs to be changed? Organization website
+Description of change: Current website link shows 'Sorry, page not found'. 'https://www.pusan.ac.kr/eng' is a proper address.
+
+Other information about this request: Just change the domain address. Thanks!
+
+**Curator comments (MG):**
+Change website to https://www.pusan.ac.kr per ROR policy on avoiding language suffixes in websites","mariagould
+08/10/2021, 21:49:32 | 08/10/2021, 21:49:32
+comment_text: Duplicates #151 
+
+---
+"
+Declined requests,950210207,221,https://github.com/ror-community/ror-updates/issues/221,open,level 1; out of scope; new record; jaguar; org-requested,2021-07-22 00:42:12,2021-09-07 12:27:22,"Add a new organization to ROR: 
+ 
+Colectica","Summary of request: Add a new organization to ROR
+
+Name of organization: Colectica
+Website: https://www.colectica.com
+Link to publications: https://www.icpsr.umich.edu/web/pages/NACDA/colectica-portal.html https://www.ssc.wisc.edu/naddi2015/webready/NADDI2015_Iverson_Radler.pdf https://doi.org/10.5281/zenodo.3228385
+Organization type: Company
+Wikipedia page: https://en.wikipedia.org/wiki/Colectica
+Wikidata ID: https://www.wikidata.org/wiki/Q105299208
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Algenta Technologies
+Acronym/abbreviation: Colectica
+Related organizations: 
+City: Minneapolis
+Country: United States
+Other information about this request: ","nlundvick
+08/03/2021, 14:32:37 | 08/03/2021, 14:32:37
+comment_text: This is a company that provides software for data management. First link to publications is to the National Archive of Computerized Data on Aging data repository, which is based on a Colectica platform. Other affiliation uses found in informal publications/slide presentations, almost all by the company's founder. Recommendation: Not in scope as a research organization
+
+---
+arthurpsmith
+08/17/2021, 13:27:27 | 08/17/2021, 13:27:27
+comment_text: So their software clearly is used for research purposes, but ROR isn't an identifier for software. The company itself seems very small and as Nick points out is not really used as an affiliation except for mostly promotional materials. I agree this is not in scope.
+
+---
+"
+Declined requests,975742879,259,https://github.com/ror-community/ror-updates/issues/259,closed,non-request,2021-08-20 16:09:16,2021-08-20 16:55:46,"Request to add the City of the organisation to the record: 
+ 
+","Summary of request: Request to add the City of the organisation to the record
+
+How will a ROR ID for this organization be used? 
+Other information about this request: The lack of the mentioning of the city where the organisation is in makes it sometimes difficult to identify, especially when it comes the United States where everything excists 3 times if not more. It's especially difficult to identify the entity when the researcher is not very clear in the publication and there the mentioning of the city with the record would make it more user friendly. Kind regards","mariagould
+08/20/2021, 16:55:10 | 08/20/2021, 16:55:46
+comment_text: Closing as this is general feedback and not a specific change request. 
+
+City location is available via the API. In the future, we will be exposing additional metadata in the search UI. 
+
+---
+"
+Declined requests,940270928,212,https://github.com/ror-community/ror-updates/issues/212,open,level 1; out of scope; new record; jaguar; org-requested,2021-07-08 22:39:23,2022-01-20 00:19:53,"Add a new organization to ROR: 
+ 
+International Platform on Mental Health","Summary of request: Add a new organization to ROR
+
+Name of organization: International Platform on Mental Health
+Website: https://mhgc21.org/en/about
+Link to publications: https://mhgc21.org/en/mhgc21/events/October-2021-Report/About-October-2021-Conference
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: MHGC21.ORG
+Acronym/abbreviation: MHGC21.ORG
+Related organizations: 
+City: Kyiv
+Country: Ukraine
+Other information about this request: The International Platform on Mental Health “Mental Health: global challenges” (www.mhgc21.org ) is the platform for Social Initiatives, for dissemination of leading ideas and experience, for support of building academic and professional networks, developing future collaborations between researchers and professionals across the different regions of the world. The Platform is doing the attempt to rise the social awareness, to facilitate social changes, to support Governmental initiatives, to develop qualitative skills of professionals. The Platform helps researchers, social activists and all interested parties from all over the world to improve multidisciplinary aspects of Mental Health Care system
+Since 2017 we are organizing annual International Conference “Mental Health; global challenges of XXI century”. We try to commute all main actors in the field of Mental Health. Thus, Governmental, International, Religious, Academic, Research, Educational and Civil Institutions, Volunteer Movements took part in the Conference activities. 
+Among our Honorable Guests, Partners and Speakers were:    
+•	World Federation of Mental Health (Dr. Ana de Sousa Baptista, Director of the Board and Chair of the Mental Health Policy Section of the World Federation of Mental Health)                                                           
+•	WHO
+•	International Medical Corps
+•	Red Cross Society
+•	Interdisciplinary Council on Development and Learning
+•	Médecins Sans Frontières 
+•	EMDR Europe Association
+•	National Institute of Health (Italy)
+•	Balkan Universities Association
+•	Mental Health Reform, National Coalition for Mental Health in Ireland
+The main Platform’s results are: social awareness-rising campaign, geographical diversification, research contributions, partnership building.
+social awareness-rising campaign. The Platform organizes activities between these annual Conferences. Thus, in 2018 we organized several seminars and workshops in Ukraine. In January 2019 we organized National Round table meeting on rehabilitation of ex-combatants and their families. In May 2019 – International Public-Scientific Initiative” Community: health, human potential, socio-economic innovations”. For example, our audience for Event was more than 2 600 participants. In October 2020 – Mental Health Literacy Event (devoted to WMHD). Within this Event we organized activities in North (Chernigiv, Human Rights House), Central (Kyiv, National Academy of Management), South-West (Khmelnytsky, City Hospital), South-East (Zaporozhye, Caritas). Our audience (more than 600 persons) – family doctors, educators, social workers (persons who can “deliver” this knowledge to wide Ukrainian society)
+geographical diversification. There were participants from Algeria, Austria, Belgium, Canada, Cyprus, Finland, Greece, Italy, Israel, Latvia, Lithuania, Netherlands, Portugal, Spain, South Africa, Taiwan, Ukraine, United Kingdom, USA on our Conference
+research contributions. The MHGC Proceedings and Journal “Mental Health: global challenges” (ISSN 2612-2138) were established. The MHGC Proceedings is also placed in National Library of Ukraine (www.nbuv.gov.ua )
+The International Journal “Mental Health: global challenges” (ISSN 2612-2138) (www.mhgcj.org ) is already indexed in DOAJI, ERIHPlus, Crossref, BASE, CORE, Index Copernicus, ResearchBib, … The Journal is also available on Publons (Clarivate Analytics), National Library of Australia, HINARY (WHO). The Journal considers with special attention the manuscripts which can be of interest for policy makers and practioners
+partnership building. We are doing the attempt to establish cooperation regarding MHC globally. Among our participants were Governmental Institutions, Directors and Presidents, Vice-Directors, Vice-Rectors, Deans of the Faculties, Heads of the Departments, Professors and Specialists
+","nlundvick
+08/02/2021, 18:19:19 | 08/02/2021, 18:19:19
+comment_text: This is a Ukrainian organization established in 2017/2018 that organizes and publishes the proceedings for an annual conference on mental health. They also publish a peer reviewed open access journal. No affiliation use found. Organization seems to be run by one person, Dr. Viktor Vus. I don't think this organization is in scope, second reviewer may want to move to Needs Discussion. If adding, will also need to discuss metadata. Org name in the request was ""International Platform on Mental Health"", but the name throughout org's website is ""Mental Health: Global Challenges of XXI Century.""
+
+---
+KellyStathis
+09/03/2021, 22:39:03 | 09/03/2021, 22:39:20
+comment_text: I agree that this organization does not appear to be in scope, for the reasons described above. I checked that Dr. Viktor Vus uses a different affiliation when publishing, which is already in ROR (https://ror.org/01ezcv773) - see https://www.impactio.com/publication/2551944358. I am moving this to declined requests.
+
+---
+"
+Declined requests,945629636,217,https://github.com/ror-community/ror-updates/issues/217,open,level 1; out of scope; new record; jaguar; org-requested,2021-07-15 18:03:00,2021-09-07 19:25:39,"Add a new organization to ROR: 
+ 
+Polyneme LLC","Summary of request: Add a new organization to ROR
+
+Name of organization: Polyneme LLC
+Website: https://polyneme.xyz/
+Link to publications: https://polyneme.xyz/publications
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: N/A
+Acronym/abbreviation: N/A
+Related organizations: 
+City: New York, NY
+Country: USA
+Other information about this request: ","arthurpsmith
+08/27/2021, 19:27:39 | 08/27/2021, 19:27:39
+comment_text: In my view this is out of scope - a consulting company, appears to be just a single person (D. Winston).
+
+---
+carlyrobinson
+09/07/2021, 13:24:34 | 09/07/2021, 13:24:34
+comment_text: Single person and not being used as affiliation on that person's publications. Out of scope.
+
+---
+"
+Declined requests,950210215,222,https://github.com/ror-community/ror-updates/issues/222,open,level 1; out of scope; new record; lion; org-requested,2021-07-22 00:42:13,2021-09-07 19:26:59,"Add a new organization to ROR: 
+ 
+Brown Dog Consulting","Summary of request: Add a new organization to ROR
+
+Name of organization: Brown Dog Consulting
+Website: www.browndogllc.com
+Link to publications: https://unesdoc.unesco.org/ark:/48223/pf0000378061?posInSet=1&queryId=66d5f7f9-94e2-4253-9cc9-eba3d7b7ee8a
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: none
+Acronym/abbreviation: BDC
+Related organizations: Lotus Circle
+City: Seattle
+Country: United States
+Other information about this request: I would like to register both Brown Dog Consulting LLC (a for-profit corporation) and Lotus Circle (a nonprofit corporation).  I am the founder of both organizations and am affiliated with the University of Washington in Seattle, WA as a Senior Fellow in the Disability Inclusive Development Initiative and, effective January 2022, Affiliate Assistant Professor in the Law, Societies and Justice Department.  Both BDC and LC are vehicles to bridge the gap between academic research and its practical applications.  I use both to facilitate contracting with external organizations such as UNESCO and Humanity & Inclusion for research particularly into the rights of persons with disabilities.  We are anticipating applying for grants from organizations like SVRI and others and expanding our research profile, for which a ROR ID would be helpful.  Many thanks in advance for your consideration.","arthurpsmith
+08/27/2021, 19:53:40 | 08/27/2021, 19:53:40
+comment_text: Clearly only a single person involved in research in these (2) organizations. Out of scope for ROR.
+
+---
+carlyrobinson
+09/07/2021, 13:15:44 | 09/07/2021, 13:15:44
+comment_text: No indication that there is more than one person, so out of scope. 
+
+---
+"
+Declined requests,1012028482,305,https://github.com/ror-community/ror-updates/issues/305,closed,duplicate; level 2; update record; kitten; org-requested,2021-09-30 10:56:12,2021-09-30 11:42:38,"Modify the information in an existing ROR record: 
+Musée National d'Histoire Naturelle https://ror.org/05natt857
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Musée National d'Histoire Naturelle
+ROR ID: https://ror.org/05natt857
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record
+Description of change: Change the primary name to the English version ""National Museum of Natural History, Luxembourg"" to better distinguish from the MNHNL in France and align with other repositories like GBIF.
+The French version ""Musée National d'Histoire Naturelle, Luxembourg"" should be added as an ""other name"" to the record.
+","mariagould
+09/30/2021, 11:42:37 | 09/30/2021, 11:42:37
+comment_text: Duplicates #215 
+
+---
+"
+Declined requests,1003404464,291,https://github.com/ror-community/ror-updates/issues/291,closed,level 1; duplicate; new record; jaguar; org-requested,2021-09-21 22:32:54,2021-09-30 13:11:02,"Add a new organization to ROR: 
+ 
+De Bastei","Summary of request: Add a new organization to ROR
+
+Name of organization: De Bastei
+Website: www.debastei.nl
+Link to publications: https://doi.org/10.13039/100005595
+Organization type: Other (Use this category for any organization that does not fit the categories above)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: None
+Acronym/abbreviation: None
+Related organizations: 
+City: Nijmegen
+Country: Nederland
+Year established: 2015
+How will a ROR ID for this organization be used? To identify affiliations for datasets
+Other information about this request: ","mariagould
+09/30/2021, 13:10:49 | 09/30/2021, 13:10:49
+comment_text: Duplicates #260 
+
+---
+"
+Declined requests,980440609,268,https://github.com/ror-community/ror-updates/issues/268,closed,level 1; out of scope; new record; lion; org-requested,2021-08-26 16:34:52,2021-10-11 09:47:22,"Add a new organization to ROR: 
+ 
+Universitätsbibliothek Heidelberg","Summary of request: Add a new organization to ROR
+
+Name of organization: Universitätsbibliothek Heidelberg
+Website: https://www.ub.uni-heidelberg.de/
+Link to publications: Catalogue entry: https://katalog.ub.uni-heidelberg.de/titel/66605093   Publication: https://doi.org/10.11588/diglit.2667
+Organization type: Archive (An organization involved in stewarding research and cultural heritage materials. Includes libraries, museums, and zoos)
+Wikipedia page: https://de.wikipedia.org/wiki/Universit%C3%A4tsbibliothek_Heidelberg ; ENG: https://en.wikipedia.org/wiki/Heidelberg_University_Library
+Wikidata ID: https://www.wikidata.org/wiki/Q880794
+ISNI ID: https://isni.org/isni/0000000122480429
+GRID ID: https://www.grid.ac/institutes-PENDING_!!!!!!!
+Crossref Funder ID: 
+Other names for the organization: see here: http://d-nb.info/gnd/2002498-8
+Acronym/abbreviation: UB Heidelberg
+Related organizations: Heidelberg University: https://ror.org/038t36y30
+City: Heidelberg
+Country: Germany
+Year established: 1386
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system, DOI Metadata, OJS metadata if possible OMP metadata
+Other information about this request: Please note the URL for GRID, ie. application is pending as it just went out today. Please find here the link to ISNI (https://isni.org/isni/0000000122480429) with further titles/publications related to Heidelberg University Library. Please let me know should any information be missing. Many thanks and best regards.","mariagould
+08/26/2021, 16:51:28 | 08/26/2021, 16:51:28
+comment_text: Generally, we do not assign separate ROR IDs for libraries that are part of a university. This is a policy GRID has held as well. I will be curious to know whether the requestor's GRID ID application ends up getting approved. I would suggest that we discuss this as a group and keep an eye on the next (final) GRID update. 
+
+---
+arthurpsmith
+09/07/2021, 15:34:04 | 09/07/2021, 15:34:04
+comment_text: Note - seems clearly part of the university. If added to GRID then I guess we will also add, but it wouldn't normally qualify as needing its own ROR id.
+
+---
+mariagould
+09/30/2021, 13:15:27 | 09/30/2021, 13:15:27
+comment_text: It appears that GRID did not end up creating a separate record for the university library. The ROR ID that should be used for this is the ID for the university: https://ror.org/00g30e956. 
+
+---
+hauschke
+10/11/2021, 09:47:22 | 10/11/2021, 09:47:22
+comment_text: The UB Heidelberg serves (as other university libraries, too) as a publisher. It would be really useful to include these institutions into ROR, because they play a meaningful role in the scholarly world. 
+
+---
+"
+Declined requests,871240068,132,https://github.com/ror-community/ror-updates/issues/132,closed,level 2; update record; kitten; inactive,2021-04-29 16:52:54,2021-10-04 09:03:09,"Modify the information in an existing ROR record: 
+Parkside School (https://ror.org/02wg5z273)
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Parkside School
+ROR ID: https://ror.org/02wg5z273
+Which part of the record needs to be changed? Something else
+Description of change: For all the other metadata, this appears to be a UK school. However the location is listed as United States, which appears to be location data for a different school with this name.
+","mariagould
+05/13/2021, 22:57:10 | 05/13/2021, 22:57:10
+comment_text: Location data needs to be updated:
+
+Address:
+The Manor, Stoke D'Abernon Cobham, Surrey
+KT11 3PX
+
+Country: United Kingdom
+
+---
+mariagould
+10/04/2021, 09:01:09 | 10/04/2021, 09:01:09
+comment_text: This record is no longer active. Closing. 
+
+---
+"
+Declined requests,877952876,155,https://github.com/ror-community/ror-updates/issues/155,closed,duplicate; level 3; update record; jaguar; org-requested,2021-05-06 19:57:22,2021-10-04 09:20:29,Modify Institute for Sustainable Technologies (https://ror.org/03yntf296),"Summary: Modify the information in an existing ROR record
+Name of organization:  Institute for Sustainable Technologies 
+ROR ID: https://ror.org/03yntf296
+Description of change: I would like to change the name of our institution (because we are now in the Łukasiewicz Research Network and our current name is: Łukasiewicz Research Network – Institute for Sustainable Technologies. Polish name is: Sieć Badawcza Łukasiewicz – Instytut Technologii Eksploatacji) and the website (to: http://www.en.itee.radom.pl/). 
+
+--
+Curator recommendation (MG):
+- Change primary name to `Łukasiewicz Research Network – Institute for Sustainable Technologies`
+- Move alias to language name field with code `pl` and update Polish name to `Sieć Badawcza Łukasiewicz – Instytut Technologii Eksploatacji`
+- Change website to http://www.en.itee.radom.pl/
+
+","arthurpsmith
+05/07/2021, 17:39:13 | 05/07/2021, 17:39:13
+comment_text: Agree with MG recommendation; additionally add:
+Wikidata ID: Q11713230
+Wikipedia link (Polish): https://pl.wikipedia.org/wiki/Sieć_Badawcza_Łukasiewicz_–_Instytut_Technologii_Eksploatacji
+
+---
+mariagould
+10/04/2021, 09:20:22 | 10/04/2021, 09:20:22
+comment_text: Duplicates #168 
+
+---
+"
+Declined requests,871240181,140,https://github.com/ror-community/ror-updates/issues/140,closed,level 1; duplicate; new record; jaguar; org-requested,2021-04-29 16:53:02,2021-10-04 10:24:50,"Add a new organization to ROR: 
+ ()
+UNIVERSIDAD NACIONAL AUTÓNOMA DE TAYACAJA DANIEL HERNÁNDEZ MORILLO","Summary of request: Add a new organization to ROR
+
+Name of organization: Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo
+Website: https://unat.edu.pe/
+Link to publications: https://revistas.unat.edu.pe/index.php/RevTaya
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000464701041
+GRID ID: 
+Crossref Funder ID: 
+Ringgold ID: 
+Other names for the organization:  National Autonomous University of Tayacaja Daniel Hernández Morillo
+Acronym/abbreviation: UNAT
+Related organizations: 
+City: Huancavelica
+Country: Peru
+Other information about this request: LO NECESITAMOS POR NUESTRAS REVISTAS CIENTÍFICAS INDIZADAS INTERNACIONALMENTE","arthurpsmith
+05/18/2021, 14:46:50 | 05/18/2021, 14:46:50
+comment_text: Looks like a relatively new university in Peru (formed in 2016). Definitely is publishing research, ought to have a ROR id. I couldn't find it in Wikipedia/Wikidata at all; I did find an ISNI id.
+
+---
+carlyrobinson
+05/24/2021, 16:39:13 | 05/24/2021, 16:39:13
+comment_text: Agree, Universidad Nacional Autónoma de Tayacaja Daniel Hernández Morillo should have a ROR ID.
+
+---
+mariagould
+10/04/2021, 10:24:42 | 10/04/2021, 10:24:42
+comment_text: Captured in #233. Closing this one as duplicate. 
+
+---
+"
+Declined requests,980440635,270,https://github.com/ror-community/ror-updates/issues/270,closed,duplicate; level 2; update record; kitten; org-requested,2021-08-26 16:34:53,2021-08-26 17:00:58,"Modify the information in an existing ROR record: 
+Avondale College of Higher Education https://ror.org/02r276210
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Avondale College of Higher Education
+ROR ID: https://ror.org/02r276210
+Which part of the record needs to be changed? Primary name
+Description of change: Avondale College of Higher Education name needs to be changed to Avondale University due to recent TEQSA conferral of university status
+
+","mariagould
+08/26/2021, 17:00:57 | 08/26/2021, 17:00:57
+comment_text: Closing as this is a duplicate of #265 
+
+---
+"
+Declined requests,915256810,195,https://github.com/ror-community/ror-updates/issues/195,closed,level 1; duplicate; new record; lion; needs discussion,2021-06-08 16:58:37,2021-10-05 18:21:16,Add a new organization to ROR: Institute of Nanoscience and Materials of Aragon,"Summary of request: Add a new organization to ROR
+
+Name of organization: Institute of Nanoscience and Materials of Aragon
+Website: https://inma.unizar-csic.es/
+Link to publications: https://inma.unizar-csic.es/investigacion/publicaciones-cientificas/
+Wikipedia page:
+Wikidata ID: Q30263811
+ISNI ID: 0000000105762336
+GRID ID:
+Crossref Funder ID: 501100014559
+Ringgold ID:
+Type: Other
+Other names for the organization: Instituto de Nanociencia y Materiales de Aragón
+Acronym/abbreviation: INMA
+Related organizations: Parent: University of Zaragoza (https://ror.org/012a91z28); Parent: Spanish National Research Council (https://ror.org/02gfc7t72)
+City: Zaragoza
+Country: Spain
+Other information about this request: This is to create a new ROR ID for INMA, following the 2020 merger of the Aragón Materials Science Institute (ICMA) (https://ror.org/031n2c920) with the University Institute of Research in Nanoscience of Aragon (INA).
+","mariagould
+06/08/2021, 17:01:16 | 06/08/2021, 17:02:19
+comment_text: This is a successor request to #93 as discussed with the curation group. 
+
+The newly created institute does not appear to have updated Wikidata or ISNI records. I provided the ones from the predecessor record, Aragon Materials Science Institute. I also added Crossref Funder Registry ID for the other institute that merged into the present one, Institute of Nanoscience at University of Zaragoza. 
+
+---
+mariagould
+06/22/2021, 18:35:14 | 06/22/2021, 18:35:29
+comment_text: Update (also posted in #93): 
+Aragon Materials Science Institute (https://ror.org/031n2c920) maps to GRID ID grid.466773.7. The GRID record has been updated with a new name: Instituto de Nanociencia y Materiales de Aragón. Therefore, we may want to reconsider whether we should create a new record for the Institute of Nanoscience. 
+
+---
+mariagould
+10/04/2021, 08:24:08 | 10/04/2021, 08:24:08
+comment_text: Reviewing this one again with a final recommendation: We have an entry in ROR (https://ror.org/031n2c920) for Instituto de Nanociencia y Materiales de Aragón (INMA), an entity created in 2020 that fused the Institute of Research in Nanoscience of Aragon (INA) (no prior ROR ID) and Aragón Materials Science Institute (ICMA) (the name previously used in https://ror.org/031n2c920). The new institute name is being used as an affiliation in publications, e.g., https://doi.org/10.1016/j.cej.2020.126103.
+
+My recommendation is that we add the prior names Institute of Research in Nanoscience of Aragon and Aragón Materials Science Institute as aliases to the existing record. 
+
+Posting this comment in #93 as well. 
+
+---
+mariagould
+10/05/2021, 18:21:08 | 10/05/2021, 18:21:08
+comment_text: Closing per determination in #93 
+
+---
+"
+Declined requests,951865526,225,https://github.com/ror-community/ror-updates/issues/225,closed,level 1; duplicate; new record; jaguar; org-requested; grid,2021-07-23 20:08:23,2021-10-07 10:08:25,"Add a new organization to ROR: 
+ 
+Corporación Universitaria Comfacauca - Unicomfacauca","Summary of request: Add a new organization to ROR
+
+Name of organization: Corporación Universitaria Comfacauca - Unicomfacauca
+Website: https://www.unicomfacauca.edu.co/
+Link to publications: https://revistas.unicomfacauca.edu.co/ojs/index.php/itc/index
+Organization type: Education
+Wikipedia page: https://es.wikipedia.org/wiki/Unicomfacauca
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000404184003
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Corporación Universitaria Comfacauca
+Acronym/abbreviation: UNICOMFACAUCA
+Related organizations: 
+City: Popayán
+Country: Colombia
+Established date: 2001
+Other information about this request: Thanks for ROR index","mariagould
+10/07/2021, 10:08:17 | 10/07/2021, 10:08:17
+comment_text: Duplicates #190 
+
+---
+"
+Declined requests,996466612,282,https://github.com/ror-community/ror-updates/issues/282,closed,duplicate; new record; grid,2021-09-14 21:44:49,2021-10-07 10:21:44,"Add a new organization to ROR: 
+ 
+Mukachevo State University, Мукачівський державний університет, Мукачевский государственный университет","Summary of request: Add a new organization to ROR
+
+Name of organization: Mukachevo State University, Мукачівський державний університет, Мукачевский государственный университет
+Website: https://msu.edu.ua/
+Link to publications: https://doi.org/10.31339
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D0%BA%D0%B0%D1%87%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82
+Wikidata ID: 
+ISNI ID: 
+GRID ID: https://www.grid.ac/institutes/grid.511778.d
+Crossref Funder ID: https://doi.org/10.31339
+Other names for the organization: Мукачівський державний університет, Мукачевский государственный университет, Mukachevo State University, Мукачівський гуманітарно-педагогічний інститут, Мукачівський технологічний інститут, МТІ
+Acronym/abbreviation: MSU, МДУ.
+Related organizations: 
+City: Mukachevo
+Country: Ukraine
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility
+Other information about this request: We ask you  assign a ROR ID to our institution","mariagould
+10/07/2021, 10:21:37 | 10/07/2021, 10:21:37
+comment_text: Duplicates #189 
+
+---
+"
+Declined requests,1023491149,320,https://github.com/ror-community/ror-updates/issues/320,closed,level 1; duplicate; new record; jaguar; org-requested,2021-10-12 07:59:55,2021-10-12 08:01:54,"Add a new organization to ROR: 
+ 
+Beacon Science & Consulting","Summary of request: Add a new organization to ROR
+
+Name of organization: Beacon Science & Consulting
+Website: beaconscience.com.au
+Link to publications: https://doi.org/10.1029/2021EO155631
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: BSC
+Acronym/abbreviation: BS&C
+Related organizations: 
+City: Adelaide
+Country: Australia
+Year established: 2019
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: It has a Ringgold ID 591322.","mariagould
+10/12/2021, 08:01:54 | 10/12/2021, 08:01:54
+comment_text: Duplicates #295 
+
+---
+"
+Declined requests,1019855766,306,https://github.com/ror-community/ror-updates/issues/306,closed,duplicate; level 3; update record; org-requested,2021-10-07 10:03:58,2021-10-12 14:49:03,"Modify the information in an existing ROR record: 
+Library of the Czech Academy of Sciences https://ror.org/028sgmw18
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Library of the Czech Academy of Sciences
+ROR ID: https://ror.org/028sgmw18
+Which part of the record needs to be changed? Other IDs for the organization
+Description of change: Please add a link to wikidata record https://www.wikidata.org/wiki/Q17138718 ","mariagould
+10/12/2021, 14:49:02 | 10/12/2021, 14:49:02
+comment_text: Duplicates #303 
+
+---
+"
+Declined requests,1019855884,314,https://github.com/ror-community/ror-updates/issues/314,closed,duplicate; level 2; update record; kitten; org-requested,2021-10-07 10:04:05,2021-10-13 13:17:24,"Modify the information in an existing ROR record: 
+Avondale College of Higher Education https://ror.org/02r276210
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Avondale College of Higher Education
+ROR ID: https://ror.org/02r276210
+Which part of the record needs to be changed? Primary name
+Description of change: Avondale University instead of Avondale College of Higher Education
+","mariagould
+10/13/2021, 13:17:24 | 10/13/2021, 13:17:24
+comment_text: Duplicates #265 
+
+---
+"
+Declined requests,1033944691,327,https://github.com/ror-community/ror-updates/issues/327,closed,duplicate; level 2; update record; kitten; org-requested,2021-10-22 21:00:19,2021-10-27 16:31:56,"Modify the information in an existing ROR record: 
+Universidad de Cantabria https://ror.org/046ffzj20
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Universidad de Cantabria
+ROR ID: https://ror.org/046ffzj20
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record
+Description of change: Primary name should be in Spanish language: UNIVERSIDAD DE CANTABRIA.
+Secondary name should be only English: UNIVERSITY OF CANTABRIA.
+Other information about this request: In our region Spanish is the only official language and English is the one used for international students, lecturers, researchers and other people.","mariagould
+10/27/2021, 16:31:55 | 10/27/2021, 16:31:55
+comment_text: Duplicates #290 
+
+---
+"
+Declined requests,1033944768,333,https://github.com/ror-community/ror-updates/issues/333,closed,duplicate; level 2; update record; kitten; org-requested,2021-10-22 21:00:25,2021-10-27 16:38:34,"Modify the information in an existing ROR record: 
+Eidgenössische Hochschule für Berufsbildung https://ror.org/00zg4za48
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Eidgenössische Hochschule für Berufsbildung
+ROR ID: https://ror.org/00zg4za48
+Which part of the record needs to be changed? Organization website
+Description of change: the URL of the organization has to be changed from http://www.ehb-schweiz.ch/en/ to: https://www.sfuvet.swiss/
+","mariagould
+10/27/2021, 16:38:09 | 10/27/2021, 16:38:09
+comment_text: Duplicates #289 
+
+---
+"
+Declined requests,1037579231,336,https://github.com/ror-community/ror-updates/issues/336,closed,level 1; new record; already in ror; jaguar; org-requested,2021-10-27 15:45:14,2021-10-27 16:40:06,"Add a new organization to ROR: 
+ 
+ankara university","Summary of request: Add a new organization to ROR
+
+Name of organization: ankara university
+Website: ankara.edu.tr 
+Link to publications: https://www.google.com/search?q=KADER+DERG%C4%B0S%C4%B0&oq=KADER+DERG%C4%B0S%C4%B0&aqs=chrome..69i57j35i39j0i22i30.4492j0j7&sourceid=chrome&ie=UTF-8
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: ANKARA UNİVERSİTY
+Acronym/abbreviation: AÜİF
+Related organizations: 
+City: TÜRKİYE
+Country: ANKARA
+Year established: 
+How will a ROR ID for this organization be used? To acknowledge a research facility
+Other information about this request: ","mariagould
+10/27/2021, 16:39:27 | 10/27/2021, 16:39:27
+comment_text: Organization is already in ROR: https://ror.org/01wntqw50
+
+---
+"
+Declined requests,1037579265,338,https://github.com/ror-community/ror-updates/issues/338,closed,duplicate; level 3; update record; kitten; org-requested,2021-10-27 15:45:16,2021-10-27 16:44:44,"Modify the information in an existing ROR record: 
+Phoenix Hospital Chelmsford https://ror.org/03jasrp23
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Phoenix Hospital Chelmsford
+ROR ID: https://ror.org/03jasrp23
+Which part of the record needs to be changed? Other names or name versions listed in the record, Organization website
+Description of change: We've had a website merge, need the new website domain - https://www.phoenixhospitalgroup.com/our-locations/phoenix-hospital-chelmsford/
+We also need the 'other name' changed from 'Baddow Hospital' To Phoenix Hospital Group
+
+","mariagould
+10/27/2021, 16:44:28 | 10/27/2021, 16:44:28
+comment_text: Duplicates #323 
+
+---
+"
+Declined requests,1042894595,343,https://github.com/ror-community/ror-updates/issues/343,closed,non-request,2021-11-02 22:08:29,2021-11-02 22:13:50,"Additional information to be displayed: 
+ 
+","Summary of request: Additional information to be displayed
+
+Other information about this request: In GRID, a search for CSIRO retrieves 24 entries. However, a search in ROR retrieves only 8 entries. It appears that parent institutions and related institutions are not included in a search. Can this be enabled please? It would be valuable to display parent institutions and related institutions in a record's display, as is the case in GRID; see for example https://grid.ac/institutes/grid.510150.0 and https://grid.ac/institutes/grid.506668.b","mariagould
+11/02/2021, 22:13:25 | 11/02/2021, 22:13:25
+comment_text: This will be addressed in future work to enhance search and API queries. See https://github.com/ror-community/ror-api/issues/156. 
+
+---
+"
+Declined requests,1042894608,344,https://github.com/ror-community/ror-updates/issues/344,closed,duplicate; level 3; update record; kitten,2021-11-02 22:08:30,2021-11-02 22:16:09,"Modify the information in an existing ROR record: 
+Library of the Czech Academy of Sciences https://ror.org/028sgmw18
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Library of the Czech Academy of Sciences
+ROR ID: https://ror.org/028sgmw18
+Which part of the record needs to be changed? Other IDs for the organization
+Description of change: ISNI in our ROR record is wrong - 0000000107902056. Our correct ISNI is 000000046437305X
+
+","mariagould
+11/02/2021, 22:15:54 | 11/02/2021, 22:15:54
+comment_text: Duplicates #303 
+
+---
+"
+Declined requests,1067712687,366,https://github.com/ror-community/ror-updates/issues/366,closed,level 1; duplicate; new record; jaguar,2021-11-30 21:56:54,2021-12-02 00:53:57,"Add a new organization to ROR: 
+ 
+Pandian Educational Trust","Summary of request: Add a new organization to ROR
+
+Name of organization: Pandian Educational Trust
+Website: http://pandianeducationaltrust.com/
+Link to publications: Yes
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000493432717
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: nil
+Acronym/abbreviation: nil
+Related organizations: nil
+City: Virudhunagar
+Country: India
+Year established: 2018
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: nil","mariagould
+12/02/2021, 00:52:29 | 12/02/2021, 00:52:29
+comment_text: duplicates #68 
+
+---
+"
+Declined requests,1067712703,368,https://github.com/ror-community/ror-updates/issues/368,closed,duplicate; level 2; update record; kitten,2021-11-30 21:56:56,2021-12-02 00:57:34,"Modify the information in an existing ROR record: 
+Institute of the Czech Language https://ror.org/01912nj27
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Institute of the Czech Language
+ROR ID: https://ror.org/01912nj27
+Which part of the record needs to be changed? Primary name
+Description of change: Halo, the right English name of our institution is Czech Language Institute of the Czech Academy of Sciences not Institute of the Czech Language. Please can change this? 
+
+Other information about this request: https://www.avcr.cz/en/about-us/cas-structure/research-institutes/
+https://ujc.avcr.cz/index.html","mariagould
+12/02/2021, 00:56:52 | 12/02/2021, 00:56:52
+comment_text: Duplicates #335 
+
+---
+"
+Declined requests,1067712781,373,https://github.com/ror-community/ror-updates/issues/373,closed,level 1; duplicate; new record; jaguar,2021-11-30 21:57:01,2021-12-02 14:53:58,"Add a new organization to ROR: 
+ 
+Institut Terre et Environnement de Strasbourg","Summary of request: Add a new organization to ROR
+
+Name of organization: Institut Terre et Environnement de Strasbourg
+Website: https://ites.unistra.fr
+Link to publications: https://dx.doi.org/10.1038/s41529-021-00196-z
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Earth and Environment Institute of Strasbourg
+Acronym/abbreviation: ITES
+Related organizations: University of Strasbourg
+City: Strasbourg
+Country: France
+Year established: 2021
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility
+Other information about this request: ","mariagould
+12/02/2021, 14:53:23 | 12/02/2021, 14:53:23
+comment_text: Duplicates #365 
+
+---
+"
+Declined requests,1042894651,348,https://github.com/ror-community/ror-updates/issues/348,open,level 1; out of scope; new record; lion; org-requested,2021-11-02 22:08:34,2021-12-06 20:37:48,"Add a new organization to ROR: 
+ 
+CACAO","Summary of request: Add a new organization to ROR
+
+Name of organization: CACAO
+Website: https://gowiki.tamu.edu/
+Link to publications: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009463; . http://www.ableweb.org/volumes/vol-39/?art=6
+Organization type: Other (Use this category for any organization that does not fit the categories above)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Community Assessment of Community Annotation with Ontology
+Acronym/abbreviation: CACAO
+Related organizations: https://ror.org/01f5ytq51
+City: College Station
+Country: United States
+Year established: 2011
+How will a ROR ID for this organization be used? To identify affiliations for datasets
+Other information about this request: ","nlundvick
+12/06/2021, 19:37:10 | 12/06/2021, 19:37:10
+comment_text: This is a community that hosts annual competitions for undergraduate students to create gene annotations, ran by Texas A&M. Related publications use Texas A&M affiliation. Website is a wiki page within Texas A&M .edu domain. Request is to add ROR for affiliations in datasets, but university affiliations may be more appropriate. Determination: Not in scope. Moving to Second Review for additional reviewer comments.
+
+---
+arthurpsmith
+12/06/2021, 20:37:47 | 12/06/2021, 20:37:47
+comment_text: I agree with @nlundvick - this is a competition, not an organization, and it seems to be heavily associated with Texas A&M. I searched Google Scholar for  references to the full name (""Community Assessment of Community Annotation with Ontology"") and it is referenced or acknowledged in about a dozen articles, but not used as an affiliation. Searching for the abbreviation CACAO brought up entirely unrelated papers so that wasn't helpful.  Anyway, I don't see this as being in scope for ROR.
+
+---
+"
+Declined requests,1011885407,297,https://github.com/ror-community/ror-updates/issues/297,open,level 1; new record; jaguar; org-requested,2021-09-30 08:37:02,2021-12-11 18:32:05,"Add a new organization to ROR: 
+ 
+ProRelix Education","Summary of request: Add a new organization to ROR
+
+Name of organization: ProRelix Education
+Website: https://www.prorelix.com/
+Link to publications: https://www.prorelix.com/certificates-awards/
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: ProRelix Services LLP
+Acronym/abbreviation: ProRelix Education
+Related organizations: 
+City: Pune
+Country: India
+Year established: 2014
+How will a ROR ID for this organization be used? To identify affiliations for datasets, To acknowledge a research facility
+Other information about this request: ","arthurpsmith
+10/22/2021, 14:58:12 | 10/22/2021, 14:58:12
+comment_text: They have a somewhat nice website and do appear to be some sort of educational organization, but they are not listed in ISNI nor wikimedia sites, nor as a Crossref Funder. Their ""link to publications"" does not list publications, only shows some certificates/awards. Searching Google Scholar for ""ProRelix"" finds nothing with this as an affiliation or anywhere else. It seems to me they are not involved in published research and do not qualify to be included in ROR.
+
+---
+nlundvick
+12/11/2021, 18:31:49 | 12/11/2021, 18:31:49
+comment_text: This is a private (for-profit?) training/educational institute. Link to publications does not include a list of publications. Rather, it includes one award and one certificate that were awarded to the institution. No publications found when searching Google Scholar and Web of Science. I concur with @arthurpsmith - this institution does not appear to be involved in research and therefore does not match criteria [2] for inclusion in ROR (https://github.com/ror-community/ror-updates).
+
+---
+"
+Declined requests,1067712768,372,https://github.com/ror-community/ror-updates/issues/372,closed,duplicate; level 2; update record; kitten; org-requested,2021-11-30 21:57:00,2021-12-23 19:20:57,"Modify the information in an existing ROR record: 
+Botanical Garden – Centre for Biological Diversity Conservation in Powsin https://ror.org/020vrnw42
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Botanical Garden – Centre for Biological Diversity Conservation in Powsin
+ROR ID: https://ror.org/020vrnw42
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record
+Description of change: I would like to kindly ask you to update/correct the name of our institution in your database. There is an error in the database regarding the name of our institution in both English and Polish. In English name instead of ""Botanical Garden - Center for Biological Diversity Conservation in Powsin"" Warsaw, PL should be: ""Polish Academy of Sciences Botanical Garden – Center for Biological Diversity Conservation in Powsin"" Warsaw, PL. Please correct the name of the institution in English and the Polish name. The correct name of the institution in Polish should be: ""Polska Akademia Nauk Ogród Botaniczny – Centrum Zachowania Różnorodności Biologicznej w Powsinie"" Warszawa, PL. Of course, we also reported the problem to GRID.
+","mariagould
+12/02/2021, 18:23:19 | 12/02/2021, 18:23:19
+comment_text: Duplicates #354 
+
+---
+"
+Declined requests,1094628313,415,https://github.com/ror-community/ror-updates/issues/415,closed,duplicate,2022-01-05 18:22:47,2022-01-05 18:30:52,"Add a new organization to ROR: 
+ 
+International Platform on Mental Health","Summary of request: Add a new organization to ROR
+
+Name of organization: International Platform on Mental Health
+Website: https://mhgc21.org/en/about
+Link to publications: https://mhgc21.org/en/MHGC-Proceedings
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: MHGC
+Acronym/abbreviation: MHGC
+Related organizations: 
+City: Kyiv
+Country: Ukraine
+Year established: 2019
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
+Other information about this request: The International Platform on Mental Health “Mental Health: global challenges” (www.mhgc21.org ) is the platform for Social Initiatives, for dissemination of leading ideas and experience, for support of building academic and professional networks, developing future collaborations between researchers and professionals across the different regions of the world. The Platform is doing the attempt to rise the social awareness, to facilitate social changes, to support Governmental initiatives, to develop qualitative skills of professionals. The Platform helps researchers, social activists and all interested parties from all over the world to improve multidisciplinary aspects of Mental Health Care system
+Since 2017 we are organizing annual International Conference “Mental Health; global challenges of XXI century”. We try to commute all main actors in the field of Mental Health. Thus, Governmental, International, Religious, Academic, Research, Educational and Civil Institutions, Volunteer Movements took part in the Conference activities. 
+Among our Honorable Guests, Partners and Speakers were:    
+•	World Federation of Mental Health (Dr. Ana de Sousa Baptista, Director of the Board and Chair of the Mental Health Policy Section of the World Federation of Mental Health)                                                           
+•	WHO
+•	International Medical Corps
+•	Red Cross Society
+•	Interdisciplinary Council on Development and Learning
+•	Médecins Sans Frontières 
+•	EMDR Europe Association
+•	National Institute of Health (Italy)
+•	Balkan Universities Association
+•	Mental Health Reform, National Coalition for Mental Health in Ireland
+The main Platform’s results are: social awareness-rising campaign, geographical diversification, research contributions, partnership building.
+social awareness-rising campaign. The Platform organizes activities between these annual Conferences. Thus, in 2018 we organized several seminars and workshops in Ukraine. In January 2019 we organized National Round table meeting on rehabilitation of ex-combatants and their families. In May 2019 – International Public-Scientific Initiative” Community: health, human potential, socio-economic innovations”. For example, our audience for Event was more than 2 600 participants. In October 2020 – Mental Health Literacy Event (devoted to WMHD). Within this Event we organized activities in North (Chernigiv, Human Rights House), Central (Kyiv, National Academy of Management), South-West (Khmelnytsky, City Hospital), South-East (Zaporozhye, Caritas). Our audience (more than 600 persons) – family doctors, educators, social workers (persons who can “deliver” this knowledge to wide Ukrainian society)
+geographical diversification. There were participants from Algeria, Austria, Belgium, Canada, Cyprus, Finland, Greece, Italy, Israel, Latvia, Lithuania, Netherlands, Portugal, Spain, South Africa, Taiwan, Ukraine, United Kingdom, USA on our Conference
+research contributions. The MHGC Proceedings and Journal “Mental Health: global challenges” (ISSN 2612-2138) were established. The MHGC Proceedings is also placed in National Library of Ukraine (www.nbuv.gov.ua )
+The International Journal “Mental Health: global challenges” (ISSN 2612-2138) (www.mhgcj.org ) is already indexed in DOAJI, ERIHPlus, Crossref, BASE, CORE, Index Copernicus, ResearchBib, … The Journal is also available on Publons (Clarivate Analytics), National Library of Australia, HINARY (WHO). The Journal considers with special attention the manuscripts which can be of interest for policy makers and practioners
+partnership building. We are doing the attempt to establish cooperation regarding MHC globally. Among our participants were Governmental Institutions, Directors and Presidents, Vice-Directors, Vice-Rectors, Deans of the Faculties, Heads of the Departments, Professors and Specialists
+","mariagould
+01/05/2022, 18:30:40 | 01/05/2022, 18:30:40
+comment_text: This is a duplicate of #212, which we previously declined. 
+
+---
+"
+Declined requests,1105023850,431,https://github.com/ror-community/ror-updates/issues/431,open,level 1; new record; already in ror; jaguar,2022-01-16 11:16:16,2022-01-26 16:03:12,"Add a new organization to ROR: 
+ 
+Institute of Slavonic Studies","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Institute of Slavonic Studies
+Website: http://www.slu.cas.cz/
+Link to publications: https://doi.org/10.31577/slovlit.2021.68.6.510.31577/slovlit.2021.68.6.5
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://cs.wikipedia.org/wiki/Slovansk%C3%BD_%C3%BAstav_Akademie_v%C4%9Bd_%C4%8Cesk%C3%A9_republiky
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000404287272
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Slovanský ústav Akademie věd České republiky
+Acronym/abbreviation: SLÚ AV ČR
+Related organizations: Czech Academy of Sciences
+City: Prague
+Country: Czech Republic
+Year established: 1922
+How will a ROR ID for this organization be used? to help put the contents of the Czech national CRIS in an international context, see https://github.com/jdvorak001/isvavai-orgs-ror-mapping
+Other information about this request: The institute's English production is rather scarce, which is probably why it hasn't been included yet. However, it is one of the institutes of the Czech Academy of Sciences, https://www.avcr.cz/en/about-us/cas-structure/research-institutes/, and actually the only one missing a ROR id. See https://github.com/jdvorak001/isvavai-orgs-ror-mapping","adambuttrick
+01/19/2022, 16:31:33 | 01/19/2022, 22:51:32
+comment_text: This record already exists in ROR under the name, ""Slovanský Ústav"" (https://ror.org/03qq0n189). At the minimum, we should probably update the record to reflect the full English and Czech forms, but it would be good to purse a consistent relationship across all records for the Czech Academy of Sciences.
+
+@jdvorak001 We appreciate your report and it looks like there are opportunities to clean up these records as part of broader QA review.
+
+---
+jdvorak001
+01/19/2022, 23:41:31 | 01/19/2022, 23:41:31
+comment_text: Oh, how could I have failed to find that if it has a Czech name! Thank you very much.
+
+---
+"
+Declined requests,1019855924,316,https://github.com/ror-community/ror-updates/issues/316,closed,duplicate; level 2; update record; kitten; org-requested,2021-10-07 10:04:07,2022-01-20 00:24:55,Modify the information in an existing ROR record: Natural History Museum https://ror.org/0166x0j30,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Natural History Museum (https://ror.org/0166x0j30)
+ROR ID: https://ror.org/0166x0j30
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record
+Description of change: The museum is only listed as 'Natural History Museum' in English (Primary name) and 'Naturhistorisk Museum' in Danish. We would like these to be changed to 'Natural History Museum Aarhus' and 'Naturhistorisk Museum Aarhus' respectively.
+
+","nlundvick
+10/31/2021, 17:26:12 | 10/31/2021, 17:26:12
+comment_text: Update Primary Name to ""Natural History Museum Aarhus"" (per request and confirmed at Wikidata) and Alias to ""Naturhistorisk Museum Aarhus"" (per museum website)
+
+---
+mariagould
+01/20/2022, 00:24:45 | 01/20/2022, 00:24:45
+comment_text: Closing because this is is duplicated and now superseded by #385 
+
+---
+"
+Declined requests,977528978,263,https://github.com/ror-community/ror-updates/issues/263,closed,project; non-request,2021-08-23 22:22:15,2022-01-20 20:11:03,"Modify the information in an existing ROR record: 
+NASA https://ror.org/00ryjtt64
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: NASA
+ROR ID: https://ror.org/00ryjtt64
+Which part of the record needs to be changed? Other IDs for the organization, Organization type
+Description of change: I am working for NASA's Science Mission Directorate on an information model for their new data discovery system (to discover data across all SMD divisions) which will be a graph/LOD based system.  I would like to use ROR metadata for information about NASA organizations and their types, etc.  However, in order to do that I need to have all of NASA (and lots of non-NASA) organizations that are archives to state in their ROR that they are an archive (no matter what else they are).  The SPDF is one of a very few facilities addressed in our first proof of concept use case, so its record would need to be updated to add the additional type.  
+
+In addition, NASA may already have alternate ID's for each of these facilities, so the ability to add those would be very helpful...  They certainly do for this facility which has the id spase://SMWG/Repository/NASA/GSFC/SPDF
+
+I do note that ideally we'd need the update sooner than 4 months from now...
+
+","mariagould
+01/20/2022, 20:10:15 | 01/20/2022, 20:10:15
+comment_text: I followed up with the requestor for additional information but the needs are not yet fully defined and the conversation has not advanced further since August 2021, so I am closing this out for now. Will reopen or create a new issue if the conversation resumes. 
+
+---
+"
+Declined requests,1114879503,444,https://github.com/ror-community/ror-updates/issues/444,closed,duplicate,2022-01-26 10:49:19,2022-02-16 00:44:18,"Add a new organization to ROR: 
+ 
+Vishwakarma University","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Vishwakarma University
+Website: www.vupune.ac.in
+Link to publications: https://doi.org/10.3390/electronics10111289 , https://docs.google.com/spreadsheets/d/e/2PACX-1vT1jvpfRJCzJi8dDwbgV3rLkwcK6ieSJF0efdGiGKxHIPwvf3eLN9i1ZXD1HNNB_g/pubhtml?gid=892388930&single=true
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Vishwakarma_University
+Wikidata ID: https://www.wikidata.org/wiki/Q48731017
+ISNI ID: https://isni.org/isni/0000000505997193
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: विश्वकर्मा युनिव्हर्सिटी 
+Acronym/abbreviation: VU
+Related organizations: 
+City: Pune
+Country: India
+Year established: 2017
+How will a ROR ID for this organization be used? To identify affiliations for datasets, To acknowledge a research facility
+Other information about this request: Vishwakarma University, Pune (VU) is a natural offshoot of the Vishwakarma Group of Institutions’ educational legacy spanning more than 35 years. The University has been established as a State Private University through Maharashtra Government Act in the year 2017. Being UGC approved, VU is authorized to design and implement its curriculum, conduct examinations, award degrees. Hence it is humble request to you please add the 'Vishwakarma University' name in your database.
+Thanking You.","adambuttrick
+01/26/2022, 15:15:52 | 01/26/2022, 15:15:52
+comment_text: This is a duplicate of #422.
+
+---
+"
+Declined requests,1073883888,390,https://github.com/ror-community/ror-updates/issues/390,open,level 1; already in ror; jaguar,2021-12-08 00:41:10,2022-01-27 20:44:19,"Add a new organization to ROR: 
+ 
+Albanian Academy of Sciences","Summary of request: Add a new organization to ROR
+
+Name of organization: Albanian Academy of Sciences
+Website: http://akad.gov.al/ash/
+Link to publications: https://punctumbooks.com/titles/broken-narrative-the-politics-of-contemporary-art-in-albania/
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://sq.wikipedia.org/wiki/Akademia_e_Shkencave_e_Shqip%C3%ABris%C3%AB
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Akademia e Shkencave e Shqipërisë
+Acronym/abbreviation: -
+Related organizations: 
+City: Tirana
+Country: Albania
+Year established: 1972
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+Other information about this request: ","adambuttrick
+01/14/2022, 21:27:44 | 01/14/2022, 21:27:44
+comment_text: This organization is already represented in ROR (https://ror.org/016sx0y50) under the English used on its site, ""Academy of Sciences of Albania.""
+
+The URL in our metadata no longer resolves, while the supplied does, so I will create an update request to reflect.
+
+---
+arthurpsmith
+01/27/2022, 20:44:19 | 01/27/2022, 20:44:19
+comment_text: Ok! I don't think this needs further discussion - moving to ""declined"".
+
+---
+"
+Declined requests,1019855954,318,https://github.com/ror-community/ror-updates/issues/318,open,level 3; update record; jaguar,2021-10-07 10:04:09,2022-01-28 17:15:06,"Modify the information in an existing ROR record: 
+Molecular Devices (United Kingdom) https://ror.org/03y8xh662
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Molecular Devices (United Kingdom)
+ROR ID: https://ror.org/03y8xh662
+Which part of the record needs to be changed? Something else
+Description of change: Molecular Devices' website reports its country / address as Molecular Devices, LLC., 3860 N First Street, San Jose, CA 95134, so USA
+
+","arthurpsmith
+11/02/2021, 20:33:58 | 11/02/2021, 20:33:58
+comment_text: GRID created this record for the UK subsidiary, but there's no record for the US parent. I think we should create a separate ROR record for the parent organization (and link them with our parent/child relationship). The ISNI and Wikipedia page on this record should be moved to the US parent. However the Wikidata ID for the US parent is different: Q6895942.
+
+---
+KellyStathis
+01/25/2022, 23:05:39 | 01/25/2022, 23:05:39
+comment_text: I agree with Arthur's assessment - this ROR ID should stay with the UK subsidiary, and we should create a new ROR record for the US parent.
+
+I noticed this ROR ID is linked to the UK Wikidata ID - https://www.wikidata.org/wiki/Q30290687 - but not the US one. This supports us keeping this ROR for the UK subsidiary, rather than updating it to represent the US parent.
+
+---
+adambuttrick
+01/28/2022, 17:15:05 | 01/28/2022, 17:15:05
+comment_text: Created and approved record for parent organization with #452 . Moving this to declined, as we're leaving the existing ROR record as is. 
+
+---
+"
+Declined requests,1118235682,455,https://github.com/ror-community/ror-updates/issues/455,closed,duplicate,2022-01-29 14:30:24,2022-02-16 00:44:10,"Add a new organization to ROR: 
+ 
+Mental Asylum of Education","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Mental Asylum of Education
+Website: arjundahal.blogspot.com
+Link to publications: https://doi.org/10.5281/zenodo.5509252
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000502642565
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Mental Asylum Of Education
+Acronym/abbreviation: MAOE
+Related organizations: 
+City: Gauradaha-3, Jhapa
+Country: Nepal
+Year established: 2021
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+01/30/2022, 16:07:40 | 01/30/2022, 16:07:40
+comment_text: Duplicate of #454
+
+---
+"
+Declined requests,1118213005,454,https://github.com/ror-community/ror-updates/issues/454,closed,level 1; out of scope; new record; kitten,2022-01-29 13:14:50,2022-02-16 00:44:14,"Add a new organization to ROR: 
+ 
+Mental Asylum of Education","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Mental Asylum of Education
+Website: arjundahal.blogspot.com
+Link to publications: https://doi.org/10.5281/zenodo.5595025
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000502642565
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Mental Asylum of Education
+Acronym/abbreviation: MAOE
+Related organizations: 
+City: Gauradaha-3, Jhapa
+Country: Nepal
+Year established: 2021
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+01/30/2022, 16:15:19 | 01/30/2022, 16:15:19
+comment_text: Does not seem a sufficiently established organization and appears to be a single person entity. Website link is to a blog with a series of poems.
+
+---
+"
+Declined requests,1100437682,425,https://github.com/ror-community/ror-updates/issues/425,closed,level 1; out of scope; new record; jaguar,2022-01-12 14:55:31,2022-01-31 19:19:05,"Add a new organization to ROR: 
+ 
+Universitätsverlag Kiel | Kiel University Publishing","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: Universitätsverlag Kiel | Kiel University Publishing
+Website: https://www.universitaetsverlag.uni-kiel.de/de
+Link to publications:  10.38072/2748-3150/v1
+Organization type: Archive (An organization involved in stewarding research and cultural heritage materials. Includes libraries, museums, and zoos)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Universitätsverlag Kiel | Kiel University Publishing
+Acronym/abbreviation: Universitätsverlag Kiel | Kiel University Publishing
+Related organizations: https://ror.org/04v76ef78
+City: Kiel
+Country: Germany
+Year established: 2020
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
+Other information about this request: ","adambuttrick
+01/13/2022, 19:51:07 | 01/13/2022, 19:54:54
+comment_text: Not certain whether this sufficiently constitutes an independent, top-level entity. From the org's ""Publishing"" page:
+
+""The services of Kiel University Publishing are available to all members and affiliates of Kiel University, as described in the constitution. This means that researchers from Kiel University must be involved in all publications, whether as authors or editors. Within the publication projects, they are therefore the main contact persons of the publishing team.""
+
+I can likewise find no affiliation usage for the press itself, which corresponds with the above (authors and editors would likely identify with Kiel University instead). In addition, Kiel University is already represented in ROR (https://ror.org/04v76ef78). We only otherwise seem to have 11 entities with a ""university press"" included in their title (https://ror.org/search?page=1&query=%22university%20press%22), but happy to hear anything else on precedent.
+
+---
+OAIWetz
+01/19/2022, 16:35:44 | 01/19/2022, 16:35:44
+comment_text: Dear ror team,
+just added new record to wikidata
+https://www.wikidata.org/wiki/Q110621719
+
+best regards, Thorsten Wetzenstein
+
+---
+arthurpsmith
+01/31/2022, 18:59:35 | 01/31/2022, 18:59:35
+comment_text: Note their contact page says they are ""c/o Universitätsbibliothek Kiel"" - and the about page also mentions the publishing service is provided by the library. So not only is this clearly not an independent ""top-level"" organization, there's another layer between it and the university which we don't have in ROR either (German Wikipedia has an entry for the library at least: https://de.wikipedia.org/wiki/Universitätsbibliothek_Kiel). So I'm afraid this is definitely out of ROR's current scope. If and when we support subunits of research organizations then this is a likely useful addition, but not right now.
+
+---
+"
+Declined requests,1106793040,432,https://github.com/ror-community/ror-updates/issues/432,closed,level 1; out of scope; new record; jaguar,2022-01-18 11:31:51,2022-01-31 19:25:41,"Add a new organization to ROR: 
+ 
+DevScope","Summary of request: Add a new organization to ROR
+
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Name of organization: DevScope
+Website: https://www.devscope.net
+Link to publications: https://www.jpathinformatics.org/text.asp?2020/11/1/30/295359
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: DevScope
+Acronym/abbreviation: DevScope
+Related organizations: 
+City: Porto
+Country: Portugal
+Year established: 2003
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders
+Other information about this request: ","adambuttrick
+01/19/2022, 18:05:26 | 01/19/2022, 22:41:46
+comment_text: Aside from the link provided, I can find no other affiliation usage. There is nothing in ORCID and only a single Google Scholar profile, for which all the linked articles use the author's university affiliation, not DevScope:
+
+https://scholar.google.com/citations?user=XZ9Mon8AAAAJ
+
+If they are sponsoring research, we would need additional examples. Doesn't appear to be sufficient evidence of research activity at the moment. Recommend being flagged as out of scope.
+
+---
+arthurpsmith
+01/31/2022, 19:09:28 | 01/31/2022, 19:09:28
+comment_text: Searching Google Scholar for this name is a little confusing because there seems to be also some sort of device called ""DevScope"" used in research, which appears to be completely unrelated. Anyway, yes the only research articles I could find with this affiliation were by the same person. I agree out of scope for now.
+
+---
+"
+Declined requests,1119922232,459,https://github.com/ror-community/ror-updates/issues/459,closed,level 1; lion; merge records,2022-01-31 20:55:49,2022-01-31 21:27:06,"Upcoming merger of UNAVCO (https://ror.org/02n9tn974) and IRIS (https://ror.org/05xkn9s74): 
+ 
+","Summary of request: Upcoming merger of UNAVCO (https://ror.org/02n9tn974) and IRIS (https://ror.org/05xkn9s74)
+
+Name of organization: Earthscope Consortium
+Website: 
+Link to publications: 
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Year established: 
+How will a ROR ID for this organization be used? 
+Other information about this request: Our new organization will be called ""EarthScope Consortium"". Is there a way to plan ahead so that the new org has a ROR now, for our backend combined system development?","adambuttrick
+01/31/2022, 21:08:04 | 01/31/2022, 21:25:39
+comment_text: Details of the merger are described here: https://sites.google.com/iris.edu/united/home 
+
+Discussed with @mariagould. It looks to be too early in the development of this organization for this to be approved. Best course of action would be for Earthscope to submit a request for the new record once the merger is complete. 
+
+---
+"
+Declined requests,1123107613,464,https://github.com/ror-community/ror-updates/issues/464,closed,duplicate; level 2; update record; kitten,2022-02-03 13:47:38,2022-02-16 00:44:06,"Modify the information in an existing ROR record: 
+Bundesamt für Seeschifffahrt und Hydrographie https://ror.org/03ycvrj88
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Bundesamt für Seeschifffahrt und Hydrographie
+ROR ID: https://ror.org/03ycvrj88
+Which part of the record needs to be changed? Organization website
+Description of change: Please change URL of website in:    https://www.bsh.de/ 
+
+Name of organization: 
+Website: 
+Link to publications: 
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Year established: 
+How will a ROR ID for this organization be used? 
+Other information about this request: ","adambuttrick
+02/03/2022, 13:58:55 | 02/03/2022, 13:58:55
+comment_text: Duplicate of #461.
+
+---
+"
+Declined requests,1127713372,474,https://github.com/ror-community/ror-updates/issues/474,closed,level 1; new record; jaguar,2022-02-08 20:13:55,2022-02-09 17:03:37,"Add a new organization to ROR: 
+ 
+Lviv Medical Institute LLC","Summary of request: Add a new organization to ROR
+Name of organization: Lviv Medical Institute
+Website: https://medinstytut.lviv.ua/
+Link to publications: https://doi.org/10.53933/sspmpm.v1i2.32, https://doi.org/10.53933/sspmpm.v2i1.40, https://doi.org/10.52914/apmp.v2i2.35, https://doi.org/10.53933/sspmlp.v2i1.39, https://doi.org/10.31435/rsglobal_sr/30072021/7619, https://www.geomednews.com/v318-september-2021, https://doi.org/10.5539/gjhs.v13n7p78, https://www.actascientific.com/ASMS/ASMS-05-1022.php, https://doi.org/10.22141/2306-2436.10.4.2021.246355 
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/000000040517646X
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Львівський медичний інститут*Ukrainian
+Acronym/abbreviation: LMI, ЛМІ
+Related organizations: 
+City: Lviv
+Country: Ukraine
+Geonames ID: 702550
+Year established: 2004
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+02/09/2022, 15:57:31 | 02/09/2022, 16:03:37
+comment_text: Medical training and research institute in Ukraine. Independent entity. Publication affiliation looks good, as does the Google Scholar and ORCID affiliation usage.
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=Al38jp8AAAAJ; https://scholar.google.com/citations?user=SJ2tpD4AAAAJ; https://scholar.google.com/citations?user=SNz3r4MAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-3998-6749 ; https://orcid.org/0000-0003-0040-2096 ; https://orcid.org/0000-0001-6993-4424 ; https://orcid.org/0000-0002-6696-6380 ; https://orcid.org/0000-0002-0848-9440 ; https://orcid.org/0000-0003-4793-1104 ; https://orcid.org/0000-0001-6220-4381 ; https://orcid.org/0000-0002-0682-7418
+
+---
+adambuttrick
+02/09/2022, 17:03:37 | 02/09/2022, 17:03:37
+comment_text: Duplicate of #404.
+
+---
+"
+Declined requests,1115996242,445,https://github.com/ror-community/ror-updates/issues/445,closed,level 1; update record; jaguar,2022-01-27 09:50:13,2022-02-10 22:34:30,"Modify the information in an existing ROR record: 
+State Flight Academy of Ukraine (old name) https://ror.org/03cfeg204
+","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: State Flight Academy of Ukraine (old name)
+ROR ID: https://ror.org/03cfeg204
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record, Organization website
+Description of change: Primary name: Flight Academy National Aviation University, Flight Academy NAU (link - http://www.klanau.kr.ua/images/docs/Pologennya_LANAU.pdf, page 5; https://www.wikidata.org/wiki/Q3010496); 
+
+other names: Льотна академія Національного авіаційного універсиетету, Льотна академія НАУ  (link - http://www.klanau.kr.ua/images/docs/Pologennya_LANAU.pdf, page 5, https://nau.edu.ua/ua/menu/navchalni-pidrozdili/academy/kirovogradska-lotna-akademiya.html);
+
+website: http://sfa.org.ua, http://www.glau.kr.ua
+
+Name of organization: 
+Website: 
+Link to publications: 
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Year established: 
+How will a ROR ID for this organization be used? 
+Other information about this request: I recently wrote a letter about this to your colleague ""Isidro F. Aguillo"" on 2021.09.21","adambuttrick
+01/27/2022, 22:01:44 | 01/27/2022, 22:03:53
+comment_text: The first website provided doesn't resolve, so can't approve that part of the request. Current URL in the ROR record (https://ror.org/03cfeg204) resolves correctly, but features the version of the name requestor wants changed. 
+
+Wikipedia entry and Wikidata do use this form, as well as the first link. The second link is for ""Льотна академія Національного авіаційного університету,"" which is in the request as an alternate form, as well as in the Wikipedia entry. 
+
+I think this might be OK from reference to secondary, government sources. See https://universities.studyinukraine.gov.ua/en/minedu/university/134/agents and https://ssu.gov.ua/en/video-galleries/sbu-opryliudnyla-dokazy-khabarnytstva-i-vruchyla-novu-pidozru-nachalnyku-lotnoi-akademii
+
+---
+adambuttrick
+02/10/2022, 22:34:30 | 02/10/2022, 22:34:30
+comment_text: Duplicate of #308.
+
+---
+"
+Declined requests,1140234156,490,https://github.com/ror-community/ror-updates/issues/490,closed,level 1; new record; jaguar,2022-02-16 15:50:42,2022-02-16 23:28:12,"Add a new organization to ROR: 
+ 
+Zurich Heart House - Foundation for Cardiovascular Research","Summary of request: Add a new organization to ROR
+
+Update record:
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: Zurich Heart House - Foundation for Cardiovascular Research
+Website: www.zhh.ch
+Link to publications: https://www.cmc.uzh.ch/en.html
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: www.zhh.ch
+Wikidata ID: Q50037365
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Stiftung für Herz- und Kreislaufforschung
+Labels:
+Acronym/abbreviation: ZHH
+Related organizations: 
+City: Zurich
+Country: Switzerland
+Geonames ID: 7287650
+Year established: 1996
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+02/16/2022, 15:58:57 | 02/16/2022, 15:58:57
+comment_text: Zurich Heart House already exists in ROR: https://ror.org/01agg0039. Closing.
+
+---
+"
+Declined requests,1085282745,409,https://github.com/ror-community/ror-updates/issues/409,closed,level 1; new record; jaguar; org-requested,2021-12-20 23:13:37,2022-02-16 23:22:55,"Add a new organization to ROR: 
+ 
+SeaLevel.info","Summary of request: Add a new organization to ROR
+
+Name of organization: SeaLevel.info
+Website: https://sealevel.info/
+Link to publications: 10.1007/s11069-012-0159-8
+Organization type: Other (Use this category for any organization that does not fit the categories above)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: n/a
+Acronym/abbreviation: n/a
+Related organizations: 
+City: Cary, NC
+Country: USA
+Year established: 2012
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+Other information about this request: ","nlundvick
+01/29/2022, 18:14:31 | 01/29/2022, 18:14:31
+comment_text: SeaLevel.Info is a website that analyzes sea level and includes data accumulated from various sources. There is only contact information for a single individual. The publication provided in the request is a ""Comment on"" a published paper. It was authored by SeaLevel's contact, who claims affiliation with ""Burton Systems Software"" in the comment, not SeaLevel. Searching Google Scholar I am not finding any affiliation use for ""SeaLevel."" The website includes a ""Papers"" link, but these are documents authored by researchers affiliated with various other organizations, not SeaLevel. Determination: Not in scope
+
+---
+adambuttrick
+02/16/2022, 23:22:47 | 02/16/2022, 23:22:47
+comment_text: Agree, this is out of scope for ROR.
+
+---
+"
+Declined requests,1141508848,494,https://github.com/ror-community/ror-updates/issues/494,closed,new record; triage needed,2022-02-17 15:42:24,2022-02-17 15:54:26,"Add a new organization to ROR: 
+ 
+German Center for Integration and Migration Research","Summary of request: Add a new organization to ROR
+
+Update record:
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: German Center for Integration and Migration Research
+Website: https://www.dezim-institut.de/
+Link to publications: https://www.dezim-institut.de/publikationen/
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Deutsches Zentrum für Integrations- und Migrationsforschung
+Labels:
+Acronym/abbreviation: DeZIM
+Related organizations: https://ror.org/02qcqwf93, https://ror.org/05bv91d86, https://ror.org/03k0z2z93
+City: Berlin
+Country: Germany
+Year established: 2017
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+02/17/2022, 15:54:26 | 02/17/2022, 15:54:26
+comment_text: Duplicate of #468.
+
+---
+"
+Declined requests,1085282664,402,https://github.com/ror-community/ror-updates/issues/402,open,level 1; out of scope; new record; lion; org-requested,2021-12-20 23:13:30,2022-02-18 15:53:00,"Add a new organization to ROR: 
+ 
+Trout Lake Station","Summary of request: Add a new organization to ROR
+
+Name of organization: Trout Lake Station
+Website: https://limnology.wisc.edu/trout-lake-station-welcome/
+Link to publications: e.g. see Google scholar profile of Tim Kratz: https://scholar-google-com.ezproxy.library.wisc.edu/citations?user=eB_hInEAAAAJ&hl=en&oi=sra
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: https://isni.org/isni/0000000404519715
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: Trout Lake Research Station, UW Trout Lake Station
+Acronym/abbreviation: TLS
+Related organizations: University of Wisconsin Madison (parent), UW Center for Limnology (academic unit)
+City: Boulder Junction
+Country: United States
+Year established: 1925
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Other information about this request: Trout Lake Station is a core research facility of UW Madison but is located off the main campus in Boulder Junction, WI. It hosts users from >30 academic, agency and other units each year to conduct research and is the northern site for the NTL_LTER whose data is referenced and used by researchers for global comparative analyses of lakes.","adambuttrick
+01/25/2022, 21:07:33 | 01/25/2022, 21:13:24
+comment_text: Not certain whether this sufficiently constitutes a top-level entity as it is under the Center for Limnology at the University of Wisconsin-Madison. It's director appears to use the University of Wisconsin affiliation, (https://scholar.google.com/citations?user=-0lQw-wAAAAJ). Other research station entities in ROR appear to have a greater degree of independence. The North Temperate Lakes US Long-Term Ecological Research Network (https://lter.limnology.wisc.edu/), which they cite as supplying data for, also appears to be under the umbrella of the University of Wisconsin.
+
+---
+arthurpsmith
+02/18/2022, 15:52:32 | 02/18/2022, 15:52:32
+comment_text: I agree this is not a top-level research organization. At some point we should find a way to support these, but right now out of scope for ROR.
+
+The ISNI entry they reference is also interesting, as it has ""University of Wisconsin Madison Center for Limnology"" as one of the names - but the request lists that as a parent. So things are a bit mixed up with respect to ISNI on this one anyway. On the Long-Term Ecological Research issue, we have at least one other request on this (#197, see also #442) so that would be a separate consideration.
+
+Anyway, marking as declined and out of scope now.
+
+---
+"
+Declined requests,1126197917,473,https://github.com/ror-community/ror-updates/issues/473,closed,duplicate; level 2; jaguar; hold for later; org-requested; merge records,2022-02-07 16:12:13,2022-02-23 18:49:29,Merge two or more ROR records: Limerick Institute of Technology and ,"Summary of request: Merge two or more ROR records
+
+Name of organizations: Limerick Institute of Technology and Athlone Institute of Technology
+ROR IDs: https://ror.org/0269ncv24 ; https://ror.org/02dyxwz31
+Description of change: Limerick Institute of Technology (https://ror.org/0269ncv24) and the Athlone Institute of Technology (https://ror.org/02dyxwz31) have been merged into one institution (Technological University of the Shannon: Midlands Midwest), as described in #470. These records need to be deprecated and merged.","sckott
+02/07/2022, 17:51:19 | 02/07/2022, 17:51:19
+comment_text: Thanks for creating this issue from the one I opened in #470 - I've never requested a change or addition to ROR - about how long does it take generally to get in to the ROR database? Weeks? Months? Longer?
+
+---
+adambuttrick
+02/07/2022, 19:08:29 | 02/07/2022, 19:08:29
+comment_text: @sckott We will plan to process the new record request in our next release (targeting Q1 of this year) and will be establishing a more regular schedule going forward. Please follow #470 to keep updated on its status.
+
+---
+adambuttrick
+02/07/2022, 19:08:42 | 02/07/2022, 19:08:42
+comment_text:  Closing this issue, as it is a dupe of #414.
+
+---
+sckott
+02/07/2022, 19:55:26 | 02/07/2022, 19:55:26
+comment_text: Thanks very much!
+
+---
+"
+Declined requests,1149923669,507,https://github.com/ror-community/ror-updates/issues/507,closed,duplicate; level 2; update record; kitten,2022-02-25 00:52:35,2022-02-25 02:18:13,"Modify the information in an existing ROR record: 
+Avondale College of Higher Education https://ror.org/02r276210
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Avondale College of Higher Education
+ROR ID: https://ror.org/02r276210
+Which part of the record needs to be changed? Primary name
+Description of change: The name to:  Avondale University
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: 
+Website: 
+Link to publications: 
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Year established: 
+How will a ROR ID for this organization be used? 
+
+Other information about this request: ","adambuttrick
+02/25/2022, 02:18:13 | 02/25/2022, 02:18:13
+comment_text: Duplicate of #265.
+
+---
+"
+Declined requests,1150683504,509,https://github.com/ror-community/ror-updates/issues/509,closed,duplicate; level 2; update record; kitten,2022-02-25 17:21:13,2022-02-25 17:27:33,"Add a new organization to ROR: 
+ 
+Associação Brasileira de Editores Científicos","Summary of request: Add a new organization to ROR
+
+Update record:
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? 
+Description of change: 
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: Associação Brasileira de Editores Científicos
+Website: https://www.abecbrasil.org.br/
+Link to publications: https://doi.org/10.21452/procpc_07 (on affiliation); https://www.abecbrasil.org.br/arquivos/ABEC_Meeting_Live_2020_Resenhas_Criticas.pdf (on Acknowledgement)
+Organization type: Other (Use this category for any organization that does not fit the categories above)
+Wikipedia page: http://wiki.abecbrasil.org.br/mediawiki-1.26.2/index.php?title=P%C3%A1gina_principal
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Brazilian Association of Scientific Editors
+Labels:
+Acronym/abbreviation: ABEC; ABEC Brasil; ABEC BRASIL; Abec Brasil
+Related organizations: 
+City: Botucatu
+Country: Brazil
+Year established: 1985
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ABEC Brasil is a non profit organization founded on November 28, 1985.
+It brings together individuals and companies interested in developing and improving the publication of technical-scientific journals; communication and dissemination of information. Support the exchange of ideas, the debate of problems and the defense of common interests.","adambuttrick
+02/25/2022, 17:27:32 | 02/25/2022, 17:27:32
+comment_text: Duplicate of #388.
+
+---
+"
