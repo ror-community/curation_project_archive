@@ -166,47 +166,6 @@ comment_text: Thanks for your work on this @arthurpsmith ! I'm moving it into ou
 
 ---
 "
-Projects,1114560343,442,https://github.com/ror-community/ror-updates/issues/442,open,level 1; lion; project; relationship,2022-01-26 02:26:16,2022-02-25 18:56:10,Project: Long Term Ecological Research Network Members,"The request for US-based Long Term Ecological Research Network Members (#197) indicates several other members that are not currently represented in ROR. A request to add Beaufort Lagoon Ecosystem (#32) has already been approved, but we would need to investigate whether the remainder are in scope, along with gathering their corresponding metadata. All would likewise need to be represented as children of #197. Organzations as listed in the original request are provided below.
-
-Andrews Forest
-Arctic LTER
-Baltimore Ecosystem Study
-Beaufort Lagoon Ecosystem
-Bonanza Creek LTER
-Central Arizona - Phoenix
-Central Plains Experimental Range
-California Current Ecosystem
-Cedar Creek Ecosystem Science Reserve
-Coweeta LTER
-Florida Coastal Everglades
-Georgia Coastal Ecosystems
-Harvard Forest
-Hubbard Brook Experimental Forest LTER
-Jornada Basin LTER
-Kellogg Biological Station
-Konza Prairie
-Luquillo Experimental Forest
-McMurdo Dry Valleys
-Minneapolis St. Paul LTER
-Mo'orea Coral Reef
-Niwot Ridge LTER
-North Temperate Lakes
-Northeast U.S. Shelf LTER
-Northern Gulf of Alaska LTER
-Palmer Station Antarctica
-Plum Island Ecosystem
-Santa Barbara Coastal
-Sevilleta National Wildlife Refuge
-Shortgrass Steppe LTER
-Virginia Coast Reserve Long-Term Ecological Research
-","adambuttrick
-02/25/2022, 18:41:55 | 02/25/2022, 18:41:55
-comment_text: LTER staff have provided metadata for each organization
-[LTER ROR identifiers.xlsx](https://github.com/ror-community/ror-updates/files/8143477/LTER.ROR.identifiers.xlsx)
-.
-
----
-"
 Projects,969650993,247,https://github.com/ror-community/ror-updates/issues/247,open,hold for later; project; merge records,2021-08-12 22:07:12,2021-08-13 18:58:56,Project: Merge set of Russian research organizations,"action | ror_to_be_merged | relation | ror_final | comments |  
 -- | -- | -- | -- | -- | --
 merge | 03bjv2y17 | to | 00ghjek97 | (the latter has more details and   correct name)
@@ -308,19 +267,20 @@ Relationships
 
 To review:
 Scope - make sure we are capturing units at the right level",
-Projects,1135188431,484,https://github.com/ror-community/ror-updates/issues/484,closed,level 2; update record; lion; project,2022-02-13 04:47:48,2022-02-16 16:31:26,Project: Remove unprintable characters from ROR records,"Approximately 200 records have unprintable characters in various fields that interfere with search and other use of the data. These records should all be update to delete these characters.
-[unprintable_characters_20220212.xlsx](https://github.com/ror-community/ror-updates/files/8054981/unprintable_characters_20220212.xlsx)
- ","adambuttrick
-02/13/2022, 04:49:06 | 02/13/2022, 04:49:06
-comment_text: https://ror.org/02jh2mm49 (Issue #310) will be corrected in the first release.
-
----
-adambuttrick
-02/16/2022, 16:31:05 | 02/16/2022, 16:31:05
-comment_text: After discussion with @lizkrznarich, these use a valid escape syntax and so should not be deleted. We should update the search API to accommodate.
-
----
-"
 Projects,1150759681,510,https://github.com/ror-community/ror-updates/issues/510,open,lion; project,2022-02-25 19:03:39,2022-02-25 19:03:39,Project: International Long Term Ecological Research Network,"We should pursue better representation of all members of the International Long Term Ecological Research Network. The ILTER is comprised of three groups and then various global sites (ILTER East Asia Pacific, LTER Europe, US LTER, global sites). Each may require a separate project, as there are numerous research stations within each at the national level. US LTER member have already been submitted in #442. Keeping at this high-level now for further review and analysis.
 
 https://www.ilter.network/",
+Projects,1166589081,542,https://github.com/ror-community/ror-updates/issues/542,open,project; relationship,2022-03-11 16:00:25,2022-03-11 16:00:43,Project: Identify proper relationships for ELIXIR,"ELIXIR (Issue #541) has many related organizations, divided between ""lead institutes"" and ""node institutes ""(see here: https://elixir-europe.org/about-us/who-we-are/nodes). We should identify what constitutes the proper relationship between all of these orgs.",
+Projects,1178224021,566,https://github.com/ror-community/ror-updates/issues/566,open,level 2; update record; lion; project,2022-03-23 14:44:45,2022-03-23 14:49:18,Project - Redirected Wikidata IDs,"@arthurpsmith has identified 700 records for which Wikidata IDs have been redirected to new values. We should update the Wikidata IDs in these records to correspond to their present/redirected values in Wikidata.
+
+[wikidata_correct_redirects.xlsx](https://github.com/ror-community/ror-updates/files/8333952/wikidata_correct_redirects.xlsx)
+
+",
+Projects,1200699933,628,https://github.com/ror-community/ror-updates/issues/628,open,level 3; project,2022-04-12 00:09:07,2022-04-12 00:10:06,Project: Possible deprecations found by FRDR,"As part of their review in #575, FRDR identified 4 institutions of indeterminate status that may need to be deprecated:
+
+- Institute for Biological Sciences - https://ror.org/00t7c0489
+- Institute for Microstructural Sciences - https://ror.org/03v7h1165
+- Steacie Institute for Molecular Science - https://ror.org/02tjxem41
+- Center for Diagnosis and Research on Alzheimer's Disease- https://ror.org/01qj1sq68
+
+These should be reviewed again and deprecated/redirected, as needed.",

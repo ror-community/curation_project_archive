@@ -1,134 +1,4 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Needs discussion,1011885419,298,https://github.com/ror-community/ror-updates/issues/298,open,level 1; new record; jaguar; org-requested,2021-09-30 08:37:03,2022-02-24 18:22:58,"Add a new organization to ROR: 
- 
-ProRelix Research","Summary of request: Add a new organization to ROR
-
-Name of organization: ProRelix Research
-Website: https://prorelixresearch.com/
-Link to publications: https://ichgcp.net/cro-list/country/india/company/prorelix-research
-Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Other names for the organization: ProRelix Services LLP
-Acronym/abbreviation: ProRelix Research
-Related organizations: ProRelix Services LLP
-City: Pune
-Country: India
-Year established: 2014
-How will a ROR ID for this organization be used? To acknowledge a research facility
-Other information about this request: ","mariagould
-09/30/2021, 11:48:57 | 09/30/2021, 11:48:57
-comment_text: See also #297 
-
----
-arthurpsmith
-10/22/2021, 15:08:05 | 10/22/2021, 15:08:05
-comment_text: I'm not sure on the relation between this and #297 - I assume the same parent organization (or is #297 the parent for this?) Anyway, this organization seems to be a research services provider. Once again the publication list they provide is not one, and again there's no sign of citation or acknowledgement with this name in Google Scholar, but I do find for example several dozen employees listed on LinkedIn, and they seem to have a presence in the US as well as India, possibly other locations. Should we try to insist on them providing actual published articles or datasets relating to this organization? I suppose this could be added to ROR but it seems marginal without further evidence of actual published research, outside of their own website. Really not sure what to do here.
-
----
-nlundvick
-12/11/2021, 18:41:38 | 12/11/2021, 18:41:38
-comment_text: This is a company that offers professional services for drug development and analysis. As in #297 I am not finding any evidence that the company is involved in scholarly research and think the request should be denied under criterion [2] for inclusion in ROR. Moving to Needs discussion as @arthurpsmith was unsure
-
----
-adambuttrick
-02/24/2022, 18:22:46 | 02/24/2022, 18:22:58
-comment_text: Also reviewed and was not able to turn up any research outputs or even references in all the usual places (Google Scholar, ResearchGate, etc). Think this should be declined. 
-
----
-"
-Needs discussion,1019855834,311,https://github.com/ror-community/ror-updates/issues/311,open,level 1; new record; jaguar,2021-10-07 10:04:02,2022-02-24 18:24:42,"Add a new organization to ROR: 
- 
-KAGRA","Summary of request: Add a new organization to ROR
-
-Name of organization: KAGRA
-Website: https://gwcenter.icrr.u-tokyo.ac.jp/en/
-Link to publications: 10.1103/PhysRevD.91.022005; 
-Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
-Wikipedia page: https://en.wikipedia.org/wiki/KAGRA
-Wikidata ID: https://www.wikidata.org/wiki/Q725081
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Other names for the organization: Kamioka Gravitational Wave Detector
-Acronym/abbreviation: N/A
-Related organizations: 
-City: Gifu Prefecture
-Country: Japan
-Year established: 2020
-How will a ROR ID for this organization be used? To identify affiliations for datasets
-Other information about this request: ","arthurpsmith
-10/26/2021, 20:40:05 | 10/26/2021, 20:40:05
-comment_text: Definitely a new substantive research facility that will surely have lots of publications, should be in ROR. According to the Wikipedia page it was previously known as ""Large Scale Cryogenic Gravitational Wave Telescope"" (LCGT), so maybe that name should be also added. Either way KAGRA should have a ROR id.
-
----
-KellyStathis
-12/23/2021, 22:48:48 | 12/23/2021, 22:48:48
-comment_text: KAGRA appears to be associated with the Gravitational Wave Group at the Institute for Cosmic Ray Research, which is based at the University of Tokyo. There is a list of related publications here: https://www.icrr.u-tokyo.ac.jp/gr/GWPOHPe/reports-e.html. 
-
-The ICRR is based at the University of Tokyo, but it is referred to as an ""inter-university research institute"" (https://www.icrr.u-tokyo.ac.jp/en/about-icrr-2/directors-greetings/). I think it's sufficiently independent that we could add the ICRR to ROR, but I'm not sure if KAGRA is in scope. Do we have other examples of facilities like this in ROR?
-
-If we do add KAGRA, we might want to add some of the other ICRR facilities listed here: https://www.icrr.u-tokyo.ac.jp/en/facility/.
-
-Moving to ""needs discussion"".
-
----
-arthurpsmith
-12/24/2021, 15:07:30 | 12/24/2021, 15:07:30
-comment_text: Ah, good to point that out. The KAGRA website is under ICRR's domain, but as it notes: ""KAGRA is hosted by the Institute for Cosmic Ray Research (ICRR), the University of Tokyo, and co-hosted by the High Energy Accelerator Research Organization (KEK) and National Astronomical Observatory of Japan (NAOJ)"" so it's not purely part of University of Tokyo.
-Among the ""ICRR facilities"", I believe CTA does have a ROR id already (and is also not just a U Tokyo facility): https://ror.org/020jy7109
-Kamioka Observatory I think also deserves one, it's a major physics research facility that's been operating for decades. Not sure about the others.
-That said, ICRR is a pretty major institute in its own right and maybe should have a ROR even though it is indeed part of U Tokyo. It does seem to have its own Crossref Funder ID: https://doi.org/10.13039/501100013260
-
----
-adambuttrick
-02/16/2022, 23:31:49 | 02/24/2022, 18:24:42
-comment_text: Adding for context that this would likely fall under the tracking research outputs and funding acknowledgment use cases of #49 and #386. Agree this should be added, as well as the ICCR (which also falls under the same use cases).
-
----
-"
-Needs discussion,1033944646,324,https://github.com/ror-community/ror-updates/issues/324,open,level 2; update record; kitten; org-requested,2021-10-22 21:00:16,2022-02-24 18:32:20,"Modify the information in an existing ROR record: 
-Stiftelsen Riksbankens Jubileumsfond https://ror.org/02jkbm893
-","Summary of request: Modify the information in an existing ROR record
-
-Name of organization: Stiftelsen Riksbankens Jubileumsfond
-ROR ID: https://ror.org/02jkbm893
-Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record
-Description of change: The foundation is listed under its former English name: Bank of Sweden Tercentenary Foundation. I would be grateful if you could change it to the correct version: Stiftelsen Riksbankens Jubileumsfond and also change the wording underneath to For the advancement of the Humanities and Social sciences. ","arthurpsmith
-12/02/2021, 21:38:08 | 12/02/2021, 21:38:08
-comment_text: Going by their English ""about"" page - https://www.rj.se/en/about-rj2/ the English name they use is ""Riksbankens Jubileumsfond"", with abbreviation ""RJ"". The Swedish name we have seems what they use on the Swedish version of that page (""Stiftelsen Riksbankens Jubileumsfond""). Their request regarding ""For the advancement of the Humanities and Social sciences"" seems confused - unless they consider it part of a full official name (for example we could add ""Riksbankens Jubileumsfond For the advancement of the Humanities and Social sciences"" as an alternate label I guess) I don't think we have a place for logo text like that in ROR.
-
-So I recommend replacing the primary label with their English label ""Riksbankens Jubileumsfond"", retaining the Swedish label, adding ""RJ' as an acronym, and keeping the former primary label as another alternate label.
-
----
-KellyStathis
-01/25/2022, 23:37:42 | 01/25/2022, 23:37:42
-comment_text: I'm not sure about removing the word ""Stiftelsen"" because it doesn't appear on the English version on the website. Arguments for including it:
-
-- From what I can tell, ""Stiftelsen"" (which means ""foundation"") is part of their official Swedish name - they may have just thought it was awkward or redundant to translate on the English side? I wouldn't attribute too much significance to that omission. I'm not seeing evidence that ""Riksbankens Jubileumsfond"" an official ""English"" name - particularly because it's still Swedish! I think it's just a short name.
-- The word ""Foundation"" is already part of their current English translated name in ROR.
-- There are other Swedish foundations in ROR that keep the word ""Stiftelsen"": https://ror.org/search?query=stiftelsen
-
-My proposal:
-- primary name: use the full name, ""Stiftelsen Riksbankens Jubileumsfond""
-- alias/label: ""Riksbankens Jubileumsfond"" - if added as a label, I would say it is Swedish for language, not English
-- label: ""Bank of Sweden Tercentenary Foundation"" (English)
-- acronyms: ""RJ""
-
-For the request on ""For the advancement of the Humanities and Social sciences"", I think they might be referring to the alias we have, ""The Swedish Foundation for Humanities and Social Sciences"" - we are missing the word ""Advancement"". Not sure if we should update this alias or remove it, if we don't normally include taglines like this?
-
-Moving to ""Needs discussion.""
-
----
-adambuttrick
-02/24/2022, 18:31:57 | 02/24/2022, 18:32:20
-comment_text: Agree with Kelly's proposal, with one caveat - I don't think we need to add ""Riksbankens Jubileumsfond"" as an alias or label. It's a substring of the primary name and we don't typically include those as alternate forms. Searching this substring by itself would already returns the full ""Stiftelsen Riksbankens Jubileumsfond"" name in the API and site. You can see this now by searching for just ""Sweden Tercentenary"" and returning https://ror.org/02jkbm893.
-
----
-"
 Needs discussion,1037579349,342,https://github.com/ror-community/ror-updates/issues/342,open,level 2; update record; jaguar; org-requested; merge records; redirect needed,2021-10-27 15:45:20,2022-02-16 23:37:55,"Modify the information in an existing ROR record: 
 Public Health England (PHE) https://ror.org/00vbvha87
 ","Summary of request: Modify the information in an existing ROR record
@@ -192,138 +62,6 @@ comment_text: I agree with Kelly's assessment. We should create two records for 
 
 ---
 "
-Needs discussion,1042952905,349,https://github.com/ror-community/ror-updates/issues/349,open,level 1; new record; jaguar,2021-11-03 00:06:47,2022-02-24 18:43:44,"Add a new organization to ROR: Biological Museum, Lund University ","Summary of request: Add a new organization to ROR
-
-Name of organization: Biological Museum, Lund University 
-Website: https://www.biology.lu.se/biological-museum
-Organization type: Archive
-Link to publications: 
-Wikipedia page:
-Wikidata ID: https://www.wikidata.org/wiki/Q105086168
-ISNI ID:
-GRID ID:
-Crossref Funder ID:
-Other names for the organization: Biologiska Museet, Lunds universitet
-Acronym/abbreviation: LD, MZLU
-Related organizations: https://ror.org/012a77v79
-City: Lund
-Country: Sweden
-Other information about this request: Second largest natural history museum in Sweden
-
-","arthurpsmith
-12/06/2021, 20:57:53 | 12/06/2021, 20:57:53
-comment_text: This is entirely part of the university, within the Department of Biology, as the website indicates. As not a top-level unit (and not clearly used anywhere as an affiliation) I don't believe this is in scope for ROR at this time.
-
----
-KellyStathis
-01/26/2022, 00:15:38 | 01/26/2022, 00:15:38
-comment_text: Looking at the [guidance for common organization types](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records#guidance-for-evaluating-common-organization-types), we specify that for a museum within a university, ""Add to ROR if: they are producing research and the museum is used as an affiliation."" I agree that the  museum by itself is not used as an affiliation - for example, the museum director uses his university affiliation on his ORCID: https://orcid.org/0000-0002-1259-3363 
-
-However, this feels like a fine line that we're drawing here. The example in the guidance is the UC Berkeley Museum of Vertebrate Zoology (https://ror.org/01rdg4502) - I'm not sure if the difference between these two examples is significant:
-- The [UCMVZ website](https://mvz.berkeley.edu/) is also hosted within the UC Berkeley domain, and although it doesn't mention a department, it is a [research unit within the university](https://vcresearch.berkeley.edu/research-units?for=All&search=&rut=All&page=4).
-- Both museums are listed in GBIF: [UCMVZ](https://www.gbif.org/grscicoll/institution/59175240-4500-42b9-9e98-42ae299a5e9b/metrics), [Lund University Biological Museum](https://www.gbif.org/grscicoll/institution/13edc77b-7023-4ddd-89c7-d883a480b294)
-
-I do agree that this is not a top-level organization; however, I want to make sure we are consistent. Moving to ""needs discussion"".
-
----
-adambuttrick
-02/24/2022, 18:43:44 | 02/24/2022, 18:43:44
-comment_text: The publication affiliation usage pattern for the UC Berkeley Museum of Vertebrate Zoology and the Biological Museum, Lund University are more or less identical :
-
-Biological Museum, Lund University:
-https://lucris.lub.lu.se/ws/files/24186691/Kondratyuk_et_al.pdf
-https://lucris.lub.lu.se/ws/files/46184553/GS_30_94.pdf
-https://www.mapress.com/zt/article/view/zootaxa.5047.3.8
-
-UC Berkeley Museum of Vertebrate Zoology and Biological Museum:
-https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13529
-https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12368
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.580.9635&rep=rep1&type=pdf
-
-If we take UC Berkeley Museum of Vertebrate Zoology and Biological Museum as our guidance/precedent, I'm not sure how we could justify excluding Biological Museum, Lund University. Agree with Kelly that we need to firm this up for the sake of consistency.
-
----
-"
-Needs discussion,1019855942,317,https://github.com/ror-community/ror-updates/issues/317,open,level 1; new record; jaguar; org-requested,2021-10-07 10:04:09,2022-02-16 23:44:20,"Add a new organization to ROR: 
- 
-Fundación Grupo para la Investigación Formación y Edición Transdisciplinar","Summary of request: Add a new organization to ROR
-
-Name of organization: Fundación Grupo para la Investigación Formación y Edición Transdisciplinar
-Website: https://fundaciongifet.wordpress.com/
-Link to publications: https://petroglifosrevistacritica.org.ve/
-Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Other names for the organization: GIFET
-Acronym/abbreviation: Fundación GIFET
-Related organizations: 
-City: Maracay
-Country: Venezuela
-Year established: 2020
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
-Other information about this request: ","arthurpsmith
-10/27/2021, 21:17:57 | 10/27/2021, 21:17:57
-comment_text: Hmm - they claim they were established in 2020, but publish a magazine (Petroglifos, linked as publication)  that started in 2018? In any case, they are used as an affiliation at least in that magazine: https://petroglifosrevistacritica.org.ve/revista/experiencia-de-investigacion-agroecologica-en-sistemas-integrados-de-produccion-agricola-insulares-de-venezuela/ for example - I also found at least one other place that the affiliation was used: https://elbuho.revistasaafi.es/buho21/14%20LA%20MUERTE%20DE%20UNA%20HEGEMONÍA%20PARADIGMÁTICA%20ANTE%20LA%20PANDEMIA%20DEL%20COVID-19.pdf
-
-There appear to be only a small number of researchers involved, but it is more than one. It's not clear to me they're conducting much scholarly research here. I'm not sure on this one. Maybe it should wait a bit to be more well-established?
-
----
-carlyrobinson
-01/28/2022, 15:24:12 | 01/28/2022, 15:24:31
-comment_text: A research organization, with a number of people, publishing a magazine, using as an affiliation - I'd recommend adding. 
-
----
-adambuttrick
-02/16/2022, 23:44:20 | 02/16/2022, 23:44:20
-comment_text: Adding as additional context this ORCID affiliation usage: https://orcid.org/0000-0003-2467-5961 ; https://orcid.org/0000-0003-2035-4116 ; https://orcid.org/0000-0003-0749-726X
-
----
-"
-Needs discussion,1068641412,383,https://github.com/ror-community/ror-updates/issues/383,open,level 1; new record; jaguar; relationship,2021-12-01 16:47:52,2022-02-01 19:00:06,"Add a new organization to ROR: 
- 
-Sektion Medienpädagogik der Deutschen Gesellschaft für Erziehungswissenschaft (DGfE)","Summary of request: Add a new organization to ROR
-
-Name of organization: Sektion Medienpädagogik der Deutschen Gesellschaft für Erziehungswissenschaft (DGfE)
-Website: https://www.dgfe.de/sektionen-kommissionen-ag/sektion-12-medienpaedagogik
-Link to publications: https://doi.org/10.21240/mpaed/00/2021.11.29.X, https://doi.org/10.21240/mpaed/00/2021.10.27.X, https://doi.org/10.21240/mpaed/00/2020.07.16.X
-Organization type: Other (Use this category for any organization that does not fit the categories above)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Other names for the organization: Sektion Medienpädagogik
-Acronym/abbreviation:
-Aliases: Sektion Medienpädagogik
-Related organizations: Parent - Deutsche Gesellschaft für Erziehungswissenschaf #453 
-City: Not applicable
-Country: Germany, Austria, Switzerland
-Year established: 1999
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
-Other information about this request: This affiliation can best described as scientific society (learned society)","MSpenger
-12/07/2021, 14:24:52 | 12/07/2021, 14:24:52
-comment_text: A new entry for ROR is suggested. The umbrella organisation does not have a ROR yet: Deutsche Gesellschaft für Erziehungswissenschaft [DGfE] (https://www.wikidata.org/wiki/Q1202838, https://isni.oclc.org/xslt/DB=1.2/CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000%200001%201092%207326).
-
-Some other sections are already linked to the ISNI above. Here is an overview of the organisation of the DGfE Divisions: https://www.dgfe.de/en/divisions-subdivisions
-
-It would make sense to add a ROR entry for the DGfE first and then assess this request again.
-
-
----
-carlyrobinson
-01/28/2022, 15:39:21 | 01/28/2022, 15:39:21
-comment_text: Agree with @MSpenger that the higher level organization should be added to ROR. It is being used as an affiliation. 
-
----
-adambuttrick
-01/28/2022, 17:50:18 | 01/28/2022, 17:53:25
-comment_text: Created and approved record for parent organization in #453, per these comments. Moving back to needs discussion for further consideration. We would need to determine whether the section is in scope or the top-level organization would be the appropriate affiliation.
-
----
-"
 Needs discussion,1073883933,394,https://github.com/ror-community/ror-updates/issues/394,open,level 1; new record; jaguar,2021-12-08 00:41:14,2022-01-31 20:11:24,"Add a new organization to ROR: 
  
 Suzhou institute of North China Electric Power University","Summary of request: Add a new organization to ROR
@@ -369,23 +107,6 @@ adambuttrick
 comment_text: Fixed the date, since this was appears to have been a typo in the request. 
 
 @arthurpsmith Good catch. I had assumed these were errant as they did not appear in the author affiliations or the page source of the CNKI pages. After subtracting out the CNKI articles that were polluting the Google Scholar results, I was able to find ""Suzhou institute of North China Electric Power University"" as an affiliation in IEEE (https://ieeexplore.ieee.org/document/6330107 ; https://ieeexplore.ieee.org/document/6896157 ; https://ieeexplore.ieee.org/document/6330107), with the only caveat being that the author's profiles use the university affiliation, not the institute (e.g., https://ieeexplore.ieee.org/author/37304066300 ; https://ieeexplore.ieee.org/author/37405735500 ; https://ieeexplore.ieee.org/author/38543674000). 
-
----
-"
-Needs discussion,1073883850,387,https://github.com/ror-community/ror-updates/issues/387,open,level 3; update record; kitten,2021-12-08 00:41:07,2022-01-28 01:48:45,"Modify the information in an existing ROR record: 
-University of the French west indies  https://ror.org/02ryfmr77
-","Summary of request: Modify the information in an existing ROR record
-
-Name of organization: University of the French west indies
-ROR ID:  https://ror.org/02ryfmr77
-Which part of the record needs to be changed? Something else
-Description of change: The ISNI code recorded is no longer used (0000000121973053). The right one is : 0000000405935227 (https://isni.ringgold.com/search/)
-
-","adambuttrick
-01/28/2022, 01:48:09 | 01/28/2022, 01:48:45
-comment_text: Unfortunately, this request isn't as simple as an ISNI change. The current URL in the ROR record points to the University of the French Antilles. The Wikidata ID (https://www.wikidata.org/wiki/Q829169) points at the University of the French West Indies and Guiana, which appears to have been split into to different entities in 2015 (https://en.wikipedia.org/wiki/University_of_the_French_Antilles). 
-
-So, we need to make a determination if this record represents the historic form of the organization before it split, deprecate it, and create a new record to reflect the University of the French Antilles entry (with the updated ISNI), or pursue some other kind of representation.
 
 ---
 "
@@ -448,3 +169,41 @@ And regarding the entry mentioned in the initial post, the ""Year established"" 
 
 ---
 "
+Needs discussion,1154615264,513,https://github.com/ror-community/ror-updates/issues/513,open,level 1; new record; jaguar; relationship,2022-02-28 22:26:31,2022-02-28 22:47:08,Add a new organization to ROR: Kamioka Observatory,"Summary of request: Add a new organization to ROR
+
+Name of organization: Kamioka Observatory
+Website: https://www-sk.icrr.u-tokyo.ac.jp/
+Link to publications: 
+Organization type: Facility
+Wikipedia page: https://en.wikipedia.org/wiki/Kamioka_Observatory
+Wikidata ID: Q363047
+ISNI ID:
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Acronym/abbreviation:
+Related organizations: https://ror.org/issue311 (parent)
+Labels: 神岡宇宙素粒子研究施設*Japanese 
+City: Hida, Gifu Prefecture
+Country: Japan
+Year established: 1983
+Geonames ID: 11611937
+How will a ROR ID for this organization be used? 
+Other information about this request:
+","adambuttrick
+02/28/2022, 22:32:25 | 02/28/2022, 22:32:25
+comment_text: Creating per discussion on #311.
+
+---
+adambuttrick
+02/28/2022, 22:47:07 | 02/28/2022, 22:47:07
+comment_text: Adding affiliation usage for context. Affiliation pattern almost everywhere is, ""Kamioka Observatory, ICRR, University of Tokyo"":
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=lgYtLGsAAAAJ; https://scholar.google.com/citations?user=MrYQwRUAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-4665-2210
+
+---
+"
+Needs discussion,860164412,24,https://github.com/ror-community/ror-updates/issues/24,open,needs discussion,2021-04-16 20:51:47,2021-04-16 20:51:47,Add Universitätsbibliothek der LMU München,,
+Needs discussion,860164184,23,https://github.com/ror-community/ror-updates/issues/23,open,needs discussion,2021-04-16 20:51:26,2021-04-16 20:51:26,Add IT-Gruppe Geisteswissenschaften,,

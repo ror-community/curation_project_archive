@@ -1,8 +1,21 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Cleanup,763158118,6,https://github.com/ror-community/ror-updates/issues/6,open,hold for later; project,2020-12-12 01:38:58,2021-04-16 20:34:11,Batch QA: Malformed ISNI,"[ROR_table_ISNI_format_fixes.xlsx](https://github.com/ror-community/test-curation-workflow/files/5682292/ROR_table_ISNI_format_fixes.xlsx)
+Cleanup,763158118,6,https://github.com/ror-community/ror-updates/issues/6,open,hold for later; project; cleanup,2020-12-12 01:38:58,2022-03-16 16:51:29,Batch QA: Malformed ISNI,"[ROR_table_ISNI_format_fixes.xlsx](https://github.com/ror-community/test-curation-workflow/files/5682292/ROR_table_ISNI_format_fixes.xlsx)
 ",
-Cleanup,1110808580,435,https://github.com/ror-community/ror-updates/issues/435,open,level 3; lion; hold for later; project,2022-01-21 19:18:31,2022-01-21 19:38:28,"Project: Remove errant last characters in record name, alias, acronym, and label fields","@KellyStathis and developers working at the Digital Research Alliance of Canada | Alliance de recherche numérique du Canada identified that a number of ROR records have errant last characters in their name, alias, acronym, and label fields. I wrote a script to pull the ~400 records with this issue. The most common error is trailing whitespace, followed by semicolons and commas.
+Cleanup,1110808580,435,https://github.com/ror-community/ror-updates/issues/435,open,level 3; lion; hold for later; project; cleanup,2022-01-21 19:18:31,2022-03-16 16:51:59,"Project: Remove errant last characters in record name, alias, acronym, and label fields","@KellyStathis and developers working at the Digital Research Alliance of Canada | Alliance de recherche numérique du Canada identified that a number of ROR records have errant last characters in their name, alias, acronym, and label fields. I wrote a script to pull the ~400 records with this issue. The most common error is trailing whitespace, followed by semicolons and commas.
 
 https://docs.google.com/spreadsheets/d/1t82SyBkY8jE2lHOpv3KMQXf_BCS0IPWGvqCYXmJ2woM/edit?usp=sharing
 
 .",
+Cleanup,1135188431,484,https://github.com/ror-community/ror-updates/issues/484,closed,level 2; update record; lion; project; cleanup,2022-02-13 04:47:48,2022-03-18 16:28:46,Project: Remove unprintable characters from ROR records,"Approximately 200 records have unprintable characters in various fields that interfere with search and other use of the data. These records should all be updated to delete these characters.
+[unprintable_characters_20220212.xlsx](https://github.com/ror-community/ror-updates/files/8054981/unprintable_characters_20220212.xlsx)
+ ","adambuttrick
+02/13/2022, 04:49:06 | 02/13/2022, 04:49:06
+comment_text: https://ror.org/02jh2mm49 (Issue #310) will be corrected in the first release.
+
+---
+adambuttrick
+02/16/2022, 16:31:05 | 02/16/2022, 16:31:05
+comment_text: After discussion with @lizkrznarich, these use a valid escape syntax and so should not be deleted. We should update the search API to accommodate.
+
+---
+"

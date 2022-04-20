@@ -1,0 +1,87 @@
+column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
+Ready for sign-off - metadata QA,1177127443,565,https://github.com/ror-community/ror-updates/issues/565,open,level 2; update record; kitten,2022-03-22 18:08:25,2022-03-23 14:34:25,Modify the information in an existing ROR record:  Punta Galeta Marine Laboratory - https://ror.org/02dzza612,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Punta Galeta Marine Laboratory
+ROR ID: https://ror.org/02dzza612
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)
+",
+Ready for sign-off - metadata QA,1176987865,559,https://github.com/ror-community/ror-updates/issues/559,open,level 1; update record; kitten,2022-03-22 16:00:30,2022-03-22 17:45:04,Modify the information in an existing ROR record: Fortuna Field Station - https://ror.org/05s45j557,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Fortuna Field Station
+ROR ID: https://ror.org/05s45j557 
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)
+",
+Ready for sign-off - metadata QA,1177106777,560,https://github.com/ror-community/ror-updates/issues/560,open,level 2; update record; kitten,2022-03-22 17:48:31,2022-03-23 14:34:05,Modify the information in an existing ROR record: Punta Culebra Nature Center - https://ror.org/01ge7v435,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Punta Culebra Nature Center
+ROR ID: https://ror.org/01ge7v435
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)",
+Ready for sign-off - metadata QA,1177114095,561,https://github.com/ror-community/ror-updates/issues/561,open,level 2; update record; kitten,2022-03-22 17:55:56,2022-03-23 14:34:09,Modify the information in an existing ROR record: Naos Marine and Molecular Laboratories - https://ror.org/007yfgf06,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Naos Marine and Molecular Laboratories
+ROR ID: https://ror.org/007yfgf06
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)
+",
+Ready for sign-off - metadata QA,1177117693,562,https://github.com/ror-community/ror-updates/issues/562,open,level 2; update record; kitten,2022-03-22 17:59:11,2022-03-23 14:34:13,Modify the information in an existing ROR record: Gamboa Laboratories - https://ror.org/05sffn795,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Gamboa Laboratories
+ROR ID: https://ror.org/05sffn795
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)",
+Ready for sign-off - metadata QA,1177120314,563,https://github.com/ror-community/ror-updates/issues/563,open,level 2; update record; kitten,2022-03-22 18:01:49,2022-03-23 14:34:16,Modify the information in an existing ROR record: Coibita Island - https://ror.org/02jq1vf72,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Coibita Island
+ROR ID: https://ror.org/02jq1vf72
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)",
+Ready for sign-off - metadata QA,1177121342,564,https://github.com/ror-community/ror-updates/issues/564,open,level 2; update record; kitten,2022-03-22 18:02:48,2022-03-23 14:34:21,Modify the information in an existing ROR record: Bocas del Toro Research Station - https://ror.org/02ftc8763,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Bocas del Toro Research Station
+ROR ID: https://ror.org/02ftc8763
+Which part of the record needs to be changed? Add relationships
+Description of change: https://ror.org/01pp8nd67 (parent)",
+Ready for sign-off - metadata QA,1114560343,442,https://github.com/ror-community/ror-updates/issues/442,open,level 1; new record; lion; project; relationship,2022-01-26 02:26:16,2022-03-24 17:28:26,Project: Long Term Ecological Research Network Members,"The request for US-based Long Term Ecological Research Network Members (#197) indicates several other members that are not currently represented in ROR. A request to add Beaufort Lagoon Ecosystem (#32) has already been approved, but we would need to investigate whether the remainder are in scope, along with gathering their corresponding metadata. All would likewise need to be represented as children of #197. Organzations as listed in the original request are provided below.
+
+Andrews Forest
+Arctic LTER
+Baltimore Ecosystem Study
+Beaufort Lagoon Ecosystem
+Bonanza Creek LTER
+Central Arizona - Phoenix
+Central Plains Experimental Range
+California Current Ecosystem
+Cedar Creek Ecosystem Science Reserve
+Coweeta LTER
+Florida Coastal Everglades
+Georgia Coastal Ecosystems
+Harvard Forest
+Hubbard Brook Experimental Forest LTER
+Jornada Basin LTER
+Kellogg Biological Station
+Konza Prairie
+Luquillo Experimental Forest
+McMurdo Dry Valleys
+Minneapolis St. Paul LTER
+Mo'orea Coral Reef
+Niwot Ridge LTER
+North Temperate Lakes
+Northeast U.S. Shelf LTER
+Northern Gulf of Alaska LTER
+Palmer Station Antarctica
+Plum Island Ecosystem
+Santa Barbara Coastal
+Sevilleta National Wildlife Refuge
+Shortgrass Steppe LTER
+Virginia Coast Reserve Long-Term Ecological Research
+","adambuttrick
+02/25/2022, 18:41:55 | 02/25/2022, 18:41:55
+comment_text: LTER staff have provided metadata for each organization
+[LTER ROR identifiers.xlsx](https://github.com/ror-community/ror-updates/files/8143477/LTER.ROR.identifiers.xlsx)
+.
+
+---
+"
