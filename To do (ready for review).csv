@@ -1,15 +1,1 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-To do (ready for review),1186730693,585,https://github.com/ror-community/ror-updates/issues/585,open,level 2; update record; jaguar,2022-03-30 16:48:21,2022-04-04 19:06:42,"Modify the information in an existing ROR record: 
-University of Derby  https://ror.org/02yhrrk59
-","Summary of request: Modify the information in an existing ROR record
-
-Update record:
-Name of organization: University of Derby
-ROR ID:  https://ror.org/02yhrrk59
-Which part of the record needs to be changed? Something else
-Description of change: Information on Institutional Repository ","adambuttrick
-04/01/2022, 04:37:43 | 04/01/2022, 04:37:43
-comment_text: Intent of request is unclear. Reaching out to requester.
-
----
-"

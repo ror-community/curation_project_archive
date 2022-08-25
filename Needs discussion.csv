@@ -1,209 +1,74 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Needs discussion,1037579349,342,https://github.com/ror-community/ror-updates/issues/342,open,level 2; update record; jaguar; org-requested; merge records; redirect needed,2021-10-27 15:45:20,2022-02-16 23:37:55,"Modify the information in an existing ROR record: 
-Public Health England (PHE) https://ror.org/00vbvha87
-","Summary of request: Modify the information in an existing ROR record
+Needs discussion,1314878839,893,https://github.com/ror-community/ror-updates/issues/893,open,level 1; new record; jaguar; needs discussion,2022-07-22 11:18:37,2022-07-26 23:58:58,"Add a new organization to ROR: 
+ 
+Akdema Informatics and Publishing","Summary of request: Add a new organization to ROR
 
-Name of organization: Public Health England (PHE)
-ROR ID: https://ror.org/00vbvha87
-Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record, Organization website, Other IDs for the organization
-Description of change: Public Health England has been replaced by the UK Health Security Agency. Please see information related to this here
-https://www.gov.uk/government/organisations/public-health-england (information about replacement at the top of the page)
-https://www.gov.uk/government/publications/transforming-the-public-health-system/transforming-the-public-health-system-reforming-the-public-health-system-for-the-challenges-of-our-times (detailed information about the changes) 
-https://en.wikipedia.org/wiki/UK_Health_Security_Agency
-I am thinking it would be best to update/modify the existing PHE record because the majority of PHE functions are now part of UKHSA and the site locations of the main PHE sites are the same as previously.
+Name of organization: Akdema Informatics and Publishing
+Website: https://akdema.com
+Link to publications: 10.33066
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Akdema Bilişim ve Yayıncılık*Turkish
+Acronym/abbreviation:
+Related organizations: 
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 2018
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
 
-Other information about this request: Please let me know if you need any further information we have recently for example updated the previous Ringgold ID for publishing with the new organisation name UK Health Security Agency ID 371011.","arthurpsmith
-12/03/2021, 21:09:40 | 12/03/2021, 21:09:40
-comment_text: There is a new wikidata ID also: https://www.wikidata.org/wiki/Q104336949
-It is still part of the Department of Health and Social Care.
-There does NOT seem to be an ISNI for the new agency. I think it would be confusing to re-use this ROR id for the new one. I believe we should create a new ID for this since there are so many differences, and the previous organization was not entirely folded into the new one:
-* Primary name: UK Health Security Agency
-* Acronym: UKHSA
-* Type: Government
-* Established: 2020
-* Country: United Kingdom
-* Website: https://www.gov.uk/government/organisations/uk-health-security-agency
-* Wikipedia link: https://en.wikipedia.org/wiki/UK_Health_Security_Agency
-* Wikidata ID: https://www.wikidata.org/wiki/Q104336949
-* Parent organization: https://ror.org/03sbpja79
-
+Other information about this request: Thank you very much.","adambuttrick
+07/22/2022, 16:14:51 | 07/22/2022, 16:14:51
+comment_text: Turkish publishing services company. Appears to not actually be a publisher, but to help various journal publishers set up OJS instances and do things like register DOIs. Not certain how we feel about these kinds of orgs in terms of scope, but it seems a little far afield from ROR.
 
 ---
 mariagould
-01/05/2022, 23:26:57 | 01/05/2022, 23:27:20
-comment_text: I received some additional information from the requesting organization that might help us come to a decision. The comments came from 3 different colleagues. The questions about handling deprecated/redirected IDs is something we don't have a solution for yet, but will be exploring this year. 
-
-> In relation to your question on whether or not to update the existing record or create a new record for UKHSA please see comments below from staff here:
->  
-> **Comment 1**
-> I can’t see any disadvantages with a new entry for UKHSA. Obviously the PHE entry would need to indicate that PHE no longer exists. Would the PHE entry stay visible? If yes, then a suitable contact, presumably at UKHSA, should be supplied.
->  
-> **Comment 2**
-> Creating a new record for UKHSA should not be a disadvantage, but if a new record for UKHSA is created will it show that it was previously linked to PHE or are all the records on the ROR standalone records where no relationship/predecessor organisations are shown?
->  
-> **Comment 3**
-> I think the reason we were thinking to initially update/modify the existing record rather than create a new record was because we know of at least one current service that is using the ROR to identify organisations, and this is a journal checker tool: https://journalcheckertool.org/. Currently this journal checker tool is using PHE’s ROR ID, so if a new record is created for UKHSA it will mean we will have to contact this service to get them to change the organisation name/ROR ID to UKHSA. We are also unsure of any other services that are currently using PHE’s ROR ID that may need to be contacted if there is a new record created on the ROR for UKHSA. Although admittedly services currently using the PHE ROR ID might not be dynamically updating anyway, so even if the existing PHE ROR record was only updated/modified to show details of the new organisation these services may still need to be contacted to get them to manually update their information.
-
- 
-
----
-KellyStathis
-01/25/2022, 23:51:35 | 01/25/2022, 23:51:35
-comment_text: Weighing in here - to me, it's significant that the website says PHE has been replaced by UKHSA **and** the Office for Health Improvement and Disparities. If we modify PHE to UKHSA, we aren't representing the change accurately - and in cases where the previous ROR ID was used as an affiliation, staff who are now part of the OHID will be mislabeled as affiliated with UKHSA.
-
-I support creating a new ROR ID for _both_ the new organizations - UKHSA and OHID - and relating these organizations back to PHE. This does mean that services that use the PHE ROR, like the journal checker tool, will need to make changes. 
-
-Unfortunately, I think this is part of the messiness of government departments... we have similar cases in Canada that I have noticed in ROR (both federal and provincial level), which I haven't submitted yet. Ultimately, I would be interested to see ROR add predecessor/successor relationship types, for cases that are not a straightforward name change.
-
----
-adambuttrick
-02/16/2022, 23:36:46 | 02/16/2022, 23:37:55
-comment_text: I agree with Kelly's assessment. We should create two records for the successor organizations, although we would have to determine what proper redirect for this case would be. I will flag this as an example in our development discussions, as well as the predecessor/successor relationship types as a potential change to the data model.
+07/26/2022, 23:58:48 | 07/26/2022, 23:58:48
+comment_text: I think this would not meet our criteria for research organizations given its role as a service provider. Flagging for group discussion to confirm. 
 
 ---
 "
-Needs discussion,1073883933,394,https://github.com/ror-community/ror-updates/issues/394,open,level 1; new record; jaguar,2021-12-08 00:41:14,2022-01-31 20:11:24,"Add a new organization to ROR: 
+Needs discussion,1321151150,922,https://github.com/ror-community/ror-updates/issues/922,open,level 2; update record; jaguar; hold for later,2022-07-28 15:48:04,2022-07-28 17:10:17,"Deprecate an existing ROR record: 
  
-Suzhou institute of North China Electric Power University","Summary of request: Add a new organization to ROR
+Department of Biomedicine Baselhttps://ror.org/03ybx0x41","Summary of request: Deprecate an existing ROR record
 
+Update record:
 Name of organization: 
 ROR ID: 
 Which part of the record needs to be changed? 
 Description of change: 
 
-Name of organization: Suzhou institute of North China Electric Power University
-Website: https://szyjy.ncepu.edu.cn/
-Link to publications: https://english.ncepu.edu.cn/hddt/31048.html
-Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Other names for the organization: 华北电力大学苏州研究院 (Chinese)
-Acronym/abbreviation: SZYJY
-Related organizations: North China Electric Power University
-City: Suzhou
-Country: China
-Geonames ID: 1886760
-Year established: 2012
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility
-Other information about this request: This institute was established in China in April 2021 - I had trouble finding URL for publications. ","adambuttrick
-01/19/2022, 18:34:18 | 01/19/2022, 22:33:35
-comment_text: Can find no instances of affiliation usage. Publication provided is an announcement from the org's website describing the opening of the facility, seemingly as part of North China Electric Power University. Would need something else further to establish its independence. Otherwise, appears out of scope. Would recommend rolling up to primary ROR ID for North China Electric Power University (https://ror.org/04qr5t414)
+Merge/split/deprecate records:
+Organizations affected by this change:Department of Biomedicine Basel
+ROR ID(s) of organization(s) affected by this change: https://ror.org/03ybx0x41
+How should the record(s) be changed? This ID seems out of scope for ROR under criterion ""1. A top-level entity"" as it is only a subdivision within its respective parent organisations (https://ror.org/02nhqek82, https://ror.org/04k51q396, and https://ror.org/02s6k3f65) and not sufficiently independent from them.
 
----
-arthurpsmith
-01/31/2022, 19:29:11 | 01/31/2022, 19:29:11
-comment_text: Hmm, when I search the exact proposed name on Google Scholar I get a lot of hits:
-https://scholar.google.com/scholar?start=30&q=%22Suzhou+institute+of+North+China+Electric+Power+University%22&hl=en&as_sdt=0,33
-However they all appear to be publications in Chinese journals, which can be downloaded only from CNKI (and I don't have access)?
-I think this is a major research institute, well-established (since at least 2012, I don't know where the 2021 date came from in the input data) and it is physically separate from the main university. On the other hand their website domain is a subdomain of the main university site, and there's no sign they have another ""parent"" organization besides the university. So if we were including non-top-level institutes then I think this should definitely be in ROR; as it is it probably is out of scope. But maybe needs further discussion? If we had somebody more familiar with Chinese organizations that might help here!
+In the Swiss and German Open Access Monitors (which rely on dimensions.ai data and ROR; see https://open-access-monitor.de/publications/840366261) the current situation results in an odd display of just one subdivision listed for its respective parent entities. Moreover, a subdivision that is registered with only 32 publications, while the department's output is in reality more than a thousand times that number (see https://edoc.unibas.ch/view/divisions/64.html). 
 
-
----
-adambuttrick
-01/31/2022, 20:03:24 | 01/31/2022, 20:06:35
-comment_text: Fixed the date, since this was appears to have been a typo in the request. 
-
-@arthurpsmith Good catch. I had assumed these were errant as they did not appear in the author affiliations or the page source of the CNKI pages. After subtracting out the CNKI articles that were polluting the Google Scholar results, I was able to find ""Suzhou institute of North China Electric Power University"" as an affiliation in IEEE (https://ieeexplore.ieee.org/document/6330107 ; https://ieeexplore.ieee.org/document/6896157 ; https://ieeexplore.ieee.org/document/6330107), with the only caveat being that the author's profiles use the university affiliation, not the institute (e.g., https://ieeexplore.ieee.org/author/37304066300 ; https://ieeexplore.ieee.org/author/37405735500 ; https://ieeexplore.ieee.org/author/38543674000). 
-
----
-"
-Needs discussion,1145990233,500,https://github.com/ror-community/ror-updates/issues/500,open,level 1; new record; jaguar,2022-02-21 16:11:31,2022-02-25 07:56:20,"Add a new organization to ROR: 
- 
- H2020 ERA-net ","Name of organization: ERA-Net Cofund
-Website: https://ec.europa.eu/programmes/horizon2020/en/h2020-section/era-net
-Link to publications:
-Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases:  
-Labels:
-Acronym/abbreviation:
-Related organizations:  
-City: Brussels
-Country: Belgium
-Geonames ID: 2800866
-Year established: 9999
-How will a ROR ID for this organization be used? To acknowledge research funding
-
-Other information about this request: ","adambuttrick
-02/23/2022, 15:41:52 | 02/23/2022, 15:59:33
-comment_text: Under the Horizon 2020 scheme, the ERA-NET funding program has been merged into a single instrument, with the goal of ""topping up"" funding for trans-European research across various domains. Full description of the instrument [here](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/era-net_en.htm). We have a precedent in ROR, inherited from GRID, of a specific ERA-NET instrument from prior to their merging into a single instrument - ERA Plant Genomics https://ror.org/055pf8065.
-
-I've added Brussels as a location because of the scheme originating with the European Commission, but please let me know if anyone thinks another location would be more appropriate. This specific request came in from a funding recipient looking to use ROR to acknowledge their funders.
-
----
-adambuttrick
-02/23/2022, 16:38:41 | 02/23/2022, 16:42:18
-comment_text: @MSpenger Can you provide any insight on whether this funding scheme is in scope for ROR?
-
----
-MSpenger
-02/25/2022, 07:45:44 | 02/25/2022, 07:56:20
-comment_text: @adambuttrick 
-
-I think this item might need some extra discussion. Looking at the [Checklist for evaluating new organizations](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records#checklist-for-evaluating-new-organizations), most criteria are not met. Also the type ""funding scheme"" does not exist as a type of organization in the [Guidance for evaluating common organization types](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records#guidance-for-evaluating-common-organization-types). Technically, the ERC Research Council (https://ror.org/0472cxd90) is the organization behind the funding scheme ERA-Net Cofund.
-
-""The main and compulsory activity of the ERA-NET Cofund under Horizon 2020 is the implementation of the co-funded joint call for proposals that leads to the funding of trans-national research and/or innovation projects (one co-funded call per Grant Agreement)."" https://www.era-learn.eu/support-for-partnerships/cofunded-p2p/era-net-cofund 
-
-A use case, where a funder ID might be needed, is the funding reference in the DataCite metadata schema:
-```
-<fundingReference>
-<funderName>European Commission</funderName>
-<funderIdentifier funderIdentifierType=""Crossref Funder ID"">https://doi.org/10.13039/501100000780</funderIdentifier>
-<awardNumber awardURI=""https://cordis.europa.eu/project/rcn/100603_en.html"">284382</awardNumber>
-<awardTitle>
-Institutionalizing global genetic-resource commons. Global Strategies for accessing and using essential public knowledge assets in the life sciences
-</awardTitle>
-</fundingReference>
-```
-
-However, ""ERA-Net Cofund"" cannot be found in either ISNI or Crossref Funder Registry.
-
-And regarding the entry mentioned in the initial post, the ""Year established"" shows 9999. Is this used as a placeholder?
-
----
-"
-Needs discussion,1154615264,513,https://github.com/ror-community/ror-updates/issues/513,open,level 1; new record; jaguar; relationship,2022-02-28 22:26:31,2022-02-28 22:47:08,Add a new organization to ROR: Kamioka Observatory,"Summary of request: Add a new organization to ROR
-
-Name of organization: Kamioka Observatory
-Website: https://www-sk.icrr.u-tokyo.ac.jp/
-Link to publications: 
-Organization type: Facility
-Wikipedia page: https://en.wikipedia.org/wiki/Kamioka_Observatory
-Wikidata ID: Q363047
-ISNI ID:
-GRID ID:
-Crossref Funder ID:
-Other names for the organization: 
-Acronym/abbreviation:
-Related organizations: https://ror.org/issue311 (parent)
-Labels: 神岡宇宙素粒子研究施設*Japanese 
-City: Hida, Gifu Prefecture
-Country: Japan
-Year established: 1983
-Geonames ID: 11611937
-How will a ROR ID for this organization be used? 
-Other information about this request:
 ","adambuttrick
-02/28/2022, 22:32:25 | 02/28/2022, 22:32:25
-comment_text: Creating per discussion on #311.
-
----
-adambuttrick
-02/28/2022, 22:47:07 | 02/28/2022, 22:47:07
-comment_text: Adding affiliation usage for context. Affiliation pattern almost everywhere is, ""Kamioka Observatory, ICRR, University of Tokyo"":
-
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=lgYtLGsAAAAJ; https://scholar.google.com/citations?user=MrYQwRUAAAAJ
-
-ORCID affiliation usage: https://orcid.org/0000-0002-4665-2210
+07/28/2022, 17:02:47 | 07/28/2022, 17:02:55
+comment_text: Agree with the requestor's assessment of the record's scope. This would be our first example of withdrawing a record for being out of scope, so moving to Need's Discussion.
 
 ---
 "
-Needs discussion,860164412,24,https://github.com/ror-community/ror-updates/issues/24,open,needs discussion,2021-04-16 20:51:47,2021-04-16 20:51:47,Add Universitätsbibliothek der LMU München,,
-Needs discussion,860164184,23,https://github.com/ror-community/ror-updates/issues/23,open,needs discussion,2021-04-16 20:51:26,2021-04-16 20:51:26,Add IT-Gruppe Geisteswissenschaften,,
+Needs discussion,1349996446,1017,https://github.com/ror-community/ror-updates/issues/1017,open,level 1; new record; jaguar,2022-08-24 20:38:47,2022-08-24 20:56:01,"Include our record with Western Michigan University: 
+
+","Summary of request: Include our record with Western Michigan University
+
+Update record:
+Name of organization: 
+ROR ID: 
+Which part of the record needs to be changed? Additional names
+Description of change: Include Western Michigan University Homer Stryker M.D. School of Medicine with Western Michigan University
+
+","adambuttrick
+08/24/2022, 20:47:14 | 08/24/2022, 20:54:01
+comment_text: Pulling together details from form response since the request was incomplete. Request here is to add WMU's medical school in some fashion. We would not alias, so this would be a new record request. Medical schools being in or out of scope is a discussion topic in our next curation team meeting, so putting this on hold in the ""Needs Discussion."" Will create full request, dependent on outcome of discussion.
+
+---
+"

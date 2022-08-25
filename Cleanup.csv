@@ -1,12 +1,5 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Cleanup,763158118,6,https://github.com/ror-community/ror-updates/issues/6,open,hold for later; project; cleanup,2020-12-12 01:38:58,2022-03-16 16:51:29,Batch QA: Malformed ISNI,"[ROR_table_ISNI_format_fixes.xlsx](https://github.com/ror-community/test-curation-workflow/files/5682292/ROR_table_ISNI_format_fixes.xlsx)
-",
-Cleanup,1110808580,435,https://github.com/ror-community/ror-updates/issues/435,open,level 3; lion; hold for later; project; cleanup,2022-01-21 19:18:31,2022-03-16 16:51:59,"Project: Remove errant last characters in record name, alias, acronym, and label fields","@KellyStathis and developers working at the Digital Research Alliance of Canada | Alliance de recherche numérique du Canada identified that a number of ROR records have errant last characters in their name, alias, acronym, and label fields. I wrote a script to pull the ~400 records with this issue. The most common error is trailing whitespace, followed by semicolons and commas.
-
-https://docs.google.com/spreadsheets/d/1t82SyBkY8jE2lHOpv3KMQXf_BCS0IPWGvqCYXmJ2woM/edit?usp=sharing
-
-.",
-Cleanup,1135188431,484,https://github.com/ror-community/ror-updates/issues/484,closed,level 2; update record; lion; project; cleanup,2022-02-13 04:47:48,2022-03-18 16:28:46,Project: Remove unprintable characters from ROR records,"Approximately 200 records have unprintable characters in various fields that interfere with search and other use of the data. These records should all be updated to delete these characters.
+Cleanup,1135188431,484,https://github.com/ror-community/ror-updates/issues/484,open,level 2; update record; lion; project; cleanup,2022-02-13 04:47:48,2022-08-09 22:25:54,Project: Remove unprintable characters from ROR records,"Approximately 200 records have unprintable characters in various fields that interfere with search and other use of the data. These records should all be updated to delete these characters.
 [unprintable_characters_20220212.xlsx](https://github.com/ror-community/ror-updates/files/8054981/unprintable_characters_20220212.xlsx)
  ","adambuttrick
 02/13/2022, 04:49:06 | 02/13/2022, 04:49:06
@@ -18,4 +11,31 @@ adambuttrick
 comment_text: After discussion with @lizkrznarich, these use a valid escape syntax and so should not be deleted. We should update the search API to accommodate.
 
 ---
+adambuttrick
+08/09/2022, 22:25:54 | 08/09/2022, 22:25:54
+comment_text: Whitespace can be normalized.
+
+---
 "
+Cleanup,1110808580,435,https://github.com/ror-community/ror-updates/issues/435,open,level 3; lion; hold for later; project; cleanup,2022-01-21 19:18:31,2022-03-16 16:51:59,"Project: Remove errant last characters in record name, alias, acronym, and label fields","@KellyStathis and developers working at the Digital Research Alliance of Canada | Alliance de recherche numérique du Canada identified that a number of ROR records have errant last characters in their name, alias, acronym, and label fields. I wrote a script to pull the ~400 records with this issue. The most common error is trailing whitespace, followed by semicolons and commas.
+
+https://docs.google.com/spreadsheets/d/1t82SyBkY8jE2lHOpv3KMQXf_BCS0IPWGvqCYXmJ2woM/edit?usp=sharing
+
+.",
+Cleanup,1116553985,447,https://github.com/ror-community/ror-updates/issues/447,open,hold for later; project,2022-01-27 17:30:30,2022-01-27 17:30:38,Project: Standardize types for geological surveys,"Geological surveys in ROR are not categorized consistently: some records use ""Government,"" some ""Nonprofit,"" some ""Other,"" etc. We should analyze the variations and use cases and then recommend and apply standard categorization. ",
+Cleanup,1280694907,786,https://github.com/ror-community/ror-updates/issues/786,open,level 2; update record; lion; project; cleanup,2022-06-22 18:26:11,2022-06-22 18:27:38,Project: Countries in Name Field,"GRID previously assigned country to all records with the type, ""Company."" We should clean these records up as follows:
+
+1. Find all records with (country) in name [attached spreadsheet]
+2. Identify which of above have no duplicates, and remove (country) from name
+3. Confirm (country) matches Geonames country
+4. Investigate usecases for having more than one record
+5. Investigate search handling to optimize retrieval of duplicates with same name in different countries
+6. Review duplicates and identify which ones can/should be merged
+7. For duplicates that remain, remove (country) from name
+[20220622_names_w_country_names.xlsx](https://github.com/ror-community/ror-updates/files/8960415/20220622_names_w_country_names.xlsx)
+
+",
+Cleanup,1339303725,979,https://github.com/ror-community/ror-updates/issues/979,open,level 2; update record; lion; project,2022-08-15 18:13:05,2022-08-15 18:13:05,"Project: Duplicate names in alias, label, and acronym fields","509 records have a name which is duplicated in another name field. These should be reviewed and corrected, where appropriate.
+
+[20220815_duplicate_names.xlsx](https://github.com/ror-community/ror-updates/files/9339005/20220815_duplicate_names.xlsx)
+.",

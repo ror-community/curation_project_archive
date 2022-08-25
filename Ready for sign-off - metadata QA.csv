@@ -1,87 +1,1196 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Ready for sign-off - metadata QA,1177127443,565,https://github.com/ror-community/ror-updates/issues/565,open,level 2; update record; kitten,2022-03-22 18:08:25,2022-03-23 14:34:25,Modify the information in an existing ROR record:  Punta Galeta Marine Laboratory - https://ror.org/02dzza612,"Summary of request: Modify the information in an existing ROR record
+Ready for sign-off - metadata QA,1319813162,914,https://github.com/ror-community/ror-updates/issues/914,open,level 1; new record; jaguar,2022-07-27 16:31:44,2022-07-29 20:04:00,"Add a new organization to ROR: 
+ 
+Weill Cornell Medical College","Summary of request: Add a new organization to ROR
 
-Name of organization: Punta Galeta Marine Laboratory
-ROR ID: https://ror.org/02dzza612
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)
-",
-Ready for sign-off - metadata QA,1176987865,559,https://github.com/ror-community/ror-updates/issues/559,open,level 1; update record; kitten,2022-03-22 16:00:30,2022-03-22 17:45:04,Modify the information in an existing ROR record: Fortuna Field Station - https://ror.org/05s45j557,"Summary of request: Modify the information in an existing ROR record
+Name of organization: Weill Cornell Medicine
+Website: https://weill.cornell.edu
+Link to publications: https://doi.org/10.1084/jem.20212142
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Weill_Cornell_Medicine
+Wikidata ID: Q3567094
+ISNI ID: 0000 0001 2179 7643
+GRID ID: grid.471410.7
+Crossref Funder ID: 100007273
+Aliases:
+Labels:
+Acronym/abbreviation: WCM
+Related organizations: https://ror.org/05bnh6r87 (parent)
+City: New York
+Country: United States
+Geonames ID: 5128581
+Year established: 1989
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility
 
-Name of organization: Fortuna Field Station
-ROR ID: https://ror.org/05s45j557 
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)
-",
-Ready for sign-off - metadata QA,1177106777,560,https://github.com/ror-community/ror-updates/issues/560,open,level 2; update record; kitten,2022-03-22 17:48:31,2022-03-23 14:34:05,Modify the information in an existing ROR record: Punta Culebra Nature Center - https://ror.org/01ge7v435,"Summary of request: Modify the information in an existing ROR record
+Other information about this request: I know this is a part of Cornell, but it is in a different location and researchers and physicians at the school commonly us Weill Cornell Medical College or Weill Cornell College of Medicine on its own. Please consider. ","adambuttrick
+07/27/2022, 16:45:32 | 07/27/2022, 17:51:34
+comment_text: Original request was for Weill Cornell Medical College, a sub-entity of both Weill Cornell Medicine and Cornell itself. I believe the appropriate record here would be for Weill Cornell Medicine, which includes both the hospital and its medical college. Conversely, we have the precedent of [Weill Cornell Medical College in Qatar](https://ror.org/05v5hg569), which would indicate that the NYC college is also in scope. Would like to hear others thoughts. Weill Cornell Medicine previously existed as grid.471410.7/https://ror.org/02r109517, before it was removed by GRID when we were synced with their data. If added, we would reinstate with these IDs.
 
-Name of organization: Punta Culebra Nature Center
-ROR ID: https://ror.org/01ge7v435
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)",
-Ready for sign-off - metadata QA,1177114095,561,https://github.com/ror-community/ror-updates/issues/561,open,level 2; update record; kitten,2022-03-22 17:55:56,2022-03-23 14:34:09,Modify the information in an existing ROR record: Naos Marine and Molecular Laboratories - https://ror.org/007yfgf06,"Summary of request: Modify the information in an existing ROR record
+While its domain is under the Cornell umbrella, Weill Cornell Medicine is located separate from the main campus and exists in partnership with other NYC area hospitals. Funds and employs researchers and has solid affiliation usage, so would otherwise be in scope.
 
-Name of organization: Naos Marine and Molecular Laboratories
-ROR ID: https://ror.org/007yfgf06
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)
-",
-Ready for sign-off - metadata QA,1177117693,562,https://github.com/ror-community/ror-updates/issues/562,open,level 2; update record; kitten,2022-03-22 17:59:11,2022-03-23 14:34:13,Modify the information in an existing ROR record: Gamboa Laboratories - https://ror.org/05sffn795,"Summary of request: Modify the information in an existing ROR record
 
-Name of organization: Gamboa Laboratories
-ROR ID: https://ror.org/05sffn795
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)",
-Ready for sign-off - metadata QA,1177120314,563,https://github.com/ror-community/ror-updates/issues/563,open,level 2; update record; kitten,2022-03-22 18:01:49,2022-03-23 14:34:16,Modify the information in an existing ROR record: Coibita Island - https://ror.org/02jq1vf72,"Summary of request: Modify the information in an existing ROR record
+Weill Cornell Medicine:
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=PVdueKUAAAAJ; https://scholar.google.com/citations?user=U00rTdwAAAAJ; https://scholar.google.com/citations?user=tkWeNkoAAAAJ
 
-Name of organization: Coibita Island
-ROR ID: https://ror.org/02jq1vf72
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent) https://ror.org/035jbxr46 (parent)",
-Ready for sign-off - metadata QA,1177121342,564,https://github.com/ror-community/ror-updates/issues/564,open,level 2; update record; kitten,2022-03-22 18:02:48,2022-03-23 14:34:21,Modify the information in an existing ROR record: Bocas del Toro Research Station - https://ror.org/02ftc8763,"Summary of request: Modify the information in an existing ROR record
+ORCID affiliation usage: https://orcid.org/0000-0002-3174-311X ; https://orcid.org/0000-0001-7601-663X ; https://orcid.org/0000-0002-3966-0247
 
-Name of organization: Bocas del Toro Research Station
-ROR ID: https://ror.org/02ftc8763
-Which part of the record needs to be changed? Add relationships
-Description of change: https://ror.org/01pp8nd67 (parent)",
-Ready for sign-off - metadata QA,1114560343,442,https://github.com/ror-community/ror-updates/issues/442,open,level 1; new record; lion; project; relationship,2022-01-26 02:26:16,2022-03-24 17:28:26,Project: Long Term Ecological Research Network Members,"The request for US-based Long Term Ecological Research Network Members (#197) indicates several other members that are not currently represented in ROR. A request to add Beaufort Lagoon Ecosystem (#32) has already been approved, but we would need to investigate whether the remainder are in scope, along with gathering their corresponding metadata. All would likewise need to be represented as children of #197. Organzations as listed in the original request are provided below.
+Weill Cornell Medicine Medical College:
 
-Andrews Forest
-Arctic LTER
-Baltimore Ecosystem Study
-Beaufort Lagoon Ecosystem
-Bonanza Creek LTER
-Central Arizona - Phoenix
-Central Plains Experimental Range
-California Current Ecosystem
-Cedar Creek Ecosystem Science Reserve
-Coweeta LTER
-Florida Coastal Everglades
-Georgia Coastal Ecosystems
-Harvard Forest
-Hubbard Brook Experimental Forest LTER
-Jornada Basin LTER
-Kellogg Biological Station
-Konza Prairie
-Luquillo Experimental Forest
-McMurdo Dry Valleys
-Minneapolis St. Paul LTER
-Mo'orea Coral Reef
-Niwot Ridge LTER
-North Temperate Lakes
-Northeast U.S. Shelf LTER
-Northern Gulf of Alaska LTER
-Palmer Station Antarctica
-Plum Island Ecosystem
-Santa Barbara Coastal
-Sevilleta National Wildlife Refuge
-Shortgrass Steppe LTER
-Virginia Coast Reserve Long-Term Ecological Research
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=g0s8hgEAAAAJ; https://scholar.google.com/citations?user=-KMNTS8AAAAJ; https://scholar.google.com/citations?user=fSQtj3oAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-8477-4366 ; https://orcid.org/0000-0002-4224-560X ; https://orcid.org/0000-0003-1242-8824
+
+---
+arthurpsmith
+07/29/2022, 15:35:44 | 07/29/2022, 15:35:44
+comment_text: Ooh, absolutely we should have this, a major medical research facility. I guess this was part of GRID's purge of medical schools but it really is very separate from the main university. Also, we have several Cornell ""colleges"" that are colocated in Ithaca as full ROR records (see child organizations on the main Cornell record https://ror.org/05bnh6r87, I guess due to a dual role as a state agricultural university in addition to being a major private liberal arts university. An another note I wonder if we should also have an additional ROR record for Cornell Tech - https://tech.cornell.edu - or maybe just for the ""Jacobs Technion-Cornell Institute"" which is a joint institute there with Technion (Israel) as the other parent. See Wikidata record Q5171546 for more on Cornell Tech. Anyway Weill Cornell Medicine should definitely be in ROR. Restoring the old ID would be fine with me.
+
+---
+adambuttrick
+07/29/2022, 15:42:41 | 07/29/2022, 15:42:41
+comment_text: @arthurpsmith How do you feel about the Weill Cornell Medicine Medical College having its own, additional record in that context? Affiliation usage seems that specific in many cases, but it doesn't seem really to be a top-level entity, even if for whatever reason GRID didn't purge the equivalent record in Qatar.
+
+---
+arthurpsmith
+07/29/2022, 18:59:32 | 07/29/2022, 18:59:32
+comment_text: I think we're pretty inconsistent right now with medical schools vs their associated medical facilities/hospitals; I'm not remembering if we had any specific policy on this. I'd keep them combined for now pending any consistent rule on medical schools.
+
+---
+odonner1
+07/29/2022, 19:31:13 | 07/29/2022, 19:31:13
+comment_text: As the requester for this one, I want to add a comment. In general. I've been noticing that researchers have trouble with ROR when they are affiliated with a medical school. They have always specified ""medical college"" or ""school of medicine"" and when completing forms during submission, they do the same, using the med school name. We currently allow authors to enter names they wish for their address information, even if autocomplete does not find an entry in ROR. That's becoming a problem for us, and we are going to start requiring a ROR institution. This is surely going to cause issues for authors who insist on using the med school name. I think it would be helpful for medical schools to have distinct but related RORs.
+
+---
+adambuttrick
+07/29/2022, 19:56:56 | 07/29/2022, 20:01:04
+comment_text: @odonner1 Thank you for that additional context. We will take it under advisement in how we address medical schools moving forward.
+
+More generally, we advise against requiring ROR IDs in integrations. There will always be organizations that are out of scope for ROR, but are otherwise appropriate as affiliations. Likewise, we are not always able to add records for organizations at the same pace with which they are being used in various scholarly publishing systems, even if those organizations are in scope for the registry.
+
+---
+odonner1
+07/29/2022, 20:03:59 | 07/29/2022, 20:03:59
+comment_text: Understood, and we can talk more offline about how we plan to require, there will be an out. However, ROR is driving our R&P deal eligibility checks as well as our Open Access Switchboard workflow, so it's a real problem when an organization does not have a ROR, or the searchable name differs enough from the ROR entry that authors cannot find the entry, and get frustrated, as with many med schools. 
+
+---
+"
+Ready for sign-off - metadata QA,1318853525,913,https://github.com/ror-community/ror-updates/issues/913,open,level 1; new record; jaguar,2022-07-26 23:36:29,2022-07-29 19:32:30,"Add a new organization to ROR: 
+ 
+Instituto de Biodiversidad y Biologia Experimental y Aplicada (UBA-CONICET)","Summary of request: Add a new organization to ROR
+
+
+Add record:
+Name of organization: Instituto de Biodiversidad y Biologia Experimental y Aplicada
+Website: https://ibbea.fcen.uba.ar
+Link to publications: https://doi.org/10.1016/j.carbpol.2021.118293
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels: Institute of Biodiversity and Applied and Experimental Biology*English
+Acronym/abbreviation: IBBEA; IBBEA UBA-CONICET
+Related organizations: https://ror.org/03cqe8w59 (parent) https://ror.org/0081fs513 (parent)
+https://ror.org/0081fs513
+City: Buenos Aires
+Country: Argentina
+Geonames ID: 3435910
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility
+
+Other information about this request: The Acalconecta (acalconecta.org) team is making efforts to showcase scientists in Latin America and the Caribbean.  The RoR database of institutions is used as viable affiliation information for those researchers. We have encountered institutions that do not appear in the RoR database but researchers use as their current affiliation in their research products. ","adambuttrick
+07/27/2022, 00:33:29 | 07/27/2022, 00:33:29
+comment_text: Housed at the University of Buenos Aires, but is a joint research institute created by https://ror.org/03cqe8w59 and https://ror.org/0081fs513. Solid affiliation usage. Funds and employs researchers. In scope by virtue of the other UBA-CONICET institutes having being added to ROR (e.g. https://ror.org/03rq94151 and https://ror.org/01m444286).
+
+---
+nlundvick
+07/29/2022, 19:32:18 | 07/29/2022, 19:32:18
+comment_text: Established organization that is sufficiently independent from parent organizations. Multiple instances of affiliation use (https://www.sciencedirect.com/science/article/pii/S0045653517320179; https://onlinelibrary.wiley.com/doi/epdf/10.1111/fog.12543; etc.). Concur with previous curator - add to ROR for these reasons, and in line with other UBA-CONICET institutes that have been assigned a ROR ID
+
+---
+"
+Ready for sign-off - metadata QA,1320191785,916,https://github.com/ror-community/ror-updates/issues/916,open,level 1; new record; jaguar,2022-07-27 22:35:54,2022-07-29 19:59:23,"Add a new organization to ROR: 
+ 
+Universidad Tecnológica de Tamaulipas Norte","Summary of request: Add a new organization to ROR
+
+Name of organization: Universidad Tecnológica de Tamaulipas Norte
+Website: http://www.uttn.edu.mx
+Link to publications: 10.3390/su14084593
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page:
+Wikidata ID: 
+ISNI ID: 0000 0004 1770 7096
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels: Technological University of North Tamaulipas*English
+Acronym/abbreviation: UTT; UTTN
+Related organizations: 
+City: Reynosa
+Country: México
+Geonames ID: 3520339
+Year established: 1999
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: ","adambuttrick
+07/28/2022, 16:20:26 | 07/28/2022, 16:21:03
+comment_text: Midsize Mexican university with a focus on technical training. Independent, top-level entity with solid affiliation usage. Should be added to ROR.
+
+Publication affiliation usage: https://revista.grupocieg.org/wp-content/uploads/2022/02/Ed.54106-114-Fuentes-et-al.pdf ; https://www.mdpi.com/2071-1050/14/8/4593
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=rRleva0AAAAJ; https://scholar.google.com/citations?user=6h5bnF4AAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0001-5840-8234 ; https://orcid.org/0000-0002-3242-8998 ; https://orcid.org/0000-0002-1328-8280
+
+---
+nlundvick
+07/29/2022, 19:47:37 | 07/29/2022, 19:47:37
+comment_text: Established top-level organization associated with scholarly publications. In scope - add to ROR.
+
+@adambuttrick - The Wikipedia link provided by the requestor is for a different university. I am not finding a Wikipedia page for this organization. Let me know if you would like me to update the issue or if this will be addressed in Metadata QA.
+
+---
+adambuttrick
+07/29/2022, 19:59:23 | 07/29/2022, 19:59:23
+comment_text: @nlundvick Thank you for catching. I've updated and removed.
+
+---
+"
+Ready for sign-off - metadata QA,1328485201,946,https://github.com/ror-community/ror-updates/issues/946,open,level 1; new record; jaguar,2022-08-04 11:33:15,2022-08-04 16:58:02,"Add a new organization to ROR: 
+ 
+UK EPC LTD ","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: UK EPC
+Website: https://www.ukepc.uk/
+Link to publications: 10.29198/scieu  | 10.29198/ejs | 10.29198/ejss
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: Q110894495
+ISNI ID: 0000 0005 0715 1554
+GRID ID: 
+Crossref Funder ID: 
+Aliases: UKEPC 
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: ALTON
+Country: UNITED KINGDOM
+Geonames ID: 2657408
+Year established: 2017
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/04/2022, 16:57:24 | 08/04/2022, 16:57:24
+comment_text: Small British publisher of seven open access journals. No affiliation usages as far as I can tell, but in scope by virtue of their publishing activities. Should be added to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1321465290,923,https://github.com/ror-community/ror-updates/issues/923,open,level 1; new record; jaguar,2022-07-28 20:42:05,2022-08-05 19:19:33,"Add a new organization to ROR: 
+ 
+Instituto de Biologia Molecular e Celular","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: Instituto de Biologia Molecular e Celular
+Website: https://www.ibmc.up.pt
+Link to publications: 10.1083/jcb.202110057
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Instituto_de_Biologia_Molecular_e_Celular
+Wikidata ID: Q10302765
+ISNI ID: 0000 0004 0620 9585
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Institute for Molecular and Cell Biology*English
+Acronym/abbreviation: IBMC
+Related organizations: https://ror.org/043pwc612 (parent)
+City: Porto
+Country: Portugal
+Geonames ID: 6458924
+Year established: 1997
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+07/28/2022, 21:13:17 | 07/28/2022, 21:13:17
+comment_text: Multidisciplinary research institution in the fields of genetic diseases, infectious diseases and immunology, neuroscience, stress and structural biology. Housed at the University of Porto, but recognized and funded as independent research institute by Federal Portuguese bodies and participates in joint research efforts with related, outside orgs. Solid affiliation usage, although most is leading for University of Porto. Believe this should be added to ROR.
+
+Publication affiliation usage: https://doi.org/10.1089/zeb.2022.0001; https://www.mdpi.com/2227-9059/10/2/224
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=g1567sgAAAAJ; https://scholar.google.com/citations?user=JU082csAAAAJ; https://scholar.google.com/citations?user=Q-GWZPcAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-4770-9768 ; https://orcid.org/0000-0002-8358-6267 ; https://orcid.org/0000-0002-7529-9612
+
+---
+nlundvick
+08/05/2022, 19:19:17 | 08/05/2022, 19:19:17
+comment_text: Established and sufficiently independent organization associated with research publications ([164 publications found in Web of Science](https://www.webofscience.com/wos/woscc/summary/294f843a-9118-4346-a423-b1e65b5078b1-474f5af8/relevance/1)). Concur - add to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1322250174,925,https://github.com/ror-community/ror-updates/issues/925,open,level 1; new record; jaguar,2022-07-29 13:24:32,2022-08-05 19:35:53,"Add a new organization to ROR: 
+ 
+Genentech, Inc.","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: Genentech
+Website: https://www.gene.com/
+Link to publications: https://doi.org/10.1083/jcb.202111068
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: https://en.wikipedia.org/wiki/Genentech
+Wikidata ID: Q899140
+ISNI ID: 0000 0004 5899 3818
+GRID ID: 
+Crossref Funder ID: 100004328
+Aliases:
+Labels:
+Acronym/abbreviation:
+Related organizations: https://ror.org/011qkaj49 (parent)
+City: San Francisco
+Country: United States
+Geonames ID:
+Year established: 1976
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+07/29/2022, 16:58:30 | 07/29/2022, 16:58:30
+comment_text: Biotechnology company and subsidiary of https://ror.org/011qkaj49. It looks as if GRID removed and redirected this record to https://ror.org/011qkaj49 sometime between 2016-17, before a ROR ID could've ever been assigned. That being said, they fund and employ numerous researchers and there is plenty of affiliation for just this company without any reference to Roche, so I think it makes sense to add it to ROR. 
+
+Publication affiliation usage: https://assets.researchsquare.com/files/rs-1816977/v1_covered.pdf?c=1657727198 ; https://iovs.arvojournals.org/article.aspx?articleid=2783246
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=wZoOPVMAAAAJ; https://scholar.google.com/citations?user=9POE9sIAAAAJ; https://scholar.google.com/citations?user=0RAmmIAAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-6675-5823 ; https://orcid.org/0000-0002-5260-6536 ; https://orcid.org/0000-0002-8044-1652
+
+---
+nlundvick
+08/05/2022, 19:35:38 | 08/05/2022, 19:35:38
+comment_text: Established, independent company associated with research and scholarly publications ([21,543 instances of affiliation use found in Web of Science](https://www.webofscience.com/wos/woscc/summary/6fc93895-3227-4db2-bd1b-719659a2e8e6-474f74c0/relevance/1)). Add to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1341967256,989,https://github.com/ror-community/ror-updates/issues/989,open,level 1; new record; jaguar,2022-08-17 15:46:17,2022-08-17 16:18:59,"Modify the information in an existing ROR record: 
+Universidad El Bosque  https://ror.org/04m9gzq43
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Universidad El Bosque
+ROR ID:  https://ror.org/04m9gzq43
+Which part of the record needs to be changed? Primary name
+Description of change: The actual primary name ""El Bosque University"" is not accepted by the University, must be ""Universidad El Bosque."" The actual website of the University is ""www.unbosque.edu.co"" few years ago we used ""www.uelbosque.com"" but is not avaliable anymore.
+
+Update: change.name==Universidad El Bosque; add.aliases==El Bosque University; delete.labels==Universidad El Bosque; replace.links=https://www.unbosque.edu.co;$
+
 ","adambuttrick
-02/25/2022, 18:41:55 | 02/25/2022, 18:41:55
-comment_text: LTER staff have provided metadata for each organization
-[LTER ROR identifiers.xlsx](https://github.com/ror-community/ror-updates/files/8143477/LTER.ROR.identifiers.xlsx)
-.
+08/17/2022, 16:16:37 | 08/17/2022, 16:18:59
+comment_text: Spanish name as primary corresponds to university's website and branding. Keeping English name as alias as I see multiple instances of affiliation usage with this form (e.g. https://doi.org/10.1111/idh.12342). Current link in ROR does not resolve while the provided does.
+
+---
+"
+Ready for sign-off - metadata QA,1341482212,988,https://github.com/ror-community/ror-updates/issues/988,open,level 1; new record; jaguar,2022-08-17 09:45:03,2022-08-18 13:14:02,"Add a new organization to ROR: 
+ 
+Higher Institute of Engineering and Technology - King Marriott – Alexandria - Egypt","Summary of request: Add a new organization to ROR
+
+Name of organization: Higher Institute of Engineering and Technology - King Marriott
+Website: http://kma.edu.eg
+Link to publications: www.kma.edu.eg
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%87%D8%AF_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7_%D8%A8%D9%83%D9%8A%D9%86%D8%AC_%D9%85%D8%B1%D9%8A%D9%88%D8%B7
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: KMA
+Related organizations: 
+City: Alexandria
+Country: Egypt
+Geonames ID: 361058
+Year established: 2012
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+
+Other information about this request: Thx .. C U","adambuttrick
+08/17/2022, 15:59:25 | 08/17/2022, 19:18:15
+comment_text:  [Arabic Wikipedia entry,](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%87%D8%AF_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7_%D8%A8%D9%83%D9%8A%D9%86%D8%AC_%D9%85%D8%B1%D9%8A%D9%88%D8%B7) describes as degree-granting institution registered with the Egyptian government. Affiliation usage looks solid. Should be added to ROR.
+
+Publication affiliation usage: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530509 ; https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8716667 ; https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9326293 ; https://doi.org/10.21883/ftt.2021.10.51478.pss162; https://doi.org/10.4018/ijskd.297977; https://doi.org/10.1063/1.5099923; https://doi.org/10.1080/1528008x.2022.2077889; https://doi.org/10.1177/1550147716662776
+
+---
+carlyrobinson
+08/18/2022, 13:13:50 | 08/18/2022, 13:13:50
+comment_text: With affiliation usage, agree with adding to ROR,
+
+---
+"
+Ready for sign-off - metadata QA,1339711478,984,https://github.com/ror-community/ror-updates/issues/984,open,level 1; new record; jaguar,2022-08-16 01:57:14,2022-08-18 13:23:56,"Add a new organization to ROR: 
+ 
+STIE Kesuma Negara Blitar","Summary of request: Add a new organization to ROR
+
+Name of organization: STIE Kesuma Negara Blitar
+Website: https://www.stieken.ac.id
+Link to publications: https://journal.stieken.ac.id
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://id.wikipedia.org/wiki/STIE_Kesuma_Negara_Blitar
+Wikidata ID: Q14323224
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Kesuma Negara School of Economics
+Labels:
+Acronym/abbreviation: STIEKEN
+Related organizations: 
+City: Blitar
+Country: Indonesia
+Geonames ID: 1648580
+Year established: 1990
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: That's All","adambuttrick
+08/16/2022, 16:42:05 | 08/16/2022, 16:48:09
+comment_text: Private university in Indonesia. Independent, top-level entity with solid affiliation usage. Funds and employs researchers. Should be added to ROR.
+
+Publication affiliation usage: https://eco-entrepreneur.trunojoyo.ac.id/infestasi/article/download/4246/2988 ; https://jamal.ub.ac.id/index.php/jamal/article/download/677/587
+
+Google Scholar affiliation_usage: https://scholar.google.com/citations?user=RYrmthcAAAAJ; https://scholar.google.com/citations?user=Nw7Vqc8AAAAJ; https://scholar.google.com/citations?user=XANMxCYAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0003-4129-4060 ; https://orcid.org/0000-0001-9293-5687
+
+---
+carlyrobinson
+08/18/2022, 13:23:28 | 08/18/2022, 13:23:28
+comment_text: Agree, should be added to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1338349192,977,https://github.com/ror-community/ror-updates/issues/977,open,level 1; new record; jaguar,2022-08-14 21:05:43,2022-08-19 16:11:52,"Add a new organization to ROR: 
+ 
+University of Garmian","Summary of request: Add a new organization to ROR
+
+Name of organization: University of Garmian
+Website: https://garmian.edu.krd
+Link to publications: https://doi.org/10.1016/j.apenergy.2019.113993
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://ckb.wikipedia.org/wiki/%D8%B2%D8%A7%D9%86%DA%A9%DB%86%DB%8C_%DA%AF%DB%95%D8%B1%D9%85%DB%8C%D8%A7%D9%86
+Wikidata ID: Q23214133
+ISNI ID: 0000 0005 0233 0465
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Garmian University
+Labels: زانکۆی گەرمیان*Kurdish
+Acronym/abbreviation: UOG
+Related organizations: 
+City: Kalar
+Country: Iraq
+Geonames ID: 9166600
+Year established: 2010
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/15/2022, 15:54:38 | 08/15/2022, 15:59:56
+comment_text: University in Iraq. Independent, top-level entity that funds and employs researchers. Solid affiliation usage. Should be added to ROR.
+
+Publication affiliation usage: https://doi.org/10.1016/j.applthermaleng.2022.119133 ; https://doi.org/10.1155/2022/7398110 ; https://doi.org/10.3390/membranes10120389
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=C0DL55kAAAAJ; https://scholar.google.com/citations?user=SRPXgJoAAAAJ; https://scholar.google.com/citations?user=Rl-GYMEAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-9404-5618 ; https://orcid.org/0000-0002-8991-732X ; https://orcid.org/0000-0002-8282-8957
+
+---
+carlyrobinson
+08/18/2022, 13:26:44 | 08/18/2022, 13:26:44
+comment_text: Agree, should be added to ROR
+
+---
+Muhsin-Aljaf
+08/19/2022, 16:11:51 | 08/19/2022, 16:11:51
+comment_text: Thank for your consideration and approval of our request from the university of Garmian.
+
+---
+"
+Ready for sign-off - metadata QA,1339695943,983,https://github.com/ror-community/ror-updates/issues/983,open,level 1; new record; jaguar,2022-08-16 01:26:38,2022-08-18 13:25:23,"Add a new organization to ROR: 
+ 
+Ho Chi Minh City University of Economics and Finance","Summary of request: Add a new organization to ROR
+
+Name of organization: Ho Chi Minh City University of Economics and Finance
+Website: https://www.uef.edu.vn
+Link to publications: https://doi.org/10.1108/MD-02-2022-0150
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Economics_and_Finance
+Wikidata ID: Q10829074
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Trường Đại học Kinh tế - Tài chính Thành phố Hồ Chí Minh*Vietnamese
+Acronym/abbreviation: UEF
+Related organizations: 
+City: Ho Chi Minh City, Vietnam
+Country: Vietnam
+Geonames ID: 1566083
+Year established: 2007
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+
+Other information about this request: ","adambuttrick
+08/16/2022, 16:37:24 | 08/16/2022, 16:39:59
+comment_text: Private university in Vietnam. Independent, top-level entity with solid affiliation usage. Funds and employs researchers. Similar to https://ror.org/003szmg30 and https://ror.org/00tean533. Should be added to ROR.
+
+Publication affiliation usage: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357265 ; https://www.researchgate.net/profile/Vy-Luu-2/publication/361416929_DEMYSTIFYING_EFL_LEARNERS'_BARRIERS_IN_THEIR_LISTENING_SKILL_DEVELOPMENT/links/62b03f2c938bee3e3f440508/DEMYSTIFYING-EFL-LEARNERS-BARRIERS-IN-THEIR-LISTENING-SKILL-DEVELOPMENT.pdf
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=WdhIwtkAAAAJ; https://scholar.google.com/citations?user=TFIndYkAAAAJ; https://scholar.google.com/citations?user=exC4EikAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-4067-5171 ; https://orcid.org/0000-0002-3058-9501 ; https://orcid.org/0000-0003-0231-3863
+
+---
+carlyrobinson
+08/18/2022, 13:25:17 | 08/18/2022, 13:25:17
+comment_text: Agree, should be added to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1337942586,976,https://github.com/ror-community/ror-updates/issues/976,open,level 1; new record; jaguar,2022-08-13 11:59:16,2022-08-18 13:29:05,"Add a new organization to ROR: 
+ 
+Association of European Schools of Planning","Summary of request: Add a new organization to ROR
+
+Name of organization: Association of European Schools of Planning
+Website: https://aesop-planning.eu
+Link to publications: https://doi.org/10.24306/aeprints.17
+Organization type: Nonprofit
+Wikipedia page: https://en.wikipedia.org/wiki/Association_of_European_Schools_of_Planning
+Wikidata ID: Q4809784
+ISNI ID: 0000 0001 1018 7794
+GRID ID:
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: AESOP
+Related organizations:
+City: Reading
+Country: UK
+Geonames ID: 2639577
+Year established: 1987
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/15/2022, 15:48:13 | 08/15/2022, 15:48:13
+comment_text: Academic association for urban planning schools in Europe. Independent, top-level entity. Hosts [yearly congress with proceedings](https://aesop-planning.eu/activities/events/annual-congress). Similar to https://ror.org/011e44004. Should be added to ROR.
+
+ORCID affiliation usage: https://orcid.org/0000-0001-9478-0500 ; https://orcid.org/0000-0002-9919-8728 ; https://orcid.org/0000-0003-1227-0086
+
+---
+carlyrobinson
+08/18/2022, 13:28:56 | 08/18/2022, 13:28:56
+comment_text: Agree, should be added to ROR
+
+---
+"
+Ready for sign-off - metadata QA,1337227688,974,https://github.com/ror-community/ror-updates/issues/974,open,level 1; new record; jaguar,2022-08-12 13:44:40,2022-08-18 13:30:41,"Add a new organization to ROR: 
+ 
+Pacific Theological College","Summary of request: Add a new organization to ROR
+
+Name of organization: Pacific Theological College
+Website: https://ptc.ac.fj
+Link to publications: https://ptc.ac.fj/theses/
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Pacific_Theological_College
+Wikidata ID: Q102228406
+ISNI ID: 0000 0000 8804 1114
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: PTC
+Related organizations: 
+City: Suva
+Country: Fiji
+Geonames ID:
+Year established: 1965
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system, to be included in the OA Switchboard
+
+Other information about this request: ","adambuttrick
+08/12/2022, 14:49:56 | 08/12/2022, 14:53:42
+comment_text: Theological college in Fiji. Independent, top-level entity that funds and employs researchers. Should be added to ROR.
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=Bf8cttcAAAAJ; https://scholar.google.com/citations?user=q2IJadoAAAAJ; https://scholar.google.com/citations?user=MjSTE_8AAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0003-1243-0852 ; https://orcid.org/0000-0003-2316-4596 ; https://orcid.org/0000-0002-3397-8166
+
+---
+carlyrobinson
+08/18/2022, 13:30:32 | 08/18/2022, 13:30:32
+comment_text: Agree, should be added to ROR
+
+---
+"
+Ready for sign-off - metadata QA,1343497525,995,https://github.com/ror-community/ror-updates/issues/995,open,level 1; new record; jaguar,2022-08-18 19:07:35,2022-08-23 20:22:06,"Add a new organization to ROR: 
+ 
+ARM Data Center","Summary of request: Add a new organization to ROR
+
+Name of organization: Atmospheric Radiation Measurement User Facility
+Website: https://arm.gov
+Link to publications: https://ieeexplore.ieee.org/abstract/document/9006051 https://www.coretrustseal.org/why-certification/certified-repositories/ 
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: https://en.wikipedia.org/wiki/Atmospheric_Radiation_Measurement_Climate_Research_Facility
+Wikidata ID: Q4817103
+ISNI ID:
+GRID ID: 
+Crossref Funder ID: 
+Aliases: ARM User Facility; Atmospheric Radiation Measurement Climate Research Facility
+Labels:
+Acronym/abbreviation: ARM
+Related organizations: https://ror.org/01qz5mb56 (parent)
+City: Oak Ridge, Tennessee
+Country: United States
+Geonames ID: 4646571
+Year established: 1992
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: ","adambuttrick
+08/18/2022, 20:32:47 | 08/18/2022, 20:39:56
+comment_text: US DOE facility responsible for atmospheric data monitoring and collection. Funds and employs researchers. While this appears to be sub-entity of https://ror.org/01qz5mb56, could be in scope for our facility tracking use case, but need clarification about the hierarchy. Closest [Wikipedia entry](https://en.wikipedia.org/wiki/Atmospheric_Radiation_Measurement_Climate_Research_Facility) appears to be for the ""Atmospheric Radiation Measurement Climate Research Facility,"" while [Wikidata](https://www.wikidata.org/wiki/Q4817103) has just the ""Atmospheric Radiation Measurement (facility)."" Not certain where the data center facility slots in.
+
+@carlyrobinson @nlundvick Could you weigh in here?
+
+Publication affiliation usage: https://ieeexplore.ieee.org/abstract/document/8258525 ; https://ieeexplore.ieee.org/abstract/document/8622470
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=eTamPEUAAAAJ
+
+---
+carlyrobinson
+08/18/2022, 20:46:20 | 08/18/2022, 20:51:13
+comment_text: @adambuttrick ARM is a DOE User Facility similar to https://ror.org/04xm1d337 and https://ror.org/04rc0xn13. They also host a data repository and are publishing data. ARM is under multiple DOE labs, not just ORNL. I asked them to request a ROR ID because ARM will be registering grant/award DOI with our (DOE OSTI's) service and needs a ROR ID since that will be a required field in the Crossref Grant ID schema. 
+
+---
+adambuttrick
+08/18/2022, 20:51:49 | 08/18/2022, 20:51:49
+comment_text: @carlyrobinson Thanks for those details. So is the correct, top-level entity ""Atmospheric Radiation Measurement Climate Research Facility"" as opposed to the data center?
+
+---
+carlyrobinson
+08/18/2022, 20:59:48 | 08/18/2022, 21:02:36
+comment_text: @adambuttrick Tough question. I'd lean toward ""Atmospheric Radiation Measurement User Facility"" since that's what I found on their website and the official DOE Office of Science User Facility website - https://arm.gov/about and https://science.osti.gov/ber/Facilities/User-Facilities/ARM. But, would probably discuss with the submitter since they provided ""Atmospheric Radiation Measurement Data Center"" and that's used in the affiliation.
+
+
+
+---
+adambuttrick
+08/19/2022, 16:52:12 | 08/19/2022, 16:52:12
+comment_text: Additional context from the requestor:
+
+""Yes, ARM Data Center supports the US Department of Energy’s Atmospheric Radiation Measurement (ARM) User Facility which is operated by 9 US DOE laboratories. This is explained [here](https://arm.gov/about). ARM Data Center archives and distributes data collected by ARM and contributed by PIs to the users around the world. The ARM Data Center is physically located at the Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA. The ARM facility’s Technical Director’s office is located in Pacific Northwest National Laboratory, Richland, Washington State.""
+
+From this description, it would appear the data center maybe too far down the organizational hierarchy (Oak Ridge -> ARM User Facility -> ARM Data Center) to qualify for its own ROR ID and should be understood as a department of the ARM User Facility. This corresponds with the data center page being hosted as [subdomain of the main ARM site](https://adc.arm.gov/discovery/).
+
+@carlyrobinson Do you concur or do you think this is more of the ""Needs Discussion"" variety? We could also consider creating separate records for the ARM User Facility and ARM Data Center in a parent/child relationship.
+
+---
+carlyrobinson
+08/19/2022, 16:56:59 | 08/19/2022, 16:56:59
+comment_text: @adambuttrick I concur that there should be a ROR for Atmospheric Radiation Measurement (ARM) User Facility. And the ARM Data Center may be too far down the hierarchy.
+
+---
+adambuttrick
+08/19/2022, 17:02:29 | 08/19/2022, 17:02:29
+comment_text: Updating request to reflect top-level organizaiton, ARM User Facility.
+
+---
+"
+Ready for sign-off - metadata QA,1323248709,927,https://github.com/ror-community/ror-updates/issues/927,open,level 1; new record; jaguar,2022-07-30 17:48:43,2022-08-19 19:08:24,"Add a new organization to ROR: 
+ 
+Sardar Patel University of Police, Security and Criminal Justice, Jodhpur","Summary of request: Add a new organization to ROR
+
+Name of organization: Sardar Patel University of Police, Security and Criminal Justice, Jodhpur
+Website: https://www.policeuniversity.ac.in
+Link to publications: 10.1007/978-981-16-5689-7_7
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Sardar_Patel_University_of_Police,_Security_and_Criminal_Justice
+Wikidata ID: Q39047129
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Police University 
+Labels:
+Acronym/abbreviation: SPUP
+Related organizations: 
+City: Jodhpur
+Country: India
+Geonames ID: 1268865
+Year established: 2012
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/01/2022, 15:40:31 | 08/01/2022, 15:47:00
+comment_text: Indian educational institute focused on criminal justice. Independent, top-level entity with solid affiliation usage. Should be added to ROR.
+
+Publication affiliation usage: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822120; https://www.igi-global.com/article/hate-and-aggression-detection-in-social-media-over-hindi-english-language/300357; https://www.gtkp.com/assets/uploads/20180201-104001-8574-762.pdf
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=iIAvbssAAAAJ; https://scholar.google.com/citations?user=oIiAyxkAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-1647-8522 ; https://orcid.org/0000-0002-6342-6629 ; https://orcid.org/0000-0001-8594-936X
+
+---
+nlundvick
+08/19/2022, 19:08:09 | 08/19/2022, 19:08:09
+comment_text: Established top-level organization associated with research publications/activities. Concur - in scope and should be added to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1323161566,926,https://github.com/ror-community/ror-updates/issues/926,open,level 1; new record; jaguar,2022-07-30 15:19:46,2022-08-19 19:27:45,"Add a new organization to ROR: 
+ 
+Academy of Cognitive and Natural Sciences","Summary of request: Add a new organization to ROR
+
+Name of organization: Academy of Cognitive and Natural Sciences
+Website: https://acnsci.org
+Link to publications: https://doi.org/10.1088/1742-6596/2288/1/011001
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Академія когнітивних та природничих наук*Ukrainian; 
+Acronym/abbreviation: ACNS; АКПН
+Related organizations: 
+City: Kryvyi Rih
+Country: Ukraine
+Geonames ID: 703845
+Year established: 2021
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ACNS publisher prefix is 10.55056","adambuttrick
+08/01/2022, 15:34:04 | 08/01/2022, 15:36:42
+comment_text: Ukrainian nonprofit that publishes two journals, a conference series, and other intermittent, serial publications. Contributes metadata to Crossref and is listed in the DOAH. Would be in scope by virtue of our small publisher use case.
+
+---
+nlundvick
+08/19/2022, 19:27:29 | 08/19/2022, 19:27:29
+comment_text: Established top-level organization that publishes journals and conference series and is used as an affiliation in scholarly publications. In scope - add to ROR
+
+---
+"
+Ready for sign-off - metadata QA,1324442165,928,https://github.com/ror-community/ror-updates/issues/928,open,level 1; new record; jaguar,2022-08-01 13:35:23,2022-08-19 20:26:22,"Add a new organization to ROR: 
+ 
+MRC Human Genetics Unit","Summary of request: Add a new organization to ROR
+
+Name of organization: MRC Human Genetics Unit
+Website: https://www.ed.ac.uk/mrc-human-genetics-unit
+Link to publications: https://europepmc.org/search?query=%28AFF%3A%22MRC%20Human%20Genetics%20Unit%22%29&page=1
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://en.wikipedia.org/wiki/MRC_Human_Genetics_Unit
+Wikidata ID: Q6717453
+ISNI ID: 0000 0004 0605 7892
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: HGU
+Related organizations: Medical Research Council, University of Edinburgh
+City: Edinburgh
+Country: United Kingdom
+Geonames ID: 3333229
+Year established: 1967
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/01/2022, 16:03:49 | 08/01/2022, 16:03:49
+comment_text: Research outputs and affiliation usage are solid, but the hierarchy here is a little confusing. Child of both the national-level Medical Research Council and University of Edinburgh, but is described as part of the university's Institute of Genetics and Cancer. Affiliation usage unfortunately also does not provide further clarity. Is used as a leading affiliation for the University of Edinburgh, Institute of Genetics and Cancer, as well as Western General Hospital.
+
+Publication affiliation usage: https://books.google.com/books?hl=en&lr=&id=gHIQv1IviHEC&oi=fnd&pg=PA445&dq=%22MRC+Human+Genetics+Unit%22&ots=godM-aV_9Y&sig=-W0749AWDWmDG4LZLIGbxLqxT2U#v=onepage&q=%22MRC%20Human%20Genetics%20Unit%22&f=false ; https://academic.oup.com/bioinformatics/article/28/3/411/189584 ;https://onlinelibrary.wiley.com/doi/full/10.1111/age.12873
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=vSQNaToAAAAJ; https://scholar.google.com/citations?user=rNyDNeEAAAAJ; https://scholar.google.com/citations?user=h9QWiJIAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0003-2563-7916 ; https://orcid.org/0000-0002-6219-6892 ; https://orcid.org/0000-0001-6518-6449
+
+---
+nlundvick
+08/19/2022, 20:07:42 | 08/19/2022, 20:07:42
+comment_text: Concur, in scope and should be added to ROR. 
+
+@adambuttrick  - Regarding the hierarchy, I agree it is part of the University of Edinburgh and an MRC-funded facility. However, I am not sure it being ""described as part of the university's Institute of Genetics and Cancer"" is accurate. The [history page](https://www.ed.ac.uk/mrc-human-genetics-unit/about/mrc-hgu-history) indicates the unit is ""a _partner_ [emphasis added] in the Institute of Genetics and Cancer (formerly the Institute of Genetics and Molecular Medicine) at the University of Edinburgh."" Further, my reading of the publication affiliation use is that some authors are claiming affiliation with both the MRC Human Genetics Unit and the Institute of Genetics and Cancer.
+
+- MRC Human Genetics Unit **and** Institute of Genetics and Molecular Medicine, University of Edinburgh
+- MRC Human Genetics Unit**,** MRC Institute of Genetics and Molecular Medicine, University of Edinburgh
+
+Additionally, my reading of the ""MRC Human Genetics Unit, Western General Hospital"" affiliation is that it is a result of the (somewhat) confusing fact that the unit is physically located within Western General Hospital.
+
+My view: Add to ROR as child of University of Edinburgh and Medical Research Council. Add as related orgs: [Institute of Genetics and Cancer](https://www.ed.ac.uk/institute-genetics-cancer/) (needs to be added to ROR); Western General Hospital (https://ror.org/009kr6r15).
+
+Let me know your thoughts and I will move to the appropriate project column.
+
+---
+adambuttrick
+08/19/2022, 20:18:20 | 08/19/2022, 20:18:20
+comment_text: @nlundvick I think your breakdown makes sense. Moving this to Ready for Sign Off.
+
+---
+"
+Ready for sign-off - metadata QA,1346700465,1003,https://github.com/ror-community/ror-updates/issues/1003,open,level 1; new record; jaguar,2022-08-22 16:39:40,2022-08-22 17:00:39,"Modify the information in an existing ROR record: 
+Academy Of Finance https://ror.org/03qd55m24
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Academy Of Finance
+ROR ID: https://ror.org/03qd55m24
+Which part of the record needs to be changed? Organization website
+Description of change: https://hvtc.edu.vn/Default.aspx?alias=hvtc.edu.vn/english
+
+Update: replace.links==https://hvtc.edu.vn;$
+
+","adambuttrick
+08/22/2022, 17:00:32 | 08/22/2022, 17:00:32
+comment_text: Current link in ROR does resolve with the provided does. Switching to top-level domain where English is linked, per our linking policies.
+
+---
+"
+Ready for sign-off - metadata QA,1324463744,929,https://github.com/ror-community/ror-updates/issues/929,open,level 1; new record; jaguar,2022-08-01 13:51:23,2022-08-23 20:31:24,"Add a new organization to ROR: 
+ 
+MRC Integrative Epidemiology Unit","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: MRC Integrative Epidemiology Unit
+Website: http://www.bristol.ac.uk/integrative-epidemiology/
+Link to publications: https://europepmc.org/search?query=%28AFF%3A%22MRC%20Integrative%20Epidemiology%20Unit%22%29&page=1
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page:
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID:
+Aliases:
+Labels:
+Acronym/abbreviation: IEU
+Related organizations: Medical Research Council, University of Bristol
+City: Bristol
+Country: United Kingdom
+Geonames ID:
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/01/2022, 16:25:50 | 08/01/2022, 16:25:50
+comment_text: Similar case as #928, although slightly less hierarchy here. Joint venture between the Medical Research Council and the University of Bristol. From what I see, is used exclusively as a leading affiliation for the University of Bristol, which would lean toward it being out of scope by virtue of not being a top-level entity:
+
+Publication affiliation usage: https://onlinelibrary.wiley.com/doi/full/10.1111/add.12514 ; https://onlinelibrary.wiley.com/doi/full/10.1002/oby.20840 ; https://onlinelibrary.wiley.com/doi/full/10.1111/add.13298
+
+Google Scholar_affiliation_usage: https://scholar.google.com/citations?user=4aeWph8AAAAJ; https://scholar.google.com/citations?user=vXcNQ4kAAAAJ; https://scholar.google.com/citations?user=T9N0h_0AAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0003-4942-0025 ; https://orcid.org/0000-0002-5702-7728 ; https://orcid.org/0000-0002-2314-1426
+
+---
+arthurpsmith
+08/23/2022, 20:27:53 | 08/23/2022, 20:27:53
+comment_text: Hmm, the ORCID affiliation listings don't seem to mention University of Bristol, but that may be because of the way ORCID allows users to select things right now.
+
+On the other hand we have a lot of these university-based MRC units in ROR already:
+https://ror.org/046vje122
+https://ror.org/043j90n04
+https://ror.org/05362x394
+https://ror.org/015nth639
+https://ror.org/052578691
+https://ror.org/01vdt8f48
+https://ror.org/02kcpr174
+
+etc. etc.
+While they are clearly located at universities, and many have websites that are under the university domain, they do have a second parent organization in the MRC. So I lean towards including this one (and the other related ones in the request queue). Moving to ""needs discussion"" as we don't seem to be completely agreed here?
+
+---
+adambuttrick
+08/23/2022, 20:30:10 | 08/23/2022, 20:31:24
+comment_text: @arthurpsmith This can move to Ready for Sign-off. @nlundvick had a good breakdown on #928 that explains their independence/scope better, so I'm now on board.
+
+---
+"
+Ready for sign-off - metadata QA,1324505900,931,https://github.com/ror-community/ror-updates/issues/931,open,level 1; new record; jaguar,2022-08-01 14:19:16,2022-08-23 20:44:42,"Add a new organization to ROR: 
+ 
+MRC Population Health Research Unit","Summary of request: Add a new organization to ROR
+
+Name of organization: MRC Population Health Research Unit
+Website: https://www.mrc-phru.ox.ac.uk/
+Link to publications: https://europepmc.org/search?query=%28AFF%3A%22MRC%20Population%20Health%20Research%20Unit%22%29&page=1
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: PHRU
+Related organizations: Medical Research Council, University of Oxford
+City: Oxford
+Country: United Kingdom
+Geonames ID:
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/01/2022, 16:40:46 | 08/01/2022, 16:40:46
+comment_text: Similar to #929, in almost every case of affiliation, is a sub-unit of the University of Oxford, making this likely to be out of scope. 
+
+Publication affiliation usage: https://www.ejves.com/article/S1078-5884(19)31988-4/fulltext#%20 ; https://academic.oup.com/eurheartj/article/38/suppl_1/ehx504.P3230/4089740 ; https://academic.oup.com/eurheartj/article/38/suppl_1/ehx493.P6257/4087274
+
+---
+arthurpsmith
+08/23/2022, 20:44:34 | 08/23/2022, 20:44:34
+comment_text: See my comments on #929 - this one seems good to me too.
+
+---
+"
+Ready for sign-off - metadata QA,1349380693,1016,https://github.com/ror-community/ror-updates/issues/1016,open,level 2; update record; jaguar,2022-08-24 12:38:23,2022-08-24 16:18:37,"Modify the information in an existing ROR record: 
+IMT Institute for Advanced Studies Lucca https://ror.org/035gh3a49
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: IMT Institute for Advanced Studies Lucca
+ROR ID: https://ror.org/035gh3a49
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record, Other IDs for the organization
+Description of change: (1) The proper primary name is:
+
+IMT School for Advanced Studies Lucca
+
+School website: https://www.imtlucca.it/
+Wikipedia profile: https://en.wikipedia.org/wiki/IMT_School_for_Advanced_Studies_Lucca
+
+(2) The three other names should be deleted, as they are wrong:
+
+INSTITUTIONS, MARKETS, TECHNOLOGIES INSTITUTE FOR ADVANCED STUDIES
+INSTITUTE FOR ADVANCED STUDIES LUCCA
+IMT ALTI STUDI LUCCA
+
+They could be replaced with:
+
+Scuola IMT Alti Studi Lucca
+
+This Italian name is confirmed both on the School website and on its Wikipedia profile above.
+
+(3) Regarding other IDs, the three names of the School on ISNI (0000000417909464) are also all wrong:
+
+IMT Alti Studi
+IMT Institute for Advanced Studies
+Institutions Markets Technologies Lucca Institute for Advanced Studie
+
+'IMT Alti Studi' should be replaced with 'Scuola IMT Alti Studi Lucca', as above. 'IMT Institute for Advanced Studies' should be replaced with 'IMT School for Advanced Studies Lucca', as above. 'Institutions Markets Technologies Lucca Institute for Advanced Studie' should be deleted - the acronym 'IMT' became its own word and is no longer extended.
+
+Update: change.name== IMT School for Advanced Studies Lucca; add.aliases==IMT Institute for Advanced Studies Lucca; replace.labels==Scuola IMT Alti Studi Lucca*Italian; change.wikipedia_url==https://en.wikipedia.org/wiki/IMT_School_for_Advanced_Studies_Lucca;$
+
+","adambuttrick
+08/24/2022, 16:07:04 | 08/24/2022, 16:07:04
+comment_text: Primary and label change correspond to website and branding. We will not delete the variant forms as they have affiliation usage. We also cannot correct anything on the ISNI.
+
+---
+"
+Ready for sign-off - metadata QA,1324827127,932,https://github.com/ror-community/ror-updates/issues/932,open,level 1; new record; jaguar,2022-08-01 18:47:33,2022-08-24 19:52:24,"Add a new organization to ROR: 
+ 
+Altos Labs Cambridge Institute of Science","Summary of request: Add a new organization to ROR
+
+Name of organization: Altos Labs
+Website: https://altoslabs.com/
+Link to publications: https://cen.acs.org/business/start-ups/Altos-Labs-launches-3-billion/100/i3
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: https://en.wikipedia.org/wiki/Altos_Labs
+Wikidata ID: Q110701976
+ISNI ID: 0000 0005 0774 3285
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: San Francisco
+Country: USA
+Geonames ID: 5391959
+Year established: 2022
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders
+
+Other information about this request: This is a new company poised to do a lot of research. We have already been contacted by a reviewer asking for an update to their profile. ","adambuttrick
+08/01/2022, 18:53:04 | 08/01/2022, 18:58:05
+comment_text: Biotechnology company focused on senescence research. Indepedent, top-level entity, with solid affiliation usage. Should be added to ROR.
+
+
+Publication affiliation usage: https://www.biorxiv.org/content/10.1101/2022.05.31.494250v1.abstract ; https://www.biorxiv.org/content/10.1101/2022.01.16.476530v1.abstract ; https://www.biorxiv.org/content/10.1101/2022.07.04.498696v1.abstract
+
+Google Scholar affiliation_usage: https://scholar.google.com/citations?user=PNH24toAAAAJ; https://scholar.google.com/citations?user=-yzQ-KIAAAAJ; https://scholar.google.com/citations?user=e7GGoqsAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-5513-3324 ; https://orcid.org/0000-0001-7887-7070 ; https://orcid.org/0000-0002-7708-6549
+
+---
+arthurpsmith
+08/24/2022, 19:52:12 | 08/24/2022, 19:52:12
+comment_text: Agreed - clearly should be in ROR. Very new of course. I added the ISNI which it seems to have already.
+
+---
+"
+Ready for sign-off - metadata QA,1325571270,934,https://github.com/ror-community/ror-updates/issues/934,open,level 1; new record; jaguar,2022-08-02 09:28:48,2022-08-24 19:59:48,"Add a new organization to ROR: 
+ 
+Galgotias College of Engineering & Technology (GCET)","Summary of request: Add a new organization to ROR
+
+Name of organization: Galgotias College of Engineering & Technology (GCET)
+Website: https://galgotiacollege.edu/
+Link to publications: https://galgotiacollege.edu/
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Galgotias_College
+Wikidata ID: https://www.wikidata.org/wiki/Q107133159
+ISNI ID: https://isni.org/isni/0000000417742078
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Galgotias College
+Labels:
+Acronym/abbreviation: GCET
+Related organizations: 
+City: Greater Noida, Gautam Buddha Nagar
+Country: India
+Geonames ID:
+Year established: 1999
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/02/2022, 17:45:18 | 08/02/2022, 17:53:23
+comment_text: Structure of the organization and the request here are a little confusing. Galgotias College of Engineering & Technology appears to be part of an umbrella organization called, ""Galgotias Campus 1"" which does not have a web presence under this name, but for which ""Galgotias College"" is used as an alias and the requestor has supplied the link. Wikidata ID/Wikipedia URL are for Galgotias Campus 1 entity while ISNI is for the College of Engineering and Technology. I think the appropriate record here would probably be for the Galgotias Campus 1/Galgotias College organization. Publication affiliation usage looks solid for the parent body:
+
+Google Scholar affiliation_usage: https://scholar.google.com/citations?user=qurx0jsAAAAJ; https://scholar.google.com/citations?user=NEEToJIAAAAJ; https://scholar.google.com/citations?user=6KwsniYAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0002-3175-5129 ; https://orcid.org/0000-0002-5209-8316 ; https://orcid.org/0000-0003-0327-2522
+
+
+
+---
+arthurpsmith
+08/24/2022, 19:59:31 | 08/24/2022, 19:59:31
+comment_text: Agreed that Galgotias Campus One seems the logical entity to have a ROR as a top-level institute; however the Engineering College seems to be the main affiliation used. There should be at least one ROR here - maybe two? How about let's start with one that includes both names in aliases etc. and then split if it seems necessary later?
+
+---
+"
+Ready for sign-off - metadata QA,1327172603,940,https://github.com/ror-community/ror-updates/issues/940,open,level 2; update record; jaguar,2022-08-03 12:51:03,2022-08-24 20:07:51,"Modify the information in an existing ROR record: 
+ Max Planck Institute for Iron Research https://ror.org/01ngpvg12
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization:  Max Planck Institute for Iron Research
+ROR ID: https://ror.org/01ngpvg12
+Which part of the record needs to be changed? Primary name
+Description of change: We do not translate our institute's name, which is (please pay attention to every character): 
+Max-Planck-Institut für Eisenforschung GmbH
+
+See also our website: https://www.mpie.de/2281/en. We only have the German institute name. Please correct it at our ROR organization entry. Thank you!
+
+Update: change.name==Max-Planck-Institut für Eisenforschung; delete.labels==Max-Planck-Institut für Eisenforschung; add.aliases==Max Planck Institute for Iron Research;$","adambuttrick
+08/03/2022, 16:10:04 | 08/03/2022, 16:10:04
+comment_text: German form as primary corresponds to organization's site and branding, but I'm a little hesitant to remove this entirely. While there's no direct affiliation usage I can find, there are a number of references to this English form in various research aggregation systems (e.g. https://www.nature.com/nature-index/institution-outputs/germany/max-planck-institute-for-iron-research-mpie/513906ef34d6b65e6a0016e9 ; https://www.researchgate.net/institution/Max_Planck_Institute_for_Iron_Research_GmbH ; https://amdis.iaea.org/clerval/institutions/mpi-eisenforschung), such that removing may impact discovery.
+
+My suggestion would be that we downgrade the English form to an alias (as opposed to a label).
+
+---
+arthurpsmith
+08/24/2022, 20:02:28 | 08/24/2022, 20:02:28
+comment_text: So make the main label the official name (in German), and add the current main label as an alias? That sounds fine to me.
+
+---
+"
+Ready for sign-off - metadata QA,1329007586,951,https://github.com/ror-community/ror-updates/issues/951,open,level 1; new record; jaguar,2022-08-04 18:04:37,2022-08-24 20:09:34,"Add a new organization to ROR: 
+ 
+AVA – Academy of Visual Arts","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: AVA – Academy of Visual Arts
+Website: https://www.ava.si
+Link to publications: https://punctumbooks.com/titles/diseases-of-the-head/
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://sl.wikipedia.org/wiki/A.V.A._-_Akademija_za_vizualne_umetnosti
+Wikidata ID: Q12783893
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: AVA – Akademija za Vizualne Umetnosti*Slovenian
+Acronym/abbreviation: AVA
+Related organizations: 
+City: Ljubljana
+Country: Slovenia
+Geonames ID: 3196359
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+
+Other information about this request: ","adambuttrick
+08/04/2022, 23:08:49 | 08/04/2022, 23:08:49
+comment_text: Slovenian arts college. Independent, top-level entity with solid affiliation usage. Funds and employs researchers. Should be added to ROR.
+
+Publication affiliation usage: https://www.goethe.de/resources/files/pdf225/theoretical-critical-horizons_01_final2.pdf#page=49 ; https://www.jstor.org/stable/pdf/j.ctv19cwdpb.18.pdf ; https://books.google.com/books?hl=en&lr=&id=QSysDwAAQBAJ&oi=fnd&pg=PT22&dq=%22Academy+of+Visual+Arts%22+%22Ljubljana%22&ots=_LHrlDW8xK&sig=cYL-FQxPhpWUlk8elOlNVCDlC6w#v=onepage&q=%22Academy%20of%20Visual%20Arts%22&f=false
+
+---
+arthurpsmith
+08/24/2022, 20:09:18 | 08/24/2022, 20:09:18
+comment_text: Looks fine, I added a Wikipedia page and Wikidata ID.
+
+---
+"
+Ready for sign-off - metadata QA,1329366889,952,https://github.com/ror-community/ror-updates/issues/952,open,level 1; new record; jaguar,2022-08-05 02:30:22,2022-08-24 20:14:08,"Add a new organization to ROR: 
+ 
+BuiltWith Pty Ltd","Summary of request: Add a new organization to ROR
+
+Name of organization: BuiltWith
+Website: https://builtwith.com
+Link to publications: https://hbswk.hbs.edu/item/is-ab-testing-effective-evidence-from-35000-startups
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: Sydney
+Country: Australia
+Geonames ID: 2147714
+Year established: 2007
+How will a ROR ID for this organization be used? To identify affiliations for datasets
+
+Other information about this request: Trying to get added for Dataset JSONLD meta data inclusion thank you.","adambuttrick
+08/05/2022, 15:49:09 | 08/05/2022, 15:49:16
+comment_text: Australian technology company. Independent, top-level entity. Publishes [datasets](https://builtwith.com/datasets) analyzing various technology and service usage across the entire internet. No affiliation usage as far as I can tell, but its data outputs are used in research (e.g. https://www.sciencedirect.com/science/article/pii/S2352673421000299). I think they're in scope for ROR by virtue of these publishing activities.
+
+---
+arthurpsmith
+08/24/2022, 20:13:56 | 08/24/2022, 20:13:56
+comment_text: Hmm, it seems like it might be a very small company; LinkedIn lists 3 employees. But I guess that still qualifies. Otherwise fine, so yes let's go ahead and add to ROR.
+
+---
+"
+Ready for sign-off - metadata QA,1331659862,956,https://github.com/ror-community/ror-updates/issues/956,open,level 1; new record; jaguar,2022-08-08 10:27:04,2022-08-25 03:55:01,"Add a new organization to ROR: 
+ 
+eLife","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: eLife Sciences Publications
+Website: https://elifesciences.org
+Link to publications: eLife is a publisher of journal articles in the life sciences and medicine - all our articles acknowledge that eLife is an organisation.
+Organization type: Nonprofit
+Wikipedia page: https://en.wikipedia.org/wiki/ELife
+Wikidata ID: Q2000008
+ISNI ID: 0000 0004 4663 8093
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: Cambridge
+Country: United Kingdom
+Geonames ID: 2653941
+Year established: 2012
+How will a ROR ID for this organization be used? To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/08/2022, 15:34:17 | 08/08/2022, 15:34:17
+comment_text: Nonprofit publisher of journal eLife (ISSN: 2050-084X). [Crossref member](https://api.crossref.org/members?query=eLife). In scope for ROR by virtue of our small-publisher use case.
+
+---
+mariagould
+08/25/2022, 03:55:01 | 08/25/2022, 03:55:01
+comment_text: I agree that this is in scope for ROR and should be added. One thing to note in the metadata above: should the primary name be just ""eLife"" or ""eLife Sciences Publications""?  The latter seems to function more as the legal name, whereas the former (shorter) name seems to be more commonly used as the affiliation for staff publications (and in citations for eLife publications). 
+
+---
+"
+Ready for sign-off - metadata QA,1335079607,971,https://github.com/ror-community/ror-updates/issues/971,open,level 1; new record; jaguar,2022-08-10 19:19:19,2022-08-25 04:01:02,"Add a new organization to ROR: 
+ 
+Instituto Antioqueño de Investigación","Summary of request: Add a new organization to ROR
+
+Name of organization: Instituto Antioqueño de Investigación
+Website: https://fundacioniai.org
+Link to publications: https://zenodo.org/communities/iai/?page=1&size=20
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: Q52637690
+ISNI ID: 0000 0004 8032 9198
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels: Antioquia Research Institute*English
+Acronym/abbreviation: IAI
+Related organizations: 
+City: Medellin
+Country: Colombia
+Geonames ID: 3674962
+Year established: 2010
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility
+
+Other information about this request: Thank you very much.","adambuttrick
+08/10/2022, 19:56:44 | 08/10/2022, 19:56:44
+comment_text: Columbian nonprofit research institute focused on computer science, engineering, and related disciplines. Independent, top-level entity with solid affiliation usage. Fund and employs researchers. Should be added to ROR.
+
+Publication affiliation usage:  https://doi.org/10.18041/1900-3803/entramado.2.8496 ; https://link.springer.com/article/10.1007/s10833-020-09390-3
+
+Google Scholar affiliation_usage: https://scholar.google.com/citations?user=ZI-EC5YAAAAJ; https://scholar.google.com/citations?user=TgC-d3AAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0001-5306-4444 ; https://orcid.org/0000-0002-7507-0308 ; https://orcid.org/0000-0003-2613-4376 
+
+---
+mariagould
+08/25/2022, 04:01:02 | 08/25/2022, 04:01:02
+comment_text: I concur this should be added to ROR given evidence of research activities. 
+
+---
+"
+Ready for sign-off - metadata QA,1336635988,973,https://github.com/ror-community/ror-updates/issues/973,open,level 1; new record; jaguar,2022-08-12 00:59:20,2022-08-25 04:13:22,"Add a new organization to ROR: 
+ 
+Centro Nacional de Información de Ciencias Médicas ","Summary of request: Add a new organization to ROR
+
+Name of organization: Centro Nacional de Información de Ciencias Médicas
+Website: http://www.sld.cu
+Link to publications: https://www.rcics.sld.cu
+Organization type: Government
+Wikipedia page: 
+Wikidata ID: Q74554974
+ISNI ID: 0000 0001 1009 9567
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Infomed
+Labels: National Information Center of Medical Sciences*English
+Acronym/abbreviation:
+Related organizations: 
+City: La Habana 
+Country: Cuba
+Geonames ID: 3553478
+Year established: 1965
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/12/2022, 02:49:42 | 08/12/2022, 02:49:42
+comment_text: Government organization responsible for biomedical and public health research in Cuba. Independent, top-level entity with solid affiliation usage. Funds and employs researchers. Should be added to ROR.
+
+Publication affiliation usage: http://scielo.sld.cu/scielo.php?pid=S2307-21132021000400013&script=sci_arttext&tlng=pt ; http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2307-21132021000300001 ; http://www.revinfodir.sld.cu/index.php/infodir/article/view/1197/1561
+
+Google Scholar affiliation usage: https://scholar.google.com/citations?user=TGlt5h0AAAAJ; https://scholar.google.com/citations?user=O7wh7_AAAAAJ; https://scholar.google.com/citations?user=_q7fmOoAAAAJ
+
+ORCID affiliation usage: https://orcid.org/0000-0003-2465-5290 ; https://orcid.org/0000-0001-7681-4543 ; https://orcid.org/0000-0002-7534-783X
+
+---
+mariagould
+08/25/2022, 04:13:21 | 08/25/2022, 04:13:21
+comment_text: I agree this should be added to ROR given evidence of research activities. 
+
+Metadata note: Where did the English name come from? There are a couple of other ways to translate the name into English (""National Center for Medical Science Information"", ""National Center for Information on Medical Sciences""). I wasn't able to determine if there is an official or most common English version in use. 
+
+---
+"
+Ready for sign-off - metadata QA,1350412025,1018,https://github.com/ror-community/ror-updates/issues/1018,open,level 2; update record; jaguar,2022-08-25 06:53:07,2022-08-25 14:58:24,"Modify the information in an existing ROR record: 
+National Institute for Research and Development in Optoelectronics https://ror.org/03epxcz56
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: National Institute for Research and Development in Optoelectronics
+ROR ID: https://ror.org/03epxcz56
+Which part of the record needs to be changed? Primary name
+Description of change: The name of the organization is wrong. The correct name of the organization in English is: National Institute of Research and Development for Optoelectronics (see: https://www.inoe.ro/en/)
+
+Update: change.name==National Institute of Research and Development for Optoelectronics;$
+
+","adambuttrick
+08/25/2022, 14:58:11 | 08/25/2022, 14:58:11
+comment_text: Name change corresponds to organization's website and branding.
 
 ---
 "
