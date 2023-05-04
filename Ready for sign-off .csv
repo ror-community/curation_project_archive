@@ -1,0 +1,3034 @@
+column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
+Ready for sign-off ,1684734372,3121,https://github.com/ror-community/ror-updates/issues/3121,open,level 2; update record; jaguar,2023-04-26 10:19:58,2023-04-26 14:59:02,"Modify the information in an existing ROR record: 
+French Research Institute for Exploitation of the Sea https://ror.org/044jxhp58
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: French Research Institute for Exploitation of the Sea
+ROR ID: https://ror.org/044jxhp58
+Which part of the record needs to be changed? Other names or name versions listed in the record, Organization website, Something else
+Description of change: Use « Ifremer » instead of « IFREMER »
+Update web site : www.ifremer.fr
+Child organizations : remove ""Collecte Localisation Satellites (France)""
+
+Update: change.name==Ifremer; add.labels==French Research Institute for Exploitation of the Sea*English; delete.acronyms==IFREMER; replace.links==https://www.ifremer.fr; delete.relationships==https://ror.org/00q7mnz48;$","ror-curator-bot
+04/26/2023, 14:37:02 | 04/26/2023, 14:37:02
+comment_text: Update: change.name==French Research Institute for Exploitation of the Sea replace.links==www.ifremer.fr;$
+
+---
+adambuttrick
+04/26/2023, 14:56:52 | 04/26/2023, 14:58:56
+comment_text: Name change corresponds to organization's website and branding. Link is correctly identified. Ifremer's stake in https://ror.org/00q7mnz48 was divested in 2020, so this is fine to remove.
+
+---
+"
+Ready for sign-off ,1684797893,3122,https://github.com/ror-community/ror-updates/issues/3122,open,level 2; update record; jaguar,2023-04-26 11:03:54,2023-04-26 15:04:20,"Modify the information in an existing ROR record: 
+de: Donau Universität Krems en: Danube University Krems https://ror.org/03ef4a036
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: de: Donau Universität Krems en: Danube University Krems
+ROR ID: https://ror.org/03ef4a036
+Which part of the record needs to be changed? Primary name
+Description of change: The new Primary Names in german and english of our University de: Universität für Weiterbildung Krems en: University for Continuing Education Krems
+Our Short title is now UWK
+
+Update: change.name==Universität für Weiterbildung Krems; replace.labels==University for Continuing Education Krems*English; replace.acronyms==UWK; replace.aliases==Donau Universität Krems; add.aliases==Danube University Krems; replace.links==https://www.donau-uni.ac.at;$","ror-curator-bot
+04/26/2023, 14:36:50 | 04/26/2023, 14:36:50
+comment_text: Update: add.aliases==University for Continuing Education Krems replace.acronyms==UWK;$
+
+---
+adambuttrick
+04/26/2023, 15:04:15 | 04/26/2023, 15:04:15
+comment_text: Name change corresponds to organization's website and branding.
+
+---
+"
+Ready for sign-off ,1684853309,3123,https://github.com/ror-community/ror-updates/issues/3123,open,level 2; update record; jaguar,2023-04-26 11:36:27,2023-04-26 15:11:00,"Modify the information in an existing ROR record: 
+INFN Sezione di Milano Bicocca https://ror.org/03xejxm22
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: INFN Sezione di Milano Bicocca
+ROR ID: https://ror.org/03xejxm22
+Which part of the record needs to be changed? Something else
+Description of change: INFN Sezione di Milano Bicocca in not a child of ""University of Milano-Bicocca"".
+INFN Sezione di Milano Bicocca is a child only of National Institute for Nuclear Physics.
+","adambuttrick
+04/26/2023, 15:10:45 | 04/26/2023, 15:10:45
+comment_text: From the [organization's site](https://www.mib.infn.it/main/pages/infnmib/la-sezione.php), https://ror.org/03xejxm22 would appear to have some relationship to https://ror.org/01ynf4891:
+
+""The INFN office in Milano Bicocca, housed in the premises of the Physics Department G. Occhialini of the University of Milan Bicocca, has been active since January 2001, and officially became an INFN Section as of September 1, 2006.""
+
+But the request correctly identifies that this is not a parent child. My thinking is we should change this to related, but it would be helpful if someone else could review.
+
+
+
+---
+"
+Ready for sign-off ,1685014014,3124,https://github.com/ror-community/ror-updates/issues/3124,open,level 2; update record; jaguar,2023-04-26 13:16:17,2023-04-26 15:13:36,"Modify the information in an existing ROR record: 
+Institut für Höhere Studien - Institute for Advanced Studies (IHS) https://ror.org/05ag62t55
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Institut für Höhere Studien - Institute for Advanced Studies (IHS)
+ROR ID: https://ror.org/05ag62t55
+Which part of the record needs to be changed? Primary name
+Description of change: Please add the acronym in brackets after the name: (IHS)
+
+
+Update: change.name==Institut für Höhere Studien - Institute for Advanced Studies (IHS); add.aliases==Institut für Höhere Studien - Institute for Advanced Studies;$","adambuttrick
+04/26/2023, 15:13:32 | 04/26/2023, 15:13:32
+comment_text: Name change corresponds to organization's copyright statement. Moving form without the acronym appended to aliases for better matching.
+
+---
+"
+Ready for sign-off ,1685145427,3125,https://github.com/ror-community/ror-updates/issues/3125,open,level 2; update record; jaguar,2023-04-26 14:27:40,2023-04-26 15:16:09,"Modify the information in an existing ROR record: Consejería de Educación, Juventud y Deporte https://ror.org/038tahs86","Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Consejería de Educación, Juventud y Deporte
+ROR ID: https://ror.org/038tahs86
+Which part of the record needs to be changed? Name, aliases, website, external IDs
+Description of change: 
+1. Change name to Consejería de Educación, Universidades, Ciencia y Portavocía
+2. Move current name Consejería de Educación, Juventud y Deporte to aliases
+3. Add website: https://www.comunidad.madrid/centros/consejeria-educacion-universidades-ciencia-portavocia
+4. Add Funder ID [501100010774](http://dx.doi.org/10.13039/501100010774)
+
+Note: These changes were identified as part of long-tail Funder Registry reconciliation. 
+
+
+Update: change.name==Consejería de Educación, Universidades, Ciencia y Portavocía; add.aliases==Consejería de Educación, Juventud y Deporte; replace.links==https://www.comunidad.madrid/centros/consejeria-educacion-universidades-ciencia-portavocia; add.FundRef==501100010774;$",
+Ready for sign-off ,1686384097,3129,https://github.com/ror-community/ror-updates/issues/3129,open,level 2; update record; jaguar,2023-04-27 08:33:32,2023-04-27 15:34:52,"Modify the information in an existing ROR record: 
+IETR https://ror.org/013q33h79
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: IETR
+ROR ID: https://ror.org/013q33h79
+Which part of the record needs to be changed? Other IDs for the organization, Something else
+Description of change: Parent organization  : 
+- https://ror.org/02feahw73
+- Other ID : IDREF : https://www.idref.fr/149256035Copier cet identifiant (PPN)
+RNSR : 200212224H
+- publications website : https://hal.science/IETR
+
+Update: add.Wikidata==Q30261383; replace.links==https://www.ietr.fr;$
+
+Related organizations: https://ror.org/02feahw73 (parent)
+","adambuttrick
+04/27/2023, 15:34:42 | 04/27/2023, 15:34:42
+comment_text: CNRS is correctly identified as a parent. Other IDs are not supported in ROR.
+
+---
+"
+Ready for sign-off ,1686384121,3130,https://github.com/ror-community/ror-updates/issues/3130,open,level 2; update record; jaguar,2023-04-27 08:33:33,2023-04-27 15:40:48,"Add a new organization to ROR: 
+ 
+Centre Atlantique de philosophie","Summary of request: Add a new organization to ROR
+
+Name of organization: Centre Atlantique de Philosophie
+Website: http://caphi.univ-nantes.fr
+Link to publications: http://caphi.univ-nantes.fr/-Publications-
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: Q52607254
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: CAPHI
+Related organizations: Parent institutions : https://ror.org/015m7wh34 (parent) https://ror.org/03gnr7b55 (parent) https://ror.org/01b8h3982 (parent)
+City: Nantes
+Country: France
+Geonames ID: 2990969
+Year established: 2017
+How will a ROR ID for this organization be used? To acknowledge a research facility
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 14:56:59 | 04/27/2023, 14:56:59
+comment_text: Publication affiliation usage: https://doi.org/10.15122/isbn.978-2-8124-2138-9; https://doi.org/10.1017/cbo9781316338797.012; https://doi.org/10.1007/s11229-019-02398-0; https://doi.org/10.6035/recerca.2019.24.1.3; https://doi.org/10.1051/pmed/2019020; https://doi.org/10.3917/herm.069.0013; https://doi.org/10.4000/rfsic.717; https://doi.org/10.1215/00294527-3882234; https://doi.org/10.1093/oso/9780198746881.003.0006; https://doi.org/10.1017/s0007087421000625; https://doi.org/10.1016/j.sger.2016.09.005; https://doi.org/10.1002/da.22626; https://doi.org/10.7202/1065692ar; https://doi.org/10.1051/pmed/2019020; https://doi.org/10.1016/j.encep.2018.10.006; https://doi.org/10.1016/j.etiqe.2021.09.003; https://doi.org/10.1016/j.admp.2018.11.001; 
+Potential aliases: Centre Atlantique de philosophie; CAPHI
+
+---
+adambuttrick
+04/27/2023, 15:38:02 | 04/27/2023, 15:38:02
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Can be added.
+
+---
+"
+Ready for sign-off ,1686408433,3132,https://github.com/ror-community/ror-updates/issues/3132,open,level 2; update record; jaguar,2023-04-27 08:47:03,2023-04-27 15:44:37,"Modify the information in an existing ROR record: 
+Western Institute of Law and Europe https://ror.org/030ewzw66
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Western Institute of Law and Europe
+ROR ID: https://ror.org/030ewzw66
+Which part of the record needs to be changed? Other IDs for the organization, Something else
+Description of change: - Parent organization : https://ror.org/02feahw73
+- Other ID : ISNI : https://isni.org/isni/0000000105197461
+- IDREF : https://www.idref.fr/139767924
+- RNSR :  200812291E
+- Publications website : https://hal.science/IODE
+- Website : https://iode.univ-rennes.fr/en
+
+Update: replace.ISNI==0000 0001 0519 7461; replace.links==https://iode.univ-rennes.fr;$
+
+Related organizations: https://ror.org/02feahw73 (parent)","ror-curator-bot
+04/27/2023, 14:59:03 | 04/27/2023, 14:59:03
+comment_text: Update: add.ISNI==0000000105197461 add.links==https://hal.science/IODE replace.links==https://iode.univ-rennes.fr/en;$
+
+---
+adambuttrick
+04/27/2023, 15:44:26 | 04/27/2023, 15:44:26
+comment_text: ISNI and website are correct for the org and parent is properly identified. Other IDs are not supported.
+
+---
+"
+Ready for sign-off ,1686429177,3133,https://github.com/ror-community/ror-updates/issues/3133,open,level 2; update record; jaguar,2023-04-27 08:59:55,2023-04-27 15:48:12,"Add a new organization to ROR: 
+ 
+Centre de droit des affaires","Summary of request: Add a new organization to ROR
+
+Name of organization: Centre de droit des affaires
+Website: https://cda.univ-rennes.fr
+Link to publications: https://hal.science/CDA-PR
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: Q52604664
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Institute for Business Law 
+Labels:
+Acronym/abbreviation: CDA
+Related organizations: Parent organizations : https://ror.org/015m7wh34 (parent)
+City: Rennes
+Country: France
+Geonames ID: 2983990
+Year established: 2000
+How will a ROR ID for this organization be used? To acknowledge a research facility
+
+Other information about this request: Other IDS : 
+- IDREF : https://www.idref.fr/137430728
+- RNSR : 200014494J","ror-curator-bot
+04/27/2023, 14:58:25 | 04/27/2023, 14:58:25
+comment_text: Publication affiliation usage: https://doi.org/10.3166/dn.13.3.153-177; https://openalex.org/W573923960; https://doi.org/10.3917/ride.213.0345; https://doi.org/10.3406/juro.1992.1999; https://doi.org/10.7202/1023852ar; https://openalex.org/W2760526760; https://openalex.org/W3095476146; https://openalex.org/W3096613545; https://openalex.org/W3155252116; https://openalex.org/W3124499182; https://doi.org/10.1016/s0010-2180(03)00125-1; https://doi.org/10.1111/jvh.12351; https://doi.org/10.1016/j.jhep.2018.05.036; https://doi.org/10.1111/add.14393; https://doi.org/10.1080/1046669x.2013.747862; https://openalex.org/W3124955880; https://doi.org/10.1007/978-3-7908-2867-2_13; https://doi.org/10.4467/22996834flr.21.009.13977; 
+Potential aliases: Centre de droit des affaires; CDA; Institute for Business Law
+Summary: The Centre de droit des affaires at the Université de Rennes focuses on research in corporate, heritage, and tax law and hosts conferences on business and legal issues.
+
+---
+adambuttrick
+04/27/2023, 15:48:06 | 04/27/2023, 15:48:06
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1686452456,3134,https://github.com/ror-community/ror-updates/issues/3134,open,level 2; update record; jaguar,2023-04-27 09:14:32,2023-04-27 15:49:36,"Add a new organization to ROR: 
+ 
+Institut du droit public et de la science politique","Summary of request: Add a new organization to ROR
+
+Name of organization: Institut du droit public et de la science politique
+Website: https://idpsp.univ-rennes.fr
+Link to publications: https://hal.science/IDPSP
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID:Q52606151
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: IDPSP
+Related organizations: parent organization : https://ror.org/015m7wh34 (parent)
+City: Rennes
+Country: France
+Geonames ID: 2983990
+Year established: 2012
+How will a ROR ID for this organization be used? To acknowledge a research facility
+
+Other information about this request: Other IDS :
+- IDREF :  https://www.idref.fr/167392719
+- RNSR : 201220088M","ror-curator-bot
+04/27/2023, 14:57:43 | 04/27/2023, 14:57:43
+comment_text: Publication affiliation usage: https://openalex.org/W2730040098; https://openalex.org/W2727520038; https://doi.org/10.3917/rpec.171.0003; https://doi.org/10.1163/15718093-12540384; https://doi.org/10.14375/np.9782340023956; https://doi.org/10.4000/quaderni.1101; https://doi.org/10.1016/j.forsciint.2020.110258; https://openalex.org/W1563930972; https://doi.org/10.3406/afdi.2010.4622; https://doi.org/10.4324/9780429452734-1_8; https://doi.org/10.1007/978-94-6265-411-2_3; https://doi.org/10.1097/md.0000000000018295; https://doi.org/10.1051/sm/2015009; https://doi.org/10.1007/s00414-019-02062-9; https://doi.org/10.1163/15718034-12341290; https://doi.org/10.1016/j.eurpsy.2014.09.137; https://doi.org/10.1163/15718034-12341307; https://doi.org/10.1016/j.tiv.2020.104842; https://doi.org/10.3390/ijms22052741; https://doi.org/10.1016/j.jesf.2021.01.001; 
+Potential aliases: Institut du droit public et de la science politique; IDPSP; UR 4640
+Summary: IDPSP is a research institute specializing in public law and political science, producing publications and initiatives on topics such as environmental disputes, international justice, and humor in education.
+
+---
+adambuttrick
+04/27/2023, 15:49:30 | 04/27/2023, 15:49:30
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687185003,3136,https://github.com/ror-community/ror-updates/issues/3136,open,level 1; new record; jaguar,2023-04-27 16:31:26,2023-04-27 21:33:51,"Add a new organization to ROR: 
+ 
+Laboratoire éthologie cognition développement","Summary of request: Add a new organization to ROR
+
+Name of organization: Laboratoire Ethologie Cognition Développement
+Website: https://lecd.parisnanterre.fr
+Link to publications: https://hal.parisnanterre.fr/LECD/page/index
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: Q51785187
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Ethology cognition development laboratory
+Labels:
+Acronym/abbreviation: LECD
+Related organizations: Parent institution https://ror.org/013bkhk48 (parent)
+City: Nanterre
+Country: France
+Geonames ID: 2990970
+Year established: 2001
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 17:29:38 | 04/27/2023, 17:29:38
+comment_text: Publication affiliation usage: https://doi.org/10.1371/journal.pone.0205314; https://doi.org/10.3917/enf.572.0171; https://doi.org/10.3389/fnbot.2018.00023; https://doi.org/10.1080/01650250244000290; https://doi.org/10.1186/s12915-014-0058-4; https://doi.org/10.1521/pedi.2012.26.3.357; https://doi.org/10.3390/ani12050580; https://doi.org/10.1007/s10071-017-1077-7; https://doi.org/10.1016/j.neubiorev.2016.06.039; https://doi.org/10.3389/fpsyg.2015.01874; https://doi.org/10.1016/j.atmosenv.2013.07.042; https://doi.org/10.1038/s41598-017-04671-z; https://doi.org/10.3389/fnbot.2018.00023; https://doi.org/10.1016/j.conbuildmat.2018.10.028; 
+Potential aliases: Laboratoire éthologie cognition développement; Ethology Cognition Development Laboratory; LECD
+Summary: The organization focuses on various research projects, including the BabyLab Nanterre, canaries, and diamond mandarins, and has a team of members who publish their findings, conduct stages, and collaborate with partners.
+
+---
+adambuttrick
+04/27/2023, 21:33:28 | 04/27/2023, 21:33:28
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+
+---
+"
+Ready for sign-off ,1687205350,3137,https://github.com/ror-community/ror-updates/issues/3137,open,level 1; new record; jaguar,2023-04-27 16:46:25,2023-04-27 21:35:36,"Add a new organization to ROR: 
+ 
+Littérature et poétique comparées","Summary of request: Add a new organization to ROR
+
+Name of organization: Littérature et poétique comparées
+Website: http://www.litterature-poetique.com
+Link to publications: https://hal.science/hal-03994572v1
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Comparative Literature and Poetry
+Labels:
+Acronym/abbreviation: LiPo
+Related organizations: parent institution : Université Paris Nanterre  https://ror.org/013bkhk48 (parent)
+City: Nanterre
+Country: France
+Geonames ID: 2990970
+Year established: 2005
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 17:27:52 | 04/27/2023, 17:27:52
+comment_text: Publication affiliation usage: https://openalex.org/W3021383331; https://doi.org/10.4000/books.pur.79044; https://openalex.org/W4292719282; https://openalex.org/W4299594784; https://doi.org/10.3917/ccgc.006.0067; https://openalex.org/W4292719284; https://openalex.org/W3197766225; https://doi.org/10.2307/j.ctv1tgwzcb; https://openalex.org/W3026215323; https://openalex.org/W4292719281; https://doi.org/10.1111/j.1529-8019.2012.01464.x; https://doi.org/10.1111/bph.13885; https://doi.org/10.1111/j.1473-2165.2008.00379.x; https://doi.org/10.1161/circresaha.118.313237; https://doi.org/10.3389/fnmol.2017.00075; https://doi.org/10.1109/ias.2006.256796; https://doi.org/10.1002/ejlt.200500310; https://doi.org/10.1038/s41572-020-0181-1; 
+Potential aliases: Littérature et poétique comparées; LiPo
+Summary: The organization specializes in literary and poetic research, with current research projects focusing on critical analysis of Milan Kundera's legacy, dramaturges and spectators in Europe, the role of literature in the face of evil, and the publication of a two-volume edition of Paul Valery's poetry course, among others.
+
+---
+adambuttrick
+04/27/2023, 21:35:25 | 04/27/2023, 21:35:25
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687215035,3139,https://github.com/ror-community/ror-updates/issues/3139,open,level 1; new record; jaguar,2023-04-27 16:53:42,2023-04-27 21:37:44,Add a new organization to ROR - Afyonkarahisar Sağlık Bilimleri Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Afyonkarahisar Sağlık Bilimleri Üniversitesi
+Website: http://afsu.edu.tr/
+Link to publications:
+Organization type:
+Wikipedia page: https://tr.wikipedia.org/wiki/Afyonkarahisar_Sa%C4%9Fl%C4%B1k_Bilimleri_%C3%9Cniversitesi
+Wikidata ID: Q52162254
+ISNI ID: 0000 0004 7536 444X
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases: Afyonkarahisar University of Health Sciences; Afyonkarahisar Saglik Bilimleri Universitesi; University of Health Sciences, Afyonkarahisar
+Labels: Afyonkarahisar Health Sciences University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Afyonkarahisar
+Country: Turkey
+Geonames ID: 325303
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 17:26:06 | 04/27/2023, 17:26:06
+comment_text: Publication affiliation usage: https://openalex.org/W4288244102; https://openalex.org/W3176182583; https://doi.org/10.18229/kocatepetip.976765; https://doi.org/10.18229/kocatepetip.834982; https://doi.org/10.15295/bmij.v7i4.1162; https://openalex.org/W4289730123; https://doi.org/10.52642/susbed.929907; https://doi.org/10.1177/1945892420932768; https://doi.org/10.29271/jcpsp.2022.01.86; https://doi.org/10.5152/anatoljcardiol.2021.29797; https://doi.org/10.1097/scs.0000000000007698; https://doi.org/10.3906/sag-1912-209; https://doi.org/10.1680/jemmr.20.00098; https://doi.org/10.1016/j.fct.2022.112929; https://doi.org/10.1080/0020739x.2019.1583382; https://doi.org/10.1186/s12879-021-06104-9; https://doi.org/10.1007/s10639-019-09925-z; https://doi.org/10.21203/rs.3.rs-31925/v1; https://doi.org/10.21203/rs.2.22224/v1; https://doi.org/10.2478/aoj-2022-0016; https://doi.org/10.21203/rs.3.rs-226504/v1; https://doi.org/10.1016/j.microc.2019.104172; https://doi.org/10.1111/ppc.12485; https://doi.org/10.1016/j.indcrop.2019.111666; https://doi.org/10.1016/j.ecoenv.2019.110058; https://doi.org/10.1016/j.indcrop.2019.111878; https://doi.org/10.1111/ane.13223; https://doi.org/10.1016/j.fbio.2020.100536; https://doi.org/10.1080/00275514.2019.1689748; https://doi.org/10.1016/j.microc.2019.104172; https://doi.org/10.2174/1573412915666190225163637; https://doi.org/10.1111/ppc.12485; https://doi.org/10.1080/00032719.2020.1734016; https://doi.org/10.1016/j.indcrop.2019.111878; https://doi.org/10.1016/j.fbio.2020.100536; https://doi.org/10.1080/00207454.2021.1886097; 
+Potential aliases: Afyon Health Sciences University; Afyonkarahisar Health Sciences University; Afyonkarahisar Saglik Bilimleri Universitesi; Afyonkarahisar University of Health Sciences; University of Health Sciences, Afyonkarahisar
+ORCID affiliation usage: https://orcid.org/0000-0002-5384-9345; https://orcid.org/0000-0002-6752-9510; https://orcid.org/0000-0001-9341-0276
+
+---
+adambuttrick
+04/27/2023, 21:37:43 | 04/27/2023, 21:37:43
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687222425,3140,https://github.com/ror-community/ror-updates/issues/3140,open,level 2; update record; jaguar,2023-04-27 16:59:16,2023-04-27 21:46:00,"Modify the information in an existing ROR record: 
+Laboratoire de Préhistoire et Technologie https://ror.org/01pawvf59
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Laboratoire de Préhistoire et Technologie
+ROR ID: https://ror.org/01pawvf59
+Which part of the record needs to be changed? Primary name, Organization website
+Description of change: The laboratory changed in 2022 to become Technologie et ethnologie des mondes préhistoriques (TEMPS)  the new website is : https://umrtemps.cnrs.fr/  ; https://www.wikidata.org/wiki/Q30262415  ;  publication https://hal.science/hal-03924315v1
+Please let me know if you need further informations
+Regards
+
+Update: change.name==Technologie et Ethnologie des Mondes PréhistoriqueS; add.aliases==Technologie et ethnologie des mondes préhistoriques (TEMPS); add.aliases==Laboratoire de Préhistoire et Technologie; add.acronyms==TEMPS; replace.links==https://umrtemps.cnrs.fr; add.Wikidata==Q30262415;$","ror-curator-bot
+04/27/2023, 17:30:32 | 04/27/2023, 17:30:32
+comment_text: Update: change.name==Technologie et ethnologie des mondes préhistoriques (TEMPS) replace.links==https://umrtemps.cnrs.fr/ add.Wikidata==Q30262415;$
+
+---
+adambuttrick
+04/27/2023, 21:45:54 | 04/27/2023, 21:45:54
+comment_text: Name change corresponds to organization's website and branding. Wikidata ID is correctly identified.
+
+---
+"
+Ready for sign-off ,1687344700,3141,https://github.com/ror-community/ror-updates/issues/3141,open,level 1; new record; jaguar,2023-04-27 18:13:19,2023-04-27 21:55:27,"Add a new organization to ROR: 
+ 
+Gulf College","Summary of request: Add a new organization to ROR
+
+Name of organization: Gulf College
+Website: https://www.gulfcollege.edu.om
+Link to publications: 10.18295/squmj.2021.21.02.005
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Gulf College Oman
+Labels: كلية الخليج*Arabic
+Acronym/abbreviation: 
+Related organizations: 
+City: Muscat
+Country: Oman
+Geonames ID: 287286
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 21:48:39 | 04/27/2023, 21:54:52
+comment_text: Publication affiliation usage: https://doi.org/10.1007/s11115-009-0103-x; https://doi.org/10.1211/jpp.61.01.0003; https://doi.org/10.1016/j.matpr.2021.07.042; https://doi.org/10.1016/j.procs.2020.03.355; https://doi.org/10.1016/j.jretconser.2017.03.007; https://doi.org/10.1109/mintc.2018.8363162; https://doi.org/10.1007/s10462-009-9148-z; https://doi.org/10.1016/s0006-3223(00)00252-3; https://doi.org/10.1109/iacs.2018.8355470; https://doi.org/10.1016/j.suscom.2014.09.004; https://doi.org/10.1155/2022/1755460; https://doi.org/10.1109/icecta.2017.8252030; https://doi.org/10.1109/wccais.2014.6916626; 
+Potential aliases: Gulf College; GC; Gulf College Oman
+
+---
+adambuttrick
+04/27/2023, 21:55:21 | 04/27/2023, 21:55:21
+comment_text: University in Oman. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687205370,3138,https://github.com/ror-community/ror-updates/issues/3138,open,level 1; new record; jaguar,2023-04-27 16:46:26,2023-04-27 22:10:44,"Add a new organization to ROR: 
+ 
+Modélisation aléatoire de Paris Nanterre","Summary of request: Add a new organization to ROR
+
+Name of organization: Modélisation aléatoire de Paris Nanterre
+Website: https://modalx.parisnanterre.fr
+Link to publications: https://hal.science/hal-03825892v1
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: Q51782906
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Randomized Modeling of Paris Nanterre; Modal'X; Modélisation aléatoire de Paris X
+Labels: 
+Acronym/abbreviation: 
+Related organizations: https://ror.org/013bkhk48 (parent)
+City: Nanterre
+Country: France
+Geonames ID: 2990970
+Year established: 2001
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 17:30:23 | 04/27/2023, 17:30:23
+comment_text: Publication affiliation usage: https://doi.org/10.1186/1471-2334-7-130; https://doi.org/10.1002/uog.7488; https://doi.org/10.1016/s0166-218x(02)00210-x; https://doi.org/10.1006/game.1997.0545; https://doi.org/10.1214/ejp.v12-441; https://doi.org/10.1016/j.jmva.2009.07.009; https://doi.org/10.1007/bf02802505; https://doi.org/10.1007/s102310200029; https://doi.org/10.1007/11503415_1; https://doi.org/10.1090/s0025-5718-01-01339-4; https://doi.org/10.3150/bj/1155735932; https://doi.org/10.1214/105051604000000323; https://doi.org/10.1007/s11747-020-00723-5; https://doi.org/10.1214/aoap/1015345353; https://doi.org/10.1016/j.jfa.2017.08.015; https://doi.org/10.1111/j.1468-0262.2005.00616.x; https://doi.org/10.1007/978-1-4612-2532-4; https://openalex.org/W2011917229; https://doi.org/10.1214/16-aos1454; https://doi.org/10.1051/0004-6361:200810514; 
+Potential aliases: Modal'X; Modélisation aléatoire de Paris X
+Summary: MODAL'X - UMR 9023 is a research organization that focuses on a variety of topics including random modeling, functional inequalities, spectral analysis, stochastic processes, statistical learning, and risk analysis.
+
+---
+ror-curator-bot
+04/27/2023, 21:50:31 | 04/27/2023, 21:50:31
+comment_text: Publication affiliation usage: https://doi.org/10.1214/ejp.v12-441; https://doi.org/10.1007/bf02802505; https://doi.org/10.1007/s102310200029; https://doi.org/10.1006/game.1997.0545; https://doi.org/10.1090/s0025-5718-01-01339-4; https://doi.org/10.1016/s0166-218x(02)00210-x; https://doi.org/10.1002/uog.7488; https://doi.org/10.1186/1471-2334-7-130; https://doi.org/10.1016/j.jmva.2009.07.009; https://doi.org/10.1007/11503415_1; https://doi.org/10.1111/j.1468-0262.2005.00616.x; https://doi.org/10.1214/16-aos1454; https://doi.org/10.3150/bj/1155735932; https://doi.org/10.1051/0004-6361:200810514; https://doi.org/10.1016/j.jfa.2017.08.015; https://doi.org/10.1214/105051604000000323; https://doi.org/10.1214/aoap/1015345353; https://doi.org/10.1007/978-1-4612-2532-4; https://doi.org/10.1007/s11747-020-00723-5; https://openalex.org/W2011917229; 
+Potential aliases: Modal'X; Modélisation aléatoire de Paris X
+Summary: The MODAL'X organization produces research in various areas including functional inequalities, randomized modeling, statistics, and risk analysis, among others, and will host a thematic semester on non-stationarity and cyclostationarity in 2023.
+
+---
+adambuttrick
+04/27/2023, 22:10:12 | 04/27/2023, 22:10:12
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1688798163,3185,https://github.com/ror-community/ror-updates/issues/3185,open,level 2; update record; jaguar,2023-04-28 16:02:02,2023-04-28 17:37:03,"Modify the information in an existing ROR record: 
+Kavli Foundation https://ror.org/00kztt736
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Kavli Foundation
+ROR ID: https://ror.org/00kztt736
+Which part of the record needs to be changed? Primary name
+Description of change: The official name of our organization is The Kavli Foundation, not just Kavli Foundation.
+
+Update: change.name==The Kavli Foundation; add.aliases==Kavli Foundation;$","ror-curator-bot
+04/28/2023, 17:10:52 | 04/28/2023, 17:10:52
+comment_text: Update: change.name==The Kavli Foundation;$
+
+---
+adambuttrick
+04/28/2023, 17:36:49 | 04/28/2023, 17:36:49
+comment_text: Name change corresponds to organization's website and branding.
+
+---
+"
+Ready for sign-off ,1688798152,3184,https://github.com/ror-community/ror-updates/issues/3184,open,level 2; update record; jaguar,2023-04-28 16:02:02,2023-04-28 18:46:42,"Modify the information in an existing ROR record: 
+Maison des Sciences de l'Homme Mondes https://ror.org/00wx1mx58
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Maison des Sciences de l'Homme Mondes
+ROR ID: https://ror.org/00wx1mx58
+Which part of the record needs to be changed? Other IDs for the organization, Something else
+Description of change: Other ID : ISNI https://isni.org/isni/0000000419371434
+Also we would like to add the parents organization : 
+https://ror.org/013bkhk48    Université Paris Nanterre
+https://ror.org/02feahw73    French National Centre for Scientific Research
+https://ror.org/002t25c44    Pantheon Sorbonne university
+Thanks,
+Regards
+
+Update: add.ISNI==0000 0004 1937 1434;$
+
+Related organizations: https://ror.org/013bkhk48 (parent) https://ror.org/02feahw73 (parent) https://ror.org/002t25c44 (parent)","ror-curator-bot
+04/28/2023, 17:11:19 | 04/28/2023, 17:11:19
+comment_text: Update: add.ISNI==0000000419371434;$
+
+---
+adambuttrick
+04/28/2023, 17:39:32 | 04/28/2023, 17:39:32
+comment_text: ISNI and parents are correctly identified.
+
+---
+"
+Ready for sign-off ,1688778740,3183,https://github.com/ror-community/ror-updates/issues/3183,open,level 2; update record; jaguar,2023-04-28 15:47:34,2023-04-28 17:44:50,"Add a new organization to ROR: 
+ 
+Etudes romanes","Summary of request: Add a new organization to ROR
+
+Name of organization: Etudes romanes
+Website: https://etudesromanes.parisnanterre.fr
+Link to publications: https://hal.parisnanterre.fr/EA369/
+Organization type: Facility (A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area)
+Wikipedia page: 
+Wikidata ID: Q51784050
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Romance Studies
+Labels:
+Acronym/abbreviation:
+Related organizations: https://ror.org/013bkhk48 (parent)
+City: Nanterre
+Country: France
+Geonames ID: 2990970
+Year established: 1992
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/28/2023, 17:03:48 | 04/28/2023, 17:03:48
+comment_text: Publication affiliation usage: https://doi.org/10.15581/008.38.2.537-53; https://openalex.org/W3134546905; https://openalex.org/W3120147798; https://doi.org/10.3989/chdj.2014.019; https://doi.org/10.1017/s1366728913000539; https://doi.org/10.1080/01434632.2013.868901; https://doi.org/10.1016/s0378-2166(96)00086-0; https://doi.org/10.1080/09571730802389975; https://doi.org/10.1080/13569329909361954; https://doi.org/10.1080/13569329909361962; https://doi.org/10.1016/j.langsci.2009.07.001; https://openalex.org/W604029969; https://doi.org/10.1075/z.56.26got; https://doi.org/10.1016/j.pragma.2016.04.014; https://doi.org/10.1080/21674736.2017.1335948; https://doi.org/10.1111/j.1745-6606.1989.tb00237.x; https://doi.org/10.1080/13556509.2014.899096; https://doi.org/10.1016/j.lingua.2015.10.010; https://doi.org/10.1080/02723638.2018.1446586; https://doi.org/10.1016/j.imavis.2014.02.009; https://doi.org/10.1016/j.langsci.2009.07.001; https://doi.org/10.1016/s0140-6736(09)61775-x; https://doi.org/10.1017/s0261444810000418; 
+Potential aliases: Etudes romanes; Romance studies; Department of Romance Studies
+
+---
+adambuttrick
+04/28/2023, 17:44:29 | 04/28/2023, 17:44:29
+comment_text: French research unit that would be added as part of RNSR reconciliation. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1688593797,3182,https://github.com/ror-community/ror-updates/issues/3182,open,level 2; update record; jaguar,2023-04-28 13:48:00,2023-04-28 17:48:17,"Add a new organization to ROR: 
+ 
+Institut Teknologi Garut","Summary of request: Add a new organization to ROR
+
+Name of organization: Institut Teknologi Garut
+Website: https://www.itg.ac.id
+Link to publications: https://ieeexplore.ieee.org/author/37088261774
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://id.m.wikipedia.org/wiki/Institut_Teknologi_Garut
+Wikidata ID: Q109913906
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels: Garut Institute of Technology*English
+Acronym/abbreviation: ITG
+Related organizations: 
+City: Garut
+Country: Indonesia
+Geonames ID: 1644409
+Year established: 1990
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: I am a faculty member of the Garut Institute of Technology, with the position of Head of the department appointed as the official representative submitting this registration/application for processing, for further confirmation can be via email dede.kurniadi@itg.ac.id.  Thank you for your help, Warm greetings from us.","ror-curator-bot
+04/28/2023, 17:04:19 | 04/28/2023, 17:04:19
+comment_text: Publication affiliation usage: https://doi.org/10.1109/icitech50181.2021.9590181; https://doi.org/10.23887/janapati.v10i3.40869; https://doi.org/10.33364/algoritma/v.18-1.954; https://doi.org/10.28932/sentekmi2021.v1i1.42; https://doi.org/10.1109/icoris52787.2021.9649513; https://doi.org/10.1109/iciss55894.2022.9915193; 
+Potential aliases: Institut Teknologi Garut; Garut Institute of Technology
+
+---
+adambuttrick
+04/28/2023, 17:48:10 | 04/28/2023, 17:48:10
+comment_text: University in Indonesia. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1688546723,3181,https://github.com/ror-community/ror-updates/issues/3181,open,level 2; update record; jaguar,2023-04-28 13:18:16,2023-04-28 17:56:06,"Modify the information in an existing ROR record: 
+Zaporizhzhya National Technical University https://ror.org/03aph1990
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Zaporizhzhya National Technical University
+ROR ID: https://ror.org/03aph1990
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record, Organization website
+Description of change: Good afternoon!
+By order of the Ministry of Education and Science of Ukraine, our university was renamed in 2019.
+
+The previous name was ""Zaporizhzhya National Technical University"" and the website was http://www.zntu.edu.ua/
+
+The new name of the university now sounds like ""National University Zaporizhzhia Polytechnic"" and the website domain is now https://zp.edu.ua/
+
+Please update the information of the record https://ror.org/03aph1990 in accordance with the new name of the university and set the field OTHER NAMES as:
+NU Zaporizhzhia Polytechnic, NU ZP, Zaporizhzhya National Technical University, ZNTU, Zaporoski Narodowy Uniwersytet Techniczny, Запорожский национальный технический университет, Запорізький національний технічний університет
+
+Update: change.name==National University Zaporizhzhia Polytechnic; add.aliases==Zaporizhzhya National Technical University; add.aliases==NU Zaporizhzhia Polytechnic; add.acronyms==NU ZP; replace.labels==Національний університет «Запорізька політехніка»*Ukrainian; add.aliases==Zaporoski Narodowy Uniwersytet Techniczny; add.aliases==Запорожский национальный технический университет; add.aliases==Запорізький національний технічний університет; replace.links==https://zp.edu.ua;$
+","ror-curator-bot
+04/28/2023, 17:11:07 | 04/28/2023, 17:11:07
+comment_text: Update: change.name==National University Zaporizhzhia Polytechnic replace.links==https://zp.edu.ua/ add.aliases==NU Zaporizhzhia Polytechnic add.aliases==NU ZP add.aliases==Zaporizhzhya National Technical University add.aliases==ZNTU add.aliases==Zaporoski Narodowy Uniwersytet Techniczny add.aliases==Запорожский национальный технический университет add.aliases==Запорізький національний технічний університет;$
+
+---
+adambuttrick
+04/28/2023, 17:55:54 | 04/28/2023, 17:55:54
+comment_text: Name change corresponds to organization's website and branding.
+
+---
+"
+Ready for sign-off ,1688332896,3178,https://github.com/ror-community/ror-updates/issues/3178,open,level 2; update record; jaguar,2023-04-28 10:44:11,2023-04-28 18:08:05,"Modify the information in an existing ROR record: 
+Fachhochschule Bielefeld https://ror.org/00edvg943
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Fachhochschule Bielefeld
+ROR ID: https://ror.org/00edvg943
+Which part of the record needs to be changed? Primary name, Organization website
+Description of change: Hochschule Bielefeld https://www.hsbi.de/ 
+
+Update: change.name==Hochschule Bielefeld; add.aliases==Fachhochschule Bielefeld; replace.links==https://www.hsbi.de;$
+","ror-curator-bot
+04/28/2023, 17:11:12 | 04/28/2023, 17:11:12
+comment_text: Update: change.name==Hochschule Bielefeld;$
+
+---
+adambuttrick
+04/28/2023, 18:07:56 | 04/28/2023, 18:07:56
+comment_text: Name change corresponds to the organization's website and branding. Current link in ROR redirects to the provided.
+
+---
+"
+Ready for sign-off ,1688312887,3177,https://github.com/ror-community/ror-updates/issues/3177,open,level 1; new record; jaguar,2023-04-28 10:28:54,2023-04-28 18:13:50,"Add a new organization to ROR: 
+ 
+Ministry of Treasury and Finance","Summary of request: Add a new organization to ROR
+
+Name of organization: Ministry of Treasury and Finance
+Website: https://en.hmb.gov.tr
+Link to publications: 10.21098/JIMF.V7I2.1323;  10.46557/001C.17496
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://en.wikipedia.org/wiki/Ministry_of_Treasury_and_Finance
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Republic of Turkey Ministry of Treasury and Finance; Republic of Turkey Undersecretariat of Treasury; T.C. Hazine ve Maliye Bakanligi; TC Başbakanlık Hazine Müsteşarlığı; TC Hazine ve Maliye Bakanlığı Emek Yerleşkesi; TR Ministry of Treasury and Finance; Turkish Treasury; Türkiye Cumhuriyeti Hazine ve Maliye Bakanlığı
+Labels: T.C. Hazine ve Maliye Bakanlığı*Turkish
+Acronym/abbreviation: HMB
+Related organizations: 
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 1923
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: Member of tubitak consortium","ror-curator-bot
+04/28/2023, 17:09:00 | 04/28/2023, 17:09:00
+comment_text: Publication affiliation usage: https://doi.org/10.46557/001c.17496; https://doi.org/10.1016/j.renene.2021.12.136; https://doi.org/10.1177/0974910119874632; https://doi.org/10.37741/t.70.1.2; https://doi.org/10.1002/sd.1921; https://doi.org/10.1016/j.bir.2019.12.001; https://doi.org/10.1016/j.eswa.2019.03.041; https://doi.org/10.22201/fe.01851667p.2019.308.69626; https://doi.org/10.37741/t.70.1.2; https://doi.org/10.1002/sd.1921; https://doi.org/10.1057/s41287-016-0013-z; https://doi.org/10.1142/s0217590815500071; https://doi.org/10.2753/ree1540-496x4905s514; https://doi.org/10.1016/j.rser.2015.07.118; https://doi.org/10.22201/fe.01851667p.2018.303.64158; https://doi.org/10.1016/j.cbrev.2017.02.003; https://doi.org/10.1016/j.econmod.2016.05.006; https://doi.org/10.1016/j.ecolind.2016.03.027; https://doi.org/10.1016/j.rfe.2016.06.001; https://doi.org/10.31202/ecjse.1077061; 
+Potential aliases: Ministry of Treasury and Finance; Republic of Turkey Ministry of Treasury and Finance; Turkish Treasury; Türkiye Cumhuriyeti Hazine ve Maliye Bakanlığı
+
+---
+adambuttrick
+04/28/2023, 18:13:16 | 04/28/2023, 18:13:16
+comment_text: Turkish state ministry and part of #3135. Funds and employs researchers. Solid affiliation usage. Can be added.
+
+---
+"
+Ready for sign-off ,1688289857,3176,https://github.com/ror-community/ror-updates/issues/3176,open,level 1; new record; jaguar,2023-04-28 10:13:20,2023-04-28 18:19:29,"Add a new organization to ROR: 
+ 
+Kutahya Saglik Bilimleri Universitesi","Summary of request: Add a new organization to ROR
+
+Name of organization: Kutahya Saglik Bilimleri Universitesi
+Website: https://www.ksbu.edu.tr
+Link to publications: 10.5080/u23441; 10.5152/kd.2019.33; 10.5505/kpd.2019.14622
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://tr.wikipedia.org/wiki/K%C3%BCtahya_Sa%C4%9Fl%C4%B1k_Bilimleri_%C3%9Cniversitesi
+Wikidata ID: Q52236454
+ISNI ID: 0000 0004 7832 1680
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels: Kütahya Health Sciences University*English
+Acronym/abbreviation: KSB
+Related organizations: 
+City: Kutahya
+Country: Turkey
+Geonames ID: 305268
+Year established: 2018
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: Part of Tubitak consortium","ror-curator-bot
+04/28/2023, 17:05:29 | 04/28/2023, 17:05:29
+comment_text: Publication affiliation usage: https://doi.org/10.4012/dmj.2019-098; https://doi.org/10.1016/j.physletb.2020.135960; https://doi.org/10.1007/s11255-018-2053-0; https://doi.org/10.1007/s00011-019-01263-7; https://doi.org/10.1002/ca.23539; https://doi.org/10.15295/bmij.v7i4.1179; https://openalex.org/W2980613583; https://openalex.org/W2984113115; https://openalex.org/W2985298714; https://doi.org/10.1080/08941939.2020.1725188; https://doi.org/10.26453/otjhs.1064737; 
+Potential aliases: Kutahya Health Sciences University; Kütahya Sağlık Bilimleri Üniversitesi
+
+---
+adambuttrick
+04/28/2023, 18:17:46 | 04/28/2023, 18:19:24
+comment_text: University in Turkey. Related to #3135. Funds and employs researchers. Solid affiliation usage. Can be added.
+
+---
+"
+Ready for sign-off ,1688289829,3175,https://github.com/ror-community/ror-updates/issues/3175,open,level 1; new record; jaguar,2023-04-28 10:13:19,2023-04-28 18:33:17,"Add a new organization to ROR: 
+ 
+Cyprus Science University","Summary of request: Add a new organization to ROR
+
+Name of organization: Kıbrıs İlim Üniversitesi 
+Website: https://www.csu.edu.tr
+Link to publications: 10.9779/pauefd.1031456;  10.1080/19338244.2021.2002796; 
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://en.wikipedia.org/wiki/Cyprus_Science_University
+Wikidata ID: Q28220028
+ISNI ID: 0000 0004 4675 5724
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Kibris Ilim Universitesi; British University of Nicosia;  Lefkoşa İngiliz Üniversitesi; Lefkosa Ingiliz Universitesi
+Labels: Cyprus Science University*English
+Acronym/abbreviation: CSU; KIU
+Related organizations: 
+City: Girne
+Country: Cyprus
+Geonames ID: 146412
+Year established: 2013
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: Part of Tubitak consortium","ror-curator-bot
+04/28/2023, 17:06:06 | 04/28/2023, 17:06:06
+comment_text: Publication affiliation usage: https://doi.org/10.1016/j.apcatb.2018.10.050; https://doi.org/10.1016/j.jtice.2017.12.013; https://doi.org/10.1016/j.jwpe.2017.01.003; https://doi.org/10.1016/j.psep.2018.03.011; https://doi.org/10.1007/s10311-018-0781-0; https://doi.org/10.1016/j.jenvman.2017.12.030; https://doi.org/10.2166/wst.2017.209; https://doi.org/10.1080/19338244.2021.2002796; https://doi.org/10.1109/icabme.2015.7323241; https://doi.org/10.1080/09720073.2016.11891919; https://doi.org/10.3233/jad-151176; https://doi.org/10.1016/j.jbusres.2015.11.015; https://doi.org/10.1007/s10489-015-0753-z; https://doi.org/10.1109/icabme.2015.7323305; https://doi.org/10.1126/science.1132661; https://doi.org/10.1016/s0022-3115(02)01175-3; https://doi.org/10.1110/ps.0350503; https://doi.org/10.1016/j.memsci.2020.118190; https://doi.org/10.1007/s40299-013-0149-y; https://doi.org/10.1016/j.biortech.2017.09.124; https://doi.org/10.1016/j.memsci.2021.119088; https://doi.org/10.1021/acsami.9b15435; https://doi.org/10.1016/j.socscimed.2018.11.034; https://doi.org/10.1002/uog.23635; https://doi.org/10.1186/s12888-017-1566-x; 
+Potential aliases: Cyprus Science University; Kibris Ilim Universitesi; British University of Nicosia; CSU; KIU
+
+---
+adambuttrick
+04/28/2023, 18:25:16 | 04/28/2023, 18:25:16
+comment_text: University in Turkey. Related to #3135. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1688266301,3174,https://github.com/ror-community/ror-updates/issues/3174,open,level 1; new record; jaguar,2023-04-28 09:58:29,2023-04-28 18:28:52,"Add a new organization to ROR: 
+ 
+Alanya Alaaddin Keykubat Üniversitesi","Summary of request: Add a new organization to ROR
+
+Name of organization: Alanya Alaaddin Keykubat Üniversitesi
+Website: https://www.alanya.edu.tr
+Link to publications: 10.1002/pc.26822; 10.1016/j.ijhydene.2018.09.100
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://tr.wikipedia.org/wiki/Alanya_Alaaddin_Keykubat_%C3%9Cniversitesi
+Wikidata ID: Q21523975
+ISNI ID: 0000 0004 5896 2261
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Alanya Alaaddin Keykubat Universitesi
+Labels: Alanya Alaaddin Keykubat University*English
+Acronym/abbreviation: ALKU
+Related organizations: 
+City: Alanya
+Country: Turkey
+Geonames ID: 324190
+Year established: 2015
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: Part of Tubitak","ror-curator-bot
+04/28/2023, 17:06:39 | 04/28/2023, 17:06:39
+comment_text: Publication affiliation usage: https://doi.org/10.1007/s10902-018-9984-0; https://doi.org/10.19128/turje.70576; https://doi.org/10.1109/ubmk.2017.8093587; https://doi.org/10.15390/eb.2019.8100; https://doi.org/10.1109/siu.2018.8404636; https://doi.org/10.12739/nwsa.2016.11.1.1c0650; https://doi.org/10.30565/medalanya.557393; https://doi.org/10.17341/gazimmfd.406776; https://doi.org/10.15390/eb.2019.8150; https://doi.org/10.37741/t.69.2.1; https://doi.org/10.1016/j.jhlste.2020.100265; https://doi.org/10.54055/ejtr.v28i.1946; https://doi.org/10.1016/j.proeng.2017.07.192; https://doi.org/10.2174/9789815049367123010015; https://doi.org/10.31803/tg-20200103131032; https://doi.org/10.1016/j.proeng.2017.08.044; https://doi.org/10.14744/anatoljcardiol.2020.54058; https://doi.org/10.1038/s41598-021-92447-x; https://doi.org/10.29271/jcpsp.2022.03.324; https://doi.org/10.2174/1871520617666171121120223; https://doi.org/10.1515/cclm-2020-1659; https://doi.org/10.1111/ijcp.14241; 
+Potential aliases: Alanya Alaaddin Keykubat Üniversitesi; Alanya Aladdin Keykubat University; ALKU
+
+---
+adambuttrick
+04/28/2023, 18:28:49 | 04/28/2023, 18:28:49
+comment_text: University in Turkey. Related to #3135. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1688239875,3173,https://github.com/ror-community/ror-updates/issues/3173,open,level 1; new record; jaguar,2023-04-28 09:41:47,2023-04-28 18:33:07,"Add a new organization to ROR: 
+ 
+Maden Tetkik ve Arama Genel Mudurlugu","Summary of request: Add a new organization to ROR
+
+
+Name of organization: Maden Tetkik ve Arama Genel Müdürlüğü
+Website: https://www.mta.gov.tr
+Link to publications: 10.13130/2039-4942/5486; 10.1007/s12665-009-0388-7
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://tr.wikipedia.org/wiki/Maden_Tetkik_ve_Arama_Genel_M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC
+Wikidata ID: Q5531837
+ISNI ID: 0000 0001 0723 3534
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Maden Tetkik ve Arama Genel Mudurlugu; MTA Genel Mudurlugu
+Labels: General Directorate of Mineral Research and Exploration*English
+Acronym/abbreviation: MTA
+Related organizations: 
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 1935
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: Part of Tubitak consortium","ror-curator-bot
+04/28/2023, 17:09:36 | 04/28/2023, 17:09:36
+comment_text: Publication affiliation usage: https://doi.org/10.1661/0026-2803(2002)048[0177:ljhsrf]2.0.co;2; https://doi.org/10.1007/s002540100258; https://doi.org/10.1016/j.revmic.2004.01.004; https://openalex.org/W2605674543; https://doi.org/10.1016/0037-0738(94)00092-9; https://doi.org/10.21203/rs.3.rs-1023839/v1; https://doi.org/10.4154/gc.1998.03; https://doi.org/10.1016/j.crpv.2007.05.004; https://doi.org/10.1111/j.1469-185x.2011.00216.x; https://doi.org/10.1126/science.1101243; https://doi.org/10.1073/pnas.1500851112; https://doi.org/10.1093/nar/gky384; https://doi.org/10.1016/0377-0273(90)90018-b; https://doi.org/10.1016/j.cageo.2011.04.012; https://doi.org/10.1016/j.geomorph.2005.05.011; https://doi.org/10.1016/j.enggeo.2007.10.009; https://doi.org/10.1016/j.enggeo.2008.01.004; https://doi.org/10.1029/2004gc000896; https://doi.org/10.1016/j.geomorph.2006.10.036; https://doi.org/10.1046/j.1365-2478.1997.3220261.x; 
+Potential aliases: Maden Tetkik ve Arama Genel Mudurlugu; MTA; General Directorate of Mineral Research and Exploration; MTA Genel Mudurlugu
+
+---
+adambuttrick
+04/28/2023, 18:33:01 | 04/28/2023, 18:33:01
+comment_text: Turkish state agency. Related to #3135. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1688167723,3171,https://github.com/ror-community/ror-updates/issues/3171,open,level 2; update record; jaguar,2023-04-28 08:54:39,2023-04-28 18:44:10,"Modify the information in an existing ROR record: 
+Alzahra university hospital, Isfahan,Iran  https://ror.org/04waqzz56y
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Alzahra university hospital, Isfahan,Iran 
+ROR ID: https://ror.org/04mynmy44
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record, Organization website, Other IDs for the organization, Organization type
+Description of change: Organization identifiers
+
+Isfahan University of Medical Sciences: Isfahan, IR
+http://www.mui.ac.ir/
+Other organization identifiers provided by ROR
+FUNDREF: 501100003970
+GRID: grid.411036.1 (preferred)
+ISNI: 000000011498685X
+ORGREF: 3984826
+WIKIDATA: Q6079799
+WIKIPEDIA_URL: https://en.wikipedia.org/wiki/Isfahan_University_of_Medical_Sciences (preferred)
+URL
+http://mui.ac.ir
+
+Update: change.name==Alzahra Medical and Education Center; add.aliases==Alzahra University Hospital; add.aliases==Isfahan University of Medical Sciences, Alzahra Medical and Education Center; replace.links==https://alzahra.mui.ac.ir; add.Wikidata==Q30279685;$","adambuttrick
+04/28/2023, 18:43:58 | 04/28/2023, 18:43:58
+comment_text: Request is a bit perplexing, as it seems to want us to index the child organization with its parents identifiers. We wouldn't do that, but other metadata in the record is out of date, thus correcting.
+
+---
+"
+Ready for sign-off ,1688216663,3172,https://github.com/ror-community/ror-updates/issues/3172,open,level 1; new record; jaguar,2023-04-28 09:25:21,2023-04-28 21:00:06,"Add a new organization to ROR: 
+ 
+ELLIS Alicante","Summary of request: Add a new organization to ROR
+
+Name of organization: ELLIS Alicante
+Website: https://ellisalicante.org
+Link to publications: https://www.nature.com/articles/s41598-022-05041-0
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: https://es.wikipedia.org/wiki/Fundaci%C3%B3n_ELLIS_Alicante
+Wikidata ID: Q100324218
+ISNI ID: 0000 0005 1105 5178
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Fundación de la Comunitat Valenciana Unidad ELLIS Alicante; ELLIS Alicante Foundation
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: Alicante
+Country: Spain
+Geonames ID: 2521978
+Year established: 2020
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/28/2023, 17:07:11 | 04/28/2023, 17:07:11
+comment_text: Publication affiliation usage: https://openalex.org/W3022514883; https://doi.org/10.1007/s10676-020-09572-w; https://doi.org/10.24963/ijcai.2022/736; https://doi.org/10.1145/3503161.3549913; 
+Potential aliases: ELLIS Alicante
+
+---
+adambuttrick
+04/28/2023, 18:36:34 | 04/28/2023, 18:36:34
+comment_text: Research initiative focused on ethical AI in Spain. Funds and employs researchers. Solid affiliation usage. Can be added.
+
+---
+ssmulyan
+04/28/2023, 20:59:56 | 04/28/2023, 20:59:56
+comment_text: Agreed, they are in scope, with clear affiliation usage.  
+
+---
+"
+Ready for sign-off ,1687479701,3144,https://github.com/ror-community/ror-updates/issues/3144,open,level 1; new record; jaguar,2023-04-27 20:05:57,2023-04-28 21:06:19,"Add a new organization to ROR: 
+ 
+Universidad Tecnológica Emiliano Zapata del Estado de Morelos","Summary of request: Add a new organization to ROR
+
+Name of organization: Universidad Tecnológica Emiliano Zapata del Estado de Morelos
+Website: http://www.utez.edu.mx
+Link to publications: https://www.sciencedirect.com/science/article/abs/pii/S0144861722014199
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: https://es.wikipedia.org/wiki/Universidad_Tecnol%C3%B3gica_Emiliano_Zapata
+Wikidata ID: Q6156693
+ISNI ID: 0000 0004 177 08339
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Emiliano Zapata Technological University; Universidad Tecnológica Emiliano Zapata;
+Labels:
+Acronym/abbreviation: UTEZ
+Related organizations: 
+City: Emiliano Zapata, Morelos
+Country: México 
+Geonames ID: 8582377
+Year established: 2000
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 21:49:14 | 04/27/2023, 21:49:14
+comment_text: Publication affiliation usage: https://doi.org/10.1016/j.apsusc.2014.05.147; https://doi.org/10.4995/riai.2019.10452; https://doi.org/10.1109/tla.2015.7387254; https://doi.org/10.1016/j.tsf.2013.10.115; https://doi.org/10.1108/ijcst-08-2013-0084; https://doi.org/10.1016/j.polymer.2018.08.038; https://doi.org/10.1016/j.polymer.2019.01.024; https://doi.org/10.1109/tla.2015.7387254; https://doi.org/10.1016/j.eurpolymj.2017.01.041; https://doi.org/10.5006/1.3647765; https://doi.org/10.1016/j.porgcoat.2016.07.014; https://doi.org/10.3390/met12020279; https://doi.org/10.1109/access.2019.2924218; https://doi.org/10.15446/ing.investig.v35n1.44323; https://doi.org/10.3390/met13030502; https://doi.org/10.1109/tla.2019.8863304; https://doi.org/10.1109/access.2022.3155449; https://doi.org/10.3390/molecules26206169; 
+Potential aliases: Universidad Tecnológica Emiliano Zapata; UTEZ; Emiliano Zapata Technological University
+
+---
+adambuttrick
+04/27/2023, 22:08:07 | 04/27/2023, 22:08:07
+comment_text: University in Mexico. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+ssmulyan
+04/28/2023, 21:06:09 | 04/28/2023, 21:06:09
+comment_text: Agreed.  They are in scope, with clear affiliation usage. 
+
+---
+"
+Ready for sign-off ,1673674235,3006,https://github.com/ror-community/ror-updates/issues/3006,open,level 2; update record; jaguar,2023-04-18 18:55:28,2023-04-22 00:41:35,Modify the information in an existing ROR record: Escuela Superior de Administración y Dirección de Empresas https://ror.org/02d9gec76,"Summary of request: Modify the information in an existing ROR record
+
+Name of organization: Escuela Superior de Administración y Dirección de Empresas
+ROR ID: https://ror.org/02d9gec76
+Which part of the record needs to be changed? Status
+Description of change: As part of #2679, Science Media Center Germany has asked that we requested that we reactive this as a child of https://ror.org/04p9k2z50.
+
+Update: change.name==Esade; add.aliases==Esade Ramon Llull University; add.aliases==Escuela Superior de Administración y Dirección de Empresas; replace.links==https://www.esade.edu; change.status==active;$
+","adambuttrick
+04/18/2023, 18:59:04 | 04/18/2023, 19:01:01
+comment_text: Was formerly independent and than integrated into  https://ror.org/04p9k2z50 in 1995, per the organization's history page. I'm likewise seeing affiliation usage that does not reference the https://ror.org/04p9k2z50 and it appears to have its own research institutes (e.g. https://doi.org/10.1007/s13132-012-0084-9 https://doi.org/10.1007/s10551-008-9812-2). Likewise, has an ISNI and separate domain. One of those edge-cases where you could go either way, so would appreciate a Second Review.
+
+---
+ssmulyan
+04/22/2023, 00:31:12 | 04/22/2023, 00:31:12
+comment_text: https://ror.org/04y3yya25 seems to have the same relationship to https://ror.org/04p9k2z50 that Esade does
+
+https://ror.org/05fc8gj45 is also possibly related, just through their social work department
+
+
+
+---
+ssmulyan
+04/22/2023, 00:41:35 | 04/22/2023, 00:41:35
+comment_text: I can see how it could go either way, but my sense is that https://ror.org/02d9gec76 should be reactivated.  
+
+Esade has distinct campuses and distinct branding, indicating something like a parent-child relationship with Ramon Llull University. 
+
+Some of the affiliation usage is specifically ""ESADE business school"" 
+
+10.1080/10967494.2018.1495672
+10.5465/ambpp.2022.14989abstract
+10.4018/jbe.321556
+10.22215/timreview/603
+10.1080/03069400.2016.1272041
+10.5465/ambpp.2020.157
+
+
+---
+"
+Ready for sign-off ,1681719814,3107,https://github.com/ror-community/ror-updates/issues/3107,open,level 1; new record; jaguar,2023-04-24 17:20:54,2023-04-28 13:51:43,"Add a new organization to ROR: 
+ 
+United States Research Software Engineer Association","Summary of request: Add a new organization to ROR
+
+Name of organization: United States Research Software Engineer Association
+Website: https://us-rse.org
+Link to publications: https://doi.org/10.2172/1843576IEEE, 10.1109/BoKSS52540.2021.00016, 10.1109/MCSE.2023.3258630, https://doi.org/10.2172/1845242, 10.1109/MCSE.2023.3260211, 10.1109/MCSE.2023.3256759, https://arxiv.org/abs/2103.01880, https://doi.org/10.48550/arXiv.1902.08942, https://sinews.siam.org/Details-Page/us-rse-supporting-the-research-software-engineer, https://bssw.io/blog_posts/us-research-software-engineer-us-rse-association  
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: Q111283158
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: US-RSE
+Related organizations: 
+City: Oakland, CA
+Country: United States
+Geonames ID:
+Year established: 2018
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders
+
+Other information about this request: ","ror-curator-bot
+04/24/2023, 17:56:41 | 04/24/2023, 17:56:41
+comment_text: Summary: The US Research Software Engineer Association (US-RSE) is a community-driven organization that connects and supports individuals who write and contribute to research software within the US, advocating for its importance and striving to improve diversity within the profession, while also providing a job board and working groups.
+
+---
+adambuttrick
+04/24/2023, 18:05:23 | 04/24/2023, 18:05:51
+comment_text: Non-profit/professional organization for software engineers. No affiliation usage I can find. All DOIs provided appear to be either be describing the organization or for individual members vs referencing the organization. They look to be hosting their first conference this year. I'm seeing some references to national laboratories in some of the DOI as well. @nlundvick is this something you've come across?
+
+---
+nlundvick
+04/28/2023, 13:51:17 | 04/28/2023, 13:51:17
+comment_text: Hi @adambuttrick - I am not familiar with this organization. That said, it's fairly new (est. ~2018). Multiple individuals from research universities and U.S. DOE labs are members of the association. They published their 2020 and 2021 annual meetings, albeit on YouTube (https://www.youtube.com/watch?v=mcl3QY1lBzY; https://www.youtube.com/watch?v=iKIbS16D8XU). ROR has a large amount of professional organizations in the registry. A couple of similar ones are https://ror.org/05cj88g33 and https://ror.org/00agrkd75. Considering this, and the fact that they will be conducting a conference in October 2023, I would consider this organization to be in scope. 
+
+---
+"
+Ready for sign-off ,1689172944,3186,https://github.com/ror-community/ror-updates/issues/3186,open,level 1; new record; jaguar,2023-04-28 21:58:20,2023-04-28 22:06:28,Add a new organization to ROR - Ada Kent Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Kıbrıs Ada Kent Üniversitesi
+Website: http://adakent.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/Ada_Kent_%C3%9Cniversitesi
+Wikidata ID: Q55650595
+ISNI ID: 0000 0004 7417 3510
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Kibris Ada Kent Üniversitesi; Ada Kent Üniversitesi; Ada Kent Universitesi; Ada Kent University
+Labels: 
+Acronym/abbreviation: 
+Related organizations:
+City: Famagusta
+Country: Northern Cyprus
+Geonames ID: 146617
+Year established: 2015
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 22:05:47 | 04/28/2023, 22:05:47
+comment_text: Publication affiliation usage: https://openalex.org/W4310583072; https://openalex.org/W4310583072; https://doi.org/10.47525/ulasbid.1176715; https://doi.org/10.1007/s10517-022-05543-x; https://doi.org/10.1111/aej.12618; 
+Potential aliases: Kibris Ada Kent Üniversitesi; Ada Kent Üniversitesi; Ada Kent University
+ORCID affiliation usage: https://orcid.org/0000-0002-6822-9261; https://orcid.org/0000-0003-0556-8255
+
+---
+adambuttrick
+04/28/2023, 22:06:25 | 04/28/2023, 22:06:25
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687673289,3148,https://github.com/ror-community/ror-updates/issues/3148,open,level 1; new record; jaguar,2023-04-27 23:20:15,2023-04-28 22:20:35,Add a new organization to ROR - Ankara Medipol Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Ankara Medipol Üniversitesi
+Website: https://ankaramedipol.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: 
+Wikidata ID: Q52162252
+ISNI ID: 0000 0004 8398 8316
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases: Ankara Medipol Universitesi
+Labels:Ankara Medipol University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:56:30 | 04/27/2023, 23:56:30
+comment_text: Wikidata Name: Ankara Medipol University
+Wikidata ID: Q52162252
+Wikidata name match ratio: 88
+wikipedia_url: https://commons.wikimedia.org/wiki/Category:Ankara_Medipol_University
+Established: 2018
+Admin territory name: Ankara
+Admin territory Geonames ID: 323786
+Country: Turkey
+links: https://ankaramedipol.edu.tr/
+ISNI: 0000 0004 8398 8316
+Publication affiliation usage: https://doi.org/10.1007/s00404-022-06590-5; https://doi.org/10.52880/sagakaderg.878436; https://openalex.org/W4225784138; https://openalex.org/W4310470046; https://openalex.org/W4298114657; https://openalex.org/W4221165485; https://doi.org/10.35365//ctjpp.22.2.04; https://doi.org/10.21020/husbfd.999794; https://doi.org/10.1007/s00404-022-06590-5; https://doi.org/10.52880/sagakaderg.878436; https://openalex.org/W4225784138; https://openalex.org/W4310470046; https://openalex.org/W4298114657; https://openalex.org/W4221165485; https://doi.org/10.35365//ctjpp.22.2.04; https://doi.org/10.21020/husbfd.999794; https://doi.org/10.1016/j.snb.2020.128787; https://doi.org/10.11613/bm.2021.010502; https://doi.org/10.1080/10408398.2019.1683810; https://doi.org/10.1016/j.foodres.2020.109269; https://doi.org/10.1016/j.tifs.2020.03.018; https://doi.org/10.1111/ijcp.13923; https://doi.org/10.1016/j.talanta.2021.122926; https://doi.org/10.1016/j.jff.2020.104281; https://doi.org/10.1016/j.tifs.2021.06.023; https://doi.org/10.21203/rs.3.rs-1572871/v1; 
+Potential aliases: Ankara Medipol University; Ankara Medipol Universitesi
+ORCID affiliation usage: https://orcid.org/0000-0003-0364-0401; https://orcid.org/0000-0002-9431-243X; https://orcid.org/0000-0003-0001-2258
+
+---
+adambuttrick
+04/28/2023, 22:20:35 | 04/28/2023, 22:20:35
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687676416,3149,https://github.com/ror-community/ror-updates/issues/3149,open,level 1; new record; jaguar,2023-04-27 23:25:38,2023-04-28 22:22:41,Add a new organization to ROR - Ankara Müzik ve Güzel Sanatlar Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Ankara Müzik ve Güzel Sanatlar Üniversitesi
+Website: http://mgu.edu.tr
+Link to publications:
+Organization type:
+Wikipedia page: 
+Wikidata ID: Q30312585
+ISNI ID: 0000 0004 6866 2123
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Ankara Muzik ve Guzel Sanatlar Universitesi
+Labels:Ankara University of Music and Fine Arts*English
+Acronym/abbreviation: MGÜ; MGU
+Related organizations:
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 2017
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 00:02:29 | 04/28/2023, 00:02:29
+comment_text: ISNI: 0000 0004 6866 2123
+Publication affiliation usage: https://openalex.org/W4297955386; https://openalex.org/W4287900776; https://openalex.org/W4297742108; https://openalex.org/W4321851477; https://openalex.org/W4289085379; https://doi.org/10.12975/pp1874-1889; https://openalex.org/W4287811103; https://doi.org/10.1177/02557614211005907; https://doi.org/10.12975/pp1853-1873; https://doi.org/10.33171/dtcfjournal.2019.59.1.33; https://openalex.org/W4297955386; https://openalex.org/W4287900776; https://openalex.org/W4297742108; https://openalex.org/W4321851477; https://openalex.org/W4289085379; https://doi.org/10.12975/pp1874-1889; https://openalex.org/W4287811103; https://doi.org/10.1177/02557614211005907; https://doi.org/10.12975/pp1853-1873; https://doi.org/10.33171/dtcfjournal.2019.59.1.33; 
+Potential aliases: 
+ORCID affiliation usage: https://orcid.org/0000-0002-3281-5242; https://orcid.org/0000-0001-7978-5709; https://orcid.org/0000-0002-6010-5766
+
+---
+adambuttrick
+04/28/2023, 22:22:41 | 04/28/2023, 22:22:41
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687677306,3150,https://github.com/ror-community/ror-updates/issues/3150,open,level 1; new record; jaguar,2023-04-27 23:27:19,2023-04-28 22:25:13,Add a new organization to ROR - Ankara Bilim Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Ankara Bilim Üniversitesi
+Website: https://www.ankarabilim.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/Ankara_Bilim_%C3%9Cniversitesi
+Wikidata ID: Q97204373
+ISNI ID: 0000 0004 9171 3611
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Ankara Bilim Universitesi
+Labels:Ankara Science University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Yenimahalle
+Country: Turkey
+Geonames ID: 296954
+Year established: 2020
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:55:54 | 04/27/2023, 23:55:54
+comment_text: ISNI: 0000 0004 9171 3611
+Publication affiliation usage: https://openalex.org/W4287551353; https://openalex.org/W4287252525; https://openalex.org/W4297662972; https://openalex.org/W4292451362; https://openalex.org/W4322486141; https://openalex.org/W4287073484; https://openalex.org/W4287073453; https://doi.org/10.20935/al2704; https://openalex.org/W4292440110; https://doi.org/10.21203/rs.3.rs-268443/v1; https://openalex.org/W4287551353; https://openalex.org/W4287252525; https://openalex.org/W4297662972; https://openalex.org/W4292451362; https://openalex.org/W4322486141; https://openalex.org/W4287073484; https://openalex.org/W4287073453; https://doi.org/10.20935/al2704; https://openalex.org/W4292440110; https://doi.org/10.21203/rs.3.rs-268443/v1; https://openalex.org/W4310435291; https://doi.org/10.1177/25148486211022451; https://doi.org/10.21203/rs.3.rs-268443/v1; https://openalex.org/W4289101690; https://doi.org/10.1016/j.engappai.2021.104282; https://doi.org/10.1016/j.patter.2022.100482; https://doi.org/10.1016/j.knosys.2021.107219; https://doi.org/10.1016/j.cresp.2021.100028; https://doi.org/10.1016/j.ijhydene.2021.02.010; https://doi.org/10.1080/10410236.2021.2018179; https://doi.org/10.1038/s41598-021-04703-9; https://doi.org/10.1016/j.cie.2021.107912; 
+Potential aliases: Ankara Bilim Universitesi; Ankara Science University
+ORCID affiliation usage: https://orcid.org/0000-0003-2480-8437; https://orcid.org/0000-0001-7670-722X; https://orcid.org/0000-0002-3781-4951
+
+---
+adambuttrick
+04/28/2023, 22:25:12 | 04/28/2023, 22:25:12
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1689217945,3187,https://github.com/ror-community/ror-updates/issues/3187,open,level 1; new record; jaguar,2023-04-28 22:33:10,2023-05-02 18:14:04,Add a new organization to ROR: Arkın Yaratıcı Sanatlar ve Tasarım Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Arkın Yaratıcı Sanatlar ve Tasarım Üniversitesi
+Website: https://arucad.edu.tr
+Link to publications: 
+Organization type: Education
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0004 9242 2744
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Aliases: Arkin Yaratici Sanatlar ve Tasarim Universitesi
+Labels: Arkin University of Creative Arts and Design*English
+Acronym/abbreviation: ARUCAD
+Related organizations: 
+City: Girne
+Country: Cyprus
+Geonames ID: 146412
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135 
+","ror-curator-bot
+04/28/2023, 22:33:57 | 04/28/2023, 22:33:57
+comment_text: ISNI: 0000 0004 9242 2744
+Publication affiliation usage: https://doi.org/10.34189/hbv.97.003; https://doi.org/10.34189/hbv.97.003; https://doi.org/10.1016/j.uclim.2021.100958; https://doi.org/10.1016/b978-0-12-811749-1.00011-0; https://doi.org/10.1016/j.buildenv.2021.108013; https://doi.org/10.1016/j.enbuild.2021.111281; https://doi.org/10.1016/j.energy.2021.122904; https://doi.org/10.1007/s11356-021-13452-1; https://doi.org/10.1016/j.ijhm.2020.102829; https://doi.org/10.1016/j.rser.2022.112507; https://doi.org/10.1016/j.solener.2021.07.008; https://doi.org/10.2139/ssrn.3870970; https://doi.org/10.3390/su14074065; https://doi.org/10.1016/j.buildenv.2021.108013; https://doi.org/10.1016/j.enbuild.2021.111281; https://doi.org/10.1016/j.energy.2021.122904; https://doi.org/10.21203/rs.3.rs-281262/v1; https://doi.org/10.1016/j.esd.2021.08.001; https://doi.org/10.7596/taksad.v6i6.1284; https://doi.org/10.1016/j.rser.2022.112507; https://doi.org/10.1016/j.solener.2021.07.008; 
+Potential aliases: Arkin University of Creative Arts and Design; ARUCAD
+ORCID affiliation usage: https://orcid.org/0000-0002-1351-6394; https://orcid.org/0000-0003-4970-7632
+Previous requests: https://github.com/ror-community/ror-updates/issues/3187
+
+---
+adambuttrick
+04/28/2023, 22:34:36 | 04/28/2023, 22:34:36
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687678788,3152,https://github.com/ror-community/ror-updates/issues/3152,open,level 1; new record; jaguar,2023-04-27 23:30:01,2023-04-28 22:36:18,Add a new organization to ROR - Atlas Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Atlas Üniversitesi
+Website: http://www.atlas.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://en.wikipedia.org/wiki/Atlas_University
+Wikidata ID: Q52162250
+ISNI ID: 0000 0004 7863 4273 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Atlas Universitesi; Istanbul Atlas Universitesi
+Labels: Atlas University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Istanbul
+Country: Turkey
+Geonames ID: 745044
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:54:46 | 04/27/2023, 23:54:46
+comment_text: Publication affiliation usage: https://openalex.org/W4312128278; https://openalex.org/W4287642340; https://openalex.org/W4291247834; https://openalex.org/W4297962206; https://openalex.org/W4226073403; https://doi.org/10.21020/husbfd.969150; https://openalex.org/W4286974665; https://openalex.org/W4287702072; https://openalex.org/W4307019469; https://doi.org/10.33308/2687248x.202131205; https://openalex.org/W4312128278; https://openalex.org/W4287642340; https://openalex.org/W4291247834; https://openalex.org/W4297962206; https://openalex.org/W4226073403; https://doi.org/10.21020/husbfd.969150; https://openalex.org/W4286974665; https://openalex.org/W4287702072; https://openalex.org/W4307019469; https://doi.org/10.33308/2687248x.202131205; https://doi.org/10.1155/2018/9759240; https://doi.org/10.1016/j.jep.2011.02.029; https://doi.org/10.3390/molecules16097672; https://doi.org/10.1002/hep.31215; https://doi.org/10.3390/molecules21091208; https://doi.org/10.21203/rs.3.rs-1572871/v1; 
+Potential aliases: Atlas University; Atlas Üniversitesi Istanbul
+ORCID affiliation usage: https://orcid.org/0000-0001-7505-9953; https://orcid.org/0000-0003-0700-5317; https://orcid.org/0000-0002-7138-2603
+
+---
+adambuttrick
+04/28/2023, 22:36:18 | 04/28/2023, 22:36:18
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687679995,3153,https://github.com/ror-community/ror-updates/issues/3153,open,level 1; new record; jaguar,2023-04-27 23:32:02,2023-04-28 22:42:18,Add a new organization to ROR - Bahçeşehir Cyprus University,"Summary of request: Add a new organization to ROR
+
+Name of organization: Bahçeşehir Cyprus University
+Website: http://baucyprus.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: 
+Wikidata ID: Q55669420
+ISNI ID: 0000 0004 7145 1183
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Bahcesehir Cyprus University; Cyprus Bahcesehir University; Bahçeşehir Kıbrıs Üniversitesi; BAU Cyprus; BAU Kıbrıs
+Labels: 
+Acronym/abbreviation: BAU
+Related organizations:
+City: Nicosia
+Country: Northern Cyprus
+Geonames ID: 146268
+Year established: 2017
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:54:12 | 04/27/2023, 23:54:12
+comment_text: Wikidata Name: Bahçeşehir Cyprus University
+Wikidata ID: Q55669420
+Wikidata name match ratio: 100
+Established: 2017
+Country: Northern Cyprus
+links: http://baucyprus.edu.tr/
+ISNI: 0000 0004 7145 1183
+Publication affiliation usage: https://doi.org/10.1108/bjm-08-2021-0306; https://doi.org/10.4018/978-1-7998-4330-6.ch009; https://doi.org/10.1016/j.ijinfomgt.2019.02.006; https://doi.org/10.1080/09669582.2021.1887878; https://doi.org/10.1016/j.asr.2022.05.017; https://doi.org/10.1080/14683849.2022.2060082; https://doi.org/10.1016/j.rser.2021.111152; https://doi.org/10.1016/j.heliyon.2021.e06181; https://doi.org/10.1080/10286608.2019.1702030; https://doi.org/10.3389/fpsyg.2020.575491; https://doi.org/10.15678/ier.2021.0704.02; https://doi.org/10.30915/abd.1145674; https://openalex.org/W2945402435; https://doi.org/10.1080/14330237.2010.10820399; https://doi.org/10.5812/ircmj.14872; 
+Potential aliases: Bahçeşehir Kıbrıs Üniversitesi; Bahçeşehir University Cyprus; Bau Cyprus; Cyprus Bahcesehir University
+ORCID affiliation usage: https://orcid.org/0000-0002-1113-6822; https://orcid.org/0000-0001-8875-4939; https://orcid.org/0000-0002-6885-8105
+
+---
+adambuttrick
+04/28/2023, 22:42:18 | 04/28/2023, 22:42:18
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687683092,3154,https://github.com/ror-community/ror-updates/issues/3154,open,level 1; new record; jaguar,2023-04-27 23:37:39,2023-04-28 22:50:12,Add a new organization to ROR - Kıbrıs Sağlık ve Toplum Bilimleri Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Kıbrıs Sağlık ve Toplum Bilimleri Üniversitesi
+Website: http://www.kstu.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: 
+Wikidata ID: Q31191606
+ISNI ID: 0000 0004 6338 6895
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Kibris Saglik ve Toplum Bilimleri Universitesi
+Labels: Cyprus Health and Social Sciences University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Güzelyurt District
+Country: Northern Cyprus
+Geonames ID: 304531
+Year established: 
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 00:01:56 | 04/28/2023, 00:01:56
+comment_text: ISNI: 0000 0004 6338 6895
+Publication affiliation usage: https://doi.org/10.55107/turksosbilder.1106924; https://doi.org/10.55107/turksosbilder.1106924; https://doi.org/10.1016/j.prosdent.2021.09.020; https://doi.org/10.1016/j.prosdent.2021.01.027; https://doi.org/10.1016/j.cmpb.2021.106046; https://doi.org/10.1519/jsc.0000000000002916; https://doi.org/10.2174/1570180819666220922103109; https://doi.org/10.1111/ger.12470; https://doi.org/10.1007/s11282-019-00390-5; https://doi.org/10.1111/jerd.12496; https://doi.org/10.3233/bmr-181362; https://doi.org/10.1515/tjb-2018-43s438; 
+Potential aliases: Cyprus Health and Social Sciences University
+ORCID affiliation usage: https://orcid.org/0000-0001-6661-2550; https://orcid.org/0000-0003-4217-5899; https://orcid.org/0000-0002-9556-4305
+
+---
+adambuttrick
+04/28/2023, 22:50:12 | 04/28/2023, 22:50:12
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687683481,3155,https://github.com/ror-community/ror-updates/issues/3155,open,level 1; new record; jaguar,2023-04-27 23:38:22,2023-04-28 22:59:04,Add a new organization to ROR - Kıbrıs Sosyal Bilimler Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: ASBU Kuzey Kibris Yerleşkesi̇
+Website: https://kktc.asbu.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_Sosyal_Bilimler_%C3%9Cniversitesi
+Wikidata ID: Q55627945
+ISNI ID: 0000 0004 5930 5052
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: ASBU Kuzey Kibris Yerleskesi; ASBU North Cyprus Campus; Kibris Sosyal Bilimler Universitesi; Cyprus Social Sciences University
+Labels: 
+Acronym/abbreviation: ABSU KKTC
+Related organizations:
+City: Nicosia
+Country: Northern Cyprus
+Geonames ID: 146268
+Year established: 
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:53:37 | 04/27/2023, 23:53:37
+comment_text: ISNI: 0000 0004 5930 5052
+Publication affiliation usage: https://openalex.org/W4297493114; https://openalex.org/W3216019564; https://doi.org/10.33308/26674874.2019331104; https://doi.org/10.26677/tr1010.2020.393; https://doi.org/10.26677/tr1010.2020.314; https://doi.org/10.16947/fsmia.323370; https://doi.org/10.26677/tr1010.2020.585; https://openalex.org/W4287993793; https://openalex.org/W4297493114; https://openalex.org/W3216019564; https://doi.org/10.33308/26674874.2019331104; https://doi.org/10.26677/tr1010.2020.393; https://doi.org/10.26677/tr1010.2020.314; https://doi.org/10.16947/fsmia.323370; https://doi.org/10.26677/tr1010.2020.585; https://openalex.org/W4287993793; 
+Potential aliases: 
+ORCID affiliation usage: https://orcid.org/0000-0002-7661-205X
+
+---
+adambuttrick
+04/28/2023, 22:59:04 | 04/28/2023, 22:59:04
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687683850,3156,https://github.com/ror-community/ror-updates/issues/3156,open,level 1; new record; jaguar,2023-04-27 23:38:51,2023-04-28 23:01:32,Add a new organization to ROR - Gaziantep İslam Bilim ve Teknoloji Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Gaziantep İslam Bilim ve Teknoloji Üniversitesi
+Website: https://www.gibtu.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/Gaziantep_%C4%B0slam_Bilim_ve_Teknoloji_%C3%9Cniversitesi
+Wikidata ID: Q60673567
+ISNI ID: 0000 0004 8004 5654
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Gaziantep Islam Bilim ve Teknoloji Universitesi
+Labels: Gaziantep University of Science and Technology*English
+Acronym/abbreviation: GİBTÜ; GİBTU
+Related organizations:
+City: Gaziantep
+Country: Turkey
+Geonames ID: 314830
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 00:01:23 | 04/28/2023, 00:01:23
+comment_text: ISNI: 0000 0004 8004 5654
+Publication affiliation usage: https://doi.org/10.17556/erziefd.944933; https://doi.org/10.14582/duzgef.2021.175; https://doi.org/10.5505/pajes.2021.25902; https://openalex.org/W4297730174; https://openalex.org/W4303649996; https://doi.org/10.52134/ueader.1098111; https://openalex.org/W4297669615; https://openalex.org/W4287752704; https://doi.org/10.33308/26674874.2020342177; https://doi.org/10.54189/hbd.1049877; https://doi.org/10.17556/erziefd.944933; https://doi.org/10.14582/duzgef.2021.175; https://doi.org/10.5505/pajes.2021.25902; https://openalex.org/W4297730174; https://openalex.org/W4303649996; https://doi.org/10.52134/ueader.1098111; https://openalex.org/W4297669615; https://openalex.org/W4287752704; https://doi.org/10.33308/26674874.2020342177; https://doi.org/10.54189/hbd.1049877; https://doi.org/10.1016/j.energy.2021.121121; https://doi.org/10.1080/15567036.2020.1801899; https://doi.org/10.1109/access.2021.3133285; https://doi.org/10.1080/15435075.2021.1875474; https://doi.org/10.1016/j.apenergy.2021.117912; https://doi.org/10.1080/10494820.2021.1954035; https://doi.org/10.1080/15567036.2020.1755390; https://doi.org/10.1016/j.engappai.2022.104959; https://doi.org/10.1016/j.enconman.2020.113731; https://doi.org/10.1016/j.amsu.2020.06.010; https://doi.org/10.1080/00981389.2021.1884168; https://doi.org/10.1016/j.msard.2022.103983; https://doi.org/10.1016/j.ctcp.2021.101338; https://doi.org/10.1007/s10943-021-01467-4; https://doi.org/10.1111/ppc.12955; https://doi.org/10.1016/j.nedt.2022.105618; https://doi.org/10.1111/ppc.12944; 
+Potential aliases: Gaziantep İslam Science and Technology University; Gaziantep Islamic Science and Technology University
+ORCID affiliation usage: https://orcid.org/0000-0003-1424-5132; https://orcid.org/0000-0003-1475-7680; https://orcid.org/0000-0003-2239-5456
+
+---
+adambuttrick
+04/28/2023, 23:01:32 | 04/28/2023, 23:01:32
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687683986,3157,https://github.com/ror-community/ror-updates/issues/3157,open,level 1; new record; jaguar,2023-04-27 23:39:06,2023-04-28 23:03:27,Add a new organization to ROR - İstanbul Esenyurt Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: İstanbul Esenyurt Üniversitesi
+Website: http://esenyurt.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/%C4%B0stanbul_Esenyurt_%C3%9Cniversitesi
+Wikidata ID: Q19613824
+ISNI ID: 0000 0004 4648 9470
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Istanbul Esenyurt Universitesi
+Labels: Istanbul Esenyurt University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Istanbul
+Country: Turkey
+Geonames ID: 745044
+Year established: 2013
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:53:02 | 04/27/2023, 23:53:02
+comment_text: Wikidata Name: Istanbul Esenyurt University
+Wikidata ID: Q19613824
+Wikidata name match ratio: 90
+wikipedia_url: https://tr.wikipedia.org/wiki/%C4%B0stanbul_Esenyurt_%C3%9Cniversitesi
+Established: 2013
+Admin territory name: Istanbul
+Admin territory Geonames ID: 745044
+Country: Turkey
+links: http://esenyurt.edu.tr/
+ISNI: 0000 0004 4648 9470
+Publication affiliation usage: https://doi.org/10.1109/ismsit50672.2020.9254480; https://doi.org/10.1109/ismsit50672.2020.9254350; https://doi.org/10.17130/ijmeb.964154; https://doi.org/10.1109/hora49412.2020.9152891; https://doi.org/10.26677/tr1010.2020.394; https://doi.org/10.15637/jlecon.8.1.12; https://doi.org/10.1109/ismsit50672.2020.9254480; https://doi.org/10.1109/ismsit50672.2020.9254350; https://doi.org/10.17130/ijmeb.964154; https://doi.org/10.1109/hora49412.2020.9152891; https://doi.org/10.26677/tr1010.2020.394; https://doi.org/10.15637/jlecon.8.1.12; https://doi.org/10.1016/j.cej.2016.04.080; https://doi.org/10.3390/polym13203607; https://doi.org/10.1016/j.ctim.2021.102682; https://doi.org/10.1016/j.ejim.2018.07.018; https://doi.org/10.1590/0037-8682-0027-2015; https://doi.org/10.3390/w14010080; https://doi.org/10.1007/s11356-021-13686-z; https://doi.org/10.1016/j.engfailanal.2018.04.029; https://doi.org/10.1016/j.rser.2019.02.017; https://doi.org/10.1177/0957650919840519; 
+Potential aliases: Istanbul Esenyurt University
+ORCID affiliation usage: https://orcid.org/0000-0002-6740-5438; https://orcid.org/0000-0001-5687-7715; https://orcid.org/0000-0002-0653-2417
+
+---
+adambuttrick
+04/28/2023, 23:03:27 | 04/28/2023, 23:03:27
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1689244367,3188,https://github.com/ror-community/ror-updates/issues/3188,open,level 1; new record; jaguar,2023-04-28 23:08:14,2023-05-02 18:14:42,Add a new organization to ROR: İstanbul Galata Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: İstanbul Galata Üniversitesi
+Website: https://www.galata.edu.tr
+Link to publications: 
+Organization type: Education
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0004 9233 4891
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Aliases: Istanbul Galata Universitesi
+Labels: Istanbul Galata University*English
+Acronym/abbreviation:
+Related organizations: 
+City: Istanbul
+Country: Turkey
+Geonames ID: 745044
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135
+","ror-curator-bot
+04/28/2023, 23:08:56 | 04/28/2023, 23:08:56
+comment_text: ISNI: 0000 0004 9233 4891
+Publication affiliation usage: https://doi.org/10.26677/tr1010.2021.825; https://openalex.org/W4311277136; https://openalex.org/W4300908401; https://doi.org/10.17572/mj2022.1.153168; https://doi.org/10.11611/yead.1182695; https://openalex.org/W4297727010; https://doi.org/10.32572/guntad.1056394; https://doi.org/10.52880/sagakaderg.1193525; https://doi.org/10.37679/trta.1142904; https://doi.org/10.26677/tr1010.2021.731; https://doi.org/10.26677/tr1010.2021.825; https://openalex.org/W4311277136; https://openalex.org/W4300908401; https://doi.org/10.17572/mj2022.1.153168; https://doi.org/10.11611/yead.1182695; https://openalex.org/W4297727010; https://doi.org/10.32572/guntad.1056394; https://doi.org/10.52880/sagakaderg.1193525; https://doi.org/10.37679/trta.1142904; https://doi.org/10.26677/tr1010.2021.731; https://doi.org/10.1177/09673911221131113; https://doi.org/10.29271/jcpsp.2022.05.623; https://doi.org/10.1080/09537325.2021.1950674; https://doi.org/10.1007/s11332-021-00798-9; https://doi.org/10.1007/s10443-021-09871-5; https://doi.org/10.3390/ijerph20054629; https://doi.org/10.7759/cureus.20734; https://doi.org/10.29271/jcpsp.2022.05.652; https://doi.org/10.1016/j.jpurol.2022.03.011; https://doi.org/10.1093/rpd/ncab092; https://doi.org/10.1080/15440478.2021.1990182; https://doi.org/10.1080/15440478.2021.1993507; https://doi.org/10.1080/09537325.2021.1950674; https://doi.org/10.1080/15440478.2022.2127437; https://doi.org/10.1007/s10443-021-09871-5; https://doi.org/10.1111/ijcp.14355; https://doi.org/10.1007/s10238-021-00779-9; https://doi.org/10.7759/cureus.20734; 
+Potential aliases: Galata University Istanbul; Galata University
+ORCID affiliation usage: https://orcid.org/0000-0002-0445-9180; https://orcid.org/0000-0001-5745-5151; https://orcid.org/0000-0002-7933-0445
+Previous requests: https://github.com/ror-community/ror-updates/issues/3188
+
+---
+adambuttrick
+04/28/2023, 23:09:08 | 04/28/2023, 23:09:08
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687684696,3159,https://github.com/ror-community/ror-updates/issues/3159,open,level 1; new record; jaguar,2023-04-27 23:40:23,2023-04-28 23:11:29,Add a new organization to ROR - İstanbul Sağlık ve Teknoloji Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: İstanbul Sağlık ve Teknoloji Üniversitesi
+Website: 
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/%C4%B0stanbul_Sa%C4%9Fl%C4%B1k_ve_Teknoloji_%C3%9Cniversitesi
+Wikidata ID: Q97320401
+ISNI ID: 0000 0004 9243 6353
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Istanbul Saglik ve Teknoloji Universitesi; Istanbul Health and Technology University
+Labels: 
+Acronym/abbreviation: İSTÜN; ISTUN
+Related organizations:
+City: Istanbul
+Country: Turkey
+Geonames ID: 745044
+Year established: 
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 00:00:43 | 04/28/2023, 00:00:43
+comment_text: Wikidata Name: İstanbul Sağlık ve Teknoloji Üniversitesi
+Wikidata ID: Q97320401
+Wikidata name match ratio: 100
+wikipedia_url: https://tr.wikipedia.org/wiki/%C4%B0stanbul_Sa%C4%9Fl%C4%B1k_ve_Teknoloji_%C3%9Cniversitesi
+ISNI: 0000 0004 9243 6353
+Publication affiliation usage: https://doi.org/10.57224/jhpr.1148955; https://doi.org/10.1007/s40556-022-00350-w; https://openalex.org/W4298159243; https://doi.org/10.57224/jhpr.1148955; https://doi.org/10.1007/s40556-022-00350-w; https://openalex.org/W4298159243; https://doi.org/10.1097/mou.0000000000000899; https://doi.org/10.1590/s1677-5538.ibju.2021.0091; https://doi.org/10.4274/balkanmedj.2016.1028; https://doi.org/10.1111/aor.13127; https://doi.org/10.1007/s00240-022-01319-0; https://doi.org/10.5114/ada.2017.67071; https://doi.org/10.1093/gastro/gou062; https://doi.org/10.1053/j.jvca.2017.06.017; 
+Potential aliases: Medipol Mega University Hospital
+ORCID affiliation usage: https://orcid.org/0000-0001-8970-7579; https://orcid.org/0000-0001-9534-361X; https://orcid.org/0000-0003-4785-4751
+
+---
+adambuttrick
+04/28/2023, 23:11:29 | 04/28/2023, 23:11:29
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687684940,3160,https://github.com/ror-community/ror-updates/issues/3160,open,level 1; new record; jaguar,2023-04-27 23:40:52,2023-04-28 23:15:15,Add a new organization to ROR - İzmir Demokrasi Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: İzmir Demokrasi Üniversitesi
+Website: http://www.idu.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://en.wikipedia.org/wiki/%C4%B0zmir_Democracy_University
+Wikidata ID: Q28221720
+ISNI ID: 0000 0004 6045 8574
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Izmir Demokrasi Universitesi
+Labels: İzmir Democracy University*English
+Acronym/abbreviation: IDU
+Related organizations:
+City: İzmir
+Country: Turkey
+Geonames ID: 311046
+Year established: 2016
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:51:51 | 04/27/2023, 23:51:51
+comment_text: ISNI: 0000 0004 6045 8574
+Publication affiliation usage: https://openalex.org/W2765542829; https://doi.org/10.1109/siu.2018.8404261; https://doi.org/10.20491/isarder.2020.1083; https://doi.org/10.1109/tiptekno50054.2020.9299213; https://doi.org/10.1109/tiptekno.2019.8895090; https://doi.org/10.15390/eb.2019.8150; https://doi.org/10.1109/tiptekno.2019.8895122; https://openalex.org/W2909365886; https://openalex.org/W2765542829; https://doi.org/10.1109/siu.2018.8404261; https://doi.org/10.20491/isarder.2020.1083; https://doi.org/10.1109/tiptekno50054.2020.9299213; https://doi.org/10.1109/tiptekno.2019.8895090; https://doi.org/10.15390/eb.2019.8150; https://doi.org/10.1109/tiptekno.2019.8895122; https://openalex.org/W2909365886; https://openalex.org/W2910523049; https://doi.org/10.21203/rs.3.rs-213621/v1; https://doi.org/10.21203/rs.3.rs-248436/v1; https://doi.org/10.1145/3386527.3405915; https://doi.org/10.21203/rs.3.rs-1271475/v1; https://doi.org/10.1016/j.apm.2020.05.006; https://doi.org/10.1016/j.asoc.2020.106394; https://doi.org/10.1080/00207543.2019.1630774; https://doi.org/10.1016/j.conbuildmat.2018.09.022; https://doi.org/10.1016/j.autcon.2017.06.018; https://doi.org/10.1016/j.asoc.2020.106503; https://doi.org/10.1007/s10696-020-09385-5; https://doi.org/10.1016/j.chb.2021.107020; https://doi.org/10.1016/j.compbiomed.2018.06.026; 
+Potential aliases: Izmir Demokrasi Universitesi; İzmir Democracy University
+ORCID affiliation usage: https://orcid.org/0000-0002-5477-0882; https://orcid.org/0000-0003-1644-6472; https://orcid.org/0000-0003-1066-8517
+
+---
+adambuttrick
+04/28/2023, 23:15:15 | 04/28/2023, 23:15:15
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687685096,3161,https://github.com/ror-community/ror-updates/issues/3161,open,level 1; new record; jaguar,2023-04-27 23:41:09,2023-04-28 23:16:32,Add a new organization to ROR - İzmir Tınaztepe Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: İzmir Tınaztepe Üniversitesi
+Website: https://tinaztepe.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/%C4%B0zmir_T%C4%B1naztepe_%C3%9Cniversitesi
+Wikidata ID: Q52162244
+ISNI ID: 0000 0004 8341 6692
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Izmir Tinaztepe Universitesi
+Labels: İzmir Tınaztepe University*English
+Acronym/abbreviation: 
+Related organizations:
+City: İzmir
+Country: Turkey
+Geonames ID: 311046
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:51:17 | 04/27/2023, 23:51:17
+comment_text: Wikidata Name: İzmir Tınaztepe University
+Wikidata ID: Q52162244
+Wikidata name match ratio: 89
+wikipedia_url: https://tr.wikipedia.org/wiki/%C4%B0zmir_T%C4%B1naztepe_%C3%9Cniversitesi
+Established: 2018
+Admin territory name: İzmir
+Admin territory Geonames ID: 311046
+Country: Turkey
+links: https://tinaztepe.edu.tr
+ISNI: 0000 0004 8341 6692
+Publication affiliation usage: https://doi.org/10.30934/kusbed.1142176; https://doi.org/10.54189/hbd.1166900; https://openalex.org/W4294988938; https://doi.org/10.21203/rs.3.rs-1689569/v1; https://doi.org/10.21203/rs.3.rs-901584/v1; https://openalex.org/W4287586889; https://doi.org/10.21203/rs.3.rs-1612239/v1; https://doi.org/10.30934/kusbed.1142176; https://doi.org/10.54189/hbd.1166900; https://openalex.org/W4294988938; https://doi.org/10.21203/rs.3.rs-1689569/v1; https://doi.org/10.21203/rs.3.rs-901584/v1; https://openalex.org/W4287586889; https://doi.org/10.21203/rs.3.rs-1612239/v1; https://doi.org/10.21203/rs.3.rs-1689569/v1; https://doi.org/10.21203/rs.3.rs-1612239/v1; https://doi.org/10.21203/rs.3.rs-901584/v1; https://doi.org/10.22541/au.161978220.08954570/v1; https://doi.org/10.5152/fnjn.2021.414736; https://doi.org/10.18332/tid/142106; https://doi.org/10.21613/gorm.2021.1186; https://doi.org/10.4235/agmr.21.0095; https://doi.org/10.1111/ppc.12630; https://doi.org/10.1016/j.amjoto.2022.103428; https://doi.org/10.1111/jog.14673; https://doi.org/10.1080/14767058.2020.1856809; https://doi.org/10.23750/abm.v92is1.9135; https://doi.org/10.3855/jidc.12296; 
+Potential aliases: Izmir Tinaztepe Universitesi; İzmir Tınaztepe University
+ORCID affiliation usage: https://orcid.org/0000-0003-3584-8354; https://orcid.org/0000-0002-2870-3256; https://orcid.org/0000-0002-6757-9737
+
+---
+"
+Ready for sign-off ,1687685238,3162,https://github.com/ror-community/ror-updates/issues/3162,open,level 1; new record; jaguar,2023-04-27 23:41:27,2023-04-28 23:18:14,Add a new organization to ROR - Kahramanmaraş İstiklal Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Kahramanmaraş İstiklal Üniversitesi
+Website: http://www.istiklal.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/Kahramanmara%C5%9F_%C4%B0stiklal_%C3%9Cniversitesi
+Wikidata ID: Q52162263
+ISNI ID: 0000 0004 8351 8277
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Kahramanmaras Istiklal Universitesi
+Labels: Kahramanmaraş İstiklal University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Kahramanmaraş
+Country: Turkey
+Geonames ID: 310859
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:50:42 | 04/27/2023, 23:50:42
+comment_text: Wikidata Name: Kahramanmaraş İstiklal University
+Wikidata ID: Q52162263
+Wikidata name match ratio: 91
+wikipedia_url: https://tr.wikipedia.org/wiki/Kahramanmara%C5%9F_%C4%B0stiklal_%C3%9Cniversitesi
+Established: 2018
+Admin territory name: Kahramanmaraş
+Admin territory Geonames ID: 310859
+Country: Turkey
+links: http://www.istiklal.edu.tr/
+ISNI: 0000 0004 8351 8277
+Publication affiliation usage: https://doi.org/10.1109/idap.2019.8875875; https://openalex.org/W4287634387; https://openalex.org/W4287634319; https://openalex.org/W4297729679; https://openalex.org/W4285753718; https://openalex.org/W4295025511; https://openalex.org/W4308895885; https://openalex.org/W4307685959; https://openalex.org/W4287777945; https://openalex.org/W4287547026; https://doi.org/10.1109/idap.2019.8875875; https://openalex.org/W4287634387; https://openalex.org/W4287634319; https://openalex.org/W4297729679; https://openalex.org/W4285753718; https://openalex.org/W4295025511; https://openalex.org/W4308895885; https://openalex.org/W4307685959; https://openalex.org/W4287777945; https://openalex.org/W4287547026; https://doi.org/10.21203/rs.3.rs-1253776/v1; https://doi.org/10.21203/rs.3.rs-1424939/v1; https://doi.org/10.21203/rs.3.rs-1604607/v1; https://doi.org/10.21203/rs.3.rs-1424939/v2; https://doi.org/10.1108/prt-02-2022-0025; 
+Potential aliases: Kahramanmaras Istiklal Universitesi
+ORCID affiliation usage: https://orcid.org/0000-0002-2510-7969; https://orcid.org/0000-0002-1574-6097; https://orcid.org/0000-0001-8285-287X
+
+---
+adambuttrick
+04/28/2023, 23:18:14 | 04/28/2023, 23:18:14
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687685452,3163,https://github.com/ror-community/ror-updates/issues/3163,open,level 1; new record; jaguar,2023-04-27 23:41:52,2023-04-28 23:19:39,Add a new organization to ROR - Kayseri Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Kayseri Üniversitesi
+Website: http://www.kayseri.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://en.wikipedia.org/wiki/Kayseri_University
+Wikidata ID: Q52162273
+ISNI ID: 0000 0004 8351 8285
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Kayseri Universitesi
+Labels: Kayseri University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Kayseri Province
+Country: Turkey
+Geonames ID: 308463
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:50:08 | 04/27/2023, 23:50:08
+comment_text: ISNI: 0000 0004 8351 8285
+Publication affiliation usage: https://openalex.org/W4289361952; https://openalex.org/W2946888483; https://doi.org/10.58251/ekonomi.1182456; https://doi.org/10.20491/isarder.2020.958; https://doi.org/10.26677/tr1010.2020.543; https://doi.org/10.47951/mediad.1124761; https://openalex.org/W4289085589; https://openalex.org/W2908364851; https://doi.org/10.47481/jscmt.1116561; https://openalex.org/W4289361952; https://openalex.org/W2946888483; https://doi.org/10.58251/ekonomi.1182456; https://doi.org/10.20491/isarder.2020.958; https://doi.org/10.26677/tr1010.2020.543; https://doi.org/10.47951/mediad.1124761; https://openalex.org/W4289085589; https://openalex.org/W2908364851; https://doi.org/10.47481/jscmt.1116561; 
+Potential aliases: 
+ORCID affiliation usage: https://orcid.org/0000-0001-5305-3219; https://orcid.org/0000-0003-3356-7786; https://orcid.org/0000-0003-1967-303X
+
+---
+"
+Ready for sign-off ,1687685604,3164,https://github.com/ror-community/ror-updates/issues/3164,open,level 1; new record; jaguar,2023-04-27 23:42:10,2023-04-28 23:25:41,Add a new organization to ROR - Kocaeli Sağlık ve Teknoloji Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Kocaeli Sağlık ve Teknoloji Üniversitesi
+Website: https://kocaelisaglik.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/Kocaeli_Sa%C4%9Fl%C4%B1k_ve_Teknoloji_%C3%9Cniversitesi
+Wikidata ID: Q97208050
+ISNI ID: 0000 0005 1089 3516
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Kocaeli Saglik ve Teknoloji Universitesi; Kocaeli University of Health and Technology
+Labels: Kocaeli Health and Technology University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Başiskele
+Country: Turkey
+Geonames ID: 9548074
+Year established: 2009
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 00:00:08 | 04/28/2023, 00:00:08
+comment_text: ISNI: 0000 0005 1089 3516
+Publication affiliation usage: https://doi.org/10.1002/jbt.22998; https://doi.org/10.1080/07399332.2021.2007925; https://doi.org/10.1007/s10103-022-03687-w; https://doi.org/10.1016/j.jopan.2022.06.012; https://doi.org/10.1108/lhs-11-2021-0091; https://doi.org/10.1111/cch.12928; https://doi.org/10.3389/fsurg.2022.863633; https://doi.org/10.1111/jonm.13589; https://doi.org/10.21203/rs.3.rs-1217825/v1; https://doi.org/10.18196/jrc.v3i1.11659; https://doi.org/10.21203/rs.3.rs-1217825/v1; https://doi.org/10.5114/kitp.2022.117505; 
+Potential aliases: Kocaeli Health and Technology University; Kocaeli Saglik ve Teknoloji Universitesi; Kocaeli University of Health and Technology
+ORCID affiliation usage: https://orcid.org/0000-0001-7803-1032; https://orcid.org/0000-0001-5974-0167; https://orcid.org/0000-0002-0456-911X
+
+---
+adambuttrick
+04/28/2023, 23:25:41 | 04/28/2023, 23:25:41
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1689264599,3189,https://github.com/ror-community/ror-updates/issues/3189,open,level 1; new record; jaguar,2023-04-28 23:54:10,2023-04-29 00:06:51,Add a new organization to ROR: Mudanya Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Mudanya Üniversitesi
+Website: https://mudanya.edu.tr
+Link to publications: 
+Organization type: Education
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0005 0713 245X
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Aliases: Mudanya Universitesi
+Labels: Mudanya University*English
+Acronym/abbreviation:
+Related organizations: 
+City: Mudanya
+Country: Turkey
+Geonames ID: 
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135
+","ror-curator-bot
+04/28/2023, 23:59:21 | 04/28/2023, 23:59:21
+comment_text: Publication affiliation usage: https://doi.org/10.31681/jetol.1151460; https://doi.org/10.31796/ogummf.1145417; https://doi.org/10.31681/jetol.1151460; https://doi.org/10.31796/ogummf.1145417; 
+Potential aliases: 
+ORCID affiliation usage: https://orcid.org/0000-0003-1567-0042; https://orcid.org/0000-0001-6906-4641; https://orcid.org/0000-0002-4959-6437
+Previous requests: https://github.com/ror-community/ror-updates/issues/3189
+
+---
+adambuttrick
+04/29/2023, 00:05:09 | 04/29/2023, 00:05:09
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1689266350,3190,https://github.com/ror-community/ror-updates/issues/3190,open,level 1; new record; jaguar,2023-04-28 23:58:16,2023-04-29 00:07:32,Add a new organization to ROR: Rauf Denktas University,"Summary of request: Add a new organization to ROR
+
+Name of organization: Rauf Denktas University
+Website: https://rdu.edu.tr
+Link to publications: 
+Organization type: Education
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0004 9370 6677
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Aliases: Rauf Denktas Universitesi
+Labels: Rauf Denktas  Üniversitesi*Turkish
+Acronym/abbreviation: RDÜ; RDU
+Related organizations: 
+City: Nicosia
+Country: Turkey
+Geonames ID: 146268
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135 
+","ror-curator-bot
+04/29/2023, 00:06:37 | 04/29/2023, 00:06:37
+comment_text: ISNI: 0000 0004 9370 6677
+Publication affiliation usage: https://doi.org/10.31341/jios.46.1.9; https://doi.org/10.32479/ijeep.12906; https://doi.org/10.1080/10293523.2022.2155354; https://openalex.org/W3172365565; https://doi.org/10.1016/j.resourpol.2022.102699; https://doi.org/10.31341/jios.46.1.9; https://doi.org/10.32479/ijeep.12906; https://doi.org/10.1080/10293523.2022.2155354; https://openalex.org/W3172365565; https://doi.org/10.1016/j.resourpol.2022.102699; https://doi.org/10.1093/ajcn/81.4.871; https://doi.org/10.1093/eurheartj/ehs226; 
+Potential aliases: RDU
+ORCID affiliation usage: https://orcid.org/0000-0003-1463-7304; https://orcid.org/0000-0003-2698-0433; https://orcid.org/0000-0003-3254-0362
+Previous requests: https://github.com/ror-community/ror-updates/issues/3190
+
+---
+adambuttrick
+04/29/2023, 00:07:29 | 04/29/2023, 00:07:29
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687685885,3165,https://github.com/ror-community/ror-updates/issues/3165,open,level 1; new record; jaguar,2023-04-27 23:42:45,2023-04-29 00:09:00,Add a new organization to ROR - Sakarya Uygulamalı Bilimler Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Sakarya Uygulamalı Bilimler Üniversitesi
+Website: http://www.subu.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://en.wikipedia.org/wiki/Sakarya_University_of_Applied_Sciences
+Wikidata ID: Q52236336
+ISNI ID: 0000 0004 8398 8287
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Sakarya Uygulamali Bilimler Universitesi
+Labels: Sakarya University of Applied Sciences*English
+Acronym/abbreviation: 
+Related organizations:
+City: Sakarya Province
+Country: Turkey
+Geonames ID: 739788
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:49:05 | 04/27/2023, 23:49:05
+comment_text: ISNI: 0000 0004 8398 8287
+Publication affiliation usage: https://doi.org/10.26677/tr1010.2020.308; https://doi.org/10.26677/tr1010.2020.586; https://doi.org/10.26677/tr1010.2020.608; https://doi.org/10.1109/siu49456.2020.9302494; https://doi.org/10.30783/nevsosbilen.1064915; https://doi.org/10.26677/tr1010.2020.308; https://doi.org/10.26677/tr1010.2020.586; https://doi.org/10.26677/tr1010.2020.608; https://doi.org/10.1109/siu49456.2020.9302494; https://doi.org/10.30783/nevsosbilen.1064915; https://doi.org/10.1007/s00775-019-01688-9; https://doi.org/10.1016/j.molstruc.2020.128599; https://doi.org/10.1016/j.ejmech.2019.111702; https://doi.org/10.1016/j.renene.2018.10.079; https://doi.org/10.1016/j.eti.2020.101305; https://doi.org/10.1016/j.ijnonlinmec.2018.08.020; https://doi.org/10.1016/j.bioorg.2019.03.003; https://doi.org/10.1007/s11030-018-09910-7; https://doi.org/10.1007/s00339-019-3254-9; https://doi.org/10.21203/rs.3.rs-1263844/v1; https://doi.org/10.21203/rs.3.rs-1138927/v1; https://doi.org/10.21203/rs.3.rs-1654570/v1; https://doi.org/10.1002/cmdc.202200185; https://doi.org/10.21203/rs.3.rs-1437097/v1; 
+Potential aliases: Sakarya University of Applied Sciences; Sakarya Uygulamali Bilimler Universitesi
+ORCID affiliation usage: https://orcid.org/0009-0005-4496-6629; https://orcid.org/0000-0003-2917-3426; https://orcid.org/0000-0002-2724-924X
+
+---
+adambuttrick
+04/29/2023, 00:07:52 | 04/29/2023, 00:07:52
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687685989,3166,https://github.com/ror-community/ror-updates/issues/3166,open,level 1; new record; jaguar,2023-04-27 23:42:56,2023-04-29 00:10:25,Add a new organization to ROR - Sivas Bilim ve Teknoloji Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Sivas Bilim ve Teknoloji Üniversitesi
+Website: https://www.sivas.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://en.wikipedia.org/wiki/Sivas_University_of_Science_and_Technology
+Wikidata ID: Q52162282
+ISNI ID: 0000 0004 8398 8295
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Sivas Bilim ve Teknoloji Universitesi
+Labels: Sivas University of Science and Technology*English
+Acronym/abbreviation: 
+Related organizations:
+City: Sivas
+Country: Turkey
+Geonames ID: 300619
+Year established: 2018
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:59:30 | 04/27/2023, 23:59:30
+comment_text: ISNI: 0000 0004 8398 8295
+Publication affiliation usage: https://openalex.org/W4311569143; https://doi.org/10.37908/mkutbd.956193; https://doi.org/10.1109/ubmk50275.2020.9219401; https://doi.org/10.29133/yyutbd.886006; https://doi.org/10.30910/turkjans.1089455; https://openalex.org/W4307422109; https://doi.org/10.16984/saufenbilder.1063422; https://openalex.org/W4311569143; https://doi.org/10.37908/mkutbd.956193; https://doi.org/10.1109/ubmk50275.2020.9219401; https://doi.org/10.29133/yyutbd.886006; https://doi.org/10.30910/turkjans.1089455; https://openalex.org/W4307422109; https://doi.org/10.16984/saufenbilder.1063422; https://doi.org/10.1088/1402-4896/acbbfd; https://doi.org/10.2514/6.2022-1675; https://doi.org/10.21203/rs.3.rs-150689/v1; https://doi.org/10.21203/rs.3.rs-1310164/v1; https://doi.org/10.21203/rs.3.rs-1195511/v1; https://doi.org/10.1016/j.apsusc.2020.147111; https://doi.org/10.1016/j.rinp.2021.104344; https://doi.org/10.3390/genes11010036; https://doi.org/10.1016/j.indcrop.2022.114801; https://doi.org/10.1080/13102818.2021.1920462; 
+Potential aliases: Sivas Bilim ve Teknoloji Universitesi; Sivas University of Science and Technology
+ORCID affiliation usage: https://orcid.org/0000-0002-8312-8434; https://orcid.org/0000-0001-7310-9726; https://orcid.org/0000-0002-1885-5539
+
+---
+"
+Ready for sign-off ,1689274248,3191,https://github.com/ror-community/ror-updates/issues/3191,open,level 1; new record; jaguar,2023-04-29 00:14:10,2023-04-29 00:16:20,Add a new organization to ROR - TC İstanbul Rumeli Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: TC İstanbul Rumeli Üniversitesi
+Website: http://rumeli.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/%C4%B0stanbul_Rumeli_%C3%9Cniversitesi
+Wikidata ID: Q25477809
+ISNI ID: 0000 0004 5894 3888
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: TC Istanbul Rumeli Universitesi; Istanbul Rumeli Üniversitesi; Istanbul Rumeli University; Rumeli University
+Labels: Istanbul Rumeli University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Istanbul
+Country: Turkey
+Geonames ID: 745044
+Year established: 2015
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/29/2023, 00:15:03 | 04/29/2023, 00:15:03
+comment_text: Publication affiliation usage: https://openalex.org/W4287703122; https://doi.org/10.29228/eriss.12; https://openalex.org/W3177369213; https://doi.org/10.21923/jesd.931771; https://doi.org/10.17572//mj2019.1.150175; https://doi.org/10.14687/jhs.v14i2.4607; https://openalex.org/W2803116153; https://doi.org/10.26677/tr1010.2021.651; https://openalex.org/W2743047008; https://doi.org/10.1109/ebbt.2017.7956764; https://doi.org/10.3892/etm.2018.5943; https://doi.org/10.2174/1389201020666190506124548; https://doi.org/10.3892/etm.2018.6289; https://doi.org/10.1002/ardp.202000086; https://doi.org/10.1007/s00500-021-06553-z; https://doi.org/10.1007/s12144-019-00392-w; https://doi.org/10.1016/j.jobe.2021.102477; https://doi.org/10.1016/j.molstruc.2020.128666; https://doi.org/10.1016/j.neucom.2022.05.041; https://doi.org/10.1111/bcpt.13112; https://doi.org/10.1080/14767058.2020.1763946; https://doi.org/10.3892/etm.2018.5943; https://doi.org/10.2174/1389201020666190506124548; https://doi.org/10.1002/ardp.202000086; https://doi.org/10.1007/s00500-021-06553-z; https://doi.org/10.1007/s12144-019-00392-w; https://doi.org/10.1016/j.jobe.2021.102477; https://doi.org/10.1016/j.molstruc.2020.128666; https://doi.org/10.1016/j.neucom.2022.05.041; https://doi.org/10.1111/bcpt.13112; 
+Potential aliases: Istanbul Rumeli Üniversitesi; Istanbul Rumeli University; Rumeli University
+ORCID affiliation usage: https://orcid.org/0000-0003-1048-4304; https://orcid.org/0000-0003-2146-9249; https://orcid.org/0000-0003-4833-9700
+
+---
+adambuttrick
+04/29/2023, 00:16:17 | 04/29/2023, 00:16:17
+comment_text: University in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687686860,3168,https://github.com/ror-community/ror-updates/issues/3168,open,level 1; new record; jaguar,2023-04-27 23:44:34,2023-04-29 00:19:30,Add a new organization to ROR - Jandarma ve Sahil Güvenlik Akademisi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Jandarma ve Sahil Güvenlik Akademisi
+Website: http://www.jsga.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://en.wikipedia.org/wiki/Gendarmerie_and_Coast_Guard_Academy
+Wikidata ID: Q31190877
+ISNI ID: 0000 0004 6362 6094
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases: Jandarma ve Sahil Guvenlik Akademisi; T.C. İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi; Türkiye Cumhuriyeti İçişleri Bakanlığı Jandarma ve Sahil Güvenlik Akademisi
+Labels: Gendarmerie and Coast Guard Academy*English
+Acronym/abbreviation:JSGA
+Related organizations:
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 1937
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:58:21 | 04/27/2023, 23:58:21
+comment_text: ISNI: 0000 0004 6362 6094
+Publication affiliation usage: https://doi.org/10.1177/2158244019876265; https://openalex.org/W4306148819; https://doi.org/10.1186/s41935-017-0011-0; https://openalex.org/W4308881367; https://doi.org/10.28956/gbd.1010869; https://doi.org/10.20491/isarder.2020.1072; https://openalex.org/W4288298172; https://openalex.org/W4285785689; https://openalex.org/W4307218381; https://doi.org/10.26809/joa.5.027; https://doi.org/10.1177/2158244019876265; https://openalex.org/W4306148819; https://doi.org/10.1186/s41935-017-0011-0; https://openalex.org/W4308881367; https://doi.org/10.28956/gbd.1010869; https://doi.org/10.20491/isarder.2020.1072; https://openalex.org/W4288298172; https://openalex.org/W4285785689; https://openalex.org/W4307218381; https://doi.org/10.26809/joa.5.027; https://doi.org/10.1007/s11266-018-9992-z; https://doi.org/10.1080/00450618.2022.2043436; https://doi.org/10.1109/access.2020.2976872; https://openalex.org/W2914626305; https://doi.org/10.1177/21582440211031879; https://doi.org/10.1007/978-3-030-27386-6_15; https://doi.org/10.1007/s10849-019-09312-4; https://doi.org/10.1080/02664763.2022.2028744; https://doi.org/10.14429/dsj.70.15589; https://doi.org/10.1109/isdfs.2018.8355374; https://doi.org/10.21203/rs.3.rs-2024047/v1; 
+Potential aliases: Gendarmerie and Coast Guard Academy; JSGA
+ORCID affiliation usage: https://orcid.org/0000-0002-3811-7103; https://orcid.org/0000-0002-0997-2813; https://orcid.org/0000-0001-6955-4739
+
+---
+adambuttrick
+04/29/2023, 00:19:30 | 04/29/2023, 00:19:30
+comment_text: Military academy in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1687687091,3169,https://github.com/ror-community/ror-updates/issues/3169,open,level 1; new record; jaguar,2023-04-27 23:45:01,2023-05-02 18:16:01,Add a new organization to ROR - Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı,"Summary of request: Add a new organization to ROR
+
+Name of organization: Türkiye Cumhuriyeti Cumhurbaşkanlığı Savunma Sanayii Başkanlığı
+Website: https://www.ssb.gov.tr
+Link to publications: 
+Organization type: Government
+Wikipedia page: https://en.wikipedia.org/wiki/Defence_Industry_Agency
+Wikidata ID: Q6079585
+ISNI ID:
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Aliases: Savunma Sanayii Başkanlığı; Savunma Sanayii Baskanligi; Turkiye Cumhuriyeti Cumhurbaskanligi Savunma Sanayii Baskanligi; Presidency of the Republic of Turkey, Defense Industry Agency
+Labels: Presidency of the Republic of Türkiye, Defense Industry Agency
+Acronym/abbreviation: SSB
+Related organizations: https://ror.org/04zsc3j83 (parent)
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135 
+","ror-curator-bot
+04/27/2023, 23:57:45 | 04/27/2023, 23:57:45
+comment_text: Publication affiliation usage: https://openalex.org/W4309067567; https://openalex.org/W4226060580; https://doi.org/10.30783/nevsosbilen.1135817; https://doi.org/10.33182/gd.v7i1.676; https://doi.org/10.28956/gbd.1119842; https://doi.org/10.1007/s10943-015-0090-x; https://openalex.org/W4224025975; https://doi.org/10.37669/milliegitim.1066619; https://doi.org/10.53443/anadoluibfd.1122653; https://openalex.org/W4310563453; https://openalex.org/W4309067567; https://openalex.org/W4226060580; https://doi.org/10.30783/nevsosbilen.1135817; https://doi.org/10.33182/gd.v7i1.676; https://doi.org/10.28956/gbd.1119842; https://doi.org/10.1007/s10943-015-0090-x; https://openalex.org/W4224025975; https://doi.org/10.37669/milliegitim.1066619; https://doi.org/10.53443/anadoluibfd.1122653; https://openalex.org/W4310563453; 
+Potential aliases: 
+ORCID affiliation usage: https://orcid.org/0000-0001-6658-2259; https://orcid.org/0000-0001-7671-2504; https://orcid.org/0000-0001-6391-2152
+
+---
+adambuttrick
+04/29/2023, 00:38:32 | 04/29/2023, 00:38:37
+comment_text: Government agency in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1689278167,3192,https://github.com/ror-community/ror-updates/issues/3192,open,level 1; new record; jaguar,2023-04-29 00:23:46,2023-04-29 00:41:15,Add a new organization to ROR: Türkiye Sağlık Enstitüleri Başkanlığı,"Summary of request: Add a new organization to ROR
+
+Name of organization: Türkiye Sağlık Enstitüleri Başkanlığı
+Website: https://www.tuseb.gov.tr
+Link to publications: 
+Organization type: Government
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0004 6005 0966
+GRID ID:
+Crossref Funder ID: 100020410
+Other names for the organization: 
+Aliases: Turkiye Saglik Enstituleri Baskanligi
+Labels:
+Acronym/abbreviation: TÜSEB; TUSEB 
+Related organizations: 
+City: Istanbul
+Country: Turkey
+Geonames ID: 745044
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135
+","ror-curator-bot
+04/29/2023, 00:34:11 | 04/29/2023, 00:34:11
+comment_text: Funder ID: 100020410
+Publication affiliation usage: https://openalex.org/W4307980841; https://openalex.org/W4300241708; https://doi.org/10.15295/bmij.v5i3.148; https://openalex.org/W4287017555; https://openalex.org/W4287017567; https://openalex.org/W4307200028; https://openalex.org/W4307980841; https://openalex.org/W4300241708; https://doi.org/10.15295/bmij.v5i3.148; https://openalex.org/W4287017555; https://openalex.org/W4287017567; https://openalex.org/W4307200028; https://doi.org/10.15295/bmij.v7i2.1111; https://doi.org/10.1002/prot.26148; https://openalex.org/W4293281071; https://doi.org/10.15295/bmij.v5i3.148; https://doi.org/10.1002/jmv.27559; https://doi.org/10.29333/jconseph/11975; https://doi.org/10.1371/journal.pone.0247865; https://doi.org/10.1101/2020.08.19.20178095; https://doi.org/10.1002/jmv.27413; https://doi.org/10.29333/ejgm/11578; 
+Potential aliases: TÜSEB; TUSEB
+ORCID affiliation usage: https://orcid.org/0000-0002-5297-7580; https://orcid.org/0000-0002-6844-1529; https://orcid.org/0000-0001-5551-9668
+Previous requests: https://github.com/ror-community/ror-updates/issues/3192
+
+---
+adambuttrick
+04/29/2023, 00:41:10 | 04/29/2023, 00:41:10
+comment_text: State agency in Turkey. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+
+---
+"
+Ready for sign-off ,1689280955,3193,https://github.com/ror-community/ror-updates/issues/3193,open,level 1; new record; jaguar,2023-04-29 00:31:44,2023-04-29 00:42:22,Add a new organization to ROR: Savunma Sanayii Başkanlığı,"Summary of request: Add a new organization to ROR
+
+Name of organization: Türkiye Cumhuriyeti Cumhurbaşkanlığı Savunma Sanayii Başkanlığı
+Website: https://www.ssb.gov.tr
+Link to publications: 
+Organization type: Government
+Wikipedia page: https://en.wikipedia.org/wiki/Defence_Industry_Agency
+Wikidata ID: Q6079585
+ISNI ID:
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Aliases: Savunma Sanayii Başkanlığı; Savunma Sanayii Baskanligi; Turkiye Cumhuriyeti Cumhurbaskanligi Savunma Sanayii Baskanligi; Presidency of the Republic of Turkey, Defense Industry Agency
+Labels: Presidency of the Republic of Türkiye, Defense Industry Agency
+Acronym/abbreviation: SSB
+Related organizations: 
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request: Related to #3135
+","ror-curator-bot
+04/29/2023, 00:33:39 | 04/29/2023, 00:33:39
+comment_text: Publication affiliation usage: https://openalex.org/W4306246277; https://openalex.org/W4288328048; https://openalex.org/W4306246277; https://openalex.org/W4288328048; 
+Potential aliases: Cumhurbaşkanlığı Savunma Sanayii Başkanlığı; Savunma Sanayii Başkanlığı
+ORCID affiliation usage: https://orcid.org/0000-0003-4802-5613; https://orcid.org/0000-0001-7083-9387; https://orcid.org/0000-0002-2667-7779
+
+---
+adambuttrick
+04/29/2023, 00:41:52 | 04/29/2023, 00:41:52
+comment_text: Turkish state agency. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+
+---
+"
+Ready for sign-off ,1687678275,3151,https://github.com/ror-community/ror-updates/issues/3151,open,level 1; new record; jaguar,2023-04-27 23:28:56,2023-05-02 19:04:12,Add a new organization to ROR - Antalya Akev Üniversitesi,"Summary of request: Add a new organization to ROR
+
+Name of organization: Antalya Belek Üni̇versi̇tesi̇
+Website: https://www.belek.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: https://tr.wikipedia.org/wiki/Antalya_AKEV_%C3%9Cniversitesi
+Wikidata ID: Q28159581
+ISNI ID: 0000 0004 6416 6261
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization:
+Aliases:  Antalya Akev Üniversitesi; Antalya Akev Universitesi
+Labels: Antalya Belek University*English
+Acronym/abbreviation: 
+Related organizations:
+City: Antalya
+Country: Turkey
+Geonames ID: 323777
+Year established: 2015
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/27/2023, 23:55:20 | 04/27/2023, 23:55:20
+comment_text: Wikidata Name: Antalya Akev University
+Wikidata ID: Q28159581
+Wikidata name match ratio: 88
+wikipedia_url: https://tr.wikipedia.org/wiki/Antalya_AKEV_%C3%9Cniversitesi
+Established: 2015
+Admin territory name: Antalya
+Admin territory Geonames ID: 323777
+Country: Turkey
+links: http://akev.edu.tr/
+ISNI: 0000 0004 6416 6261
+Publication affiliation usage: https://openalex.org/W4303953762; https://openalex.org/W4307625281; https://doi.org/10.1109/ubmk.2017.8093533; https://openalex.org/W4300954819; https://doi.org/10.1080/19448953.2018.1379754; https://openalex.org/W4299506140; https://doi.org/10.20491/isarder.2019.786; https://doi.org/10.20491/isarder.2018.430; https://doi.org/10.4018/978-1-7998-4954-4.ch003; https://openalex.org/W4303953762; https://openalex.org/W4307625281; https://doi.org/10.1109/ubmk.2017.8093533; https://openalex.org/W4300954819; https://doi.org/10.1080/19448953.2018.1379754; https://openalex.org/W4299506140; https://doi.org/10.20491/isarder.2019.786; https://doi.org/10.20491/isarder.2018.430; https://doi.org/10.4018/978-1-7998-4954-4.ch003; https://doi.org/10.1016/j.jnt.2017.05.008; https://doi.org/10.1109/ubmk.2017.8093532; https://doi.org/10.2298/aadm190221047a; https://doi.org/10.1007/s11042-020-10094-2; https://doi.org/10.1007/s00009-017-1025-4; https://doi.org/10.2989/16073606.2018.1459925; https://doi.org/10.1111/jfpp.15168; https://doi.org/10.4018/978-1-7998-8294-7.ch009; https://doi.org/10.1002/ps.6516; 
+Potential aliases: Antalya AKEV University
+ORCID affiliation usage: https://orcid.org/0000-0001-5631-5333; https://orcid.org/0000-0003-3014-5836; https://orcid.org/0000-0002-7906-6955
+
+---
+adambuttrick
+04/28/2023, 22:29:12 | 04/28/2023, 22:29:12
+comment_text: University in Turkey. Name has changed from submission to Antalya Belek Üni̇versi̇tesi̇. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1690263706,3194,https://github.com/ror-community/ror-updates/issues/3194,open,level 2; update record; jaguar,2023-05-01 02:20:15,2023-05-01 14:47:31,"Modify the information in an existing ROR record: 
+Universidad Católica de Córdoba https://ror.org/04hehwn14
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Universidad Católica de Córdoba
+ROR ID: https://ror.org/04hehwn14
+Which part of the record needs to be changed? Primary name
+Description of change: Please change the main name of the registry.
+The name of the university must be in Spanish: Universidad Católica de Córdoba.
+Then the English name: Catholic University of Cordoba should appear in ""Other names"".
+
+Update: change.name==Universidad Católica de Córdoba; add.aliases==Catholic University of Cordoba; delete.labels==Universidad Católica de Córdoba;$","ror-curator-bot
+05/01/2023, 14:43:28 | 05/01/2023, 14:43:28
+comment_text: Update: change.name==Universidad Católica de Córdoba add.aliases==Catholic University of Cordoba;$
+
+---
+adambuttrick
+05/01/2023, 14:47:25 | 05/01/2023, 14:47:25
+comment_text: Name change corresponds to ROR policies about preferred language for primary name.
+
+---
+"
+Ready for sign-off ,1690892635,3196,https://github.com/ror-community/ror-updates/issues/3196,open,level 2; update record; jaguar,2023-05-01 14:36:26,2023-05-01 14:52:53,"Modify the information in an existing ROR record: 
+Amsterdam University Medical Centers https://ror.org/05grdyy37
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Amsterdam University Medical Centers
+ROR ID: https://ror.org/05grdyy37
+Which part of the record needs to be changed? Organization website, Something else
+Description of change: I got two requests:
+
+1) Could you please change the website to the following? https://www.amsterdamumc.org
+
+2) Could you add a child organization for the Research Data Management department (that's the department I work at)? The website of my department is https://www.amsterdamumc.org/en/research-support/data-management.htm
+
+Update: replace.links==https://www.amsterdamumc.org;$","ror-curator-bot
+05/01/2023, 14:43:23 | 05/01/2023, 14:43:23
+comment_text: Update: replace.links==https://www.amsterdamumc.org;$
+
+---
+adambuttrick
+05/01/2023, 14:52:46 | 05/01/2023, 14:52:46
+comment_text: Link provided is for the organization. Departments are out of scope for ROR.
+
+---
+"
+Ready for sign-off ,1687982177,3170,https://github.com/ror-community/ror-updates/issues/3170,open,level 2; update record; jaguar,2023-04-28 06:32:46,2023-05-01 15:01:52,"add the information in an existing ROR record（Tokyo Medical University）: 
+ 
+","Summary of request: add the information in an existing ROR record（Tokyo Medical University）
+
+Update record:
+Name of organization: Tokyo Medical University
+ROR ID: https://ror.org/00k5j5c86
+Which part of the record needs to be changed?  Relationships
+Description of change: Add Tokyo Medical University Hospital as related
+
+Update: add.Wikidata==Q11524580;$
+
+Related organizations: https://ror.org/012e6rh19 (related)
+","adambuttrick
+04/28/2023, 18:46:21 | 04/28/2023, 18:46:21
+comment_text: Unclear/incomplete request. Will reach out to requestor.
+
+---
+adambuttrick
+05/01/2023, 15:01:05 | 05/01/2023, 15:01:05
+comment_text: Per requestor, add  https://ror.org/012e6rh19 as related.
+
+---
+"
+Ready for sign-off ,1687362373,3142,https://github.com/ror-community/ror-updates/issues/3142,open,level 1; new record; jaguar,2023-04-27 18:27:55,2023-05-01 19:48:48,"Add a new organization to ROR: 
+ 
+Islamic Azad University, Sepidan","Summary of request: Add a new organization to ROR
+
+Name of organization: Islamic Azad University, Sepidan
+Website: https://sepidan.iau.ir
+Link to publications: 10.18295/squmj.2021.21.02.005
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Islamic Azad University, Sepidan Branch
+Labels: دانشگاه آزاد اسلامی واحد سپیدان*Persian
+Acronym/abbreviation:
+Related organizations: 
+City: Sepidan
+Country: Iran
+Geonames ID: 135285
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications
+
+Other information about this request: ","ror-curator-bot
+04/27/2023, 21:48:04 | 04/27/2023, 21:48:04
+comment_text: Publication affiliation usage: https://doi.org/10.1186/2052-336x-12-62; https://doi.org/10.1002/2050-7038.2834; https://doi.org/10.1016/j.jclepro.2020.123631; https://doi.org/10.1007/s11071-012-0389-z; https://doi.org/10.1016/j.apenergy.2021.117708; https://doi.org/10.1093/chromsci/bmu216; https://doi.org/10.1016/j.engappai.2014.01.001; https://doi.org/10.1016/j.burns.2011.09.009; https://openalex.org/W2409531363; https://doi.org/10.22631/jicr.2018.1132.1925; https://openalex.org/W3137050463; https://doi.org/10.22038/jpsr.2018.19185.1488; https://openalex.org/W2792559266; https://doi.org/10.22037/jrm.2018.110898.1607; https://openalex.org/W2293788281; https://doi.org/10.22111/jeps.2016.2775; https://openalex.org/W2973305894; https://openalex.org/W2889984618; 
+Potential aliases: Islamic Azad University, Sepidan; دانشگاه آزاد اسلامی واحد سپیدان
+
+---
+adambuttrick
+04/27/2023, 22:00:55 | 04/27/2023, 22:01:47
+comment_text: University in Iran and part of the Islamic Azad University system. Funds and employs researchers. Solid affiliation usage. I can't get the site to load, but has plenty of affiliation usage. Sibling orgs are already in ROR (e.g. https://ror.org/04hnf9a51), so this can be added.
+
+---
+carlyrobinson
+05/01/2023, 19:48:39 | 05/01/2023, 19:48:39
+comment_text: Agree, should be added to ROR
+
+---
+"
+Ready for sign-off ,1685336243,3127,https://github.com/ror-community/ror-updates/issues/3127,open,level 1; new record; jaguar,2023-04-26 16:18:27,2023-05-01 19:52:29,"Add a new organization to ROR: 
+ 
+Centro de Desarrollo Tecnológico del Cesar","Summary of request: Add a new organization to ROR
+
+Name of organization: Centro de Desarrollo Tecnológico del Cesar
+Website: https://cdtcesar.com
+Link to publications: https://cdtcesar.com
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: CDT Cesar; CDT Ganadero
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: Valledupar
+Country: Colombia
+Geonames ID: 3666304
+Year established: 2007
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility
+
+Other information about this request: ","ror-curator-bot
+04/26/2023, 16:37:36 | 04/26/2023, 16:37:36
+comment_text: Summary: The Centro de Desarrollo Tecnológico del Cesar is an organization focused on developing technology and innovation projects with a constant generation of new knowledge, using techniques such as animal cloning, intra cytoplasmic sperm injection, in vitro fertilization, and reproductive health exams. Additionally, they offer services related to milk quality and act as an authorized inspection organization for Brucellosis and Tuberculosis.
+
+---
+adambuttrick
+04/26/2023, 16:52:42 | 04/26/2023, 16:52:42
+comment_text: Agricultural research company in Columbia. Funds and employs researchers. Direct affiliation usage is somewhat limited, but there appear to be plenty of secondary references to this organization, so I think this is fine to add.
+
+Publication affiliation usage: http://dx.doi.org/10.4067/S0718-07642022000600125; https://doi.org/10.15446/rev.colomb.biote.v21n1.73340
+
+---
+carlyrobinson
+05/01/2023, 19:52:21 | 05/01/2023, 19:52:21
+comment_text: I see the use in acknowledgements, so agree it should be added to ROR.
+
+---
+"
+Ready for sign-off ,1683958516,3119,https://github.com/ror-community/ror-updates/issues/3119,open,level 1; new record; jaguar,2023-04-25 22:25:00,2023-05-01 19:54:48,"Add a new organization to ROR: 
+ 
+Bernhardt Laboratories","Summary of request: Add a new organization to ROR
+
+Name of organization: Bernhardt Laboratories
+Website: https://www.bernhardtlabs.com
+Link to publications: https://pubmed.ncbi.nlm.nih.gov/31456662/
+Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Bernhardt Labs
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: Jacksonville
+Country: USA
+Geonames ID: 4160021
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: ","ror-curator-bot
+04/25/2023, 22:26:16 | 04/25/2023, 22:26:16
+comment_text: Publication affiliation usage: https://doi.org/10.1097/pai.0000000000001002; https://doi.org/10.1097/lgt.0000000000000324; https://doi.org/10.3389/fnmol.2019.00197; https://doi.org/10.1097/dad.0b013e3182104182; https://doi.org/10.3390/ijms22115414; https://doi.org/10.4103/idoj.idoj_141_17; https://doi.org/10.1097/dad.0000000000000354; https://doi.org/10.12788/cutis.0154; 
+Potential aliases: Bernhardt Laboratories
+Summary: Bernhardt Laboratories is a diagnostic service provider offering comprehensive anatomic and clinical pathology services, with a focus on pathology subspecialties and fast turnaround times, and recently joined the Anatomic Pathology Division of Sonic Healthcare USA.
+
+---
+adambuttrick
+04/25/2023, 22:38:18 | 04/25/2023, 22:38:18
+comment_text: Clinical diagnostic services company in the US. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+carlyrobinson
+05/01/2023, 19:54:42 | 05/01/2023, 19:54:42
+comment_text: Agree, should be added to ROR.
+
+---
+"
+Ready for sign-off ,1683958501,3118,https://github.com/ror-community/ror-updates/issues/3118,open,level 1; new record; jaguar,2023-04-25 22:24:59,2023-05-01 19:57:21,"Add a new organization to ROR: 
+ 
+Andrologicum München","Summary of request: Add a new organization to ROR
+
+Name of organization: Andrologicum München
+Website: https://andrologicum.com
+Link to publications: https://pubmed.ncbi.nlm.nih.gov/32824411/
+Organization type: Healthcare
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Andrologicum
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: München
+Country: Germany
+Geonames ID: 2867714
+Year established: 
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
+
+Other information about this request: ","ror-curator-bot
+04/25/2023, 22:26:54 | 04/25/2023, 22:26:54
+comment_text: Publication affiliation usage: https://doi.org/10.1111/j.2047-2927.2014.00243.x; https://doi.org/10.1080/09553000701444657; https://doi.org/10.1007/s00105-018-4307-2; https://doi.org/10.1111/and.12460; https://doi.org/10.1055/a-1017-3389; https://doi.org/10.1007/s00120-016-0150-1; https://doi.org/10.1007/s00120-016-0136-z; https://doi.org/10.1007/s00120-016-0163-9; https://doi.org/10.1007/978-3-642-38023-5_24; https://doi.org/10.1038/s41598-019-51380-w; https://doi.org/10.1016/j.fertnstert.2006.11.100; https://doi.org/10.1093/humrep/der245; https://doi.org/10.1210/en.2009-1325; https://doi.org/10.1586/eci.11.57; https://doi.org/10.1111/j.1365-2605.2011.01225.x; https://doi.org/10.1093/humrep/deq170; https://doi.org/10.1111/j.1365-2605.2012.01281.x; https://doi.org/10.1016/j.fertnstert.2011.05.035; https://doi.org/10.1038/srep37128; https://doi.org/10.1111/j.2047-2927.2012.00030.x; 
+Potential aliases: Andrologicum München; Andrologicum
+Summary: The organization's homepage is primarily focused on its dermatology and andrology medical practice in Munich, providing services to patients and highlighting their expertise and qualifications in these areas.
+
+---
+adambuttrick
+04/25/2023, 22:36:16 | 04/25/2023, 22:36:16
+comment_text: Medical practice in Germany. Affiliation usage looks fine, so this can be added.
+
+---
+carlyrobinson
+05/01/2023, 19:57:13 | 05/01/2023, 19:57:13
+comment_text: Agree, should be added to ROR.
+
+---
+"
+Ready for sign-off ,1682877527,3114,https://github.com/ror-community/ror-updates/issues/3114,open,level 2; update record; jaguar,2023-04-25 10:19:53,2023-05-01 19:59:18,"Add a new organization to ROR: 
+ 
+DOAB Foundation","Summary of request: Add a new organization to ROR
+
+Name of organization: Directory of Open Access Books
+Website: https://www.doabooks.org/
+Link to publications: 10.1629/2048-7754.26.1.55 
+Organization type: Archive (An organization involved in stewarding research and cultural heritage materials. Includes libraries, museums, and zoos)
+Wikipedia page: 
+Wikidata ID: Q21750281
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Stichting DOAB; DOAB Foundation
+Labels:
+Acronym/abbreviation: DOAB
+Related organizations: 
+City: The Hague
+Country: Netherlands
+Geonames ID: 2747373
+Year established: 2019
+How will a ROR ID for this organization be used? To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/25/2023, 14:53:16 | 04/25/2023, 14:53:16
+comment_text: Wikidata Name: Directory of Open Access Books
+Wikidata ID: Q21750281
+Wikidata name match ratio: 100
+wikipedia_url: https://ca.wikipedia.org/wiki/DOAB
+Established: 2012
+City: The Hague
+City Geonames ID: 2747372
+links: https://www.doabooks.org/
+ORCID affiliation usage: https://orcid.org/0000-0002-8050-8175; https://orcid.org/0000-0001-6551-8140
+Summary: The Directory of Open Access Books (DOAB) is a community-driven platform that provides free access to scholarly, peer-reviewed open access books while also offering initiatives such as the Peer Review Information Service for Monographs (PRISM) and Supporting Ukrainian Editorial Staff (SUES) to further support trust and quality assurance in open access book publishing.
+
+---
+adambuttrick
+04/25/2023, 15:59:37 | 04/25/2023, 15:59:37
+comment_text: Open access book platform and sibling org to DOAJ. Since DOAJ is in ROR, this can be added as well.
+
+---
+carlyrobinson
+05/01/2023, 19:59:10 | 05/01/2023, 19:59:10
+comment_text: Agree, should be added to ROR.
+
+---
+"
+Ready for sign-off ,1683102682,3115,https://github.com/ror-community/ror-updates/issues/3115,open,level 1; new record; jaguar,2023-04-25 12:44:12,2023-05-01 20:06:35,"Add a new organization to ROR: 
+ 
+Instituto de Geografía Tropical","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: Instituto de Geografía Tropical
+Website: http://www.geotech.cu
+Link to publications: https://repositorio.geotech.cu
+Organization type: Government (An organization that is part of or operated by a national or regional government and that conducts or supports research)
+Wikipedia page: https://es.wikipedia.org/wiki/Instituto_de_Geograf%C3%ADa_Tropical
+Wikidata ID: Q24962017
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Institute of Tropical Geography
+Labels: 
+Acronym/abbreviation: IGT
+Related organizations: 
+City: La Habana
+Country: Cuba
+Geonames ID: 3553478
+Year established: 1962
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To be integrated in a scholarly publishing system, 
+
+Other information about this request: Instituto de Geografía Tropical. Institución cubana, adscrita al CITMA encargada de la investigación del medio ambiente, la geografía y la geomática.
+
+Misión
+Producir conocimientos y soluciones geográficas, ambientales y geomáticas, con énfasis en el Ordenamiento Ambiental y el despliegue de las Infraestructuras de Datos Espaciales, para contribuir a las estrategias de adaptación a los cambios climáticos, mitigación de desastres, seguridad alimentaria y gestión costera, en función del desarrollo sostenible.","ror-curator-bot
+04/25/2023, 14:27:54 | 04/25/2023, 14:27:54
+comment_text: Publication affiliation usage: https://doi.org/10.5377/ribcc.v1i1.2150; https://openalex.org/W1599347902; https://doi.org/10.5377/ribcc.v1i1.2140; https://doi.org/10.5377/ribcc.v1i1.2151; https://doi.org/10.1002/fee.2311; https://doi.org/10.5377/ribcc.v1i1.2149; https://doi.org/10.14350/rig.59054; https://doi.org/10.5377/ribcc.v1i2.2478; https://doi.org/10.2139/ssrn.4194204; https://openalex.org/W3037537001; https://doi.org/10.1093/ije/29.4.764; https://doi.org/10.1109/icalip.2010.5684385; https://doi.org/10.5281/zenodo.7831190; https://doi.org/10.1023/a:1006821725244; https://doi.org/10.1016/0964-5691(93)90003-h; https://doi.org/10.5281/zenodo.6526916; https://openalex.org/W3159337052; https://doi.org/10.1346/ccmn.1999.0470315; https://doi.org/10.1016/j.rse.2009.03.012; https://doi.org/10.1021/jp0366769; https://doi.org/10.1016/s1470-160x(02)00045-6; https://doi.org/10.1016/j.gca.2004.01.003; https://doi.org/10.1016/s0886-7798(01)00042-6; https://doi.org/10.1039/b302331a; 
+Potential aliases: Instituto de Geografía Tropical; Institute of Tropical Geography; IGT
+Summary: The Instituto de Geografía Tropical conducts research on environmental conservation, biodiversity, and climate change in Cuba through various projects and publications, with a focus on tropical geography.
+
+---
+adambuttrick
+04/25/2023, 14:37:31 | 04/25/2023, 14:37:31
+comment_text: Cartographic research institute in Cuba. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+carlyrobinson
+05/01/2023, 20:06:25 | 05/01/2023, 20:06:25
+comment_text: Agree, should be added to ROR.
+
+---
+"
+Ready for sign-off ,1691442346,3198,https://github.com/ror-community/ror-updates/issues/3198,open,level 2; update record; jaguar,2023-05-01 21:39:09,2023-05-01 23:13:07,"Modify the information in an existing ROR record: 
+TU Wien https://ror.org/04d836q62
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: TU Wien
+ROR ID: https://ror.org/04d836q62
+Which part of the record needs to be changed? Other names or name versions listed in the record
+Description of change: Before, the name ""Vienna University of Technology"" was used in their official website, but more recently the version ""TU Wien"" is preferred.
+https://www.google.com/search?q=%22Vienna+University+of+Technology%22+site%3Atuwien.ac.at
+I propose adding ""Vienna University of Technology"" as an alternative name.
+
+Update: add.aliases==Vienna University of Technology;$","ror-curator-bot
+05/01/2023, 23:04:39 | 05/01/2023, 23:04:39
+comment_text: Update: change.name==TU Wien add.aliases==Vienna University of Technology;$
+
+---
+adambuttrick
+05/01/2023, 23:13:00 | 05/01/2023, 23:13:00
+comment_text: Plenty of affiliation usage with this form, so this is fine to add.
+
+Publication affiliation usage: https://doi.org/10.1038/nature08823; https://doi.org/10.1103/physrevlett.102.226401; https://doi.org/10.1038/nnano.2014.215; https://doi.org/10.1504/ijahuc.2007.014070; https://doi.org/10.1007/s10584-011-0148-z; https://doi.org/10.1016/j.carbon.2005.02.018; https://doi.org/10.1016/j.future.2008.12.001
+
+---
+"
+Ready for sign-off ,1691442360,3199,https://github.com/ror-community/ror-updates/issues/3199,open,level 2; update record; jaguar,2023-05-01 21:39:10,2023-05-01 23:16:30,"Modify the information in an existing ROR record: 
+University of Camerino https://ror.org/0005w8d69
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: University of Camerino
+ROR ID: https://ror.org/0005w8d69
+Which part of the record needs to be changed? Other names or name versions listed in the record
+Description of change: add the alternative (short) names: ""UNICAM"" and ""Università di Camerino"", as seen on the website https://www.unicam.it
+
+Update: add.acronyms==UNICAM; delete.labels==Università degli Studi di Camerino; change.name==Università di Camerino; add.aliases==University of Camerino; add.aliases==Università degli Studi di Camerino;$","ror-curator-bot
+05/01/2023, 23:04:31 | 05/01/2023, 23:04:31
+comment_text: Update: add.aliases==UNICAM add.aliases==Università di Camerino;$
+
+---
+adambuttrick
+05/01/2023, 23:16:18 | 05/01/2023, 23:16:18
+comment_text: Changing Italian form on site to primary, as that is also what is used on English page.
+
+---
+"
+Ready for sign-off ,1691442370,3200,https://github.com/ror-community/ror-updates/issues/3200,open,level 2; update record; jaguar,2023-05-01 21:39:11,2023-05-01 23:18:49,"Modify the information in an existing ROR record: 
+Zaragoza Logistics Center https://ror.org/02tpwnr26
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Zaragoza Logistics Center
+ROR ID: https://ror.org/02tpwnr26
+Which part of the record needs to be changed? Something else
+Description of change: Institution is affiliated with MIT and Universidad de Zaragoza (see https://www.zlc.edu.es/who-we-are/)
+
+Update: replace.links==https://www.zlc.edu.es;$
+
+Related organizations: https://ror.org/012a91z28 (related) https://ror.org/042nb2s44 (related)
+
+","adambuttrick
+05/01/2023, 23:18:46 | 05/01/2023, 23:18:46
+comment_text: Confirmed relationships via organization's site.
+
+---
+"
+Ready for sign-off ,1675692777,3049,https://github.com/ror-community/ror-updates/issues/3049,open,level 1; new record; jaguar,2023-04-19 21:49:05,2023-05-02 06:54:56,Add a new organization to ROR - Soziologisches Forschungsinstitut Göttingen,"Summary of request: Add a new organization to ROR
+
+Name of organization: Soziologisches Forschungsinstitut Göttingen
+Website: https://sofi.uni-goettingen.de
+Link to publications:
+Organization type: Facility
+Wikipedia page: https://de.wikipedia.org/wiki/Soziologisches_Forschungsinstitut_G%C3%B6ttingen
+Wikidata ID: Q1690643
+ISNI ID: 0000 0000 9720 2418
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases:
+Labels:
+Acronym/abbreviation: 
+Related organizations: https://ror.org/01y9bpm73 (related)
+City: Göttingen
+Country: Germany
+Geonames ID: 6557373
+Year established: 1968
+","ror-curator-bot
+04/19/2023, 21:51:03 | 04/19/2023, 21:51:03
+comment_text: Wikidata Name: Soziologisches Forschungsinstitut Göttingen
+Wikidata ID: Q1690643
+Wikidata name match ratio: 100
+wikipedia_url: https://de.wikipedia.org/wiki/Soziologisches_Forschungsinstitut_G%C3%B6ttingen
+Established: 1968
+Admin territory name: Göttingen
+Admin territory Geonames ID: 6557373
+Country: Germany
+Wikidata ISNI ID: 0000 0000 9720 2418
+ISNI: 0000 0000 9720 2418
+Publication affiliation usage: https://doi.org/10.1177/1024258911431211; https://doi.org/10.1007/s12134-014-0401-1; https://doi.org/10.1177/0958928714538216; https://doi.org/10.1017/s0003975613000155; https://doi.org/10.1007/978-3-531-19345-8_12; https://doi.org/10.1007/s11577-017-0459-9; https://doi.org/10.1007/s11618-012-0332-6; https://doi.org/10.17645/si.v9i1.3599; https://doi.org/10.1007/bf03250970; 
+Potential aliases:
+
+---
+adambuttrick
+04/19/2023, 21:55:04 | 04/19/2023, 21:55:04
+comment_text: Related to #2679. Research institute affiliated to https://ror.org/01y9bpm73. Affiliation usage is fine, but degree of independence is somewhat ambiguous. Was at one time independent from https://ror.org/01y9bpm73, but then later became a part of in some fashion.
+
+@MSpenger Can you weigh in here?
+
+---
+MSpenger
+05/02/2023, 06:54:47 | 05/02/2023, 06:54:47
+comment_text: This can be handled similar as https://github.com/ror-community/ror-updates/issues/2819 . I would recommend a ROR as the institute is an e.V. and has a good publication affiliation usage.
+
+---
+"
+Ready for sign-off ,1691000602,3197,https://github.com/ror-community/ror-updates/issues/3197,open,level 1; new record; jaguar,2023-05-01 16:00:16,2023-05-02 12:49:08,"Add a new organization to ROR: 
+ 
+AMAQUEN Think Tank","Summary of request: Add a new organization to ROR
+
+Name of organization: AMAQUEN Foundation
+Website: https://amaquen.org
+Link to publications: https://doi.org/10.37870/joqie
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: Q74434529
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Association Marocaine pour l'Amelioration de la Qualite de l'Enseignement; AMAQUEN; AMAQUEN Think Tank
+Labels:
+Acronym/abbreviation:
+Related organizations: 
+City: Rabat
+Country: Morocco
+Geonames ID: 2538475
+Year established: 2003
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+05/01/2023, 17:37:09 | 05/01/2023, 17:40:34
+comment_text: Nonprofit foundation and publisher of open access journal ""The Journal of Quality in Education."" [Crossref member](https://api.crossref.org/members/24758). Journal is listed in DOAJ as having been published since 2010, so this is fine to add under our publisher use case.
+
+---
+ssmulyan
+05/02/2023, 12:41:26 | 05/02/2023, 12:41:26
+comment_text: some affiliations as ""AMAQUEN Institute"" (should that be added as an alias?)
+10.37870/joqie.v10i16.225
+10.37870/naji.1.2020
+
+
+---
+ssmulyan
+05/02/2023, 12:48:48 | 05/02/2023, 12:48:48
+comment_text: same author as above
+https://orcid.org/0000-0001-7598-3038
+
+
+Agreed they are in scope as a publisher.   
+
+
+
+---
+"
+Ready for sign-off ,1675181858,3036,https://github.com/ror-community/ror-updates/issues/3036,open,level 1; new record; jaguar,2023-04-19 15:48:12,2023-05-02 14:02:39,"Add a new organization to ROR: 
+ 
+Deep Ocean Observing Strategy","Summary of request: Add a new organization to ROR
+
+Name of organization: Deep Ocean Observing Strategy
+Website: https://www.deepoceanobserving.org/
+Link to publications: https://doi.org/10.3389/fmars.2019.00241; https://oceandecade.org/actions/deep-ocean-observing-strategy/; https://doi.org/10.4031/MTSJ.56.3.33 (pp 50-66); https://doi.org/10.1093/icesjms/fsac145; https://doi.org/10.1093/icesjms/fsac143
+Organization type: Other (Use this category for any organization that does not fit the categories above)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: iDOOS
+Labels:
+Acronym/abbreviation: DOOS; iDOOS
+Related organizations: DOOS is funded by ror.org/021nxhr62. The PI is at ror.org/01gek1696, and co-Investigators are from ror.org/04v7hvq31, ror.org/01wspgy28, ror.org/013ckk937, and ror.org/02nb3aq72
+City: Distributed
+Country: United States of America
+Geonames ID:
+Year established: 2014
+How will a ROR ID for this organization be used? To identify affiliations for datasets, To acknowledge a research facility
+
+Other information about this request: DOOS is an NSF-funded Accelnet project that is creating a ""network of networks"" around deep ocean observing science, technology, policy and education. Within the network are dozens of observatories, research groups, and data facilities around the globe. These will be added to ROR over time. ","ror-curator-bot
+04/19/2023, 16:03:25 | 04/19/2023, 16:13:15
+comment_text: Publication affiliation usage: https://doi.org/10.1126/sciadv.aar4313; https://openalex.org/W3163846576; https://doi.org/10.5194/egusphere-egu23-6977; https://doi.org/10.5281/zenodo.4518830; https://doi.org/10.1007/s11082-009-9344-8; https://doi.org/10.1002/ange.19370501905; https://doi.org/10.1007/bf01382989; 
+Potential aliases: Deep Ocean Observing Strategy; DOOS
+
+---
+adambuttrick
+04/19/2023, 16:32:33 | 04/19/2023, 16:32:33
+comment_text: NSF-funded ocean monitoring initiative. The affiliation usage seems fine, but there are a couple of wrinkles: 
+
+- This is explicitly listed as a term-limited project that,  ""...will run from Oct. 1, 2021 to Sept. 30, 2025.""
+- It has no concrete location or institutional base. We would need at least one reference location to create the record.
+
+We've seen similar distributed research infrastructure in the European and other contexts, although typically with a more solid grounding in the cases where we've added. The request indicates the intent to add ""dozens of observatories, research groups, and data facilities around the globe"" as child organizations over time, so I'm assuming this will serve as the parent record under which all of these would sit.
+
+If others are fine with this, we can add. I can also check in with the requestor to get a better sense of the project's current level of operation and intended use of ROR IDs.
+
+
+
+---
+nlundvick
+05/02/2023, 14:02:16 | 05/02/2023, 14:02:16
+comment_text: Regarding the temporary nature of the organization - I think we can add if there is demonstrated affiliation use.
+
+I am not funding much in the way of author affiliation use. One ORCID user with DOOS affiliation: https://orcid.org/0000-0003-3589-9119.
+
+Funding acknowledgements: https://doi.org/10.1038/s41559-019-1091-z; https://doi.org/10.1093/icesjms/fsac189; https://doi.org/10.1093/icesjms/fsac143.
+
+I would consider this organization in scope under the research funder case.
+
+---
+"
+Ready for sign-off ,1690461981,3195,https://github.com/ror-community/ror-updates/issues/3195,open,level 1; new record; jaguar,2023-05-01 06:46:53,2023-05-02 14:09:01,"Add a new organization to ROR: 
+ 
+JCT College Of Engineering And Technology","Summary of request: Add a new organization to ROR
+
+Name of organization: JCT College Of Engineering And Technology
+Website: https://www.jct.ac.in
+Link to publications: 
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: JCTCET
+Labels:
+Acronym/abbreviation: 
+Related organizations: https://ror.org/01qhf1r47 (related)
+City: COIMBATORE
+Country: India
+Geonames ID: 1273865
+Year established: 2009
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility
+
+Other information about this request: ","ror-curator-bot
+05/01/2023, 14:43:16 | 05/01/2023, 14:43:16
+comment_text: Publication affiliation usage: https://doi.org/10.1016/j.solidstatesciences.2013.09.003; https://doi.org/10.1016/j.molliq.2017.06.064; https://doi.org/10.1016/j.fuel.2013.11.062; https://doi.org/10.1016/j.chemosphere.2021.129540; https://doi.org/10.1080/15435075.2013.829774; https://doi.org/10.1016/j.renene.2020.09.112; https://doi.org/10.1016/j.biombioe.2020.105752; https://doi.org/10.1016/j.ecoenv.2015.04.043; https://doi.org/10.1016/j.molliq.2019.112426; https://doi.org/10.1016/j.matpr.2017.11.394; https://doi.org/10.1016/j.matpr.2022.05.101; 
+Potential aliases: JCT College Of Engineering And Technology; JCTCET
+
+---
+adambuttrick
+05/01/2023, 14:50:48 | 05/01/2023, 14:50:48
+comment_text: Engineering college affiliated to https://ror.org/01qhf1r47. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+nlundvick
+05/02/2023, 14:08:45 | 05/02/2023, 14:08:45
+comment_text: Established, top-level organizations associated with research activities and publications. Affiliation use: https://api.crossref.org/works/?query.affiliation=JCT+College+Engineering+Technology. In scope, add to ROR.
+
+---
+"
+Ready for sign-off ,1682877498,3113,https://github.com/ror-community/ror-updates/issues/3113,open,level 1; new record; jaguar,2023-04-25 10:19:52,2023-05-01 20:02:49,"Add a new organization to ROR: 
+ 
+OAPEN Foundation","Summary of request: Add a new organization to ROR
+
+Add record:
+Name of organization: OAPEN Foundation
+Website: https://www.oapen.org
+Link to publications: 10.1629/uksg.580 ; 10.53377/lq.10938 ; 10.5281/zenodo.1220607 
+Organization type: Other
+Wikipedia page: 
+Wikidata ID: Q49096845
+ISNI ID: 0000 0004 5894 4610
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Stichting OAPEN
+Labels:
+Acronym/abbreviation: OAPEN
+Related organizations: 
+City: The Hague
+Country: Netherlands
+Geonames ID:
+Year established: 2011
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+04/25/2023, 14:28:29 | 04/25/2023, 14:28:29
+comment_text: Publication affiliation usage: https://doi.org/10.7557/5.3139; https://doi.org/10.7710/2162-3309.1187; https://doi.org/10.5210/fm.v18i5.4250; https://doi.org/10.7557/5.3032; https://doi.org/10.5281/zenodo.5735021; https://doi.org/10.7557/11.5751; https://doi.org/10.1007/s11192-016-2160-6; https://doi.org/10.1629/uksg.539; 
+Potential aliases: OAPEN Foundation
+
+---
+adambuttrick
+04/25/2023, 14:51:53 | 04/25/2023, 14:51:53
+comment_text: Open access book platform and one of the parent orgs for DOAB -  https://github.com/ror-community/ror-updates/issues/3114. Affiliation usage looks fine and since DOAJ (and most likely DOAB) are in scope, this can be added as well.
+
+---
+carlyrobinson
+05/01/2023, 20:02:41 | 05/01/2023, 20:02:41
+comment_text: See good affiliation usage. Agree, should add.
+
+---
+"
+Ready for sign-off ,1675524678,3040,https://github.com/ror-community/ror-updates/issues/3040,open,level 1; new record; jaguar,2023-04-19 19:49:02,2023-05-02 18:43:08,Add a new organization to ROR - University Library Johann Christian Senckenberg,"Summary of request: Add a new organization to ROR
+
+Name of organization: Universitätsbibliothek Johann Christian Senckenberg
+Website: http://www.ub.uni-frankfurt.de/
+Link to publications:
+Organization type: Archive
+Wikipedia page: https://en.wikipedia.org/wiki/Frankfurt_University_Library
+Wikidata ID: Q875587
+ISNI ID: 0000 0001 2321 7358
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases: University Library Frankfurt am Main; Universitätsbibliothek Frankfurt am Main; UB Frankfurt
+Labels: University Library Johann Christian Senckenberg*English
+Acronym/abbreviation: 
+Related organizations: https://ror.org/04cvxnb49 (parent)
+City: Bockenheim
+Country: Germany
+Geonames ID: 2947354
+Year established: 1484
+","ror-curator-bot
+04/19/2023, 20:00:34 | 04/19/2023, 20:00:34
+comment_text: Wikidata Name: University Library Johann Christian Senckenberg
+Wikidata ID: Q875587
+Wikidata name match ratio: 100
+wikipedia_url: https://en.wikipedia.org/wiki/Frankfurt_University_Library
+Admin territory name: Bockenheim
+Admin territory Geonames ID: 2947354
+City: Bockenheim
+City Geonames ID: 2947354
+Country: Germany
+links: http://www.ub.uni-frankfurt.de/
+Wikidata ISNI ID: 0000 0001 2321 7358
+Publication affiliation usage: https://doi.org/10.1007/s10579-021-09553-5; https://doi.org/10.1007/s00799-019-00265-4; https://doi.org/10.1145/3366030.3366099; https://doi.org/10.1007/s10579-021-09553-5; https://doi.org/10.1007/s00799-019-00265-4; https://doi.org/10.1145/3366030.3366099; https://doi.org/10.1177/000203971004500206; https://doi.org/10.1007/s00799-022-00322-5; https://doi.org/10.1177/0340035215597235; https://doi.org/10.1080/13614539609516744; https://doi.org/10.1007/s13222-016-0241-6; 
+Potential aliases: Frankfurt University Library; University Library Frankfurt am Main
+Summary: The Universitätsbibliothek Frankfurt am Main produces digital humanities research as well as curates and presents physical and online exhibitions on topics including colonial history, provenance research, and African cultural and linguistic systems.
+
+---
+adambuttrick
+04/19/2023, 20:04:57 | 04/19/2023, 20:04:57
+comment_text: Request from OA Switchboard as part of publisher integration. Long-standing library in Germany. University libraries are generally out of scope, but this appears to have a distinct state/cultural function as well.
+
+@MSpenger Can you weigh in on this?
+
+---
+MSpenger
+04/20/2023, 06:33:30 | 04/20/2023, 06:33:30
+comment_text: @adambuttrick : Yes, that is a tricky discussion. There are several other university libraries in Germany that fall in the same category as University Library Johann Christian Senckenberg, e.g. the previously declined https://github.com/ror-community/ror-updates/issues/268 and https://github.com/ror-community/ror-updates/issues/24 . Was there a specific need from OASwitchboard to have a specific ROR for this institution and not use https://ror.org/04cvxnb49 ? Right now, I can only see the category ""German National Libraries"" in their list (https://www.oaswitchboard.org/participants) followed by entries for the universities.
+
+
+---
+adambuttrick
+04/20/2023, 07:15:46 | 04/20/2023, 07:15:46
+comment_text: @MSpenger Yes, they’re working with a partner who has specifically requested these libraries. Am I correct in assuming these serve a dual state (at either the national or regional-level) and university function? If so, we may need to revisit this use case in the context of the monthly meeting. I did mention to OA Switchboard that we usually roll these up to their parents.
+
+---
+MSpenger
+04/20/2023, 08:21:37 | 04/20/2023, 08:21:37
+comment_text: Yes, we could take the case, that when a library fulfills the dual state (at either the national or regional-level) and university function, as a criteria for issuing a ROR ID. This would definitely be the case for University Library Johann Christian Senckenberg https://www.ub.uni-frankfurt.de/ueber/landes.html
+
+---
+adambuttrick
+05/02/2023, 18:43:08 | 05/02/2023, 18:43:08
+comment_text: In scope for ROR, per curation team discussion on 05/02/2023
+
+---
+"
+Ready for sign-off ,1675533875,3044,https://github.com/ror-community/ror-updates/issues/3044,open,level 1; new record; jaguar,2023-04-19 19:55:40,2023-05-02 18:43:02,Add a new organization to ROR - University and State Library of Saxony-Anhalt,"Summary of request: Add a new organization to ROR
+
+Name of organization: Universitäts- und Landesbibliothek Sachsen-Anhal
+Website: https://bibliothek.uni-halle.de
+Link to publications:
+Organization type: Archive
+Wikipedia page: https://de.wikipedia.org/wiki/Universit%C3%A4ts-_und_Landesbibliothek_Sachsen-Anhalt
+Wikidata ID: Q1600777
+ISNI ID: 0000 0001 2192 3902
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases:
+Labels: University and State Library of Saxony-Anhalt*English
+Acronym/abbreviation: 
+Related organizations: https://ror.org/05gqaka33 (parent)
+City: Halle (Saale)
+Country: Germany
+Geonames ID: 2911516
+Year established: 1696
+","ror-curator-bot
+04/19/2023, 19:59:42 | 04/19/2023, 19:59:42
+comment_text: Publication affiliation usage: https://openalex.org/W1487847323; https://openalex.org/W1493383724; https://openalex.org/W2164634041; https://openalex.org/W1923115596; https://openalex.org/W2159516269; 
+Potential aliases: ULB Halle
+Summary: The Universitäts- und Landesbibliothek Sachsen-Anhalt (ULB) Martin-Luther-Universität Halle-Wittenberg offers a diverse range of courses and services, but there is no information on its research areas, methodologies, or target audience.
+
+---
+adambuttrick
+04/19/2023, 20:07:34 | 04/19/2023, 20:07:34
+comment_text: Request from OA Switchboard as part of publisher integration. Long-standing library in Germany. University libraries are generally out of scope, but this appears to have a distinct state/cultural function as well.
+
+@MSpenger Can you weigh in on this?
+
+---
+MSpenger
+04/20/2023, 08:24:56 | 04/20/2023, 08:24:56
+comment_text: This is similar to https://github.com/ror-community/ror-updates/issues/3040 as this library is serving the dual state (in this case at the regional level) and university function. 
+Maybe we can update the criteria on adding this type of institution in our next meeting.
+
+---
+adambuttrick
+05/02/2023, 18:43:02 | 05/02/2023, 18:43:02
+comment_text: In scope for ROR, per curation team discussion on 05/02/2023.
+
+---
+"
+Ready for sign-off ,1681581773,3105,https://github.com/ror-community/ror-updates/issues/3105,open,level 1; new record; jaguar,2023-04-24 15:51:07,2023-05-02 21:02:39,"University of Michigan Press is the publishing entity of University of Michigan - Ann Arbor (https://ror.org/00jmfr291) in the same way that Cambridge University Press is the publishing department of University of Cambridge. I suspect we'll need to request a new organization as CUP does but wanted to ensure we follow best practice.: 
+
+","Add record:
+
+Name of organization: University of Michigan Press
+Website: http://www.press.umich.edu
+Link to publications:
+Organization type:
+Wikipedia page: https://en.wikipedia.org/wiki/University_of_Michigan_Press
+Wikidata ID: Q7895770
+ISNI ID: 0000 0000 9001 1168
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases:
+Labels:
+Acronym/abbreviation: 
+Related organizations: https://ror.org/00jmfr291 (parent)
+City: Ann Arbor
+Country: United States of America
+Geonames ID: 4984247
+Year established: 1930
+
+
+Other information about this request: 
+University of Michigan Press is the publishing entity of University of Michigan - Ann Arbor (https://ror.org/00jmfr291) in the same way that Cambridge University Press is the publishing department of University of Cambridge. I suspect we'll need to request a new organization as CUP does but wanted to ensure we follow best practice.","adambuttrick
+04/24/2023, 18:08:46 | 04/24/2023, 18:10:56
+comment_text: Moving this to Needs Discussion so we can flesh out how to handle university presses better in the context of our publisher use case. Has affiliation usage:
+
+https://doi.org/10.1002/(sici)1097-4571(1999)50:14<1346::aid-asi14>3.0.co;2-z; https://doi.org/10.1002/leap.1352; https://doi.org/10.1080/00987913.2017.1316617; https://doi.org/10.1007/978-0-387-89339-6_2
+
+
+
+---
+adambuttrick
+05/02/2023, 20:58:05 | 05/02/2023, 20:58:05
+comment_text: In scope, per curation team discussion on 05/02/2023/
+
+---
+"
+Ready for sign-off ,1324482186,930,https://github.com/ror-community/ror-updates/issues/930,open,level 1; new record; jaguar,2022-08-01 14:04:15,2023-05-03 14:46:19,"Add a new organization to ROR: 
+ 
+MRC Metabolic Diseases Unit","Summary of request: Add a new organization to ROR
+
+Name of organization: MRC Metabolic Diseases Unit
+Website: https://www.mrl.ims.cam.ac.uk/mrc-metabolic-diseases-unit/
+Link to publications: https://europepmc.org/search?query=%28AFF%3A%22MRC%20Metabolic%20Diseases%20Unit%22%29
+Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 0000 0004 8340 849X
+GRID ID: 
+Crossref Funder ID: 
+Aliases: Medical Research Council Metabolic Diseases Unit
+Labels:
+Acronym/abbreviation: MDU
+Related organizations: https://ror.org/03x94j517 (parent) https://ror.org/013meh722 (parent)
+City: Cambridge
+Country: United Kingdom
+Geonames ID: 2653941
+Year established: 2013
+How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
+
+Other information about this request: ","adambuttrick
+08/01/2022, 16:34:44 | 08/01/2022, 17:00:40
+comment_text: Confusing hierarchy, similar to #928. Affiliation usage has this pretty far nested within other organizations (e.g. [""Metabolic Research Laboratories and MRC Metabolic Diseases Unit, Wellcome Trust-MRC Institute of Metabolic Science, Addenbrooke's Hospital, University of Cambridge""](https://doi.org/10.1002/cphy.c170047)), which leans toward it being out of scope. The parent organization, [Wellcome-MRC Institute of Metabolic Science](https://www.ims.cam.ac.uk/) may be the better ""intermediate"" organization here, as it shares the qualities of being a joint venture between the Medical Research Council and University of Cambridge.
+
+Publication affiliation usage: https://doi.org/10.1002/cphy.c170047; https://physoc.onlinelibrary.wiley.com/doi/full/10.1002/phy2.156 ; https://anatomypubs.onlinelibrary.wiley.com/doi/abs/10.1002/ar.24601
+
+---
+arthurpsmith
+08/23/2022, 20:39:36 | 08/23/2022, 20:39:36
+comment_text: I added the ISNI in the metadata above.
+
+However, I agree this one seems to be part of at least two larger organizations that are more clearly ""top-level"". Just looking at the website we have:
+
+http://www.ims.cam.ac.uk/ - Wellcome/MRC Institute of Metabolic Science - https://ror.org/0264dxb48
+https://www.mrl.ims.cam.ac.uk/ - Metabolic Research Laboratories (not in ROR)
+
+and then this seems to be a part of the second. So I think this is already covered by https://ror.org/0264dxb48 - perhaps this and ""Metabolic Research Laboratories"" should be listed as alternate names on that record? Anyway I think we are agreed this one actually does seem out of scope for ROR right now.
+
+---
+mcherrMRC
+04/27/2023, 09:50:39 | 04/27/2023, 09:50:39
+comment_text: Dear all,
+
+I am following up this case in response to your rejection that MRC Metabolic Diseases Unit (MDU) should not have its own ROR. 
+
+After discussing with colleagues, we believe that the MRC MDU should have its own entry based on the following:
+
+1.	The MRC Epidemiology Unit (EU) which also falls under the Wellcome-MRC Institute of Metabolic Sciences and has its own entry on ROR ([https://ror.org/052578691). This Unit has the same status as the Metabolic Diseases Unit and so if the EU has its own entry then it is logical for MDU to have its own entry as well. 
+
+2.	The MRC MDU is a research organisation in its own right. 
+
+3.	Finally papers published by the unit are mostly in the following format ‘Metabolic Research Laboratories and MRC Metabolic Diseases Unit, Wellcome Trust-MRC Institute of Metabolic Science’. This wording can be found on papers affiliated to the unit via EuropePMC: (https://europepmc.org/search?query=%28AFF%3A%22MRC%20Metabolic%20Diseases%20Unit%22%29&page=1)
+
+I am in the process of ensuring that all MRC units and Institutes are included in the Journal Tracker Tool (https://journalcheckertool.org/). The tool, which pulls data from the Research Organisation Registry, is used by researchers to assess what options they have for publishing in a journal and whether it complies with the UKRI Open Access Policy. Not having an ROR ID excludes researchers at MRC MDU from taking advantage of available tools and puts them at a serious disadvantage compared to their peers at other MRC units.
+
+If there is anything else I can do to provide more evidence, please let me know and I can look into it further.
+
+Kind regards,
+
+Michael Cherrington
+Policy and Information Manager
+Medical Research Council
+
+---
+adambuttrick
+04/27/2023, 20:56:54 | 04/27/2023, 20:56:54
+comment_text: @mcherrMRC Thank you for this additional context. The curation team will reassess.
+
+---
+adambuttrick
+05/02/2023, 16:44:56 | 05/02/2023, 17:00:08
+comment_text: In scope, per curation team discussion on 05/02/2023.
+
+---
+adambuttrick
+05/02/2023, 18:27:00 | 05/02/2023, 18:27:00
+comment_text: @mcherrMRC We will get this published next week. Could you please clarify whether the correct parents here and for the MRC Epidemiology Unit are Medical Research Council and the University of Cambridge or just the Wellcome/MRC Institute of Metabolic Science?
+
+---
+mcherrMRC
+05/03/2023, 07:11:28 | 05/03/2023, 07:11:28
+comment_text: Thank you for reconsidering. I can confirm that the Parents should be Medical Research Council (as the funder) and University of Cambridge (as the overarching institution).
+
+Please let me know if you require any further information.
+
+---
+"
+Ready for sign-off ,1694032634,3201,https://github.com/ror-community/ror-updates/issues/3201,open,level 2; update record; jaguar,2023-05-03 13:00:01,2023-05-03 14:52:40,"Modify the information in an existing ROR record: 
+Finnish Advanced Light Microscopy Node https://ror.org/023f5cj14
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Finnish Advanced Light Microscopy Node
+ROR ID: https://ror.org/023f5cj14
+Which part of the record needs to be changed? Primary name, Other names or name versions listed in the record, Organization website
+Description of change: Primary Name needs to be changed to ""Finnish Advanced Microscopy Node""
+Other names need to be changed to ""FiAM, EBI FiAM""
+Website needs to be changed to https://eurobioimaging.fi/FiAM
+
+Update: change.name==Finnish Advanced Microscopy Node; replace.acronyms==FiAM; add.acronyms==EBI FiAM; replace.links==https://eurobioimaging.fi/FiAM;$","ror-curator-bot
+05/03/2023, 14:40:20 | 05/03/2023, 14:40:20
+comment_text: Update: change.name==Finnish Advanced Microscopy Node replace.aliases==[FiAM, EBI FiAM] replace.links==https://eurobioimaging.fi/FiAM;$
+
+---
+adambuttrick
+05/03/2023, 14:52:29 | 05/03/2023, 14:52:29
+comment_text: Name change corresponds to organization's website and branding. 
+
+---
+"
+Ready for sign-off ,1694617281,3203,https://github.com/ror-community/ror-updates/issues/3203,open,level 1; new record; jaguar,2023-05-03 18:53:39,2023-05-03 19:56:47,"Add a new organization to ROR: 
+ 
+Escola de Saúde Pública do Ceará","Summary of request: Add a new organization to ROR
+
+Name of organization: Escola de Saúde Pública do Ceará
+Website: https://www.esp.ce.gov.br
+Link to publications: https://cadernos.esp.ce.gov.br/index.php/cadernos/index
+Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 0000 0001 0098 9419
+GRID ID: 
+Crossref Funder ID: 
+Aliases:
+Labels:
+Acronym/abbreviation: ESP/CE
+Related organizations: 
+City: Fortaleza
+Country: Brazil
+Geonames ID: 3399415
+Year established: 1993
+How will a ROR ID for this organization be used? To be integrated in a scholarly publishing system
+
+Other information about this request: ","ror-curator-bot
+05/03/2023, 19:33:34 | 05/03/2023, 19:33:34
+comment_text: Publication affiliation usage: https://doi.org/10.1002/ijgo.13407; https://doi.org/10.1080/00034980120103478a; https://doi.org/10.1590/s0102-311x2009001300012; https://doi.org/10.1590/s1413-81232000000100016; https://doi.org/10.1590/s0104-11692006000400006; https://doi.org/10.1590/s1414-32832002000100008; https://doi.org/10.1590/s1415-790x2006000100009; https://doi.org/10.1016/j.jpba.2006.06.018; https://doi.org/10.1016/j.crci.2003.10.001; https://doi.org/10.1002/1522-2683(200109)22:15<3316::aid-elps3316>3.0.co;2-r; https://doi.org/10.1002/jssc.200290007; https://doi.org/10.1016/j.chemolab.2006.06.004; 
+Potential aliases: Escola de Saúde Pública do Ceará; ESP/CE
+
+---
+adambuttrick
+05/03/2023, 19:41:56 | 05/03/2023, 19:41:56
+comment_text: Public health university in Brazil. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+---
+"
+Ready for sign-off ,1694923068,3204,https://github.com/ror-community/ror-updates/issues/3204,open,level 1; new record; jaguar,2023-05-03 22:15:49,2023-05-03 23:08:23,Add a new organization to ROR: Rockefeller University Press,"Summary of request: Add a new organization to ROR
+
+Name of organization: Rockefeller University Press
+Website: https://rupress.org/ 
+Link to publications: https://api.crossref.org/works?query.publisher-name=Rockefeller&filter=has-ror-id:t
+Organization type: Other
+Wikipedia page: https://en.wikipedia.org/wiki/Rockefeller_University_Press
+Wikidata ID: Q1524082 
+ISNI ID: 0000 0004 0619 781X
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Acronym/abbreviation: RUP
+Related organizations:  https://ror.org/0420db125 (parent)
+City: New York
+Country: United States 
+Geonames ID: 5128581
+Year established: 1910
+How will a ROR ID for this organization be used? In the OA Switchboard and in publisher metadata
+Other information about this request: Since the curation board has determined that university presses are in scope for ROR, we should add ROR adopter Rockefeller University Press. 
+","ror-curator-bot
+05/03/2023, 23:06:38 | 05/03/2023, 23:06:38
+comment_text: Wikidata Name: Rockefeller University Press
+Wikidata ID: Q1524082
+Wikidata name match ratio: 100
+wikipedia_url: https://en.wikipedia.org/wiki/Rockefeller_University_Press
+Country: United States of America
+Wikidata ISNI ID: 0000 0004 0619 781X
+Publication affiliation usage: https://doi.org/10.1083/jcb.20081017220081203c; https://doi.org/10.1007/978-1-60761-580-4_22; https://doi.org/10.1083/jcb.200801036; https://doi.org/10.1083/jcb.200307018; https://doi.org/10.1126/science.aaf9133; https://doi.org/10.1083/jcb.201004104; https://doi.org/10.1084/jem.20072544; https://doi.org/10.1083/jcb.200312069; https://doi.org/10.1085/jgp.200809957; https://doi.org/10.1083/jcb.20081017220081203c; https://doi.org/10.1007/978-1-60761-580-4_22; https://doi.org/10.1083/jcb.200801036; https://doi.org/10.1083/jcb.200307018; https://doi.org/10.1126/science.aaf9133; https://doi.org/10.1083/jcb.201004104; https://doi.org/10.1084/jem.20072544; https://doi.org/10.1083/jcb.200312069; https://doi.org/10.1085/jgp.200809957; https://doi.org/10.1046/j.1365-2958.2003.03300.x; https://doi.org/10.5858/arpa.2011-0494-oa; https://doi.org/10.1134/s0030400x09120200; https://doi.org/10.1371/journal.pone.0186211; https://doi.org/10.1046/j.1365-2958.2003.03358.x; https://doi.org/10.1002/jimd.12080; https://doi.org/10.1007/s10891-013-0922-z; https://doi.org/10.1083/jcb.20081017220081203c; https://doi.org/10.1083/jcb.200307018; https://doi.org/10.1083/jcb.200801036; https://doi.org/10.1084/jem.20080053; https://doi.org/10.1083/jcb.201004104; https://doi.org/10.1085/jgp.200709940; https://doi.org/10.1084/jem.20072544; https://doi.org/10.1083/jcb.200312069; https://doi.org/10.1085/jgp.200809957; 
+Potential aliases: RUP; The Rockefeller University Press
+ORCID affiliation usage: https://orcid.org/0000-0003-2389-2243; https://orcid.org/0000-0002-8273-7123; https://orcid.org/0000-0001-9342-6614
+Previous requests: https://github.com/ror-community/ror-updates/issues/3204
+
+---
+adambuttrick
+05/03/2023, 23:08:07 | 05/03/2023, 23:08:07
+comment_text: In scope for ROR by virtue of our publisher use case. Affiliation usage looks fine as well.
+
+---
+"
+Ready for sign-off ,1687672302,3147,https://github.com/ror-community/ror-updates/issues/3147,open,level 1; new record; jaguar,2023-04-27 23:18:31,2023-04-28 22:18:35,Add a new organization to ROR - Anka University of Technology,"Summary of request: Add a new organization to ROR
+
+Name of organization: Anka Teknoloji Üniversitesi
+Website: http://www.anka.edu.tr
+Link to publications:
+Organization type: Education
+Wikipedia page: 
+Wikidata ID: Q19610519
+ISNI ID: 0000 0004 6416 627X 
+GRID ID: 
+Crossref Funder ID: 
+Other names for the organization: 
+Aliases: Anka Teknoloji Universitesi; Anka University of Technology;
+Labels:
+Acronym/abbreviation: 
+Related organizations:
+City: Ankara
+Country: Turkey
+Geonames ID: 323786
+Year established: 
+Other information about this request: Part of https://github.com/ror-community/ror-updates/issues/3135
+","ror-curator-bot
+04/28/2023, 22:16:56 | 04/28/2023, 22:16:56
+comment_text: Publication affiliation usage: https://openalex.org/W4291315642; https://openalex.org/W4291315642; https://doi.org/10.53568/yyusbed.1111817; 
+Potential aliases: Anka University of Technology
+
+---
+adambuttrick
+04/28/2023, 22:18:29 | 04/28/2023, 22:18:29
+comment_text: Private university in Turkey. Appears to have one time existed, but site is now offline and Twitter profile has been inactive since 2019. We could add as inactive, but will follow up with requestor.
+
+---
+"

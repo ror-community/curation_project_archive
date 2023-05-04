@@ -35,7 +35,43 @@ Cleanup,1280694907,786,https://github.com/ror-community/ror-updates/issues/786,o
 [20220622_names_w_country_names.xlsx](https://github.com/ror-community/ror-updates/files/8960415/20220622_names_w_country_names.xlsx)
 
 ",
-Cleanup,1339303725,979,https://github.com/ror-community/ror-updates/issues/979,open,level 2; update record; lion; project,2022-08-15 18:13:05,2022-08-15 18:13:05,"Project: Duplicate names in alias, label, and acronym fields","509 records have a name which is duplicated in another name field. These should be reviewed and corrected, where appropriate.
+Cleanup,1599813550,2439,https://github.com/ror-community/ror-updates/issues/2439,open,level 3; update record; lion; cleanup,2023-02-25 19:55:44,2023-02-25 23:39:52,"Fix inconsistent country naming: 
+ 
+","Summary of request: Fix inconsistent country naming
 
-[20220815_duplicate_names.xlsx](https://github.com/ror-community/ror-updates/files/9339005/20220815_duplicate_names.xlsx)
-.",
+Information about this request: The majority of records adhere to the country names used by GeoNames, but a join across the two data sets shows up a few that don't:
+
+Democratic Republic of the Congo
+Republic of the Congo
+should be
+-> DR Congo
+
+Palestinian Territory
+should be
+-> Palestinian
+
+Saint Kitts and Nevis
+should be
+-> St Kitts and Nevis
+
+Saint Vincent and the Grenadines
+should be
+-> St Vincent and Grenadines
+
+Sao Tome and Principe
+should be
+-> São Tomé and Príncipe
+
+Timor Leste
+should be
+-> Timor-Leste
+
+Vatican
+should be
+-> Vatican City
+","adambuttrick
+02/25/2023, 23:39:08 | 02/25/2023, 23:39:08
+comment_text: Inconsistent country naming is a result of shifting values on the Geonames side and us incrementally updating addresses on the basis of update requests. We will likely do a complete address refresh when we do a new schema version or some other kind of mass update.
+
+---
+"

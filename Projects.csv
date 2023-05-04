@@ -1,23 +1,9 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Projects,1305011392,865,https://github.com/ror-community/ror-updates/issues/865,open,level 2; update record; lion; project,2022-07-14 16:20:09,2022-07-14 16:20:59,Project: ROR/NISTEP Japanese Label Reconciliation,"Approximately 800 Japanese records in ROR lack Japanese language labels. When NISTEP reconciled their IDs with ROR, they published [a spreadsheet of their results](https://www.nistep.go.jp/en/?p=4916), which includes a mapping of ROR IDs to NISTEP's official Japanese language names for the organizations. We should use these names to update the ROR records to include them as labels.","adambuttrick
-07/14/2022, 16:20:59 | 07/14/2022, 16:20:59
-comment_text: 498 records without Japanese labels have these values available in the NISTEP spreadsheet
-[20220714_NISTEP_ja_label_reconciliation.xlsx](https://github.com/ror-community/ror-updates/files/9113521/20220714_NISTEP_ja_label_reconciliation.xlsx)
-.
-
----
-"
 Projects,1178224021,566,https://github.com/ror-community/ror-updates/issues/566,open,level 2; update record; lion; project,2022-03-23 14:44:45,2022-03-23 14:49:18,Project - Redirected Wikidata IDs,"@arthurpsmith has identified 700 records for which Wikidata IDs have been redirected to new values. We should update the Wikidata IDs in these records to correspond to their present/redirected values in Wikidata.
 
 [wikidata_correct_redirects.xlsx](https://github.com/ror-community/ror-updates/files/8333952/wikidata_correct_redirects.xlsx)
 
 ",
-Projects,959505390,232,https://github.com/ror-community/ror-updates/issues/232,open,project,2021-08-03 21:02:27,2022-05-04 18:23:06,Project: Clusters of Excellence,"Group of organizations/records: Clusters of Excellence (see #200)
-
-Review: 
-- Coverage in ROR and what else needs to be added
-- Naming conventions
-- Relationships",
 Projects,1128913944,476,https://github.com/ror-community/ror-updates/issues/476,open,level 2; update record; jaguar; project,2022-02-09 18:59:41,2022-02-09 19:01:08, Project: Standardize representation of records for the Ukraine's National Academy of Sciences,"Records for organizations that are part of Ukraine's National Academy of Sciences should follow a standard pattern of representation. Currently, they use various forms. We should update these records to follow a single, consistent pattern. 
 
 Current NAS records in ROR: https://ror.org/00je4t102 ; https://ror.org/05x75zf33 ; https://ror.org/059fvd392 ; https://ror.org/03dez2856 ; https://ror.org/05s41xv68 ; https://ror.org/01669gb09 ; https://ror.org/019qyzj84 ; https://ror.org/00ajw8c12
@@ -32,6 +18,12 @@ Projects,1128927095,477,https://github.com/ror-community/ror-updates/issues/477,
 Starting points for analysis:
 
 - Institutions of the National Academy of Sciences of Ukraine: https://uk.wikipedia.org/wiki/Установи_НАН_України",
+Projects,959505390,232,https://github.com/ror-community/ror-updates/issues/232,open,project,2021-08-03 21:02:27,2022-05-04 18:23:06,Project: Clusters of Excellence,"Group of organizations/records: Clusters of Excellence (see #200)
+
+Review: 
+- Coverage in ROR and what else needs to be added
+- Naming conventions
+- Relationships",
 Projects,1131277945,482,https://github.com/ror-community/ror-updates/issues/482,open,project,2022-02-10 23:57:07,2022-02-10 23:58:50,Project: Consistent representation of all CNRS records,"Creating this stub issue here as a placeholder for future analysis/clean-up work for CNRS and CNRS-related records. 
 
 To analyze and make consistent:
@@ -73,7 +65,7 @@ This should also be considered by the curation board to make sure practices are 
 
 We also need to analyze the impact of adding location names on API queries and compare results between the ?query and ?affiliation functions",
 Projects,1251236433,720,https://github.com/ror-community/ror-updates/issues/720,open,project,2022-05-27 20:23:50,2022-05-27 20:23:50,Project: Label Analysis,"[A paper](https://doi.org/10.7554/eLife.58496) discussing the ability of our affiliation route to reconcile non-English names to their corresponding records suggests we should do analysis of our labels for completeness and quality. Specifically, we should examine the completeness of label coverage for records in countries where English is not a primary language, as well as how accurately existing labels match their native language names.",
-Projects,1275565033,778,https://github.com/ror-community/ror-updates/issues/778,open,level 1; new record; lion; project,2022-06-17 23:02:22,2022-08-12 19:38:06,Project: Euro-Bioimaging Nodes,"#777 exposed several imaging facilities as part of its research infrastructure that are likely in scope for ROR. We should evaluate to what extent they are already represented and determine whether those absent are in scope for the registry:
+Projects,1275565033,778,https://github.com/ror-community/ror-updates/issues/778,open,level 1; new record; lion; project,2022-06-17 23:02:22,2022-09-09 19:35:10,Project: Euro-Bioimaging Nodes,"#777 exposed several imaging facilities as part of its research infrastructure that are likely in scope for ROR. We should evaluate to what extent they are already represented and determine whether those absent are in scope for the registry:
 
 https://www.eurobioimaging.eu/about-us/eurobioimaging-nodes","44sth4
 08/01/2022, 15:48:42 | 08/01/2022, 15:48:42
@@ -105,6 +97,45 @@ nlundvick
 comment_text: Hi @adambuttrick - I was able to review some of these today and I added comments to the spreadsheet. Will continue to review as time allows.
 
 ---
+nlundvick
+09/02/2022, 20:25:48 | 09/02/2022, 20:25:48
+comment_text: Hi @adambuttrick - I completed my first pass through. Would like to do a quick run through these again to make sure my logic is consistent throughout (had to do some jumping back and forth between the nodes). Will do that early next week. Hope you have an awesome holiday weekend!
+
+---
+adambuttrick
+09/02/2022, 20:36:14 | 09/02/2022, 20:36:14
+comment_text: Thanks so much @nlundvick! Really appreciate all your work on this!
+
+---
+44sth4
+09/06/2022, 09:47:16 | 09/06/2022, 09:47:16
+comment_text: Hi @adambuttrick and @nlundvick . Thanks so much for this wonderful work. 
+I had a question about the nomenclature of the ""relation"" you would use between Euro-BioImaging and their Nodes. As I understand three relations currently implemented (Parent, Child, Related). I guess ""related"" would be relation of choice?
+And as a way to support the process, we can have a look at it with our team comment on the cases that are unclear.
+For the clear cases, can they simply be added or one needs to contact a potential submitter or owner of a ROR request? 
+
+---
+adambuttrick
+09/06/2022, 18:59:04 | 09/06/2022, 18:59:04
+comment_text: @44sth4 We can defer to what you think is appropriate for the relationships between Euro-BioImaging and its nodes, based on the organization's internal structure. Generally speaking, parent-child relationships are used where some hierarchy exists between organizations, e.g. the parent governs over its children in some fashion, whereas related is for non-hierarchical/cooperative efforts.
+
+We can add the clear cases, no need for any additional submission. If there are questions about metadata for any of the individual organizations, I will reach out to you accordingly. 
+
+---
+nlundvick
+09/09/2022, 19:32:19 | 09/09/2022, 19:32:19
+comment_text: Hi @adambuttrick - I completed my review of the nodes. In the spreadsheet I added a column with my recommendation and another column with my review comment.
+
+[https://docs.google.com/spreadsheets/d/1dn7oSsNPil86_dCLa6xoKL6huUtCAIVZf-ibFqV9ndc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1dn7oSsNPil86_dCLa6xoKL6huUtCAIVZf-ibFqV9ndc/edit?usp=sharing)
+
+Please let me know if you have any questions.
+
+---
+adambuttrick
+09/09/2022, 19:35:10 | 09/09/2022, 19:35:10
+comment_text: Thanks @nlundvick! Will review!
+
+---
 "
 Projects,1287504731,800,https://github.com/ror-community/ror-updates/issues/800,open,level 1; new record; lion; project,2022-06-28 15:14:46,2022-06-30 07:10:15,Project: International Union for Conservation of Nature Committees,"In #796, it was exposed that https://ror.org/04tehfn33 has at least 5 national-level committees, 4 of which are already included in ROR:
 
@@ -129,7 +160,7 @@ comment_text: Missing institutions:
 ---
 "
 Projects,1305183932,866,https://github.com/ror-community/ror-updates/issues/866,open,level 2; update record; lion; project,2022-07-14 19:09:02,2022-07-14 19:47:07,Project: Replace empty strings with null values,"Historically, GRID used empty strings instead of null values when no values were present in a non-repeating field. These should be all be replaced with true null values.",
-Projects,1313737196,892,https://github.com/ror-community/ror-updates/issues/892,open,level 1; new record; lion; project,2022-07-21 19:59:15,2022-07-28 17:32:05,Project: Analyze Crossref Member IDs / ROR IDs,"Crossref is interested in replacing (edit: not replacing, but enhancing!) its ~15,000 Member IDs with ROR IDs. Crossref has said they can get us a spreadsheet with some member data that can be analyzed to see how many Crossref members already have ROR IDs, how many would need new ROR IDs, and how many would be out of scope for ROR (e.g., university departments).
+Projects,1313737196,892,https://github.com/ror-community/ror-updates/issues/892,open,level 1; new record; lion; project,2022-07-21 19:59:15,2023-01-27 17:04:13,Project: Analyze Crossref Member IDs / ROR IDs,"Crossref is interested in replacing (edit: not replacing, but enhancing!) its ~15,000 Member IDs with ROR IDs. Crossref has said they can get us a spreadsheet with some member data that can be analyzed to see how many Crossref members already have ROR IDs, how many would need new ROR IDs, and how many would be out of scope for ROR (e.g., university departments).
 ","amandafrench
 07/21/2022, 20:46:43 | 07/21/2022, 20:46:43
 comment_text: Note too that Member IDs are in the Crossref API and can be queried. Documentation at https://api.crossref.org/swagger-ui/index.html#/Members/get_members 
@@ -153,4 +184,113 @@ comment_text: Attaching first pass at reconciliation via the API, as well as pos
 .
 
 ---
+amandafrench
+01/27/2023, 17:04:13 | 01/27/2023, 17:04:13
+comment_text: Scripts now available at https://github.com/adambuttrick/reconcile_crossref_members 
+
+---
 "
+Projects,1354435118,1028,https://github.com/ror-community/ror-updates/issues/1028,open,level 2; update record; jaguar; project,2022-08-29 14:52:07,2022-08-29 14:53:29,Project: Standardize/Review names for Chinese Academy of Science records,"#1024 identified that the correct full name for a child institute of https://ror.org/034t30j35 required ""Chinese Academy of Science"" be added. We should review all children for https://ror.org/034t30j35 and determine whether similar changes are required.",
+Projects,1356125021,1037,https://github.com/ror-community/ror-updates/issues/1037,open,level 1; new record; jaguar; project,2022-08-30 18:05:52,2022-08-30 18:05:52,Project: National Institutes for Quantum and Radiological Science and Technology Facilities,"As first exposed in #1036, https://ror.org/020rbyg91 has many children with affiliation usage. We should review these facilities and determine whether they should be added to ROR. List of facilities derived from [their site](https://www.qst.go.jp/site/qst-english/):
+
+Quantum Life and Medical Science Directorate
+Institute for Quantum Medical Science
+National Institute of Radiological Sciences
+QST hospital
+Institute for Quantum Life Science
+Quantum Beam Science Research Directorate
+Takasaki Advanced Radiation Research Institute
+Kansai Photon Science Institute
+Institute for Advanced Synchrotron Light Source
+Fusion Energy Directorate
+Fusion Plasma Research
+Rokkasho Fusion Institute
+QST Innovative Project
+Quantum Life Science Research Hub",
+Projects,1346746809,1004,https://github.com/ror-community/ror-updates/issues/1004,open,level 2; update record; jaguar; project,2022-08-22 17:16:54,2022-08-22 17:16:54,Check status of Te Pūkenga children,"As described in #997, 16 organizations are set to be merged into Te Pūkenga by the end of November of 2022. After this time, we should review the organizations to determine their status. 12 are currently represented in ROR:
+
+https://ror.org/01qvj2271
+https://ror.org/01fkw3y20
+https://ror.org/00ct9cz38
+https://ror.org/002r67t24
+https://ror.org/00wykxp39
+https://ror.org/02scvmk68
+https://ror.org/020ekrq71
+https://ror.org/01t2w0q86
+https://ror.org/01px84952
+https://ror.org/04k3aaz82
+https://ror.org/02bjhj961
+https://ror.org/03ycgmc41
+
+",
+Projects,1406530187,1375,https://github.com/ror-community/ror-updates/issues/1375,open,lion; project,2022-10-12 16:59:05,2022-10-12 17:00:52,Project: Bibliosan Members,"#1374 requested that we review the Bibliosan consortium members and verify that all are included in ROR. A full list of members is here:
+
+http://www.bibliosan.it/about.html",
+Projects,1409564152,1388,https://github.com/ror-community/ror-updates/issues/1388,open,level 1; new record; jaguar; project,2022-10-14 16:06:16,2022-10-14 16:06:16,Project: Science Po Research Centers,"As identified in #1387, Science Po's research centers have incomplete representation in ROR. We should review all and determine if they should be added to ROR. List of research centers is available [here](https://www.sciencespo.fr/en/research/research-units/).",
+Projects,1505265984,1876,https://github.com/ror-community/ror-updates/issues/1876,open,level 2; update record; jaguar; project,2022-12-20 21:00:08,2022-12-20 21:00:08,Project: Portugues Primary Names for Brazilian Organizations,"Staff from the Universidade do Estado de Santa Catarina have submitted a list of organizations where they have requested the primary name be in Portuguese instead of English. We should consult with our regional contacts in Brazil and determine whether these changes are appropriate, since they were submitted by a third party.
+
+[20221220_Brazil_bulk_name_change_request.xlsx](https://github.com/ror-community/ror-updates/files/10272638/20221220_Brazil_bulk_name_change_request.xlsx)
+",
+Projects,1526250339,1967,https://github.com/ror-community/ror-updates/issues/1967,open,level 2; update record; lion; project,2023-01-09 20:10:05,2023-01-09 20:10:05,Project: 1K Potential Inactive Organizations,"A ROR user has identified ~1000 potentially inactive organizations. These entries should be reviewed and records updated as needed.
+
+https://docs.google.com/spreadsheets/d/1XvyrzUOF9u1qAgtDeIF5nUslqEk48-GkbaDh7NTy7Rw/edit?usp=sharing",
+Projects,1369017727,1098,https://github.com/ror-community/ror-updates/issues/1098,open,level 1; new record; jaguar; project,2022-09-11 17:52:52,2023-01-10 20:20:11,Project: NTT Laboratories,"As part of @arthurpsmith's reconciliation of APS affiliation data with ROR, NTT Communication Science Laboratories was exposed as a potential organization to be added to the registry. The existence of https://ror.org/01m2pas06 would argue if favor of its inclusion, but reviewing NTT's structure suggests a more holistic determination should be made about these laboratories. Specifically, they follow a hierarchy of NTT -> NTT R&D -> NTT Laboratory Group -> NTT Laboratory. See the ""Laboratories"" section of the [NTT R&D site](https://www.rd.ntt/e/) for details. What (if any) intermediate levels should be added to ROR? Similarly, if both organizations are in scope, this would suggest all would need to be added.","KellyStathis
+10/27/2022, 15:04:25 | 10/27/2022, 15:04:25
+comment_text: @adambuttrick What's the affiliation usage like on these?
+
+---
+adambuttrick
+01/10/2023, 20:20:11 | 01/10/2023, 20:20:11
+comment_text: Moving this to a standard project issue to be prioritized relative to other outstanding work.
+
+---
+"
+Projects,1564825318,2152,https://github.com/ror-community/ror-updates/issues/2152,open,level 1; new record; jaguar,2023-01-31 18:43:11,2023-01-31 18:43:30,Project: MACRAME Project Organizations,"https://ror.org/023dg6y22 has submitted a list of organizations involved with the [MACRAME project](https://macrame-project.eu/). These should be reviewed for scope and inclusion in ROR.
+[Seven_Past_Nine_ROR Bulk Processing - MACRAME project.xlsx](https://github.com/ror-community/ror-updates/files/10549748/Seven_Past_Nine_ROR.Bulk.Processing.-.MACRAME.project.xlsx)
+",
+Projects,1609648804,2532,https://github.com/ror-community/ror-updates/issues/2532,open,level 2; update record; jaguar; project,2023-03-04 07:07:31,2023-03-04 07:07:31,Project: Renamed/Replaced Funder IDs currently assigned in ROR,The Funder Registry has redirects for IDs that have been renamed or replaced by others. We should review the existing assignments in ROR that have been renamed/replaced and update the ROR records accordingly.,
+Projects,1622347469,2620,https://github.com/ror-community/ror-updates/issues/2620,open,level 1; new record; update record; lion; jaguar; project,2023-03-13 22:10:32,2023-04-06 16:56:48,Project: Long Tail Funder Registry Reconciliation,"We have identified and sorted by assertion count the long tail of Funder Registry records that need to be reconciled to ROR. These should be reviewed and included in the registry, where appropriate.
+
+https://docs.google.com/spreadsheets/d/1oH4uPMnvjs6vomSvLxb3oJMnPd73tdLS/edit?usp=sharing&ouid=109915645277784756470&rtpof=true&sd=true","adambuttrick
+03/16/2023, 21:00:54 | 03/16/2023, 21:00:54
+comment_text: First batch processed in release v1.21.
+
+---
+adambuttrick
+03/30/2023, 21:23:28 | 03/30/2023, 21:23:28
+comment_text: Added in release v1.22.
+
+ROR ID | Organization name
+-- | --
+https://ror.org/003x0zc53 | Agencia Estatal de Investigación
+https://ror.org/02kv0wv09 | Department of Human Resources and Social Security of Jiangsu Province
+https://ror.org/03jjt8440 | Government of Shandong Province
+https://ror.org/05k6h9r09 | Samsung Medison
+https://ror.org/01xpa3123 | National Research Foundation
+https://ror.org/05v75r592 | Hellenic Foundation for Research and Innovation
+https://ror.org/01v2m4n16 | Erasmus+
+https://ror.org/03rx10x31 | American Lebanese Syrian Associated Charities
+https://ror.org/02jf81j23 | Narodowa Agencja Wymiany Akademickiej
+https://ror.org/020dw9k11 | Regione Lombardia
+https://ror.org/03vz7b375 | Science and Technology Department of Qinghai Province
+https://ror.org/02r6c6d62 | Regione Toscana
+https://ror.org/019dmpq73 | Fundación Cellex
+https://ror.org/053fyjq47 | Consejo Nacional de Innovación, Ciencia y Tecnología
+https://ror.org/04cqyfy93 | Korea Institute of Marine Science and Technology Promotion
+https://ror.org/05p2xef58 | Lembaga Pengelola Dana Pendidikan
+https://ror.org/00p2fsr49 | Charles E. Kaufman Foundation
+https://ror.org/047p7mf25 | Institut Carnot PolyNat
+https://ror.org/05ymr3m21 | Vector Stiftung
+https://ror.org/01s2mxg92 | European Association for the Study of the Liver
+https://ror.org/02z8wa502 | Judith Jane Mason and Harold Stannett Williams Memorial Foundation
+https://ror.org/03y4t9m88 | Beckett-Fonden
+https://ror.org/00pqdc111 | Wyoming Department of Transportation
+https://ror.org/00vp82b55 | 15. Juni Fonden
+https://ror.org/00aamts79 | A Breath of Hope Lung Foundation
+https://ror.org/04yyths36 | Allen Whitehill Clowes Charitable Foundation
+
+---
+"
+Projects,1687138382,3135,https://github.com/ror-community/ror-updates/issues/3135,open,level 1; new record; jaguar; project,2023-04-27 15:59:43,2023-04-27 15:59:43,Project: Tubitak Consortium Members,"Wiley has submitted a list of organizations in Turkey from the Tubitak consortium that are missing from the registry. These should be reviewed and added, where appropriate.
+[TUBITAK organisations.xlsx](https://github.com/ror-community/ror-updates/files/11345793/TUBITAK.organisations.xlsx)
+",

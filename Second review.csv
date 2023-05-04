@@ -1,540 +1,130 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
-Second review,1330746690,954,https://github.com/ror-community/ror-updates/issues/954,open,level 1; new record; jaguar,2022-08-06 13:00:41,2022-08-08 14:52:01,"Add a new organization to ROR: 
+Second review,1677160919,3067,https://github.com/ror-community/ror-updates/issues/3067,open,level 2; update record; jaguar,2023-04-20 17:49:36,2023-04-20 20:03:47,"Merge two or more ROR records: 
  
-Molecular Pathology Centre Cellgen","Summary of request: Add a new organization to ROR
-
-Name of organization: Molecular Pathology Centre Cellgen
-Website: https://cellgen.pl
-Link to publications: 10.1038/s41598-022-06555-3; 10.3390/diagnostics11112044
-Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases: Cellgen
-Labels: Centrum Patologii Molekularnej Cellgen*Polish
-Acronym/abbreviation:
-Related organizations: 
-City: Wrocław
-Country: Polska
-Geonames ID: 3081368
-Year established: 2014
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge a research facility, To be integrated in a scholarly publishing system
-
-Other information about this request: ","adambuttrick
-08/08/2022, 14:51:53 | 08/08/2022, 14:51:53
-comment_text: Polish biotechnology company focused on diagnostic services. Limited affiliation usage - the two DOIs provided, both for the CEO, appear to be all that exist. ORCID affiliation exists for one other researcher.
-
-Publication affiliation usage: https://doi.org/10.3390/diagnostics11112044 ;  https://doi.org/10.1038/s41598-022-06555-3
-ORCID affiliation usage: https://orcid.org/0000-0003-4858-2022 ; https://orcid.org/0000-0003-1165-6817
-
----
-"
-Second review,1332008239,957,https://github.com/ror-community/ror-updates/issues/957,open,level 1; new record; jaguar,2022-08-08 15:05:20,2022-08-08 15:21:56,Add a new organization to ROR: Astex Pharmaceuticals,"Summary of request: Add a new organization to ROR
-
-Name of organization: Astex Pharmaceuticals
-Website: https://astx.com
-Link to publications: 
-Organization type: Company
-Wikipedia page: https://en.wikipedia.org/wiki/Astex_Pharmaceuticals
-Wikidata ID: Q106995996
-ISNI ID: 0000 0004 0411 1795
-GRID ID:
-Crossref Funder ID: 100013870
-Other names for the organization: 
-Acronym/abbreviation:
-Related organizations: https://ror.org/013k5y296 (parent)
-City: Pleasanton, CA
-Country: USA
-Geonames ID: 5383777
-Year established: 2011
-How will a ROR ID for this organization be used? 
-Other information about this request:
-","adambuttrick
-08/08/2022, 15:15:44 | 08/08/2022, 15:21:56
-comment_text: Successor organization to https://ror.org/049922318, as identified in #955. Pharmaceutical company with offices in the US and UK. Independent, top-level entity with solid affiliation usage. Funds and employs researchers. Should be added to ROR.
-
-#955 suggests we should add both the US and UK branch, but I think we should move away from the practice of creating separate records for national-level corporate offices that we inherited of GRID, barring actual evidence of their independence. Astex, for example, does not maintain separate sites for their two offices, but simply lists them both on their page. What might be needed in the future to accommodate this kind of international reality is for address to be a repeatable field.
-
-Publication affiliation usage: https://europepmc.org/article/med/35512344 ; https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.2c00164 ; https://eprints.soton.ac.uk/448304/1/ParaMol_paper.pdf
-
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=RvCGvpoAAAAJ; https://scholar.google.com/citations?user=WKL574IAAAAJ; https://scholar.google.com/citations?user=f_pF6fQAAAAJ
-
-ORCID affiliation usage: https://orcid.org/0000-0002-1143-7289 ; https://orcid.org/0000-0002-2688-5965 ; https://orcid.org/0000-0003-3839-9806
-
----
-"
-Second review,1332487291,959,https://github.com/ror-community/ror-updates/issues/959,open,level 1; new record; jaguar,2022-08-08 22:48:33,2022-08-17 16:45:45,"Add a new organization to ROR: 
- 
-Mazowiecka Uczelnia Medyczna","Summary of request: Add a new organization to ROR
-
-Name of organization: Mazowiecka Uczelnia Medyczna
-Website: https://mum.edu.pl
-Link to publications: DOI: 10.5604/01.3001.0014.1167
-Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
-Wikipedia page: https://pl.wikipedia.org/wiki/Mazowiecka_Uczelnia_Medyczna_w_Warszawie
-Wikidata ID: Q16617278
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases: Wyższa Szkoła Mazowiecka w Warszawie; Masovian Medical University
-Labels:
-Acronym/abbreviation: MUM
-Related organizations: 
-City: Warszawa
-Country: Polska 
-Geonames ID: 756135
-Year established: 2004
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system
-
-Other information about this request: ","adambuttrick
-08/08/2022, 23:07:43 | 08/17/2022, 16:45:45
-comment_text: Private medical university in Poland focused on physiotherapy, nursing, obstetrics, optometry, and psychology. Limited affiliation usage under this name, but more under its former, ""Wyższa Szkoła Mazowiecka w Warszawie,"" which I've added as an alias. English name is from a single instance of affiliation usage, so treating as alias vs primary name.
-
-Independent, top-level entity that funds and employs researchers. Should be added to ROR.
-
-Publication affiliation usage: https://orthokine.pl/wp-content/uploads/2022/01/Godek-2020-1000-pacjentow-1252052.pdf ; https://biomag.pl/img/badania-kliniczne/pdf/Ocena%20skutecznosci%20fizykoterapii.pdf
-
-ORCID affiliation usage: https://orcid.org/0000-0002-7814-1407 ; https://orcid.org/0000-0003-4155-2621
-
----
-"
-Second review,1333036386,963,https://github.com/ror-community/ror-updates/issues/963,open,level 1; new record; jaguar,2022-08-09 10:19:14,2022-08-09 15:55:52,"Add a new organization to ROR: 
- 
-Nepal Institute of Research and Communications (NIRC)","Summary of request: Add a new organization to ROR
-
-
-Name of organization: Nepal Institute of Research and Communications (NIRC)
-Website: https://www.nepalcomms.org
-Link to publications: https://www.nepalcomms.org/wp-content/uploads/2021/05/Understanding-Comms-Practice-among-Youth-in-Kathmandu_Summary-Report.pdf
-Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases:
-Labels:
-Acronym/abbreviation: NIRC
-Related organizations: 
-City: Kathmandu
-Country: Nepal
-Geonames ID: 1283240
-Year established: 2018
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders
-
-Other information about this request: ","adambuttrick
-08/09/2022, 15:55:47 | 08/09/2022, 15:55:47
-comment_text: Think tank focused on developmental issues in Nepal. Independent, top-level entity. No affiliation usage as far as I can tell, but publishes [research reports](https://www.nepalcomms.org/research-reports/) in their subject area. We've added other NGOs of this kind (e.g. https://ror.org/05xz2nh53), so likely in scope.
-
----
-"
-Second review,1337472983,975,https://github.com/ror-community/ror-updates/issues/975,open,level 2; update record; jaguar,2022-08-12 17:02:19,2022-08-12 18:12:27,"Split an existing ROR record into two or more records: 
- 
-Plant Gene Expression Centerhttps://ror.org/03rafms67","Summary of request: Split an existing ROR record into two or more records
+ACT & American College Testing0339x3x34 and 05183v471","Summary of request: Merge two or more ROR records
 
 Update record:
-Name of organization: 
-ROR ID: 
+Name of organization: ACT
+ROR ID: https://ror.org/05183v471
 Which part of the record needs to be changed? 
-Description of change: 
+Description of change: ACT & American College Testing
+ROR ID(s) of organization(s) affected by this change: 0339x3x34 and 05183v471
+How should the record(s) be changed? ACT had been a common acronym for American College Testing and I think it is now their official name - https://www.act.org/ - note the URL in the ACT record was never correct so perhaps there is something else conflated with this
 
-Merge/split/deprecate records:
-Organizations affected by this change:Plant Gene Expression Center
-ROR ID(s) of organization(s) affected by this change: https://ror.org/03rafms67
-How should the record(s) be changed? 2 Options - There is a need to either update the ""Parent Organization"" relationship of this record and add another URL to this record in order to seperate the difference in federal funding vs state funding for the ""Plant Gene Expression Centers"". The PGEC is a collaboration of the Agricultural Research Service of the U.S. Department of Agriculture (USDA) and the Plant & Microbial Biology Department of the University of California, Berkeley (ECB). For the CURRENT RECORD (https://ror.org/03rafms67) the URL assigned to this record is http://pgec.berkeley.edu/ (which references the correct location of the center for the Plant Gene Expression Center - University of California, Berkley). However, the ""Parent Organization"" (which may need a new record to differentiate another layer of hierarchy) as part of the Pacific West Area (Plant Gene Expression Center, USDA-ARS, Albany, CA 94710, USA. Correct referencing homepage: https://www.ars.usda.gov/pacific-west-area/albany-ca/pgec/ (Plant Gene Expression Center - Albany - USDA ARS).
+Update: change.status==inactive;$
+
+Related organizations: https://ror.org/0339x3x34 (successor-np)
 
 ","adambuttrick
-08/12/2022, 17:44:18 | 08/12/2022, 17:44:18
-comment_text: The current/UC Berkeley link in ROR references both the joint status/USDA funding and the record has the location as being in Albany, CA. In addition, both [UC Berkley](https://ror.org/01an7q238) and the [USDA Agricultural Research Service - Pacific West Area](https://ror.org/03rafms67) are already listed as parent organization for this record, so I'm not certain what we would need to change here. We could add an additional link for the USDA ARS site, as technically this is a repeating field, but it would seem that funding differentiation should happen at the level of the parents.
+04/20/2023, 20:03:00 | 04/20/2023, 20:03:23
+comment_text: From the [Wayback Archive](https://web.archive.org/web/20190212192738/http://www.actinternationalservices.com/en/), this appears to been a subsidiary organization for ACT for their international activities. The have a new sub-domain - https://global.act.org - that covers the same ground, but I'm not really seeing this a discrete entity. Since we don't know the full history of this transition, I think the safest thing for now is to list this as inactive and point at the main ACT record (vs. withdrawing).
 
 ---
 "
-Second review,1338775261,978,https://github.com/ror-community/ror-updates/issues/978,open,level 1; new record; jaguar,2022-08-15 09:51:33,2022-08-15 18:46:28,"Add a new organization to ROR: 
+Second review,1681533997,3104,https://github.com/ror-community/ror-updates/issues/3104,open,level 1; new record; jaguar,2023-04-24 15:23:20,2023-04-24 18:20:47,"Add a new organization to ROR: 
  
-Liberate Science GmbH","Summary of request: Add a new organization to ROR
+CoreTrustSeal Standards & Certification Board","Summary of request: Add a new organization to ROR
 
-Name of organization: Liberate Science
-Website: https://libscie.org
-Link to publications: https://doi.org/10.31234/osf.io/wm4v6
-Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases:
-Labels:
-Acronym/abbreviation: libscie
-Related organizations: 
-City: Berlin
-Country: Germany
-Geonames ID: 2950159
-Year established: 2019
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets
-
-Other information about this request: Please feel free to get in touch - there are more DOIs that relate to the ROR identifier, and we are looking forward to integrate ROR IDs into our publishing platform ResearchEquals - would love to be in touch about this integration as a use case if you'd like.","adambuttrick
-08/15/2022, 16:32:11 | 08/15/2022, 18:46:28
-comment_text: Company behind open access publishing platform [ResearchEquals](https://www.researchequals.com/), launched in February of this year (2022). Quite new with limited outputs, but is a [Crossref member](https://api.crossref.org/members/32128) and integrating ROR.
-
----
-"
-Second review,1342602783,991,https://github.com/ror-community/ror-updates/issues/991,open,level 1; new record; jaguar,2022-08-18 06:06:09,2022-08-18 14:31:17,"Add a new organization to ROR: 
- 
-Symbiosis Group LLC","Summary of request: Add a new organization to ROR
-
-Name of organization: Symbiosis Group
-Website: https://symbiosisonlinepublishing.com/
-Link to publications:
+Name of organization: CoreTrustSeal Standards & Certification Board
+Website: https://www.coretrustseal.org
+Link to publications: https://www.re3data.org/search?query=CoreTrustSeal
 Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
 Wikipedia page: 
 Wikidata ID: 
 ISNI ID: 
 GRID ID: 
-Crossref Funder ID:
-Aliases:
-Labels:
-Acronym/abbreviation:
-Related organizations: 
-City: Normal, Illinois
-Country: USA
-Geonames ID: 4903780
-Year established: 2013
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
-
-Other information about this request: Symbiosis Group is an online developing independent international best open access publishing house with high impact and peer reviewed journals. The company is dedicated to publish the best and top in various topical areas of science & technology for the scholarly and professional communities worldwide. We not only showcase new writings, researches in different fields of Clinical, Medicine, Life Sciences, Pharma, Engineering & Technology but also we offer articles to share & download the content without any barriers. We are independently owned, self supporting, freelance organization and doesn’t managed by any financial investors. We take a long-term view in our decisions to improve the growth of company rather than short-term financial gains. We are the connecting link between researchers & scientific community.","adambuttrick
-08/18/2022, 14:30:53 | 08/18/2022, 14:31:05
-comment_text: Publisher of [many open access journals](https://symbiosisonlinepublishing.com/journals.php) in the fields of science and technology. In scope by virtue of our publisher use case. Should be added to ROR.
-
----
-"
-Second review,1343836715,998,https://github.com/ror-community/ror-updates/issues/998,open,level 1; new record; jaguar,2022-08-19 02:05:13,2022-08-19 15:07:25,"Add a new organization to ROR: 
- 
-International Association of Geodesy","Summary of request: Add a new organization to ROR
-
-Name of organization: International Association of Geodesy
-Website: https://www.iag-aig.org/
-Link to publications: https://doi.org/10.1007/s00190-020-01434-z
-Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
-Wikipedia page: https://en.wikipedia.org/wiki/International_Association_of_Geodesy
-Wikidata ID: Q1639820
-ISNI ID: 0000 0001 1090 7835
-GRID ID: 
 Crossref Funder ID: 
-Aliases:
-Labels: Association internationale de géodésie*French
-Acronym/abbreviation: IAG
-Related organizations: https://ror.org/01jachm79 (related)
-City: Munich
-Country: Germany
-Geonames ID: 2867714
-Year established: 1886
-How will a ROR ID for this organization be used? To acknowledge research funders, To be integrated in a scholarly publishing system, To add a service affiliation to one's ORCID record
-
-Other information about this request: IAG sponsors the Journal of Geodesy, published by Springer.","adambuttrick
-08/19/2022, 15:06:13 | 08/19/2022, 15:07:25
-comment_text: Long-standing academic society. Sponsors [Journal of Geodesy](https://www.springer.com/journal/190) and hosts symposia, [whose proceedings are collected](https://www.springer.com/series/1345). Similar to https://ror.org/042rvyb12 and https://ror.org/00jp4qe04. Should be added to ROR.
-
----
-"
-Second review,1343724177,997,https://github.com/ror-community/ror-updates/issues/997,open,level 1; new record; jaguar,2022-08-18 22:43:02,2022-08-22 17:12:29,"Add a new organization to ROR: 
- 
-Te Pūkenga","Summary of request: Add a new organization to ROR
-
-Name of organization: Te Pūkenga
-Website: https://xn--tepkenga-szb.ac.nz
-Link to publications: https://doi.org/10.1080/14480220.2021.2018018
-Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
-Wikipedia page: https://en.wikipedia.org/wiki/Te_P%C5%ABkenga
-Wikidata ID: https://www.wikidata.org/wiki/Q86902171
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases: New Zealand Institute of Skills and Technology
+Aliases: CoreTrustSeal Standards and Certification Board; CoreTrustSeal; CoreTrustSeal Board
 Labels:
-Acronym/abbreviation: NZIST
-Related organizations: https://ror.org/01qvj2271 (child) https://ror.org/01fkw3y20 (child) https://ror.org/00ct9cz38; https://ror.org/002r67t24 (child) https://ror.org/00wykxp39 (child) https://ror.org/02scvmk68 (child) https://ror.org/020ekrq71 (child) https://ror.org/01t2w0q86 (child) https://ror.org/01px84952 (child) https://ror.org/04k3aaz82 (child) https://ror.org/02bjhj961 (child) https://ror.org/03ycgmc41 (child)
-City: Hamilton
-Country: New Zealand
-Geonames ID: 2190324
-Year established: 2020
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
+Acronym/abbreviation: CTS
+Related organizations:
+City: The Hague
+Country: Netherlands
+Geonames ID: 2747373
+Year established: 2017
+How will a ROR ID for this organization be used? To identify affiliations for datasets, To acknowledge a research facility, To be integrated in a scholarly publishing system, To record certification information about trustworthy repositories
 
-Other information about this request: Kia ora | Hi ROR, this organisation is the result of a merger of New Zealand's Institutes of Technology and Polytechnics (ITPs).  Most, but not all, of the ITPs had RORs, and Te Pūkenga will need one for the assertion of ORCID affiliations that they wish to undertake shortly.   Ngā mihi nui | Many thanks, Jason.","adambuttrick
-08/19/2022, 15:33:58 | 08/19/2022, 15:33:58
-comment_text: Merger of several vocational training schools in New Zealand into an overarching organization. Would be in scope for ROR by virtue of the now child organizations having been in scope.
-
-In reviewing the child organizations, most appear to preserve some degree of independent naming and identify themselves as now part of Te Pūkenga, so I'm not sure that deprecation of these records is currently warranted. Will reach out to the requestor for further details. 
-
-Publication affiliation usage: https://doi.org/10.1080/14480220.2021.2018018; https://doi.org/10.1111/padm.12659
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=PYyfjaMAAAAJ
-ORCID affiliation usage: https://orcid.org/0000-0002-2626-5248
+Other information about this request: Confirmation of my affiliation with CoreTrustSeal can be provided by a CC to info@coretrustseal.org on any responses. ","ror-curator-bot
+04/24/2023, 17:54:19 | 04/24/2023, 17:54:19
+comment_text: Publication affiliation usage: https://doi.org/10.1016/j.jacc.2003.12.016; https://doi.org/10.1517/13543776.10.5.575; https://doi.org/10.1016/j.bcp.2008.11.027; https://doi.org/10.1055/s-0038-1656329; https://doi.org/10.1088/1126-6708/2004/07/036; https://doi.org/10.1093/hmg/6.5.709; https://doi.org/10.5281/zenodo.7564703; https://doi.org/10.5281/zenodo.7564703; 
+Potential aliases: CTS; CoreTrustSeal Board; CoreTrustSeal
 
 ---
 adambuttrick
-08/22/2022, 15:34:08 | 08/22/2022, 15:34:08
-comment_text: Per requestor, child organizations should all lose their independence by the end of November 2022, at which point they would be need to be deprecated. Should be reviewed at that time.
+04/24/2023, 18:20:39 | 04/24/2023, 18:20:39
+comment_text: Data repository certification organization that is a cooperative effort between the Data Seal of Approval and the [World Data System](https://www.world-data-system.org/) of the International Science Council, under the umbrella of the [Research Data Alliance](https://rd-alliance.org/) (RDA),. Request here appear to be to add [their board ](https://www.coretrustseal.org/about/standards-and-certification-board/) vs the organization writ large, I'm assuming for ORCID or similar acknowledgement. While all seems legitimate, I'm struggling to see where this would fit within any of our conceptions of a research organization, so I'd appreciate if others could weigh in.
 
 ---
 "
-Second review,1346350819,1001,https://github.com/ror-community/ror-updates/issues/1001,open,level 1; new record; jaguar,2022-08-22 12:38:42,2022-08-22 16:53:25,"Add a new organization to ROR: 
+Second review,1679901123,3088,https://github.com/ror-community/ror-updates/issues/3088,open,level 1; new record; jaguar,2023-04-23 07:24:48,2023-04-24 19:18:54,"Add a new organization to ROR: 
  
-Gradski muzej Vinkovci","Summary of request: Add a new organization to ROR
+China Railway 18th Bureau Group Co., Ltd","Summary of request: Add a new organization to ROR
 
-Add record:
-Name of organization: Gradski muzej Vinkovci
-Website: https://muzejvk.hr
-Link to publications: http://www.iarh.hr
-Organization type: Archive (An organization involved in stewarding research and cultural heritage materials. Includes libraries, museums, and zoos)
+Name of organization: China Railway 18th Bureau Group Corporation
+Website: http://www.cr18g.com
+Link to publications: https://review.hindawi.com/details/b786e26a-6bff-4c6d-b4f1-ee4f56a9e712/4d13f12c-c733-4747-ad68-07d3cf0f594b
+Organization type: Company
 Wikipedia page: 
 Wikidata ID: 
 ISNI ID: 
 GRID ID: 
 Crossref Funder ID: 
-Aliases:
-Labels: Vinkovci Municipal Museum*English
-Acronym/abbreviation: GMVK
+Aliases: China Railway 18th Bureau Group Co.
+Labels: 中铁十八局集团有限公司*Chinese
+Acronym/abbreviation: CRCC
 Related organizations: 
-City: Vinkovci
-Country: Croatia
-Geonames ID: 3187719
-Year established: 1946
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility
-
-Other information about this request: ","adambuttrick
-08/22/2022, 16:53:03 | 08/22/2022, 16:53:03
-comment_text: Croatian museum. Independent, top-level entity with solid affiliation usage. Publishes [books and catalogs](https://muzejvk.hr/?page_id=205) about its exhibits and collection. Should be added to ROR.
-
-Publication affiliation usage: https://doi.org/10.1080/14614103.2018.1443601; https://doi.org/10.33254/piaz.36.7; 
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=IMW0jAIAAAAJ
-
----
-"
-Second review,1347724742,1005,https://github.com/ror-community/ror-updates/issues/1005,open,level 2; update record; lion,2022-08-23 10:47:16,2022-08-23 15:52:17,"Modify the information in an existing ROR record: 
-Nantes Université https://ror.org/03gnr7b55
-","Summary of request: Modify the information in an existing ROR record
-
-Update record:
-Name of organization: Nantes Université
-ROR ID: https://ror.org/03gnr7b55
-Which part of the record needs to be changed? Primary name
-Description of change: On 1 January 2022, a new public higher education and research institution was created: Nantes Université. Nantes Université proposes a university model that is unique in France by uniting a university (University of Nantes), a university hospital (Nantes Université Hospital), a technological research institute (IRT Jules Verne), a national research organisation (Inserm) and three schools (Centrale Nantes, Nantes Saint-Nazaire School of Fine Arts, Nantes School of Architecture).
-
-Update: change.name==Nantes Université; add.aliases==University of Nantes; add.aliases==Université de Nantes; delete.labels== Université de Nantes;$
-","adambuttrick
-08/23/2022, 15:48:51 | 08/23/2022, 15:51:48
-comment_text: Name change corresponds with organization's website and branding. Name on English site is also ""Nantes Université."" 
-
-In terms of how this merger relates to the listed institutions, the effort is [described](https://fr.wikipedia.org/wiki/Nantes_Universit%C3%A9) as an [experimental public institution](https://fr.wikipedia.org/wiki/Regroupement_universitaire#%C3%89tablissements_publics_exp%C3%A9rimentaux), whose terms set a ten year maximum for the merger, with the option for any given institution to withdraw after two years. As such, I don't think we should deprecate these records, but simply identify Nantes Université as a new parent for https://ror.org/00qxv3c44, https://ror.org/02vjkv261, https://ror.org/03nh7d505, and https://ror.org/01jq57122. Nantes Saint-Nazaire School of Fine Art does not have a ROR ID, but I can likewise find no instance of affiliation usage under this or its French name (Beaux-Arts Nantes Saint-Nazaire), so I think it may be fine to leave it out of ROR for now. But would like to hear others' thoughts.
-
----
-"
-Second review,1347843666,1006,https://github.com/ror-community/ror-updates/issues/1006,open,level 1; new record; jaguar,2022-08-23 12:07:23,2022-08-23 16:02:57,"Add a new organization to ROR: 
- 
-Institut za povrstarstvo Smederevska Palanka","Summary of request: Add a new organization to ROR
-
-
-Name of organization: Institut za povrstarstvo Smederevska Palanka
-Website: https://institut-palanka.rs
-Link to publications: https://rivec.institut-palanka.rs
-Organization type: Government
-Wikipedia page: https://sr.wikipedia.org/sr-el/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B7%D0%B0_%D0%BF%D0%BE%D0%B2%D1%80%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases:
-Labels: Institute for Vegetable Crops*English
-Acronym/abbreviation: IVC
-Related organizations: 
-City: Smederevska Palanka
-Country: Serbia
-Geonames ID: 785753
-Year established: 1946
+City: Tianjin
+Country: China
+Geonames ID: 1792947
+Year established: 1958
 How will a ROR ID for this organization be used? To identify affiliations for research publications
 
-Other information about this request: ","adambuttrick
-08/23/2022, 16:02:37 | 08/23/2022, 16:02:37
-comment_text: Serbian state agricultural research institute. Independent, top-level entity that funds and employs researchers. Solid affiliation usage. Should be added to ROR.
+Other information about this request: ","ror-curator-bot
+04/24/2023, 17:58:32 | 04/24/2023, 17:58:32
+comment_text: Publication affiliation usage: https://doi.org/10.1007/s12665-021-09780-7; https://doi.org/10.1016/j.jece.2021.106035; https://doi.org/10.1016/j.jclepro.2022.132179; https://doi.org/10.4028/www.scientific.net/amr.383-390.1719; https://doi.org/10.1061/(asce)gt.1943-5606.0001801; https://doi.org/10.4028/www.scientific.net/amm.71-78.4317; https://doi.org/10.1007/s00603-016-1076-z; https://openalex.org/W2362670435; https://doi.org/10.1016/j.rse.2011.01.028; https://doi.org/10.1016/j.culher.2012.06.005; https://doi.org/10.1016/j.culher.2008.03.005; https://doi.org/10.1016/j.chroma.2011.05.013; 
+Potential aliases: China Railway 18th Bureau Group Co., Ltd; CRCC
 
-Publication affiliation usage: https://doi.org/10.2298/gensr2003263a; https://doi.org/10.2298/gensr1603027b; https://doi.org/10.2298/gensr1402495b
-
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=UwJKs9UAAAAJ; https://scholar.google.com/citations?user=7ZYyEg0AAAAJ
-
-ORCID affiliation usage: https://orcid.org/0000-0002-4293-5790 ; https://orcid.org/0000-0002-7489-9288 ; https://orcid.org/0000-0002-1961-2125
+---
+adambuttrick
+04/24/2023, 19:18:43 | 04/24/2023, 19:18:43
+comment_text: Railroad construction and engineering company in China. Affiliation usage looks fine, so this can be added.
 
 ---
 "
-Second review,1347990475,1008,https://github.com/ror-community/ror-updates/issues/1008,open,level 1; new record; jaguar,2022-08-23 13:47:29,2022-08-23 16:22:36,"Add a new organization to ROR: 
+Second review,1650474203,2788,https://github.com/ror-community/ror-updates/issues/2788,open,level 1; new record; jaguar,2023-04-01 13:28:36,2023-04-24 19:58:36,"Add a new organization to ROR: 
  
-CSPC Pharmaceutical Group","Summary of request: Add a new organization to ROR
+Mynvax Private Limited","Summary of request: Add a new organization to ROR
 
-Name of organization: CSPC Pharmaceutical Group
-Website: https://www.cspc.com.hk
-Link to publications: https://pubmed.ncbi.nlm.nih.gov/34474461/
+Name of organization: Mynvax 
+Website: www.mynvax.com
+Link to publications: 10.1021/acs.jpcb.2c07262, 10.3390/v15020346
 Organization type: Company (A private for-profit corporate entity involved in conducting or sponsoring research)
-Wikipedia page: https://zh.wikipedia.org/wiki/%E7%9F%B3%E8%97%A5%E9%9B%86%E5%9C%98
-Wikidata ID: Q7496503
-ISNI ID: 0000 0004 7644 8741
-GRID ID: 
-Crossref Funder ID: 
-Aliases:
-Labels: 石藥集團*Chinese
-Acronym/abbreviation: CSPC
-Related organizations: 
-City: Hong Kong
-Country: China
-Geonames ID:
-Year established: 1994
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To acknowledge research funders, To acknowledge a research facility
-
-Other information about this request: ","adambuttrick
-08/23/2022, 16:21:44 | 08/23/2022, 16:21:44
-comment_text: Chinese pharmaceutical company. Independent, top-level entity with solid affiliation usage. Funds and employs researchers. Should be added to ROR.
-
-Publication affiliation usage: https://doi.org/10.1200/jco.2018.36.15_suppl.e19503; https://doi.org/10.1021/jf204078t
-ORCID affiliation usage: https://orcid.org/0000-0003-1153-3358
-
----
-"
-Second review,1348235109,1011,https://github.com/ror-community/ror-updates/issues/1011,open,level 1; new record; jaguar,2022-08-23 16:44:00,2022-08-23 17:02:56,Add a new organization to ROR: Viatris,"Summary of request: Add a new organization to ROR
-
-Name of organization: Viatris
-Website: https://www.viatris.com
-Link to publications: 
-Organization type: 
-Wikipedia page: https://en.wikipedia.org/wiki/Viatris
-Wikidata ID: Q101983981
-ISNI ID:
-GRID ID:
-Crossref Funder ID:
-Other names for the organization: 
-Acronym/abbreviation:
-Related organizations: 
-City: Canonsburg, PA
-Country: USA
-Geonames ID: 5183161
-Year established: 2020
-How will a ROR ID for this organization be used? 
-Other information about this request:
-","adambuttrick
-08/23/2022, 16:46:23 | 08/23/2022, 16:46:23
-comment_text: As identified in #1009, Mylan merged with Pfizer's Upjohn in 2009 to form the new pharmaceutical company Viatris. Viatris is an independent, top-level entity with solid affiliation usage. Funds and employs researchers. Should be added to ROR.
-
-Publication affiliation usage: https://doi.org/10.1177/23743735211034091; https://doi.org/10.1080/21645515.2022.2085470; https://doi.org/10.1080/14712598.2021.1917546; https://doi.org/10.1177/17588359211045845; https://doi.org/10.1089/cap.2021.0141; https://doi.org/10.1185/030079903125001794
-
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=vorQ0AwAAAAJ; https://scholar.google.com/citations?user=TjpYJogAAAAJ; https://scholar.google.com/citations?user=x4Y3x4YAAAAJ
-
-ORCID affiliation usage: https://orcid.org/0000-0002-8229-9282 ; https://orcid.org/0000-0003-3205-3572 ; https://orcid.org/0000-0001-7272-7389
-
----
-"
-Second review,1348312777,1012,https://github.com/ror-community/ror-updates/issues/1012,open,level 1; new record; jaguar; project,2022-08-23 17:42:17,2022-08-23 19:45:46,Project: Norwegian research institutions (pt. 2),"As a follow-up to #661, Sikt - Norwegian Agency for Shared Services in Education and Research has suggested we add 5 more institutions to ROR. Metadata has been provided in the linked spreadsheet, beginning with the entry marked, ""New as of 08/23.""
-
-https://docs.google.com/spreadsheets/d/1ubvpTLbBfZSRCEjMQO3atZ-EaPvtAjWDSwhK6fLbggM/edit#gid=0","adambuttrick
-08/23/2022, 18:27:52 | 08/23/2022, 18:27:52
-comment_text: Reviewed and updated metadata in new tab of spreadsheet. Oslo National Academy of the Arts already exists in ROR  - https://ror.org/0543h9a62. All other organizations appear in scope.
-
----
-"
-Second review,1348842175,1015,https://github.com/ror-community/ror-updates/issues/1015,open,level 1; new record; jaguar,2022-08-24 04:24:20,2022-08-24 15:41:23,"Add a new organization to ROR: 
- 
-Bapuji Institute of Engineering and Technology, Davangere, Karnataka, India","Summary of request: Add a new organization to ROR
-
-Name of organization: Bapuji Institute of Engineering and Technology
-Website: https://www.bietdvg.edu
-Link to publications:
-Organization type: Education (A university or similar institution involved in providing education and educating/employing researchers)
 Wikipedia page: 
 Wikidata ID: 
-ISNI ID: 0000 0004 0501 3484 
+ISNI ID: 0000 0004 6593 0305
 GRID ID: 
 Crossref Funder ID: 
-Aliases: BIET
+Aliases: Not applicable
 Labels:
-Acronym/abbreviation: BIET
-Related organizations: https://ror.org/00ha14p11 (parent)
-City: Davangere
+Acronym/abbreviation:
+Related organizations: 
+City: Bangalore
 Country: India
-Geonames ID:
-Year established: 1974
+Geonames ID: 1277333
+Year established: 2017
 How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To acknowledge a research facility, To be integrated in a scholarly publishing system
 
 Other information about this request: ","adambuttrick
-08/24/2022, 15:38:07 | 08/24/2022, 15:38:07
-comment_text: Indian engineering college. Independent, top-level entity that funds and employs researchers. Solid affiliation usage. Should be added to ROR.
+04/03/2023, 05:32:20 | 04/03/2023, 16:54:12
+comment_text: Site does not load, so I'm unable to confirm the details. There appear to be a few instances of affiliation usage, so I will check back later to see if this has come online.
 
-Publication affiliation usage: https://doi.org/10.1080/00405000.2020.1806634; https://doi.org/10.1080/01430750.2021.1909651; https://doi.org/10.4018/ijdai.2021010101; https://doi.org/10.36106/ijar/5620535; https://doi.org/10.21203/rs.3.rs-35231/v1; https://doi.org/10.1080/17597269.2016.1271628
-
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=darxcJsAAAAJ; https://scholar.google.com/citations?user=8Sn5CrkAAAAJ; https://scholar.google.com/citations?user=XKmB_oYAAAAJ
-
-ORCID affiliation usage: https://orcid.org/0000-0002-2417-7228 ; https://orcid.org/0000-0002-8797-3790 ; https://orcid.org/0000-0001-7482-6487
+Publication affiliation usage:  https://doi.org/10.1021/acsinfecdis.1c00276; https://doi.org/10.1016/j.ijbiomac.2017.11.168; https://doi.org/10.1074/jbc.ra120.016284
+ORCID affiliation usage: https://orcid.org/0000-0003-3834-2287
 
 ---
-"
-Second review,1350735807,1019,https://github.com/ror-community/ror-updates/issues/1019,open,level 1; new record; jaguar,2022-08-25 11:15:28,2022-08-25 15:23:15,"Add a new organization to ROR: 
- 
-Leiden Observatory","Summary of request: Add a new organization to ROR
-
-Name of organization: Leiden Observatory
-Website: https://www.universiteitleiden.nl/en/science/astronomy
-Link to publications: https://doi.org/10.1017/S1743921321001095
-Organization type: Facility
-Wikipedia page: https://en.wikipedia.org/wiki/Leiden_Observatory
-Wikidata ID: Q186244
-ISNI ID: 0000 0001 1013 9063
-GRID ID: 
-Crossref Funder ID: 
-Aliases:
-Labels: Sterrewacht Leiden*Dutch
-Acronym/abbreviation: 
-Related organizations: https://ror.org/027bh9e22 (parent)
-City: Leiden
-Country: Netherlands
-Geonames ID: 2751773
-Year established: 1633
-How will a ROR ID for this organization be used? To identify affiliations for research publications
-
-Other information about this request: ","adambuttrick
-08/25/2022, 15:22:59 | 08/25/2022, 15:22:59
-comment_text: Long-standing university observatory in the Netherlands. Important scientific research facility, but clearly a part of the university Leiden University. Funds and employs researchers. Solid affiliation usage. Given the https://ror.org/02xse0b92, https://ror.org/01e6j9276, and https://ror.org/01mcvy510 are in ROR, I think this would have to be in scope as well.
-
-Publication affiliation usage: https://doi.org/10.1093/mnras/sty152; https://doi.org/10.1117/1.jatis.6.4.049801; https://doi.org/10.1109/ms.2016.113; https://doi.org/10.1093/mnras/staa3415; https://doi.org/10.1117/12.2231303; https://doi.org/10.1039/d0cp02272a
-
-Google Scholar affiliation usage: https://scholar.google.com/citations?user=1jLPDY4AAAAJ; https://scholar.google.com/citations?user=tZM6AScAAAAJ; https://scholar.google.com/citations?user=9vsUnfoAAAAJ
-
-ORCID affiliation usage: https://orcid.org/0000-0002-8801-4911 ; https://orcid.org/0000-0002-2555-9869 ; https://orcid.org/0000-0002-9613-5684
-
----
-"
-Second review,1350880172,1020,https://github.com/ror-community/ror-updates/issues/1020,open,level 1; new record; jaguar,2022-08-25 13:12:58,2022-08-25 15:34:23,"Add a new organization to ROR: 
- 
-Global Health 50/50","Summary of request: Add a new organization to ROR
-
-
-Name of organization: Global Health 50/50
-Website: https://globalhealth5050.org/
-Link to publications: https://globalhealth5050.org/2022-report/; https://nepal5050.org/2022-report/
-Organization type: Nonprofit (A non-profit and non-governmental organization involved in conducting or funding research)
-Wikipedia page: 
-Wikidata ID: 
-ISNI ID: 
-GRID ID: 
-Crossref Funder ID: 
-Aliases:
-Labels:
-Acronym/abbreviation: GH5050
-Related organizations: 
-City: Cambridge
-Country: United Kingdom
-Geonames ID:
-Year established: 2017
-How will a ROR ID for this organization be used? To identify affiliations for research publications, To identify affiliations for datasets, To acknowledge research funders, To be integrated in a scholarly publishing system
-
-Other information about this request: ","adambuttrick
-08/25/2022, 15:34:02 | 08/25/2022, 15:34:02
-comment_text: Nonprofit focused on public health and social justice issues. While I can't find any instances of affiliation usage, organization's [reports](https://globalhealth5050.org/2022-report/) are frequently referenced in academic literature (e.g. https://human-resources-health.biomedcentral.com/articles/10.1186/s12960-019-0367-3 ; https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30739-X/fulltext ; https://www.sciencedirect.com/science/article/pii/S0140673618331350). We added many similar NPOs, (e.g. https://ror.org/05xz2nh53), so I believe they're in scope for ROR.
+adambuttrick
+04/24/2023, 19:58:36 | 04/24/2023, 19:58:36
+comment_text: Site now loads to an advertising page. While affiliation usage looks fine, unsure of the state of the organization. Either should Hold for Later or decline and resubmit.
 
 ---
 "

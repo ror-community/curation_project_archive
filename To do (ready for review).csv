@@ -1,1 +1,349 @@
 column_name,issue_id,issue_number,url,state,labels,created_at,updated_at,title,body,comments
+To do (ready for review),1568331757,2179,https://github.com/ror-community/ror-updates/issues/2179,open,level 2; update record; jaguar; org-requested,2023-02-02 16:09:39,2023-02-24 22:57:20,"Modify the information in an existing ROR record: 
+UL Research institutes  https://ror.org/04jjbs468
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: UL Research institutes
+ROR ID:  https://ror.org/04jjbs468
+Which part of the record needs to be changed? Something else
+Description of change: UL Research Institutes is not a child of UL inc. Legally, they are the same organization. Our preferred name is UL Research Institutes.
+","adambuttrick
+02/02/2023, 18:50:21 | 02/02/2023, 18:53:55
+comment_text: Not certain what to make of this request, as it conflicts directly with what the organization asserted in https://github.com/ror-community/ror-updates/issues/1798. If legally, https://ror.org/04jjbs468 and https://ror.org/045n75910 are the same organization https://ror.org/04jjbs468 should mostly likely be withdrawn. It also conflicts with what https://ror.org/045n75910 says [here](https://ul.org/news/ul-enterprise-launches-new-brands). The [Legal Entity Identifier entry](https://search.gleif.org/#/record/549300F5SST3PP8Y6X77) also has the parent org as active, so I don't think we're dealing with a predecessor successor-situation.
+
+---
+nlundvick
+02/19/2023, 20:13:19 | 02/19/2023, 20:13:36
+comment_text: I am also confused by this request. UL Solutions (https://ror.org/045n75910) identifies UL Research Institutes (https://ror.org/04jjbs468) as a separate organization [here](https://www.ul.com/ulsolutions). Additionally, they have separate leadership teams:
+
+- UL Solutions: https://www.ul.com/about/leadership
+- UL Research Institutes: https://ul.org/about#leadership-team
+
+@adambuttrick – Reach out to the requestor for clarification? Otherwise, my stance is keep as two separate organizations with the current parent-child relationship. Leaving in Second Review for now.
+
+---
+mariagould
+02/24/2023, 22:21:34 | 02/24/2023, 22:21:45
+comment_text: I would also suggest reaching out to the requestor and maybe looping in the requestor for #1798 (if they are not the same person). 
+
+Based on my interpretation of the situation, I think the approach (which we can confirm with the requestor) is to have three separate records in ROR: UL Solutions, UL Research Institutes, and UL Standards & Engagement. This aligns with the structure communicated in this press release from last year: https://www.ul.com/news/ul-enterprise-launches-new-brands.
+
+In terms of how this impacts existing records in ROR, this would mean: 
+- Rename existing UL record (https://ror.org/045n75910) to ""UL Solutions"" (as per https://www.ul.com/ulsolutions, ""UL is now UL Solutions"")
+- Retain existing record for UL Research Institutes (https://ror.org/04jjbs468)
+- Create new record for UL Standards & Engagement
+- Set up ""related"" relationships between the three records
+- Withdraw UL Germany record (https://ror.org/04dpwfd08) (in my opinion, it should never have been created) and point to UL Solutions as successor org
+
+
+---
+adambuttrick
+02/24/2023, 22:57:20 | 02/24/2023, 22:57:20
+comment_text: Reached out the requestor.
+
+---
+"
+To do (ready for review),1603182150,2458,https://github.com/ror-community/ror-updates/issues/2458,open,level 1; new record; jaguar; project,2023-02-28 14:28:12,2023-03-17 17:52:54,"Modify the information in an existing ROR record: 
+chu de limoges https://ror.org/01tc2d264
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Centre Hospitalier Universitaire de Limoges
+ROR ID: https://ror.org/01tc2d264
+Which part of the record needs to be changed? Something else
+Description of change: In  ""relationship"" ""child organisation (s)"" it must be added some laboratories : P&T pharmacologie et transplantation ; RESINFIT anti-infectieux : supports moléculaires des résistances et innovations thérapeutiques ; HAVAE handicap, activité, vieillissement, autonomie, environnement.
+","adambuttrick
+02/28/2023, 18:57:57 | 02/28/2023, 18:57:57
+comment_text: Request is to add multiple children of https://ror.org/01tc2d264. Will need to review each for scope etc, so treating this as a project. Also relates to questions around appropriate levels of hierarchy in the French context.
+
+---
+adambuttrick
+03/17/2023, 17:52:54 | 03/17/2023, 17:52:54
+comment_text: Local contact indicated need for these to be added as part of France's national PID strategy. Will add to ROR as part of broader reconciliation between the registry and their descriptions of research units. Since this is not a true update request, will fold into the project issue.
+
+---
+"
+To do (ready for review),1603495957,2465,https://github.com/ror-community/ror-updates/issues/2465,open,level 1; new record; jaguar,2023-02-28 17:33:40,2023-04-17 19:42:53,Add a new organization to ROR: Fondazione SDN per la Ricerca e l’Alta Formazione in Diagnostica Nucleare,"Summary of request: Add a new organization to ROR
+
+Name of organization: Fondazione SDN per la Ricerca e l’Alta Formazione in Diagnostica Nucleare
+Website:  https://sdn.synlab.it/fondazione/
+Link to publications: 
+Organization type: 
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0004 1763 136X
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Acronym/abbreviation:
+Related organizations: 
+City:  Napoli
+Country: Italy
+Geonames ID: 
+Year established:
+How will a ROR ID for this organization be used?  To be used for Wiley OA management
+Other information about this request:
+
+","adambuttrick
+02/28/2023, 22:31:53 | 02/28/2023, 22:31:53
+comment_text: Research foundation associated with https://ror.org/01e8d4510. Relationship to https://ror.org/01e8d4510 is ambiguous, as the self-description would seem to apply equally to https://ror.org/01e8d4510 as the foundation. I can likewise find no funding or affiliation references for this, so my suspicion is that this should just be treated as equivalent to https://ror.org/01e8d4510.
+
+@icraig-afk How is this used in the Wiley context? Is there affiliation usage that is not being surfaced here?
+
+---
+icraig-afk
+03/01/2023, 10:00:28 | 03/01/2023, 10:00:28
+comment_text: @adambuttrick I'll check back on this internally and update back here when I have new information
+
+---
+ror-curator-bot
+04/17/2023, 19:18:44 | 04/17/2023, 19:18:44
+comment_text: Publication affiliation usage: https://doi.org/10.1002/jcp.24234; https://doi.org/10.1007/s12032-012-0158-3; https://doi.org/10.1002/jcp.24070; https://doi.org/10.1002/jcb.24307; 
+Potential aliases: Fondazione Studio diagnostica nucleare
+Previous requests: https://github.com/ror-community/ror-updates/issues/2465
+Summary: The SDN Napoli Foundation for Nuclear Diagnostics Research and Advanced Training aims to conduct scientific and clinical research in the field of high nuclear diagnostic imaging and laboratory as well as pharmaceuticals, transfer research results to clinical practice and industry, and provide advanced education to elevate the scientific and cultural level of the field.
+
+---
+"
+To do (ready for review),1601764458,2452,https://github.com/ror-community/ror-updates/issues/2452,open,level 1; new record; jaguar,2023-02-27 18:56:05,2023-03-06 23:26:45,Add a new organization to ROR: Instituto de Investigaciones Forestales de la Amazonía,"Summary of request: Add a new organization to ROR
+
+Name of organization: Instituto de Investigaciones Forestales de la Amazonía
+Website: https://facultad.uabjb.edu.bo/fcf/index.php/institutos-de-investigaciones/iifa
+Link to publications: 
+Organization type: Facility
+Wikipedia page:
+Wikidata ID:
+ISNI ID:
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Acronym/abbreviation: IIFA
+Related organizations: https://ror.org/03ztnr397 (parent)
+City: Riberalta
+Country: Bolivia
+Geonames ID: 3906466
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request:
+","adambuttrick
+02/27/2023, 19:02:45 | 02/27/2023, 19:02:45
+comment_text: Amazon rain forest monitoring and research institute, identified in https://github.com/ror-community/ror-updates/issues/2445. I'm seeing a fair amount of secondary references to this. Affiliation usage is more limited, but is typically leading for https://ror.org/03ztnr397. Since the request is identifying a specific difficulty with identifying their publication outputs and is located separate from the university parent, I suppose we can add. Seems to serve a similar regional function as the various LTER entities.
+
+Publication affiliation_usage: https://doi.org/10.1111/geb.13531; https://cipca.org.bo/docs/publications/es/228_mundos-rurales-15-web.pdf#page=25
+
+---
+arthurpsmith
+03/06/2023, 21:40:57 | 03/06/2023, 21:40:57
+comment_text: I'm not seeing a lot of research output from this institute; also it looks like it is always identified as part of UABJB. The website is very minimal, listing only one publication which doesn't even have this as an affiliation. I think this is out of scope for ROR, at least for now.
+
+---
+arthurpsmith
+03/06/2023, 21:41:30 | 03/06/2023, 21:41:30
+comment_text: However, maybe somebody more familiar with South American research should take a look?
+
+---
+adambuttrick
+03/06/2023, 23:26:34 | 03/06/2023, 23:26:45
+comment_text: @arthurpsmith I'll see if anyone we work with in the region has any insights.
+
+---
+"
+To do (ready for review),1612239601,2550,https://github.com/ror-community/ror-updates/issues/2550,open,level 1; new record; jaguar,2023-03-06 21:34:34,2023-03-15 19:32:47,"Add a new organization to ROR: Ministerio de Ciencia, Innovación y Universidades","Summary of request: Add a new organization to ROR
+
+Name of organization: Ministerio de Ciencia, Innovación y Universidades
+Website: 
+Link to publications: 
+Organization type: Government
+Wikipedia page: https://es.wikipedia.org/wiki/Ministerio_de_Ciencia,_Innovaci%C3%B3n_y_Universidades
+Wikidata ID: Q54834070
+ISNI ID:
+GRID ID:
+Crossref Funder ID:
+Other names for the organization: 
+Acronym/abbreviation: MICIU
+Aliases: Ministry of Science, Innovation and Universities 
+Labels:
+Acronym/abbreviation:
+Related organizations: https://ror.org/03nc27g21 (predecessor)
+City: Madrid
+Country: Spain
+Geonames ID: 3117735
+Year established: 2018
+How will a ROR ID for this organization be used? 
+Other information about this request: Operated from 2018-2020. 
+","adambuttrick
+03/06/2023, 21:57:13 | 03/06/2023, 21:57:13
+comment_text: Spanish ministry and successor to https://ror.org/03nc27g21. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+Publication affiliation usage: https://doi.org/10.1016/j.eimce.2021.05.001; https://doi.org/10.1167/iovs.63.4.27; https://openalex.org/W2914445652; https://doi.org/10.1016/j.enfcli.2019.10.002; https://openalex.org/W3104643177; https://doi.org/10.3989/redc.2019.4.1629
+
+ORCID affiliation usage: https://orcid.org/0000-0003-3509-8485 ; https://orcid.org/0000-0001-6454-6756 ; https://orcid.org/0000-0002-3766-0200
+
+
+
+---
+adambuttrick
+03/15/2023, 19:32:47 | 03/15/2023, 19:32:47
+comment_text: Pulling this for the release as the current validation design for relationships prevents the correct chain from being created.
+
+---
+"
+To do (ready for review),1612334740,2553,https://github.com/ror-community/ror-updates/issues/2553,open,level 1; new record; jaguar,2023-03-06 22:41:38,2023-03-17 19:32:31,Add a new organization to ROR: Ministerio de Universidades,"Summary of request: Add a new organization to ROR
+
+Name of organization: Ministerio de Universidades
+Website: https://www.universidades.gob.es
+Link to publications: 
+Organization type: Government
+Wikipedia page: https://es.wikipedia.org/wiki/Ministerio_de_Universidades
+Wikidata ID: Q81811839
+ISNI ID:
+GRID ID:
+Crossref Funder ID: 501100023561
+Other names for the organization: 
+Acronym/abbreviation: MIU
+Aliases: Ministry of Universities
+Labels:
+Acronym/abbreviation:
+Related organizations: https://ror.org/00w637e76 (predecessor)
+City: Madrid
+Country: Spain
+Geonames ID: 3117735
+Year established: 2020
+How will a ROR ID for this organization be used? 
+Other information about this request:
+","adambuttrick
+03/06/2023, 22:42:32 | 03/06/2023, 22:42:32
+comment_text: Spanish ministry and successor to https://github.com/ror-community/ror-updates/issues/2550. Funds and employs researchers. Solid affiliation usage. Should be added.
+
+Funding affiliation usage: https://api.crossref.org/funders/501100023561/works
+
+Publication affiliation usage: https://openalex.org/W3164817579
+
+ORCID affiliation_usage: https://orcid.org/0000-0001-8735-9021 ; https://orcid.org/0000-0002-6091-5515 ; https://orcid.org/0000-0002-4606-4646
+
+---
+adambuttrick
+03/15/2023, 20:01:12 | 03/15/2023, 20:01:12
+comment_text: Pulling this for the release as the current validation design for relationships prevents the correct chain from being created.
+
+---
+"
+To do (ready for review),1640550836,2723,https://github.com/ror-community/ror-updates/issues/2723,open,level 2; update record; jaguar; project,2023-03-25 15:09:32,2023-03-27 14:47:11,"Modify the information in an existing ROR record: 
+National Research Institute for Agriculture, Food and Environment https://ror.org/003vg9w96
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: National Research Institute for Agriculture, Food and Environment
+ROR ID: https://ror.org/003vg9w96
+Which part of the record needs to be changed? Other names or name versions listed in the record, Other IDs for the organization, Something else
+Description of change: In 2020, two institutes were dissolved and merged to become INRAE - National Research Institute for Agriculture, Food and the Environment.  The research units currently registered in ROR are the former units of the former National Institute for Agricultural Research INRA. With the merger, there were several changes in 2020 and in the years that followed: 
+
+1) new research laboratories were added (those of the former National Institute for Research in Science and Technology IRSTEA) 
+2) research units changed their name
+3) other research units have been closed or merged. The mergers were done with a name change or by keeping the name of the best known unit. Records of units that have been closed or absorbed should continue to appear in the registry but with a status indicating that they are no longer active. Search tools such as OpenAlex or Semantic Scholar rely on your registry for searches covering their period of existence. I assume this is something you are used to dealing with.
+
+Finally, I would like to mention that a large number of our research laboratories have several institutional parents; this is today the case for all French public research and higher education institutions.
+
+How would you like us to provide you with the necessary information? 
+Could you also tell me if you have a current contact in our institution or if you had contacts in previous institutes? I prefer not to infringe on a colleague's prerogative.
+","adambuttrick
+03/27/2023, 14:47:11 | 03/27/2023, 14:47:11
+comment_text: Effectively a project request to modify several children on https://ror.org/003vg9w96. Will reach out to requestor to explain ROR policies and get necessary details.
+
+---
+"
+To do (ready for review),1632500670,2679,https://github.com/ror-community/ror-updates/issues/2679,open,level 1; new record; lion; project,2023-03-20 16:49:59,2023-03-21 19:59:25,Project: New and Update Records identfied by Science Media Center Germany ,"Science Media Center Germany has identified a set of new records and updates they believe should be included in the registry. These should be reviewed and added, as is appropriate.
+
+[20230320_Science_Media_Center_ror_request.csv](https://github.com/ror-community/ror-updates/files/11020876/20230320_Science_Media_Center_ror_request.csv)
+","adambuttrick
+03/21/2023, 19:59:25 | 03/21/2023, 19:59:25
+comment_text: Submission formatted with ROR bulk submission template:
+
+https://docs.google.com/spreadsheets/d/13fva4wSVo6Ub30CocKfiSMyGtzq_lzvF/edit?usp=sharing&ouid=109915645277784756470&rtpof=true&sd=true
+
+---
+"
+To do (ready for review),1666685957,2877,https://github.com/ror-community/ror-updates/issues/2877,open,level 1; new record; jaguar,2023-04-13 15:49:25,2023-04-13 20:29:59,Add a new organization to ROR: NCCR Catalysis,"Summary of request: Add a new organization to ROR
+
+Name of organization: NCCR Catalysis
+Website: https://www.nccr-catalysis.ch
+Link to publications: https://doi.org/10.1016/j.jcat.2022.02.014; https://doi.org/10.1038/s41467-022-28536-w; https://doi.org/10.1039/d1sc00482d; https://doi.org/10.1002/wcms.1604
+Organization type: Other
+Wikipedia page:
+Wikidata ID:
+ISNI ID: 0000 0005 1092 057X
+GRID ID:
+Crossref Funder ID: 501100023650
+Other names for the organization: 
+Aliases: National Centre of Competence in Research Catalysis
+Labels: 
+Acronym/abbreviation:
+Related organizations: https://ror.org/05a28rw58 (parent) https://ror.org/02s376052 (parent) https://ror.org/00yjd3n13 (parent)
+City: 
+Country: Switzerland
+Geonames ID: 
+Year established:
+How will a ROR ID for this organization be used? 
+Other information about this request:
+",
+To do (ready for review),1682711071,3112,https://github.com/ror-community/ror-updates/issues/3112,open,level 2; update record; jaguar,2023-04-25 08:42:47,2023-04-25 16:58:27,"Modify the information in an existing ROR record: 
+Tbilisi State Medical University https://ror.org/020jbrt22
+","Summary of request: Modify the information in an existing ROR record
+
+Update record:
+Name of organization: Tbilisi State Medical University
+ROR ID: https://ror.org/020jbrt22
+Which part of the record needs to be changed? Other names or name versions listed in the record, Organization website, Something else
+Description of change: We want to change other names and Website address. Thank you
+
+Merge/split/deprecate records:
+Organizations affected by this change:
+ROR ID(s) of organization(s) affected by this change: 
+How should the record(s) be changed? 
+
+Add record:
+Name of organization: 
+Website: 
+Link to publications: 
+Organization type: 
+Wikipedia page: 
+Wikidata ID: 
+ISNI ID: 
+GRID ID: 
+Crossref Funder ID: 
+Aliases: 
+Labels:
+Acronym/abbreviation: 
+Related organizations: 
+City: 
+Country: 
+Geonames ID:
+Year established: 
+How will a ROR ID for this organization be used? 
+
+Other information about this request: ","adambuttrick
+04/25/2023, 16:58:27 | 04/25/2023, 16:58:27
+comment_text: Desired changes are unclear, so I will reach out to the requestor.
+
+---
+"
+To do (ready for review),1663380397,2862,https://github.com/ror-community/ror-updates/issues/2862,open,level 1; new record; jaguar,2023-04-11 23:39:18,2023-05-02 18:42:03,Project: OA Switchboard Publisher Partner Submission,"In working with a publisher partner, OA Switchboard identified 13 records that should be potentially added to ROR. These should be reviewed and added as appropriate.
+
+[institutions_2023_questions_short_ror_review.xlsx](https://github.com/ror-community/ror-updates/files/11205674/institutions_2023_questions_short_ror_review.xlsx)
+","adambuttrick
+04/27/2023, 21:20:23 | 04/27/2023, 21:20:23
+comment_text: Records added in release v1.24:
+
+ROR ID | Organization name
+-- | --
+https://ror.org/008599w49 | National Library and Archives
+https://ror.org/00jj62164 | Centre de Recherche et de Documentation sur l'Océanie (CREDO)
+https://ror.org/010na6b76 | Auckland War Memorial Museum
+https://ror.org/011hgkj26 | Bibliothèque de Genève
+https://ror.org/01jcjpa26 | Reinwardt Academie
+https://ror.org/03tcq6k11 | Führungsakademie der Bundeswehr
+https://ror.org/05745n787 | Niedersächsische Staats-und Universitätsbibliothek Göttingen
+
+---
+"
